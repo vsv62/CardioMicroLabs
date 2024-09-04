@@ -3027,7 +3027,7 @@ Includes Document Reviewers and ESC National Cardiac Societies.
 **ESC Clinical Practice Guidelines (CPG) Committee:** Eva Prescott (Chairperson) (Denmark), Stefan James (Co-Chairperson) (Sweden), Elena Arbelo (Spain), Colin Baigent (United Kingdom), Michael A. Borger (Germany), Sergio Buccheri (Sweden), Borja Ibanez (Spain), Lars Køber (Denmark), Konstantinos C. Koskinas (Switzerland), John William McEvoy (Ireland), Borislava Mihaylova (United Kingdom), Richard Mindham (United Kingdom), Lis Neubeck (United Kingdom), Jens Cosedis Nielsen (Denmark), Agnes A. Pasquet (Belgium), Amina Rakisheva (Kazakhstan), Bianca Rocca (Italy), Xavier Rossello (Spain), Ilonca Vaartjes (Netherlands), Christiaan Vrints (Belgium), Adam Witkowski (Poland), and Katja Zeppenfeld (Netherlands).
 
 
-19. References
+##19. References
 1	Williams   B, Mancia   G, Spiering   W, Rosei   EA, Azizi   M, Burnier   M, et al.   2018 ESC/ESH Guidelines for the management of arterial hypertension. Eur Heart J  2018;39:3021–104. https://doi.org/10.1093/eurheartj/ehy339
    
 2	Murray   CJL, Aravkin   AY, Zheng   P, Abbafati   C, Abbas   KM, Abbasi-Kangevari   M, et al.   Global burden of 87 risk factors in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet  2020;396:1223–49. https://doi.org/10.1016/S0140-6736(20)30752-2
