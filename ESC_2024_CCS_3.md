@@ -3034,6 +3034,2050 @@ Includes Document Reviewers and ESC National Cardiac Societies.
 **ESC Clinical Practice Guidelines (CPG) Committee:** Eva Prescott (Chairperson) (Denmark), Stefan James (Co-Chairperson) (Sweden), Elena Arbelo (Spain), Colin Baigent (United Kingdom), Michael A. Borger (Germany), Sergio Buccheri (Sweden), Borja Ibanez (Spain), Lars Køber (Denmark), Konstantinos C. Koskinas (Switzerland), John William McEvoy (Ireland), Borislava Mihaylova (United Kingdom), Richard Mindham (United Kingdom), Lis Neubeck (United Kingdom), Jens Cosedis Nielsen (Denmark), Agnes A. Pasquet (Belgium), Amina Rakisheva (Kazakhstan), Bianca Rocca (Italy), Xavier Rossello (Spain), Ilonca Vaartjes (Netherlands), Christiaan Vrints (Belgium), Adam Witkowski (Poland), and Katja Zeppenfeld (Netherlands).
 
 
+19. References
+1	Williams   B, Mancia   G, Spiering   W, Rosei   EA, Azizi   M, Burnier   M, et al.   2018 ESC/ESH Guidelines for the management of arterial hypertension. Eur Heart J  2018;39:3021–104. https://doi.org/10.1093/eurheartj/ehy339
+Google ScholarCrossrefPubMedWorldCat 
+2	Murray   CJL, Aravkin   AY, Zheng   P, Abbafati   C, Abbas   KM, Abbasi-Kangevari   M, et al.   Global burden of 87 risk factors in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet  2020;396:1223–49. https://doi.org/10.1016/S0140-6736(20)30752-2
+Google ScholarCrossrefPubMedWorldCat 
+3	Mensah   GA, Fuster   V, Murray   CJL, Roth   GA, Mensah   GA, Abate   YH, et al.   Global burden of cardiovascular diseases and risks, 1990–2022. J Am Coll Cardiol  2023;82:2350–473. https://doi.org/10.1016/j.jacc.2023.11.007
+Google ScholarCrossrefPubMedWorldCat 
+4	Johnson   JL, Greaves   L, Repta   R. Better science with sex and gender: facilitating the use of a sex and gender-based analysis in health research. Int J Equity Health  2009;8:14. https://doi.org/10.1186/1475-9276-8-14
+Google ScholarCrossrefPubMedWorldCat 
+5	Mauvais-Jarvis   F, Bairey Merz   N, Barnes   PJ, Brinton   RD, Carrero   J-J, DeMeo   DL, et al.   Sex and gender: modifiers of health, disease, and medicine. Lancet  2020;396:565–82. https://doi.org/10.1016/s0140-6736(20)31561-0
+Google ScholarCrossrefPubMedWorldCat 
+6	Camm   AJ, Lüscher   TF, Maurer   G, Serruys   PW (eds). The ESC Textbook of Cardiovascular Medicine. Oxford University Press, 2018.
+Google ScholarGoogle PreviewWorldCatCOPAC 
+7	Mayfield   SK, Foti   K, Moran   AE, Blakeman   DE, Frieden   TR. Hypertension call to action: will we respond to the call with action?  Am J Hypertens  2022;35:214–6. https://doi.org/10.1093/ajh/hpab191
+Google ScholarCrossrefPubMedWorldCat 
+8	Muntner   P. The continuing challenge of low rates of blood pressure control among US adults. Am J Hypertens  2022;35:839–41. https://doi.org/10.1093/ajh/hpac075
+Google ScholarCrossrefPubMedWorldCat 
+9	Reuter   H, Jordan   J. Status of hypertension in Europe. Curr Opin Cardiol  2019;34:342–9. https://doi.org/10.1097/hco.0000000000000642
+Google ScholarCrossrefPubMedWorldCat 
+10	Brown   JM, Siddiqui   M, Calhoun   DA, Carey   RM, Hopkins   PN, Williams   GH, et al.   The unrecognized prevalence of primary aldosteronism: a cross-sectional study. Ann Intern Med  2020;173:10–20. https://doi.org/10.7326/m20-0065
+Google ScholarCrossrefPubMedWorldCat 
+11	Oparil   S, Acelajado   MC, Bakris   GL, Berlowitz   DR, Cífková   R, Dominiczak   AF, et al.   Hypertension. Nat Rev Dis Primers  2018;4:18014. https://doi.org/10.1038/nrdp.2018.14
+Google ScholarCrossrefPubMedWorldCat 
+12	Navaneethabalakrishnan   S, Smith   HL, Arenaz   CM, Goodlett   BL, McDermott   JG, Mitchell   BM. Update on immune mechanisms in hypertension. Am J Hypertens  2022;35:842–51. https://doi.org/10.1093/ajh/hpac077
+Google ScholarCrossrefPubMedWorldCat 
+13	Levy   D, Garrison   RJ, Savage   DD, Kannel   WB, Castelli   WP. Prognostic implications of echocardiographically determined left ventricular mass in the Framingham heart study. N Engl J Med  1990;322:1561–6. https://doi.org/10.1056/nejm199005313222203
+Google ScholarCrossrefPubMedWorldCat 
+14	Devereux   RB, Wachtell   K, Gerdts   E, Boman   K, Nieminen   MS, Papademetriou   V, et al.   Prognostic significance of left ventricular mass change during treatment of hypertension. JAMA  2004;292:2350–6. https://doi.org/10.1001/jama.292.19.2350
+Google ScholarCrossrefPubMedWorldCat 
+15	de Simone   G, Gottdiener   JS, Chinali   M, Maurer   MS. Left ventricular mass predicts heart failure not related to previous myocardial infarction: the cardiovascular health study. Eur Heart J  2008;29:741–7. https://doi.org/10.1093/eurheartj/ehm605
+Google ScholarCrossrefPubMedWorldCat 
+16	Verdecchia   P, Porcellati   C, Reboldi   G, Gattobigio   R, Borgioni   C, Pearson   TA, et al.   Left ventricular hypertrophy as an independent predictor of acute cerebrovascular events in essential hypertension. Circulation  2001;104:2039–44. https://doi.org/10.1161/hc4201.097944
+Google ScholarCrossrefPubMedWorldCat 
+17	Hijazi   Z, Verdecchia   P, Oldgren   J, Andersson   U, Reboldi   G, Di Pasquale   G, et al.   Cardiac biomarkers and left ventricular hypertrophy in relation to outcomes in patients with atrial fibrillation: experiences from the RE-LY trial. J Am Heart Assoc  2019;8:e010107. https://doi.org/10.1161/jaha.118.010107
+Google ScholarCrossrefPubMedWorldCat 
+18	Siedlinski   M, Carnevale   L, Xu   X, Carnevale   D, Evangelou   E, Caulfield   MJ, et al.   Genetic analyses identify brain structures related to cognitive impairment associated with elevated blood pressure. Eur Heart J  2023;44:2114–25. https://doi.org/10.1093/eurheartj/ehad101
+Google ScholarCrossrefPubMedWorldCat 
+19	Cheung   AK, Chang   TI, Cushman   WC, Furth   SL, Hou   FF, Ix   JH, et al.   KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney disease. Kidney International  2021;99:S1–87. https://doi.org/10.1016/j.kint.2020.11.003
+Google ScholarCrossrefPubMedWorldCat 
+20	Subbiah   A, Bhowmik   D. KDIGO recommendations on blood pressure management in chronic kidney disease. Kidney Int  2022;101:1299. https://doi.org/10.1016/j.kint.2022.02.036
+Google ScholarCrossrefPubMedWorldCat 
+21	Cheung   CY, Biousse   V, Keane   PA, Schiffrin   EL, Wong   TY. Hypertensive eye disease. Nat Rev Dis Primers  2022;8:14. https://doi.org/10.1038/s41572-022-00342-0
+Google ScholarCrossrefPubMedWorldCat 
+22	Lewington   S, Clarke   R, Qizilbash   N, Peto   R, Collins   R. Age-specific relevance of usual blood pressure to vascular mortality: a meta-analysis of individual data for one million adults in 61 prospective studies. Lancet  2002;360:1903–13. https://doi.org/10.1016/s0140-6736(02)11911-8
+Google ScholarPubMedWorldCat 
+23	O’Rourke   MF, Safar   ME. Relationship between aortic stiffening and microvascular disease in brain and kidney: cause and logic of therapy. Hypertension  2005;46:200–4. https://doi.org/10.1161/01.Hyp.0000168052.00426.65
+Google ScholarCrossrefPubMedWorldCat 
+24	Gerdts   E, Izzo   R, Mancusi   C, Losi   MA, Manzi   MV, Canciello   G, et al.   Left ventricular hypertrophy offsets the sex difference in cardiovascular risk (the Campania Salute Network). Int J Cardiol  2018;258:257–61. https://doi.org/10.1016/j.ijcard.2017.12.086
+Google ScholarCrossrefPubMedWorldCat 
+25	Gerdts   E, Okin   PM, de Simone   G, Cramariuc   D, Wachtell   K, Boman   K, et al.   Gender differences in left ventricular structure and function during antihypertensive treatment: the Losartan intervention for endpoint reduction in hypertension study. Hypertension  2008;51:1109–14. https://doi.org/10.1161/hypertensionaha.107.107474
+Google ScholarCrossrefPubMedWorldCat 
+26	Gerdts   E, Wachtell   K, Omvik   P, Otterstad   JE, Oikarinen   L, Boman   K, et al.   Left atrial size and risk of major cardiovascular events during antihypertensive treatment: Losartan Intervention for Endpoint Reduction in Hypertension Trial. Hypertension  2007;49:311–6. https://doi.org/10.1161/01.Hyp.0000254322.96189.85
+Google ScholarCrossrefPubMedWorldCat 
+27	Park   JB, Schiffrin   EL. Small artery remodeling is the most prevalent (earliest?) form of target organ damage in mild essential hypertension. J Hypertens  2001;19:921–30. https://doi.org/10.1097/00004872-200105000-00013
+Google ScholarCrossrefPubMedWorldCat 
+28	Vasan   RS, Pan   S, Xanthakis   V, Beiser   A, Larson   MG, Seshadri   S, et al.   Arterial stiffness and long-term risk of health outcomes: the Framingham heart study. Hypertension  2022;79:1045–56. https://doi.org/10.1161/hypertensionaha.121.18776
+Google ScholarCrossrefPubMedWorldCat 
+29	Piskorz   D. Hypertensive mediated organ damage and hypertension management. How to assess beneficial effects of antihypertensive treatments?  High Blood Press Cardiovasc Prev  2020;27:9–17. https://doi.org/10.1007/s40292-020-00361-6
+Google ScholarCrossrefPubMedWorldCat 
+30	Vallelonga   F, Cesareo   M, Menon   L, Airale   L, Leone   D, Astarita   A, et al.   Cardiovascular hypertension-mediated organ damage in hypertensive urgencies and hypertensive outpatients. Front Cardiovasc Med  2022;9:889554. https://doi.org/10.3389/fcvm.2022.889554
+Google ScholarCrossrefPubMedWorldCat 
+31	Vasan   RS, Song   RJ, Xanthakis   V, Beiser   A, DeCarli   C, Mitchell   GF, et al.   Hypertension-mediated organ damage: prevalence, correlates, and prognosis in the community. Hypertension  2022;79:505–15. https://doi.org/10.1161/hypertensionaha.121.18502
+Google ScholarCrossrefPubMedWorldCat 
+32	Rapsomaniki   E, Timmis   A, George   J, Pujades-Rodriguez   M, Shah   AD, Denaxas   S, et al.   Blood pressure and incidence of twelve cardiovascular diseases: lifetime risks, healthy life-years lost, and age-specific associations in 1·25 million people. Lancet  2014;383:1899–911. https://doi.org/10.1016/s0140-6736(14)60685-1
+Google ScholarCrossrefPubMedWorldCat 
+33	Malik   R, Georgakis   MK, Vujkovic   M, Damrauer   SM, Elliott   P, Karhunen   V, et al.   Relationship between blood pressure and incident cardiovascular disease: linear and nonlinear Mendelian randomization analyses. Hypertension  2021;77:2004–13. https://doi.org/10.1161/hypertensionaha.120.16534
+Google ScholarCrossrefPubMedWorldCat 
+34	Ji   H, Kim   A, Ebinger   JE, Niiranen   TJ, Claggett   BL, Bairey Merz   CN, et al.   Sex differences in blood pressure trajectories over the life course. JAMA Cardiol  2020;5:19–26. https://doi.org/10.1001/jamacardio.2019.5306
+Google ScholarCrossrefPubMedWorldCat 
+35	Salles   GF, Reboldi   G, Fagard   RH, Cardoso   CRL, Pierdomenico   SD, Verdecchia   P, et al.   Prognostic effect of the nocturnal blood pressure fall in hypertensive patients: the ambulatory blood pressure collaboration in patients with hypertension (ABC-H) meta-analysis. Hypertension  2016;67:693–700. https://doi.org/10.1161/hypertensionaha.115.06981
+Google ScholarCrossrefPubMedWorldCat 
+36	Verdecchia   P. Prognostic value of ambulatory blood pressure: current evidence and clinical implications. Hypertension  2000;35:844–51. https://doi.org/10.1161/01.hyp.35.3.844
+Google ScholarCrossrefPubMedWorldCat 
+37	Mauck   GW, Smith   CR, Geddes   LA, Bourland   JD. The meaning of the point of maximum oscillations in cuff pressure in the indirect measurement of blood pressure—part ii. J Biomech Eng  1980;102:28–33. https://doi.org/10.1115/1.3138195
+Google ScholarCrossrefPubMedWorldCat 
+38	Clark   CE, Warren   FC, Boddy   K, McDonagh   STJ, Moore   SF, Goddard   J, et al.   Associations between systolic interarm differences in blood pressure and cardiovascular disease outcomes and mortality: individual participant data meta-analysis, development and validation of a prognostic algorithm: the INTERPRESS-IPD collaboration. Hypertension  2021;77:650–61. https://doi.org/10.1161/hypertensionaha.120.15997
+Google ScholarCrossrefPubMedWorldCat 
+39	Picone   DS, Deshpande   RA, Schultz   MG, Fonseca   R, Campbell   NRC, Delles   C, et al.   Nonvalidated home blood pressure devices dominate the online marketplace in Australia: major implications for cardiovascular risk management. Hypertension  2020;75:1593–9. https://doi.org/10.1161/hypertensionaha.120.14719
+Google ScholarCrossrefPubMedWorldCat 
+40	Picone   DS, Campbell   NRC, Schutte   AE, Olsen   MH, Ordunez   P, Whelton   PK, et al.   Validation status of blood pressure measuring devices sold globally. JAMA  2022;327:680–1. https://doi.org/10.1001/jama.2021.24464
+Google ScholarCrossrefPubMedWorldCat 
+41	Stergiou   GS, O’Brien   E, Myers   M, Palatini   P, Parati   G, Kollias   A, et al.   STRIDE BP international initiative for accurate blood pressure measurement: systematic review of published validation studies of blood pressure measuring devices. J Clin Hypertens (Greenwich)  2019;21:1616–22. https://doi.org/10.1111/jch.13710
+Google ScholarCrossrefPubMedWorldCat 
+42	Stergiou   GS, Alpert   B, Mieke   S, Asmar   R, Atkins   N, Eckert   S, et al.   A universal standard for the validation of blood pressure measuring devices: Association for the Advancement of Medical Instrumentation/European Society of Hypertension/International Organization for Standardization (AAMI/ESH/ISO) collaboration statement. Hypertension  2018;71:368–74. https://doi.org/10.1161/hypertensionaha.117.10237
+Google ScholarCrossrefPubMedWorldCat 
+43	Stergiou   GS, Mukkamala   R, Avolio   A, Kyriakoulis   KG, Mieke   S, Murray   A, et al.   Cuffless blood pressure measuring devices: review and statement by the European Society of Hypertension working group on blood pressure monitoring and cardiovascular variability. J Hypertens  2022;40:1449–60. https://doi.org/10.1097/hjh.0000000000003224
+Google ScholarCrossrefPubMedWorldCat 
+44	Stergiou   GS, Avolio   AP, Palatini   P, Kyriakoulis   KG, Schutte   AE, Mieke   S, et al.   European Society of Hypertension recommendations for the validation of cuffless blood pressure measuring devices: European Society of Hypertension Working Group on Blood Pressure Monitoring and Cardiovascular Variability. J Hypertens  2023;41:2074–87. https://doi.org/10.1097/hjh.0000000000003483
+Google ScholarCrossrefPubMedWorldCat 
+45	McAlister   FA, Straus   SE. Evidence based treatment of hypertension. Measurement of blood pressure: an evidence based review. BMJ  2001;322:908–11. https://doi.org/10.1136/bmj.322.7291.908
+Google ScholarCrossrefPubMedWorldCat 
+46	Fagius   J, Karhuvaara   S. Sympathetic activity and blood pressure increases with bladder distension in humans. Hypertension  1989;14:511–7. https://doi.org/10.1161/01.hyp.14.5.511
+Google ScholarCrossrefPubMedWorldCat 
+47	Stergiou   GS, Kyriakoulis   KG, Stambolliu   E, Destounis   A, Karpettas   N, Kalogeropoulos   P, et al.   Blood pressure measurement in atrial fibrillation: review and meta-analysis of evidence on accuracy and clinical relevance. J Hypertens  2019;37:2430–41. https://doi.org/10.1097/hjh.0000000000002201
+Google ScholarCrossrefPubMedWorldCat 
+48	Clark   CE, McDonagh   STJ, McManus   RJ. Accuracy of automated blood pressure measurements in the presence of atrial fibrillation: systematic review and meta-analysis. J Hum Hypertens  2019;33:352–64. https://doi.org/10.1038/s41371-018-0153-z
+Google ScholarCrossrefPubMedWorldCat 
+49	Verberk   WJ, Omboni   S, Kollias   A, Stergiou   GS. Screening for atrial fibrillation with automated blood pressure measurement: research evidence and practice recommendations. Int J Cardiol  2016;203:465–73. https://doi.org/10.1016/j.ijcard.2015.10.182
+Google ScholarCrossrefPubMedWorldCat 
+50	Manning   DM, Kuchirka   C, Kaminski   J. Miscuffing: inappropriate blood pressure cuff application. Circulation  1983;68:763–6. https://doi.org/10.1161/01.cir.68.4.763
+Google ScholarCrossrefPubMedWorldCat 
+51	Irving   G, Holden   J, Stevens   R, McManus   RJ. Which cuff should I use? Indirect blood pressure measurement for the diagnosis of hypertension in patients with obesity: a diagnostic accuracy review. BMJ Open  2016;6:e012429. https://doi.org/10.1136/bmjopen-2016-012429
+Google ScholarCrossrefPubMedWorldCat 
+52	Keeley   EC, Villanueva   M, Chen   YE, Gong   Y, Handberg   EM, Smith   SM, et al.   Attended vs unattended systolic blood pressure measurement: a randomized comparison in patients with cardiovascular disease. J Clin Hypertens (Greenwich)  2020;22:1987–92. https://doi.org/10.1111/jch.14037
+Google ScholarCrossrefPubMedWorldCat 
+53	Myers   MG, Godwin   M, Dawes   M, Kiss   A, Tobe   SW, Grant   FC, et al.   Conventional versus automated measurement of blood pressure in primary care patients with systolic hypertension: randomised parallel design controlled trial. BMJ  2011;342:d286. https://doi.org/10.1136/bmj.d286
+Google ScholarCrossrefPubMedWorldCat 
+54	Clark   CE. Inter-arm blood pressure difference, when is it a useful risk marker for cardiovascular events?  J Hum Hypertens  2022;36:117–9. https://doi.org/10.1038/s41371-021-00629-x
+Google ScholarCrossrefPubMedWorldCat 
+55	Clark   CE, Steele   AM, Taylor   RS, Shore   AC, Ukoumunne   OC, Campbell   JL. Interarm blood pressure difference in people with diabetes: measurement and vascular and mortality implications: a cohort study. Diabetes Care  2014;37:1613–20. https://doi.org/10.2337/dc13-1576
+Google ScholarCrossrefPubMedWorldCat 
+56	Juraschek   SP, Appel   LJ, Mitchell   CM, Mukamal   KJ, Lipsitz   LA, Blackford   AL, et al.   Comparison of supine and seated orthostatic hypotension assessments and their association with falls and orthostatic symptoms. J Am Geriatr Soc  2022;70:2310–9. https://doi.org/10.1111/jgs.17804
+Google ScholarCrossrefPubMedWorldCat 
+57	Stergiou   GS, Palatini   P, Parati   G, O’Brien   E, Januszewicz   A, Lurbe   E, et al.   European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurement. J Hypertens  2021;39:1293–302. https://doi.org/10.1097/hjh.0000000000002843
+Google ScholarCrossrefPubMedWorldCat 
+58	Parati   G, Stergiou   GS, Bilo   G, Kollias   A, Pengo   M, Ochoa   J, et al.   Home blood pressure monitoring: methodology, clinical relevance and practical application: a 2021 position paper by the working group on blood pressure monitoring and cardiovascular variability of the European Society of Hypertension. J Hypertens  2021;39:1742–67. https://doi.org/10.1097/hjh.0000000000002922
+Google ScholarCrossrefPubMedWorldCat 
+59	Bradley   CK, Choi   E, Abdalla   M, Mizuno   H, Lam   M, Cepeda   M, et al.   Use of different blood pressure thresholds to reduce the number of home blood pressure monitoring days needed for detecting hypertension. Hypertension  2023;80:2169–77. https://doi.org/10.1161/hypertensionaha.123.21118
+Google ScholarCrossrefPubMedWorldCat 
+60	Hodgkinson   JA, Lee   MM, Milner   S, Bradburn   P, Stevens   R, Hobbs   FDR, et al.   Accuracy of blood-pressure monitors owned by patients with hypertension (ACCU-RATE study): a cross-sectional, observational study in central England. Br J Gen Pract  2020;70:e548–54. https://doi.org/10.3399/bjgp20X710381
+Google ScholarCrossrefPubMedWorldCat 
+61	Niiranen   TJ, Asayama   K, Thijs   L, Johansson   JK, Ohkubo   T, Kikuya   M, et al.   Outcome-driven thresholds for home blood pressure measurement: international database of home blood pressure in relation to cardiovascular outcome. Hypertension  2013;61:27–34. https://doi.org/10.1161/hypertensionaha.111.00100
+Google ScholarCrossrefPubMedWorldCat 
+62	Parati   G, Stergiou   G, O’Brien   E, Asmar   R, Beilin   L, Bilo   G, et al.   European Society of Hypertension practice guidelines for ambulatory blood pressure monitoring. J Hypertens  2014;32:1359–66. https://doi.org/10.1097/hjh.0000000000000221
+Google ScholarCrossrefPubMedWorldCat 
+63	Yang   WY, Thijs   L, Zhang   ZY, Asayama   K, Boggia   J, Hansen   TW, et al.   Evidence-based proposal for the number of ambulatory readings required for assessing blood pressure level in research settings: an analysis of the IDACO database. Blood Press  2018;27:341–50. https://doi.org/10.1080/08037051.2018.1476057
+Google ScholarCrossrefPubMedWorldCat 
+64	Asayama   K, Stolarz-Skrzypek   K, Yang   WY, Hansen   TW, Brguljan-Hitij   J, Odili   AN, et al.   What did we learn from the international databases on ambulatory and home blood pressure in relation to cardiovascular outcome?  Hypertens Res  2023;46:934–49. https://doi.org/10.1038/s41440-023-01191-4
+Google ScholarCrossrefPubMedWorldCat 
+65	Drawz   PE, Agarwal   A, Dwyer   JP, Horwitz   E, Lash   J, Lenoir   K, et al.   Concordance between blood pressure in the systolic blood pressure intervention trial and in routine clinical practice. JAMA Intern Med  2020;180:1655–63. https://doi.org/10.1001/jamainternmed.2020.5028
+Google ScholarCrossrefPubMedWorldCat 
+66	Jaeger   BC, Bress   AP, Bundy   JD, Cheung   AK, Cushman   WC, Drawz   PE, et al.   Longer-term all-cause and cardiovascular mortality with intensive blood pressure control: a secondary analysis of a randomized clinical trial. JAMA Cardiol  2022;7:1138–46. https://doi.org/10.1001/jamacardio.2022.3345
+Google ScholarCrossrefPubMedWorldCat 
+67	Ntineri   A, Niiranen   TJ, McManus   RJ, Lindroos   A, Jula   A, Schwartz   C, et al.   Ambulatory versus home blood pressure monitoring: frequency and determinants of blood pressure difference and diagnostic disagreement. J Hypertens  2019;37:1974–81. https://doi.org/10.1097/hjh.0000000000002148
+Google ScholarCrossrefPubMedWorldCat 
+68	Sheppard   JP, Fletcher   B, Gill   P, Martin   U, Roberts   N, McManus   RJ. Predictors of the home-clinic blood pressure difference: a systematic review and meta-analysis. Am J Hypertens  2016;29:614–25. https://doi.org/10.1093/ajh/hpv157
+Google ScholarCrossrefPubMedWorldCat 
+69	Franklin   SS, Thijs   L, Li   Y, Hansen   TW, Boggia   J, Liu   Y, et al.   Masked hypertension in diabetes mellitus: treatment implications for clinical practice. Hypertension  2013;61:964–71. https://doi.org/10.1161/hypertensionaha.111.00289
+Google ScholarCrossrefPubMedWorldCat 
+70	Guirguis-Blake   JM, Evans   CV, Webber   EM, Coppola   EL, Perdue   LA, Weyrich   MS. Screening for hypertension in adults: updated evidence report and systematic review for the US preventive services task force. JAMA  2021;325:1657–69. https://doi.org/10.1001/jama.2020.21669
+Google ScholarCrossrefPubMedWorldCat 
+71	Xu   W, Goldberg   SI, Shubina   M, Turchin   A. Optimal systolic blood pressure target, time to intensification, and time to follow-up in treatment of hypertension: population based retrospective cohort study. BMJ  2015;350:h158. https://doi.org/10.1136/bmj.h158
+Google ScholarCrossrefPubMedWorldCat 
+72	Antza   C, Farmakis   I, Doundoulakis   I, Akrivos   E, Stalikas   N, Zafeiropoulos   S, et al.   Reproducibility of masked hypertension and office-based hypertension: a systematic review and meta-analysis. J Hypertens  2022;40:1053–9. https://doi.org/10.1097/hjh.0000000000003111
+Google ScholarCrossrefPubMedWorldCat 
+73	Uhlig   K, Patel   K, Ip   S, Kitsios   GD, Balk   EM. Self-measured blood pressure monitoring in the management of hypertension: a systematic review and meta-analysis. Ann Intern Med  2013;159:185–94. https://doi.org/10.7326/0003-4819-159-3-201308060-00008
+Google ScholarCrossrefPubMedWorldCat 
+74	Tucker   KL, Sheppard   JP, Stevens   R, Bosworth   HB, Bove   A, Bray   EP, et al.   Self-monitoring of blood pressure in hypertension: a systematic review and individual patient data meta-analysis. PLoS Med  2017;14:e1002389. https://doi.org/10.1371/journal.pmed.1002389
+Google ScholarCrossrefPubMedWorldCat 
+75	McManus   RJ, Mant   J, Franssen   M, Nickless   A, Schwartz   C, Hodgkinson   J, et al.   Efficacy of self-monitored blood pressure, with or without telemonitoring, for titration of antihypertensive medication (TASMINH4): an unmasked randomised controlled trial. Lancet  2018;391:949–59. https://doi.org/10.1016/s0140-6736(18)30309-x
+Google ScholarCrossrefPubMedWorldCat 
+76	McManus   RJ, Little   P, Stuart   B, Morton   K, Raftery   J, Kelly   J, et al.   Home and Online Management and Evaluation of Blood Pressure (HOME BP) using a digital intervention in poorly controlled hypertension: randomised controlled trial. BMJ  2021;372:m4858. https://doi.org/10.1136/bmj.m4858
+Google ScholarPubMedWorldCat 
+77	Li   R, Liang   N, Bu   F, Hesketh   T. The effectiveness of self-management of hypertension in adults using mobile health: systematic review and meta-analysis. JMIR Mhealth Uhealth  2020;8:e17776. https://doi.org/10.2196/17776
+Google ScholarCrossrefPubMedWorldCat 
+78	Acharya   S, Neupane   G, Seals   A, Madhav   KC, Giustini   D, Sharma   S, et al.   Self-measured blood pressure-guided pharmacotherapy: a systematic review and meta-analysis of US-based telemedicine trials. Hypertension  2024;81:648–57. https://doi.org/10.1161/hypertensionaha.123.22109
+Google ScholarCrossrefPubMedWorldCat 
+79	Monahan   M, Jowett   S, Nickless   A, Franssen   M, Grant   S, Greenfield   S, et al.   Cost-effectiveness of telemonitoring and self-monitoring of blood pressure for antihypertensive titration in primary care (TASMINH4). Hypertension  2019;73:1231–9. https://doi.org/10.1161/hypertensionaha.118.12415
+Google ScholarCrossrefPubMedWorldCat 
+80	Wood   S, Greenfield   SM, Sayeed Haque   M, Martin   U, Gill   PS, Mant   J, et al.   Influence of ethnicity on acceptability of method of blood pressure monitoring: a cross-sectional study in primary care. Br J Gen Pract  2016;66:e577–586. https://doi.org/10.3399/bjgp16X685717
+Google ScholarCrossrefPubMedWorldCat 
+81	Stergiou   GS, Karpettas   N, Destounis   A, Tzamouranis   D, Nasothimiou   E, Kollias   A, et al.   Home blood pressure monitoring alone vs. combined clinic and ambulatory measurements in following treatment-induced changes in blood pressure and organ damage. Am J Hypertens  2014;27:184–92. https://doi.org/10.1093/ajh/hpt206
+Google ScholarCrossrefPubMedWorldCat 
+82	Staessen   JA, Byttebier   G, Buntinx   F, Celis   H, O’Brien   ET, Fagard   R. Antihypertensive treatment based on conventional or ambulatory blood pressure measurement. A randomized controlled trial. Ambulatory blood pressure monitoring and treatment of hypertension investigators. JAMA  1997;278:1065–72. https://doi.org/10.1001/jama.1997.03550130039034
+Google ScholarCrossrefPubMedWorldCat 
+83	McEvoy   JW, Leahy   N, Parati   G. The apples and oranges of blood pressure variability. Hypertension  2023;80:2556–8. https://doi.org/10.1161/hypertensionaha.123.21927
+Google ScholarCrossrefPubMedWorldCat 
+84	Ishikuro   M, Obara   T, Metoki   H, Ohkubo   T, Yamamoto   M, Akutsu   K, et al.   Blood pressure measured in the clinic and at home during pregnancy among nulliparous and multiparous women: the BOSHI study. Am J Hypertens  2013;26:141–8. https://doi.org/10.1093/ajh/hps002
+Google ScholarCrossrefPubMedWorldCat 
+85	Bello   NA, Woolley   JJ, Cleary   KL, Falzon   L, Alpert   BS, Oparil   S, et al.   Accuracy of blood pressure measurement devices in pregnancy: a systematic review of validation studies. Hypertension  2018;71:326–35. https://doi.org/10.1161/hypertensionaha.117.10295
+Google ScholarCrossrefPubMedWorldCat 
+86	Tucker   KL, Mort   S, Yu   LM, Campbell   H, Rivero-Arias   O, Wilson   HM, et al.   Effect of self-monitoring of blood pressure on diagnosis of hypertension during higher-risk pregnancy: the BUMP 1 randomized clinical trial. JAMA  2022;327:1656–65. https://doi.org/10.1001/jama.2022.4712
+Google ScholarCrossrefPubMedWorldCat 
+87	Chappell   LC, Tucker   KL, Galal   U, Yu   L-M, Campbell   H, Rivero-Arias   O, et al.   Effect of self-monitoring of blood pressure on blood pressure control in pregnant individuals with chronic or gestational hypertension: the BUMP 2 randomized clinical trial. JAMA  2022;327:1666–78. https://doi.org/10.1001/jama.2022.4726
+Google ScholarCrossrefPubMedWorldCat 
+88	Tita   AT, Szychowski   JM, Boggess   K, Dugoff   L, Sibai   B, Lawrence   K, et al.   Treatment for mild chronic hypertension during pregnancy. N Engl J Med  2022;386:1781–92. https://doi.org/10.1056/NEJMoa2201295
+Google ScholarCrossrefPubMedWorldCat 
+89	Regitz-Zagrosek   V, Roos-Hesselink   JW, Bauersachs   J, Blomström-Lundqvist   C, Cífková   R, De Bonis   M, et al.   2018 ESC Guidelines for the management of cardiovascular diseases during pregnancy. Eur Heart J  2018;39:3165–241. https://doi.org/10.1093/eurheartj/ehy340
+Google ScholarCrossrefPubMedWorldCat 
+90	Tikhonoff   V, Kuznetsova   T, Thijs   L, Cauwenberghs   N, Stolarz-Skrzypek   K, Seidlerová   J, et al.   Ambulatory blood pressure and long-term risk for atrial fibrillation. Heart  2018;104:1263–70. https://doi.org/10.1136/heartjnl-2017-312488
+Google ScholarCrossrefPubMedWorldCat 
+91	Lip   GYH, Coca   A, Kahan   T, Boriani   G, Manolis   AS, Olsen   MH, et al.   Hypertension and cardiac arrhythmias: a consensus document from the European Heart Rhythm Association (EHRA) and ESC Council on Hypertension, endorsed by the Heart Rhythm Society (HRS), Asia-Pacific Heart Rhythm Society (APHRS) and Sociedad Latinoamericana de Estimulación Cardíaca y Electrofisiología (SOLEACE). Europace  2017;19:891–911. https://doi.org/10.1093/europace/eux091
+Google ScholarCrossrefPubMedWorldCat 
+92	Šelmytė-Besusparė   A, Barysienė   J, Petrikonytė   D, Aidietis   A, Marinskis   G, Laucevičius   A. Auscultatory versus oscillometric blood pressure measurement in patients with atrial fibrillation and arterial hypertension. BMC Cardiovasc Disord  2017;17:87. https://doi.org/10.1186/s12872-017-0521-6
+Google ScholarCrossrefPubMedWorldCat 
+93	Omboni   S, Ballatore   T, Rizzi   F, Tomassini   F, Campolo   L, Panzeri   E, et al.   24-Hour ambulatory blood pressure telemonitoring in patients at risk of atrial fibrillation: results from the TEMPLAR project. Hypertens Res  2022;45:1486–95. https://doi.org/10.1038/s41440-022-00932-1
+Google ScholarCrossrefPubMedWorldCat 
+94	Seccia   TM, Letizia   C, Muiesan   ML, Lerco   S, Cesari   M, Bisogni   V, et al.   Atrial fibrillation as presenting sign of primary aldosteronism: results of the prospective appraisal on the prevalence of primary aldosteronism in hypertensive (PAPPHY) study. J Hypertens  2020;38:332–9. https://doi.org/10.1097/hjh.0000000000002250
+Google ScholarCrossrefPubMedWorldCat 
+95	McDonagh   STJ, Mejzner   N, Clark   CE. Prevalence of postural hypotension in primary, community and institutional care: a systematic review and meta-analysis. BMC Fam Pract  2021;22:1. https://doi.org/10.1186/s12875-020-01313-8
+Google ScholarCrossrefPubMedWorldCat 
+96	Tran   J, Hillebrand   SL, Meskers   CGM, Iseli   RK, Maier   AB. Prevalence of initial orthostatic hypotension in older adults: a systematic review and meta-analysis. Age Ageing  2021;50:1520–8. https://doi.org/10.1093/ageing/afab090
+Google ScholarCrossrefPubMedWorldCat 
+97	Juraschek   SP, Hu   JR, Cluett   JL, Ishak   AM, Mita   C, Lipsitz   LA, et al.   Orthostatic hypotension, hypertension treatment, and cardiovascular disease: an individual participant meta-analysis. JAMA  2023;330:1459–71. https://doi.org/10.1001/jama.2023.18497
+Google ScholarCrossrefPubMedWorldCat 
+98	Juraschek   SP, Cortez   MM, Flack   JM, Ghazi   L, Kenny   RA, Rahman   M, et al.   Orthostatic hypotension in adults with hypertension: a scientific statement from the American Heart Association. Hypertension  2024;81:e16–30. https://doi.org/10.1161/hyp.0000000000000236
+Google ScholarCrossrefPubMedWorldCat 
+99	Raber   I, Belanger   MJ, Farahmand   R, Aggarwal   R, Chiu   N, Al Rifai   M, et al.   Orthostatic hypotension in hypertensive adults: Harry Goldblatt award for early career investigators 2021. Hypertension  2022;79:2388–96. https://doi.org/10.1161/hypertensionaha.122.18557
+Google ScholarCrossrefPubMedWorldCat 
+100	Wieling   W, Kaufmann   H, Claydon   VE, van Wijnen   VK, Harms   MPM, Juraschek   SP, et al.   Diagnosis and treatment of orthostatic hypotension. Lancet Neurol  2022;21:735–46. https://doi.org/10.1016/s1474-4422(22)00169-7
+Google ScholarCrossrefPubMedWorldCat 
+101	Juraschek   SP, Daya   N, Rawlings   AM, Appel   LJ, Miller   ER, Windham   BG, et al.   Association of history of dizziness and long-term adverse outcomes with early vs later orthostatic hypotension assessment times in middle-aged adults. JAMA Intern Med  2017;177:1316–23. https://doi.org/10.1001/jamainternmed.2017.2937
+Google ScholarCrossrefPubMedWorldCat 
+102	Brignole   M, Moya   A, de Lange   FJ, Deharo   J-C, Elliott   PM, Fanciulli   A, et al.   Practical instructions for the 2018 ESC Guidelines for the diagnosis and management of syncope. Eur Heart J  2018;39:e43–80. https://doi.org/10.1093/eurheartj/ehy071
+Google ScholarCrossrefPubMedWorldCat 
+103	Rivasi   G, Groppelli   A, Brignole   M, Soranna   D, Zambon   A, Bilo   G, et al.   Association between hypotension during 24 h ambulatory blood pressure monitoring and reflex syncope: the SynABPM 1 study. Eur Heart J  2022;43:3765–76. https://doi.org/10.1093/eurheartj/ehac347
+Google ScholarCrossrefPubMedWorldCat 
+104	Smith   TO, Sillito   JA, Goh   CH, Abdel-Fattah   A-R, Einarsson   A, Soiza   RL, et al.   Association between different methods of assessing blood pressure variability and incident cardiovascular disease, cardiovascular mortality and all-cause mortality: a systematic review. Age Ageing  2020;49:184–92. https://doi.org/10.1093/ageing/afz178
+Google ScholarCrossrefPubMedWorldCat 
+105	Kim   S, Xiao   X, Chen   J. Advances in photoplethysmography for personalized cardiovascular monitoring. Biosensors (Basel)  2022;12:863. https://doi.org/10.3390/bios12100863
+Google ScholarCrossrefPubMedWorldCat 
+106	Dagamseh   A, Qananwah   Q, Al Quran   H, Shaker Ibrahim   K. Towards a portable-noninvasive blood pressure monitoring system utilizing the photoplethysmogram signal. Biomed Opt Express  2021;12:7732–51. https://doi.org/10.1364/boe.444535
+Google ScholarCrossrefPubMedWorldCat 
+107	Sharman   JE, Avolio   AP, Baulmann   J, Benetos   A, Blacher   J, Blizzard   CL, et al.   Validation of non-invasive central blood pressure devices: ARTERY Society task force consensus statement on protocol standardization. Eur Heart J  2017;38:2805–12. https://doi.org/10.1093/eurheartj/ehw632
+Google ScholarCrossrefPubMedWorldCat 
+108	Sharman   JE, O’Brien   E, Alpert   B, Schutte   AE, Delles   C, Hecht Olsen   M, et al.   Lancet Commission on Hypertension group position statement on the global improvement of accuracy standards for devices that measure blood pressure. J Hypertens  2020;38:21–9. https://doi.org/10.1097/hjh.0000000000002246
+Google ScholarCrossrefPubMedWorldCat 
+109	Lunardi   M, Muhammad   F, Shahzad   A, Nadeem   A, Combe   L, Simpkin   AJ, et al.   Performance of wearable watch-type home blood pressure measurement devices in a real-world clinical sample. Clin Res Cardiol. 2023. https://doi.org/10.1007/s00392-023-02353-7
+Google ScholarWorldCat 
+110	Clark   CE, Warren   FC, Boddy   K, McDonagh   STJ, Moore   SF, Teresa Alzamora   M, et al.   Higher arm versus lower arm systolic blood pressure and cardiovascular outcomes: a meta-analysis of individual participant data from the INTERPRESS-IPD collaboration. Hypertension  2022;79:2328–35. https://doi.org/10.1161/hypertensionaha.121.18921
+Google ScholarCrossrefPubMedWorldCat 
+111	Margolis   KL, Dehmer   SP, Sperl-Hillen   J, O’Connor   PJ, Asche   SE, Bergdall   AR, et al.   Cardiovascular events and costs with home blood pressure telemonitoring and pharmacist management for uncontrolled hypertension. Hypertension  2020;76:1097–103. https://doi.org/10.1161/hypertensionaha.120.15492
+Google ScholarCrossrefPubMedWorldCat 
+112	Sheppard   JP, Tucker   KL, Davison   WJ, Stevens   R, Aekplakorn   W, Bosworth   H B, et al.   Self-monitoring of blood pressure in patients with hypertension-related multi-morbidity: systematic review and individual patient data meta-analysis. Am J Hypertens  2020;33:243–51. https://doi.org/10.1093/ajh/hpz182
+Google ScholarCrossrefPubMedWorldCat 
+113	Cooke   G, Doust   J, Sanders   S. Is pulse palpation helpful in detecting atrial fibrillation? A systematic review. J Fam Pract  2006;55:130–4.
+Google ScholarPubMedWorldCat 
+114	Arvanitis   M, Qi   G, Bhatt   DL, Post   WS, Chatterjee   N, Battle   A, et al.   Linear and nonlinear Mendelian randomization analyses of the association between diastolic blood pressure and cardiovascular events: the J-curve revisited. Circulation  2021;143:895–906. https://doi.org/10.1161/circulationaha.120.049819
+Google ScholarCrossrefPubMedWorldCat 
+115	Whelton   SP, McEvoy   JW, Shaw   L, Psaty   BM, Lima   JAC, Budoff   M, et al.   Association of normal systolic blood pressure level with cardiovascular disease in the absence of risk factors. JAMA Cardiol  2020;5:1011–8. https://doi.org/10.1001/jamacardio.2020.1731
+Google ScholarCrossrefPubMedWorldCat 
+116	Rahimi   K, Bidel   Z, Nazarzadeh   M, Copland   E, Canoy   D, Ramakrishnan   R, et al.   Pharmacological blood pressure lowering for primary and secondary prevention of cardiovascular disease across different levels of blood pressure: an individual participant-level data meta-analysis. Lancet  2021;397:1625–36. https://doi.org/10.1016/S0140-6736(21)00590-0
+Google ScholarCrossrefPubMedWorldCat 
+117	Ji   H, Niiranen   TJ, Rader   F, Henglin   M, Kim   A, Ebinger   JE, et al.   Sex differences in blood pressure associations with cardiovascular outcomes. Circulation  2021;143:761–3. https://doi.org/10.1161/circulationaha.120.049360
+Google ScholarCrossrefPubMedWorldCat 
+118	Kringeland   E, Tell   GS, Midtbø   H, Igland   J, Haugsgjerd   TR, Gerdts   E. Stage 1 hypertension, sex, and acute coronary syndromes during midlife: the Hordaland health study. Eur J Prev Cardiol  2022;29:147–54. https://doi.org/10.1093/eurjpc/zwab068
+Google ScholarCrossrefPubMedWorldCat 
+119	Appel   LJ, Moore   TJ, Obarzanek   E, Vollmer   WM, Svetkey   LP, Sacks   FM, et al.   A clinical trial of the effects of dietary patterns on blood pressure. DASH collaborative research group. N Engl J Med  1997;336:1117–24. https://doi.org/10.1056/nejm199704173361601
+Google ScholarCrossrefPubMedWorldCat 
+120	Toledo   E, Hu   FB, Estruch   R, Buil-Cosiales   P, Corella   D, Salas-Salvadó   J, et al.   Effect of the Mediterranean diet on blood pressure in the PREDIMED trial: results from a randomized controlled trial. BMC Med  2013;11:207. https://doi.org/10.1186/1741-7015-11-207
+Google ScholarCrossrefPubMedWorldCat 
+121	Sundström   J, Arima   H, Jackson   R, Turnbull   F, Rahimi   K, Chalmers   J, et al.   Effects of blood pressure reduction in mild hypertension: a systematic review and meta-analysis. Ann Intern Med  2015;162:184–91. https://doi.org/10.7326/m14-0773
+Google ScholarCrossrefPubMedWorldCat 
+122	Ettehad   D, Emdin   CA, Kiran   A, Anderson   SG, Callender   T, Emberson   J, et al.   Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet  2016;387:957–67. https://doi.org/10.1016/s0140-6736(15)01225-8
+Google ScholarCrossrefPubMedWorldCat 
+123	Muntner   P, Whelton   PK. Using predicted cardiovascular disease risk in conjunction with blood pressure to guide antihypertensive medication treatment. J Am Coll Cardiol  2017;69:2446–56. https://doi.org/10.1016/j.jacc.2017.02.066
+Google ScholarCrossrefPubMedWorldCat 
+124	Herrett   E, Strongman   H, Gadd   S, Tomlinson   L, Nitsch   D, Bhaskaran   K, et al.   The importance of blood pressure thresholds versus predicted cardiovascular risk on subsequent rates of cardiovascular disease: a cohort study in English primary care. Lancet Healthy Longev  2022;3:e22–30. https://doi.org/10.1016/s2666-7568(21)00281-6
+Google ScholarCrossrefPubMedWorldCat 
+125	Navar   AM, Pencina   MJ, Peterson   ED. Assessing cardiovascular risk to guide hypertension diagnosis and treatment. JAMA Cardiol  2016;1:864–71. https://doi.org/10.1001/jamacardio.2016.2861
+Google ScholarCrossrefPubMedWorldCat 
+126	Kovell   LC, Ahmed   HM, Misra   S, Whelton   SP, Prokopowicz   GP, Blumenthal   RS, et al.   US hypertension management guidelines: a review of the recent past and recommendations for the future. J Am Heart Assoc  2015;4:e002315. https://doi.org/10.1161/jaha.115.002315
+Google ScholarCrossrefPubMedWorldCat 
+127	McEvoy   JW, Martin   SS, Dardari   ZA, Miedema   MD, Sandfort   V, Yeboah   J, et al.   Coronary artery calcium to guide a personalized risk-based approach to initiation and intensification of antihypertensive therapy. Circulation  2017;135:153–65. https://doi.org/10.1161/circulationaha.116.025471
+Google ScholarCrossrefPubMedWorldCat 
+128	Rossello   X, Dorresteijn   JA, Janssen   A, Lambrinou   E, Scherrenberg   M, Bonnefoy-Cudraz   E, et al.   Risk prediction tools in cardiovascular disease prevention: a report from the ESC Prevention of CVD Programme led by the European Association of Preventive Cardiology (EAPC) in collaboration with the Acute Cardiovascular Care Association (ACCA) and the Association of Cardiovascular Nursing and Allied Professions (ACNAP). Eur J Prev Cardiol  2019;26:1534–44. https://doi.org/10.1177/2047487319846715
+Google ScholarCrossrefPubMedWorldCat 
+129	Ioannidis   JPA. Diagnosis and treatment of hypertension in the 2017 ACC/AHA guidelines and in the real world. JAMA  2018;319:115–6. https://doi.org/10.1001/jama.2017.19672
+Google ScholarCrossrefPubMedWorldCat 
+130	Whelton   PK, Carey   RM, Aronow   WS, Casey   DE, Collins   KJ, Dennison Himmelfarb   C, et al.   2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the American College of Cardiology/American Heart Association task force on clinical practice guidelines. Circulation  2018;138:e484–594. https://doi.org/10.1161/cir.0000000000000596
+Google ScholarPubMedWorldCat 
+131	Rahimi   K, Bidel   Z, Nazarzadeh   M, Copland   E, Canoy   D, Wamil   M, et al.   Age-stratified and blood-pressure-stratified effects of blood-pressure-lowering pharmacotherapy for the prevention of cardiovascular disease and death: an individual participant-level data meta-analysis. Lancet  2021;398:1053–64. https://doi.org/10.1016/S0140-6736(21)01921-8
+Google ScholarCrossrefPubMedWorldCat 
+132	Brunström   M, Carlberg   B. Association of blood pressure lowering with mortality and cardiovascular disease across blood pressure levels: a systematic review and meta-analysis. JAMA Intern Med  2018;178:28–36. https://doi.org/10.1001/jamainternmed.2017.6015
+Google ScholarCrossrefPubMedWorldCat 
+133	Arguedas   JA, Leiva   V, Wright   JM. Blood pressure targets in adults with hypertension. Cochrane Database Syst Rev  2020;12:CD004349. https://doi.org/10.1002/14651858.CD004349.pub3
+Google ScholarPubMedWorldCat 
+134	Saiz   LC, Gorricho   J, Garjón   J, Celaya   MC, Erviti   J, Leache   L. Blood pressure targets for the treatment of people with hypertension and cardiovascular disease. Cochrane Database Syst Rev  2022;11:CD010315. https://doi.org/10.1002/14651858.CD010315.pub5
+Google ScholarPubMedWorldCat 
+135	Wright   JT  Jr, Williamson   JD, Whelton   PK, Snyder   JK, Sink   KM, Rocco   MV, et al.   A randomized trial of intensive versus standard blood-pressure control. N Engl J Med  2015;373:2103–16. https://doi.org/10.1056/NEJMoa1511939
+Google ScholarPubMedWorldCat 
+136	Zhang   W, Zhang   S, Deng   Y, Wu   S, Ren   J, Sun   G, et al.   Trial of intensive blood-pressure control in older patients with hypertension. N Engl J Med  2021;385:1268–79. https://doi.org/10.1056/NEJMoa2111437
+Google ScholarCrossrefPubMedWorldCat 
+137	Cushman   WC, Evans   GW, Byington   RP, Goff   DC  Jr, Grimm   RH  Jr, Cutler   JA, et al.   Effects of intensive blood-pressure control in type 2 diabetes mellitus. N Engl J Med  2010;362:1575–85. https://doi.org/10.1056/NEJMoa1001286
+Google ScholarPubMedWorldCat 
+138	Ferrucci   L, Furberg   CD, Penninx   BW, DiBari   M, Williamson   JD, Guralnik   JM, et al.   Treatment of isolated systolic hypertension is most effective in older patients with high-risk profile. Circulation  2001;104:1923–6. https://doi.org/10.1161/hc4101.097520
+Google ScholarCrossrefPubMedWorldCat 
+139	Leening   MJ, Ferket   BS, Steyerberg   EW, Kavousi   M, Deckers   JW, Nieboer   D, et al.   Sex differences in lifetime risk and first manifestation of cardiovascular disease: prospective population based cohort study. BMJ  2014;349:g5992. https://doi.org/10.1136/bmj.g5992
+Google ScholarCrossrefPubMedWorldCat 
+140	Ference   BA, Bhatt   DL, Catapano   AL, Packard   CJ, Graham   I, Kaptoge   S, et al.   Association of genetic variants related to combined exposure to lower low-density lipoproteins and lower systolic blood pressure with lifetime risk of cardiovascular disease. JAMA  2019;322:1381–91. https://doi.org/10.1001/jama.2019.14120
+Google ScholarCrossrefPubMedWorldCat 
+141	Kannel   WB. Risk stratification in hypertension: new insights from the Framingham study. Am J Hypertens  2000;13:S3–10. https://doi.org/10.1016/s0895-7061(99)00252-6
+Google ScholarCrossrefWorldCat 
+142	Weycker   D, Nichols   GA, O’Keeffe-Rosetti   M, Edelsberg   J, Khan   Z, Kaura   S, et al.   Risk-factor clustering and cardiovascular disease risk in hypertensive patients. Am J Hypertens  2007;20:599–607. https://doi.org/10.1016/j.amjhyper.2006.10.013
+Google ScholarCrossrefPubMedWorldCat 
+143	Constanti   M, Floyd   CN, Glover   M, Boffa   R, Wierzbicki   AS, McManus   RJ. Cost-effectiveness of initiating pharmacological treatment in stage one hypertension based on 10-year cardiovascular disease risk: a Markov modeling study. Hypertension  2021;77:682–91. https://doi.org/10.1161/hypertensionaha.120.14913
+Google ScholarCrossrefPubMedWorldCat 
+144	Forouzanfar   MH, Liu   P, Roth   GA, Ng   M, Biryukov   S, Marczak   L, et al.   Global burden of hypertension and systolic blood pressure of at least 110 to 115 mm Hg, 1990–2015. JAMA  2017;317:165–82. https://doi.org/10.1001/jama.2016.19043
+Google ScholarCrossrefPubMedWorldCat 
+145	Karmali   KN, Ning   H, Goff   DC, Lloyd-Jones   DM. Identifying individuals at risk for cardiovascular events across the spectrum of blood pressure levels. J Am Heart Assoc  2015;4:e002126. https://doi.org/10.1161/jaha.115.002126
+Google ScholarCrossrefPubMedWorldCat 
+146	Liu   J, Li   Y, Ge   J, Yan   X, Zhang   H, Zheng   X, et al. Lowering systolic blood pressure to less than 120 mm Hg versus less than 140 mm Hg in patients with high cardiovascular risk with and without diabetes or previous stroke: an open-label, blinded-outcome, randomised trial. Lancet  2024;404:245–55. https://doi.org/10.1016/S0140-6736(24)01028-6
+Google ScholarCrossrefPubMedWorldCat 
+147	Wilson   PW, D’Agostino   RB, Levy   D, Belanger   AM, Silbershatz   H, Kannel   WB. Prediction of coronary heart disease using risk factor categories. Circulation  1998;97:1837–47. https://doi.org/10.1161/01.cir.97.18.1837
+Google ScholarCrossrefPubMedWorldCat 
+148	Sussman   J, Vijan   S, Hayward   R. Using benefit-based tailored treatment to improve the use of antihypertensive medications. Circulation  2013;128:2309–17. https://doi.org/10.1161/circulationaha.113.002290
+Google ScholarCrossrefPubMedWorldCat 
+149	Karmali   KN, Lloyd-Jones   DM, van der Leeuw   J, Goff   DC, Yusuf   S, Zanchetti   A, et al.   Blood pressure-lowering treatment strategies based on cardiovascular risk versus blood pressure: a meta-analysis of individual participant data. PLoS Med  2018;15:e1002538. https://doi.org/10.1371/journal.pmed.1002538
+Google ScholarCrossrefPubMedWorldCat 
+150	Gaziano   TA, Steyn   K, Cohen   DJ, Weinstein   MC, Opie   LH. Cost-effectiveness analysis of hypertension guidelines in South Africa: absolute risk versus blood pressure level. Circulation  2005;112:3569–76. https://doi.org/10.1161/circulationaha.105.535922
+Google ScholarCrossrefPubMedWorldCat 
+151	Basu   S, Sussman   JB, Hayward   RA. Black-white cardiovascular disease disparities after target-based versus personalized benefit-based lipid and blood pressure treatment. MDM Policy Pract  2017;2:2381468317725741. https://doi.org/10.1177/2381468317725741
+Google ScholarWorldCat 
+152	Go   AS, Chertow   GM, Fan   D, McCulloch   CE, Hsu   CY. Chronic kidney disease and the risks of death, cardiovascular events, and hospitalization. N Engl J Med  2004;351:1296–305. https://doi.org/10.1056/NEJMoa041031
+Google ScholarCrossrefPubMedWorldCat 
+153	Klooster   CCV, Bhatt   DL, Steg   PG, Massaro   JM, Dorresteijn   JAN, Westerink   J, et al.   Predicting 10-year risk of recurrent cardiovascular events andcardiovascular interventions in patients with established cardiovascular disease: results from UCC-SMART and REACH. Int J Cardiol  2021;325:140–8. https://doi.org/10.1016/j.ijcard.2020.09.053
+Google ScholarCrossrefPubMedWorldCat 
+154	Kaasenbrood   L, Boekholdt   SM, van der Graaf   Y, Ray   KK, Peters   RJG, Kastelein   JJP, et al.   Distribution of estimated 10-year risk of recurrent vascular events and residual risk in a secondary prevention population. Circulation  2016;134:1419–29. https://doi.org/10.1161/circulationaha.116.021314
+Google ScholarCrossrefPubMedWorldCat 
+155	Eisen   A, Bhatt   DL, Steg   PG, Eagle   KA, Goto   S, Guo   J, et al.   Angina and future cardiovascular events in stable patients with coronary artery disease: insights from the Reduction of Atherothrombosis for Continued Health (REACH) registry. J Am Heart Assoc  2016;5:e004080. https://doi.org/10.1161/jaha.116.004080
+Google ScholarCrossrefPubMedWorldCat 
+156	Taylor   CJ, Roalfe   AK, Iles   R, Hobbs   FD. Ten-year prognosis of heart failure in the community: follow-up data from the Echocardiographic Heart of England Screening (ECHOES) study. Eur J Heart Fail  2012;14:176–84. https://doi.org/10.1093/eurjhf/hfr170
+Google ScholarCrossrefPubMedWorldCat 
+157	Shah   KS, Xu   H, Matsouaka   RA, Bhatt   DL, Heidenreich   PA, Hernandez   AF, et al.   Heart failure with preserved, borderline, and reduced ejection fraction: 5–year outcomes. J Am Coll Cardiol  2017;70:2476–86. https://doi.org/10.1016/j.jacc.2017.08.074
+Google ScholarCrossrefPubMedWorldCat 
+158	Benjamin   EJ, Wolf   PA, D’Agostino   RB, Silbershatz   H, Kannel   WB, Levy   D. Impact of atrial fibrillation on the risk of death: the Framingham heart study. Circulation  1998;98:946–52. https://doi.org/10.1161/01.cir.98.10.946
+Google ScholarCrossrefPubMedWorldCat 
+159	Pandey   A, Patel   KV, Vongpatanasin   W, Ayers   C, Berry   JD, Mentz   RJ, et al.   Incorporation of biomarkers into risk assessment for allocation of antihypertensive medication according to the 2017 ACC/AHA high blood pressure guideline: a pooled cohort analysis. Circulation  2019;140:2076–88. https://doi.org/10.1161/circulationaha.119.043337
+Google ScholarCrossrefPubMedWorldCat 
+160	Mulnier   HE, Seaman   HE, Raleigh   VS, Soedamah-Muthu   SS, Colhoun   HM, Lawrenson   RA, et al.   Risk of myocardial infarction in men and women with type 2 diabetes in the UK: a cohort study using the general practice research database. Diabetologia  2008;51:1639–45. https://doi.org/10.1007/s00125-008-1076-y
+Google ScholarCrossrefPubMedWorldCat 
+161	Soedamah-Muthu   SS, Fuller   JH, Mulnier   HE, Raleigh   VS, Lawrenson   RA, Colhoun   HM. High risk of cardiovascular disease in patients with type 1 diabetes in the U.K.: a cohort study using the general practice research database. Diabetes Care  2006;29:798–804. https://doi.org/10.2337/diacare.29.04.06.dc05-1433
+Google ScholarCrossrefPubMedWorldCat 
+162	Wong   ND, Glovaci   D, Wong   K, Malik   S, Franklin   SS, Wygant   G, et al.   Global cardiovascular disease risk assessment in United States adults with diabetes. Diab Vasc Dis Res  2012;9:146–52. https://doi.org/10.1177/1479164112436403
+Google ScholarCrossrefPubMedWorldCat 
+163	Paquette   M, Bernard   S, Cariou   B, Hegele   RA, Genest   J, Trinder   M, et al.   Familial hypercholesterolemia-risk-score: a new score predicting cardiovascular events and cardiovascular mortality in familial hypercholesterolemia. Arterioscler Thromb Vasc Biol  2021;41:2632–40. https://doi.org/10.1161/atvbaha.121.316106
+Google ScholarCrossrefPubMedWorldCat 
+164	SCORE2-Diabetes Working Group and the ESC Cardiovascular Risk Collaboration. SCORE2-Diabetes: 10-year cardiovascular risk estimation in type 2 diabetes in Europe. Eur Heart J  2023;44:2544–56. https://doi.org/10.1093/eurheartj/ehad260
+CrossrefPubMedWorldCat 
+165	SCORE Working Group and the ESC Cardiovascular Risk Collaboration. SCORE2 risk prediction algorithms: new models to estimate 10-year risk of cardiovascular disease in Europe. Eur Heart J  2021;42:2439–54. https://doi.org/10.1093/eurheartj/ehab309
+CrossrefPubMedWorldCat 
+166	SCORE OP working group and ESC Cardiovascular Risk Collaboration. SCORE2-OP risk prediction algorithms: estimating incident cardiovascular event risk in older persons in four geographical risk regions. Eur Heart J  2021;42:2455–67. https://doi.org/10.1093/eurheartj/ehab312
+CrossrefPubMedWorldCat 
+167	Pignone   M, Phillips   CJ, Elasy   TA, Fernandez   A. Physicians’ ability to predict the risk of coronary heart disease. BMC Health Serv Res  2003;3:13. https://doi.org/10.1186/1472-6963-3-13
+Google ScholarCrossrefPubMedWorldCat 
+168	Grover   SA, Lowensteyn   I, Esrey   KL, Steinert   Y, Joseph   L, Abrahamowicz   M. Do doctors accurately assess coronary risk in their patients? Preliminary results of the coronary health assessment study. BMJ  1995;310:975–8. https://doi.org/10.1136/bmj.310.6985.975
+Google ScholarCrossrefPubMedWorldCat 
+169	Friedmann   PD, Brett   AS, Mayo-Smith   MF. Differences in generalists’ and cardiologists’ perceptions of cardiovascular risk and the outcomes of preventive therapy in cardiovascular disease. Ann Intern Med  1996;124:414–21. https://doi.org/10.7326/0003-4819-124-4-199602150-00005
+Google ScholarCrossrefPubMedWorldCat 
+170	Visseren   FLJ, Mach   F, Smulders   YM, Carballo   D, Koskinas   KC, Bäck   M, et al.   ESC guidelines on cardiovascular disease prevention in clinical practice. Eur Heart J  2021;42:3227–337. https://doi.org/10.1093/eurheartj/ehab484
+Google ScholarCrossrefPubMedWorldCat 
+171	Xie   X, Atkins   E, Lv   J, Bennett   A, Neal   B, Ninomiya   T, et al.   Effects of intensive blood pressure lowering on cardiovascular and renal outcomes: updated systematic review and meta-analysis. Lancet  2016;387:435–43. https://doi.org/10.1016/s0140-6736(15)00805-3
+Google ScholarCrossrefPubMedWorldCat 
+172	Herrett   E, Gadd   S, Jackson   R, Bhaskaran   K, Williamson   E, van Staa   T, et al.   Eligibility and subsequent burden of cardiovascular disease of four strategies for blood pressure-lowering treatment: a retrospective cohort study. Lancet  2019;394:663–71. https://doi.org/10.1016/s0140-6736(19)31359-5
+Google ScholarCrossrefPubMedWorldCat 
+173	Matsushita   K, Kaptoge   S, Hageman   SHJ, Sang   Y, Ballew   SH, Grams   ME, et al.   Including measures of chronic kidney disease to improve cardiovascular risk prediction by SCORE2 and SCORE2-OP. Eur J Prev Cardiol  2023;30:8–16. https://doi.org/10.1093/eurjpc/zwac176
+Google ScholarCrossrefPubMedWorldCat 
+174	Gerdts   E, Sudano   I, Brouwers   S, Borghi   C, Bruno   RM, Ceconi   C, et al.   Sex differences in arterial hypertension. Eur Heart J  2022;43:4777–88. https://doi.org/10.1093/eurheartj/ehac470
+Google ScholarCrossrefPubMedWorldCat 
+175	Brown   MC, Best   KE, Pearce   MS, Waugh   J, Robson   SC, Bell   R. Cardiovascular disease risk in women with pre-eclampsia: systematic review and meta-analysis. Eur J Epidemiol  2013;28:1–19. https://doi.org/10.1007/s10654-013-9762-6
+Google ScholarCrossrefPubMedWorldCat 
+176	Honigberg   MC, Zekavat   SM, Aragam   K, Klarin   D, Bhatt   DL, Scott   NS, et al.   Long-term cardiovascular risk in women with hypertension during pregnancy. J Am Coll Cardiol  2019;74:2743–54. https://doi.org/10.1016/j.jacc.2019.09.052
+Google ScholarCrossrefPubMedWorldCat 
+177	Leon   LJ, McCarthy   FP, Direk   K, Gonzalez-Izquierdo   A, Prieto-Merino   D, Casas   JP, et al.   Preeclampsia and cardiovascular disease in a large UK pregnancy cohort of linked electronic health records: a CALIBER study. Circulation  2019;140:1050–60. https://doi.org/10.1161/circulationaha.118.038080
+Google ScholarCrossrefPubMedWorldCat 
+178	Haug   EB, Horn   J, Markovitz   AR, Fraser   A, Klykken   B, Dalen   H, et al.   Association of conventional cardiovascular risk factors with cardiovascular disease after hypertensive disorders of pregnancy: analysis of the Nord-Trøndelag health study. JAMA Cardiol  2019;4:628–35. https://doi.org/10.1001/jamacardio.2019.1746
+Google ScholarCrossrefPubMedWorldCat 
+179	Wu   P, Haththotuwa   R, Kwok   CS, Babu   A, Kotronias   RA, Rushton   C, et al.   Preeclampsia and future cardiovascular health: a systematic review and meta-analysis. Circ Cardiovasc Qual Outcomes  2017;10:e003497. https://doi.org/10.1161/circoutcomes.116.003497
+Google ScholarCrossrefPubMedWorldCat 
+180	Kramer   CK, Campbell   S, Retnakaran   R. Gestational diabetes and the risk of cardiovascular disease in women: a systematic review and meta-analysis. Diabetologia  2019;62:905–14. https://doi.org/10.1007/s00125-019-4840-2
+Google ScholarCrossrefPubMedWorldCat 
+181	Kyriacou   H, Al-Mohammad   A, Muehlschlegel   C, Foster-Davies   L, Bruco   MEF, Legard   C, et al.   The risk of cardiovascular diseases after miscarriage, stillbirth, and induced abortion: a systematic review and meta-analysis. Eur Heart J Open  2022;2:oeac065. https://doi.org/10.1093/ehjopen/oeac065
+Google ScholarCrossrefPubMedWorldCat 
+182	Kessous   R, Shoham-Vardi   I, Pariente   G, Holcberg   G, Sheiner   E. An association between preterm delivery and long-term maternal cardiovascular morbidity. Am J Obstet Gynecol  2013;209:368.e1–8. https://doi.org/10.1016/j.ajog.2013.05.041
+Google ScholarCrossrefPubMedWorldCat 
+183	Markovitz   AR, Stuart   JJ, Horn   J, Williams   PL, Rimm   EB, Missmer   SA, et al.   Does pregnancy complication history improve cardiovascular disease risk prediction? Findings from the HUNT study in Norway. Eur Heart J  2019;40:1113–20. https://doi.org/10.1093/eurheartj/ehy863
+Google ScholarCrossrefPubMedWorldCat 
+184	Saei Ghare Naz   M, Sheidaei   A, Aflatounian   A, Azizi   F, Ramezani Tehrani   F. Does adding adverse pregnancy outcomes improve the Framingham cardiovascular risk score in women? Data from the Tehran Lipid and Glucose Study. J Am Heart Assoc  2022;11:e022349. https://doi.org/10.1161/jaha.121.022349
+Google ScholarCrossrefPubMedWorldCat 
+185	Gladstone   RA, Pudwell   J, Nerenberg   KA, Grover   SA, Smith   GN. Cardiovascular risk assessment and follow-up of women after hypertensive disorders of pregnancy: a prospective cohort study. J Obstet Gynaecol Can  2019;41:1157–67.e1. https://doi.org/10.1016/j.jogc.2018.10.024
+Google ScholarCrossrefPubMedWorldCat 
+186	Patel   AP, Wang   M, Kartoun   U, Ng   K, Khera   AV. Quantifying and understanding the higher risk of atherosclerotic cardiovascular disease among South Asian individuals: results from the UK Biobank prospective cohort study. Circulation  2021;144:410–22. https://doi.org/10.1161/circulationaha.120.052430
+Google ScholarCrossrefPubMedWorldCat 
+187	Tillin   T, Hughes   AD, Whincup   P, Mayet   J, Sattar   N, McKeigue   PM, et al.   Ethnicity and prediction of cardiovascular disease: performance of QRISK2 and Framingham scores in a U.K. tri-ethnic prospective cohort study (SABRE—Southall And Brent REvisited). Heart  2014;100:60–7. https://doi.org/10.1136/heartjnl-2013-304474
+Google ScholarCrossrefPubMedWorldCat 
+188	Rabanal   KS, Igland   J, Tell   GS, Jenum   AK, Klemsdal   TO, Ariansen   I, et al.   Validation of the cardiovascular risk model NORRISK 2 in South Asians and people with diabetes. Scand Cardiovasc J  2021;55:56–62. https://doi.org/10.1080/14017431.2020.1821909
+Google ScholarCrossrefPubMedWorldCat 
+189	Veronesi   G, Gianfagna   F, Giampaoli   S, Chambless   LE, Mancia   G, Cesana   G, et al.   Improving long-term prediction of first cardiovascular event: the contribution of family history of coronary heart disease and social status. Prev Med  2014;64:75–80. https://doi.org/10.1016/j.ypmed.2014.04.007
+Google ScholarCrossrefPubMedWorldCat 
+190	Sivapalaratnam   S, Boekholdt   SM, Trip   MD, Sandhu   MS, Luben   R, Kastelein   JJP, et al.   Family history of premature coronary heart disease and risk prediction in the EPIC-Norfolk prospective population study. Heart  2010;96:1985–9. https://doi.org/10.1136/hrt.2010.210740
+Google ScholarCrossrefPubMedWorldCat 
+191	Kimenai   DM, Pirondini   L, Gregson   J, Prieto   D, Pocock   SJ, Perel   P, et al.   Socioeconomic deprivation: an important, largely unrecognized risk factor in primary prevention of cardiovascular disease. Circulation  2022;146:240–8. https://doi.org/10.1161/circulationaha.122.060042
+Google ScholarCrossrefPubMedWorldCat 
+192	Avina-Zubieta   JA, Thomas   J, Sadatsafavi   M, Lehman   AJ, Lacaille   D. Risk of incident cardiovascular events in patients with rheumatoid arthritis: a meta-analysis of observational studies. Ann Rheum Dis  2012;71:1524–9. https://doi.org/10.1136/annrheumdis-2011-200726
+Google ScholarCrossrefPubMedWorldCat 
+193	Crowson   CS, Matteson   EL, Roger   VL, Therneau   TM, Gabriel   SE. Usefulness of risk scores to estimate the risk of cardiovascular disease in patients with rheumatoid arthritis. Am J Cardiol  2012;110:420–4. https://doi.org/10.1016/j.amjcard.2012.03.044
+Google ScholarCrossrefPubMedWorldCat 
+194	Arts   EE, Popa   C, Den Broeder   AA, Semb   A G, Toms   T, Kitas   G D, et al.   Performance of four current risk algorithms in predicting cardiovascular events in patients with early rheumatoid arthritis. Ann Rheum Dis  2015;74:668–74. https://doi.org/10.1136/annrheumdis-2013-204024
+Google ScholarCrossrefPubMedWorldCat 
+195	Arts   EE, Popa   CD, Den Broeder   AA, Donders   R, Sandoo   A, Toms   T, et al.   Prediction of cardiovascular risk in rheumatoid arthritis: performance of original and adapted SCORE algorithms. Ann Rheum Dis  2016;75:674–80. https://doi.org/10.1136/annrheumdis-2014-206879
+Google ScholarCrossrefPubMedWorldCat 
+196	Gelfand   JM, Neimann   AL, Shin   DB, Wang   X, Margolis   DJ, Troxel   AB. Risk of myocardial infarction in patients with psoriasis. JAMA  2006;296:1735–41. https://doi.org/10.1001/jama.296.14.1735
+Google ScholarCrossrefPubMedWorldCat 
+197	Miller   IM, Ellervik   C, Yazdanyar   S, Jemec   GB. Meta-analysis of psoriasis, cardiovascular disease, and associated risk factors. J Am Acad Dermatol  2013;69:1014–24. https://doi.org/10.1016/j.jaad.2013.06.053
+Google ScholarCrossrefPubMedWorldCat 
+198	Eder   L, Chandran   V, Gladman   DD. The Framingham risk score underestimates the extent of subclinical atherosclerosis in patients with psoriatic disease. Ann Rheum Dis  2014;73:1990–6. https://doi.org/10.1136/annrheumdis-2013-203433
+Google ScholarCrossrefPubMedWorldCat 
+199	Armstrong   EJ, Harskamp   CT, Armstrong   AW. Psoriasis and major adverse cardiovascular events: a systematic review and meta-analysis of observational studies. J Am Heart Assoc  2013;2:e000062. https://doi.org/10.1161/jaha.113.000062
+Google ScholarCrossrefPubMedWorldCat 
+200	Elmets   CA, Leonardi   CL, Davis   DMR, Gelfand   JM, Lichten   J, Mehta   NN, et al.   Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with awareness and attention to comorbidities. J Am Acad Dermatol  2019;80:1073–113. https://doi.org/10.1016/j.jaad.2018.11.058
+Google ScholarCrossrefPubMedWorldCat 
+201	Lu   X, Wang   Y, Zhang   J, Pu   D, Hu   N, Luo   J, et al.   Patients with systemic lupus erythematosus face a high risk of cardiovascular disease: a systematic review and meta-analysis. Int Immunopharmacol  2021;94:107466. https://doi.org/10.1016/j.intimp.2021.107466
+Google ScholarCrossrefPubMedWorldCat 
+202	Drosos   GC, Konstantonis   G, Sfikakis   PP, Tektonidou   MG. Underperformance of clinical risk scores in identifying vascular ultrasound-based high cardiovascular risk in systemic lupus erythematosus. Eur J Prev Cardiol. 2020. https://doi.org/10.1177/2047487320906650
+Google ScholarWorldCat 
+203	Shah   ASV, Stelzle   D, Lee   KK, Beck   EJ, Alam   S, Clifford   S, et al.   Global burden of atherosclerotic cardiovascular disease in people living with HIV: systematic review and meta-analysis. Circulation  2018;138:1100–12. https://doi.org/10.1161/circulationaha.117.033369
+Google ScholarCrossrefPubMedWorldCat 
+204	Triant   VA, Perez   J, Regan   S, Massaro   JM, Meigs   JB, Grinspoon   SK, et al.   Cardiovascular risk prediction functions underestimate risk in HIV infection. Circulation  2018;137:2203–14. https://doi.org/10.1161/circulationaha.117.028975
+Google ScholarCrossrefPubMedWorldCat 
+205	Triant VA, Lyass A, Hurley LB, Borowsky LH, Ehrbar RQ, H W, et al.   Cardiovascular Risk Estimation Is Suboptimal in People With HIV. J Am Heart Assoc.  2024;13:e029228. https://doi.org/10.1161/JAHA.123.029228
+CrossrefPubMedWorldCat 
+206	Correll   CU, Solmi   M, Veronese   N, Bortolato   B, Rosson   S, Santonastaso   P, et al.   Prevalence, incidence and mortality from cardiovascular disease in patients with pooled and specific severe mental illness: a large-scale meta-analysis of 3,211,768 patients and 113,383,368 controls. World Psychiatry  2017;16:163–80. https://doi.org/10.1002/wps.20420
+Google ScholarCrossrefPubMedWorldCat 
+207	Lambert   AM, Parretti   HM, Pearce   E, Price   MJ, Riley   M, Ryan   R, et al.   Temporal trends in associations between severe mental illness and risk of cardiovascular disease: a systematic review and meta-analysis. PLoS Med  2022;19:e1003960. https://doi.org/10.1371/journal.pmed.1003960
+Google ScholarCrossrefPubMedWorldCat 
+208	Cunningham   R, Poppe   K, Peterson   D, Every-Palmer   S, Soosay   I, Jackson   R. Prediction of cardiovascular disease risk among people with severe mental illness: a cohort study. PLoS One  2019;14:e0221521. https://doi.org/10.1371/journal.pone.0221521
+Google ScholarCrossrefPubMedWorldCat 
+209	Yeboah   J, Young   R, McClelland   RL, Delaney   JC, Polonsky   TS, Dawood   FZ, et al.   Utility of nontraditional risk markers in atherosclerotic cardiovascular disease risk assessment. J Am Coll Cardiol  2016;67:139–47. https://doi.org/10.1016/j.jacc.2015.10.058
+Google ScholarCrossrefPubMedWorldCat 
+210	Akintoye   E, Afonso   L, Bengaluru Jayanna   M, Bao   W, Briasoulis   A, Robinson   J, et al.   Prognostic utility of risk enhancers and coronary artery calcium score recommended in the 2018 ACC/AHA multisociety cholesterol treatment guidelines over the pooled cohort equation: insights from 3 large prospective cohorts. J Am Heart Assoc  2021;10:e019589. https://doi.org/10.1161/jaha.120.019589
+Google ScholarCrossrefPubMedWorldCat 
+211	Peters   SA, den Ruijter   HM, Bots   ML, Moons   KG. Improvements in risk stratification for the occurrence of cardiovascular disease by imaging subclinical atherosclerosis: a systematic review. Heart  2012;98:177–84. https://doi.org/10.1136/heartjnl-2011-300747
+Google ScholarCrossrefPubMedWorldCat 
+212	Nicolaides   AN, Panayiotou   AG, Griffin   M, Tyllis   T, Bond   D, Georgiou   N, et al.   Arterial ultrasound testing to predict atherosclerotic cardiovascular events. J Am Coll Cardiol  2022;79:1969–82. https://doi.org/10.1016/j.jacc.2022.03.352
+Google ScholarCrossrefPubMedWorldCat 
+213	Laclaustra   M, Casasnovas   JA, Fernández-Ortiz   A, Fuster   V, León-Latre   M, Jiménez-Borreguero   LJ, et al.   Femoral and carotid subclinical atherosclerosis association with risk factors and coronary calcium: the AWHS study. J Am Coll Cardiol  2016;67:1263–74. https://doi.org/10.1016/j.jacc.2015.12.056
+Google ScholarCrossrefPubMedWorldCat 
+214	López-Melgar   B, Fernández-Friera   L, Oliva   B, García-Ruiz   JM, Peñalvo   JL, Gómez-Talavera   S, et al.   Subclinical atherosclerosis burden by 3D ultrasound in mid-life: the PESA study. J Am Coll Cardiol  2017;70:301–13. https://doi.org/10.1016/j.jacc.2017.05.033
+Google ScholarCrossrefPubMedWorldCat 
+215	Ben-Shlomo   Y, Spears   M, Boustred   C, May   M, Anderson   SG, Benjamin   EJ, et al.   Aortic pulse wave velocity improves cardiovascular event prediction: an individual participant meta-analysis of prospective observational data from 17,635 subjects. J Am Coll Cardiol  2014;63:636–46. https://doi.org/10.1016/j.jacc.2013.09.063
+Google ScholarCrossrefPubMedWorldCat 
+216	Ohkuma   T, Ninomiya   T, Tomiyama   H, Kario   K, Hoshide   S, Kita   Y, et al.   Brachial-Ankle pulse wave velocity and the risk prediction of cardiovascular disease: an individual participant data meta-analysis. Hypertension  2017;69:1045–52. https://doi.org/10.1161/hypertensionaha.117.09097
+Google ScholarCrossrefPubMedWorldCat 
+217	Stone   K, Veerasingam   D, Meyer   ML, Heffernan   KS, Higgins   S, Maria Bruno   R, et al.   Reimagining the value of brachial-ankle pulse wave velocity as a biomarker of cardiovascular disease risk-a call to action on behalf of VascAgeNet. Hypertension  2023;80:1980–92. https://doi.org/10.1161/hypertensionaha.123.21314
+Google ScholarCrossrefPubMedWorldCat 
+218	An   DW, Hansen   TW, Aparicio   LS, Chori   B, Huang   Q-F, Wei   F-F, et al.   Derivation of an outcome-driven threshold for aortic pulse wave velocity: an individual-participant meta-analysis. Hypertension  2023;80:1949–59. https://doi.org/10.1161/hypertensionaha.123.21318
+Google ScholarCrossrefPubMedWorldCat 
+219	de Lemos   JA, Ayers   CR, Levine   BD, deFilippi   CR, Wang   TJ, Hundley   W, et al.   Multimodality strategy for cardiovascular risk assessment: performance in 2 population-based cohorts. Circulation  2017;135:2119–32. https://doi.org/10.1161/circulationaha.117.027272
+Google ScholarCrossrefPubMedWorldCat 
+220	Hageman   SHJ, Petitjean   C, Pennells   L, Kaptoge   S, Pajouheshnia   R, Tillmann   T, et al.   Improving 10-year cardiovascular risk prediction in apparently healthy people: flexible addition of risk modifiers on top of SCORE2. Eur J Prev Cardiol  2023;30:1705–14. https://doi.org/10.1093/eurjpc/zwad187
+Google ScholarCrossrefPubMedWorldCat 
+221	McEvoy   JW, Chen   Y, Nambi   V, Ballantyne   CM, Sharrett   AR, Appel   LJ, et al.   High-sensitivity cardiac troponin T and risk of hypertension. Circulation  2015;132:825–33. https://doi.org/10.1161/circulationaha.114.014364
+Google ScholarCrossrefPubMedWorldCat 
+222	Hussain   A, Sun   W, Deswal   A, de Lemos   JA, McEvoy   JW, Hoogeveen   RC, et al.   Association of NT-ProBNP, blood pressure, and cardiovascular events: the ARIC study. J Am Coll Cardiol  2021;77:559–71. https://doi.org/10.1016/j.jacc.2020.11.063
+Google ScholarCrossrefPubMedWorldCat 
+223	Stuart   JJ, Tanz   LJ, Cook   NR, Spiegelman   D, Missmer   SA, Rimm   EB, et al.   Hypertensive disorders of pregnancy and 10-year cardiovascular risk prediction. J Am Coll Cardiol  2018;72:1252–63. https://doi.org/10.1016/j.jacc.2018.05.077
+Google ScholarCrossrefPubMedWorldCat 
+224	Timpka   S, Fraser   A, Schyman   T, Stuart   JJ, Åsvold   BO, Mogren   I, et al.   The value of pregnancy complication history for 10-year cardiovascular disease risk prediction in middle-aged women. Eur J Epidemiol  2018;33:1003–10. https://doi.org/10.1007/s10654-018-0429-1
+Google ScholarCrossrefPubMedWorldCat 
+225	Blankenberg   S, Salomaa   V, Makarova   N, Ojeda   F, Wild   P, Lackner   KJ, et al.   Troponin I and cardiovascular risk prediction in the general population: the BiomarCaRE consortium. Eur Heart J  2016;37:2428–37. https://doi.org/10.1093/eurheartj/ehw172
+Google ScholarCrossrefPubMedWorldCat 
+226	Zeller   T, Tunstall-Pedoe   H, Saarela   O, Ojeda   F, Schnabel   RB, Tuovinen   T, et al.   High population prevalence of cardiac troponin I measured by a high-sensitivity assay and cardiovascular risk estimation: the MORGAM biomarker project Scottish cohort. Eur Heart J  2014;35:271–81. https://doi.org/10.1093/eurheartj/eht406
+Google ScholarCrossrefPubMedWorldCat 
+227	Schoenthaler   AM, Lancaster   KJ, Chaplin   W, Butler   M, Forsyth   J, Ogedegbe   G, et al.   Cluster randomized clinical trial of FAITH (faith-based approaches in the treatment of hypertension) in blacks. Circ Cardiovasc Qual Outcomes  2018;11:e004691. https://doi.org/10.1161/circoutcomes.118.004691
+Google ScholarCrossrefPubMedWorldCat 
+228	Beaney   T, Schutte   AE, Stergiou   GS, Borghi   C, Burger   D, Charchar   F, et al.   May Measurement Month 2019: the global blood pressure screening campaign of the international society of Hypertension. Hypertension  2020;76:333–41. https://doi.org/10.1161/hypertensionaha.120.14874
+Google ScholarCrossrefPubMedWorldCat 
+229	Victor   RG, Lynch   K, Li   N, Blyler   C, Muhammad   E, Handler   J, et al.   A cluster-randomized trial of blood-pressure reduction in black barbershops. N Engl J Med  2018;378:1291–301. https://doi.org/10.1056/NEJMoa1717250
+Google ScholarCrossrefPubMedWorldCat 
+230	Sun   Y, Mu   J, Wang   DW, Ouyang   N, Xing   L, Guo   X, et al.   A village doctor-led multifaceted intervention for blood pressure control in rural China: an open, cluster randomised trial. Lancet  2022;399:1964–75. https://doi.org/10.1016/s0140-6736(22)00325-7
+Google ScholarCrossrefPubMedWorldCat 
+231	Schmidt   BM, Durao   S, Toews   I, Bavuma   CM, Hohlfeld   A, Nury   E, et al.   Screening strategies for hypertension. Cochrane Database Syst Rev  2020;5:CD013212. https://doi.org/10.1002/14651858.CD013212.pub2
+Google ScholarPubMedWorldCat 
+232	Kaczorowski   J, Chambers   LW, Dolovich   L, Paterson   JM, Karwalajtys   T, Gierman   T, et al.   Improving cardiovascular health at population level: 39 community cluster randomised trial of Cardiovascular Health Awareness Program (CHAP). BMJ  2011;342:d442. https://doi.org/10.1136/bmj.d442
+Google ScholarCrossrefPubMedWorldCat 
+233	Lindholt   JS, Søgaard   R, Rasmussen   LM, Mejldal   A, Lambrechtsen   J, Steffensen   FH, et al.   Five-year outcomes of the Danish cardiovascular screening (DANCAVAS) trial. N Engl J Med  2022;387:1385–94. https://doi.org/10.1056/NEJMoa2208681
+Google ScholarCrossrefPubMedWorldCat 
+234	Sheppard   JP, Schwartz   CL, Tucker   KL, McManus   RJ. Modern management and diagnosis of hypertension in the United Kingdom: home care and self-care. Ann Glob Health  2016;82:274–87. https://doi.org/10.1016/j.aogh.2016.02.005
+Google ScholarCrossrefPubMedWorldCat 
+235	Andersson   H, Hedström   L, Bergman   S, Bergh   H. The outcome of two-step blood pressure screening in dental healthcare. Scand J Public Health  2018;46:623–9. https://doi.org/10.1177/1403494818759840
+Google ScholarCrossrefPubMedWorldCat 
+236	Zhang   H, Thijs   L, Kuznetsova   T, Fagard   RH, Li   X, Staessen   JA. Progression to hypertension in the non-hypertensive participants in the Flemish study on environment, genes and health outcomes. J Hypertens  2006;24:1719–27. https://doi.org/10.1097/01.hjh.0000242395.07473.92
+Google ScholarCrossrefPubMedWorldCat 
+237	Conen   D, Aeschbacher   S, Thijs   L, Li   Y, Boggia   J, Asayama   K, et al.   Age-specific differences between conventional and ambulatory daytime blood pressure values. Hypertension  2014;64:1073–9. https://doi.org/10.1161/hypertensionaha.114.03957
+Google ScholarCrossrefPubMedWorldCat 
+238	Karnjanapiboonwong   A, Anothaisintawee   T, Chaikledkaew   U, Dejthevaporn   C, Attia   J, Thakkinstian   A. Diagnostic performance of clinic and home blood pressure measurements compared with ambulatory blood pressure: a systematic review and meta-analysis. BMC Cardiovasc Disord  2020;20:491. https://doi.org/10.1186/s12872-020-01736-2
+Google ScholarCrossrefPubMedWorldCat 
+239	Viera   AJ, Yano   Y, Lin   FC, Simel   DL, Yun   J, Dave   G, et al.   Does this adult patient have hypertension?: The rational clinical examination systematic review. JAMA  2021;326:339–47. https://doi.org/10.1001/jama.2021.4533
+Google ScholarCrossrefPubMedWorldCat 
+240	Green   BB, Anderson   ML, Cook   AJ, Ehrlich   K, Hall   YN, Hsu   C, et al.   Clinic, home, and kiosk blood pressure measurements for diagnosing hypertension: a randomized diagnostic study. J Gen Intern Med  2022;37:2948–56. https://doi.org/10.1007/s11606-022-07400-z
+Google ScholarCrossrefPubMedWorldCat 
+241	Kim   JS, Rhee   MY, Kim   CH, Kim   YR, Do   U, Kim   J-H, et al.   Algorithm for diagnosing hypertension using out-of-office blood pressure measurements. J Clin Hypertens (Greenwich)  2021;23:1965–74. https://doi.org/10.1111/jch.14382
+Google ScholarCrossrefPubMedWorldCat 
+242	van den Born   BH, Lip   GYH, Brguljan-Hitij   J, Cremer   A, Segura   J, Morales   E, et al.   ESC Council on Hypertension position document on the management of hypertensive emergencies. Eur Heart J Cardiovasc Pharmacother  2019;5:37–46. https://doi.org/10.1093/ehjcvp/pvy032
+Google ScholarCrossrefPubMedWorldCat 
+243	Ross   S, Walker   A, MacLeod   MJ. Patient compliance in hypertension: role of illness perceptions and treatment beliefs. J Hum Hypertens  2004;18:607–13. https://doi.org/10.1038/sj.jhh.1001721
+Google ScholarCrossrefPubMedWorldCat 
+244	Hagger   MS, Koch   S, Chatzisarantis   NLD, Orbell   S. The common sense model of self-regulation: meta-analysis and test of a process model. Psychol Bull  2017;143:1117–54. https://doi.org/10.1037/bul0000118
+Google ScholarCrossrefPubMedWorldCat 
+245	Meyer   D, Leventhal   H, Gutmann   M. Common-sense models of illness: the example of hypertension. Health Psychol  1985;4:115–35. https://doi.org/10.1037//0278-6133.4.2.115
+Google ScholarCrossrefPubMedWorldCat 
+246	O’Carroll   RE, Chambers   JA, Dennis   M, Sudlow   C, Johnston   M. Improving adherence to medication in stroke survivors: a pilot randomised controlled trial. Ann Behav Med  2013;46:358–68. https://doi.org/10.1007/s12160-013-9515-5
+Google ScholarCrossrefPubMedWorldCat 
+247	Hollands   GJ, Usher-Smith   JA, Hasan   R, Alexander   F, Clarke   N, Griffin   SJ. Visualising health risks with medical imaging for changing recipients’ health behaviours and risk factors: systematic review with meta-analysis. PLoS Med  2022;19:e1003920. https://doi.org/10.1371/journal.pmed.1003920
+Google ScholarCrossrefPubMedWorldCat 
+248	Burnier   M. Medication adherence and persistence as the cornerstone of effective antihypertensive therapy. Am J Hypertens  2006;19:1190–6. https://doi.org/10.1016/j.amjhyper.2006.04.006
+Google ScholarCrossrefPubMedWorldCat 
+249	Parati   G, Goncalves   A, Soergel   D, Bruno   RM, Caiani   EG, Gerdts   E. New perspectives for hypertension management: progress in methodological and technological developments. Eur J Prev Cardiol  2023;30:48–60. https://doi.org/10.1093/eurjpc/zwac203
+Google ScholarCrossrefPubMedWorldCat 
+250	Naderi   SH, Bestwick   JP, Wald   DS. Adherence to drugs that prevent cardiovascular disease: meta-analysis on 376,162 patients. Am J Med  2012;125:882–7.e1. https://doi.org/10.1016/j.amjmed.2011.12.013
+Google ScholarCrossrefPubMedWorldCat 
+251	Chang   TE, Ritchey   MD, Park   S, Chang   A, Odom   EC, Durthaler   J, et al.   National rates of nonadherence to antihypertensive medications among insured adults with hypertension, 2015. Hypertension  2019;74:1324–32. https://doi.org/10.1161/hypertensionaha.119.13616
+Google ScholarCrossrefPubMedWorldCat 
+252	Qvarnström   M, Kahan   T, Kieler   H, Brandt   L, Hasselström   J, Bengtsson Boström   K, et al.   Persistence to antihypertensive drug treatment in Swedish primary healthcare. Eur J Clin Pharmacol  2013;69:1955–64. https://doi.org/10.1007/s00228-013-1555-z
+Google ScholarCrossrefPubMedWorldCat 
+253	Burnier   M, Egan   BM. Adherence in hypertension. Circ Res  2019;124:1124–40. https://doi.org/10.1161/circresaha.118.313220
+Google ScholarCrossrefPubMedWorldCat 
+254	Curneen   JMG, Rabbitt   L, Browne   D, O’Donoghue   DF, Alansari   Y, Harhen   B, et al.   Major disparities in patient-reported adherence compared to objective assessment of adherence using mass spectrometry: a prospective study in a tertiary-referral hypertension clinic. Br J Clin Pharmacol  2022;89:1948–55. https://doi.org/10.1111/bcp.15292
+Google ScholarCrossrefPubMedWorldCat 
+255	Corrao   G, Parodi   A, Nicotra   F, Zambon   A, Merlino   L, Cesana   G, et al.   Better compliance to antihypertensive medications reduces cardiovascular risk. J Hypertens  2011;29:610–8. https://doi.org/10.1097/HJH.0b013e328342ca97
+Google ScholarCrossrefPubMedWorldCat 
+256	Kim   S, Shin   DW, Yun   JM, Hwang   Y, Park   SK, Ko   Y-J, et al.   Medication adherence and the risk of cardiovascular mortality and hospitalization among patients with newly prescribed antihypertensive medications. Hypertension  2016;67:506–12. https://doi.org/10.1161/hypertensionaha.115.06731
+Google ScholarCrossrefPubMedWorldCat 
+257	Lane   D, Lawson   A, Burns   A, Azizi   M, Burnier   M, Jones   DJL, et al.   Nonadherence in hypertension: how to develop and implement chemical adherence testing. Hypertension  2022;79:12–23. https://doi.org/10.1161/hypertensionaha.121.17596
+Google ScholarCrossrefPubMedWorldCat 
+258	Marshall   IJ, Wolfe   CD, McKevitt   C. Lay perspectives on hypertension and drug adherence: systematic review of qualitative research. BMJ  2012;345:e3953. https://doi.org/10.1136/bmj.e3953
+Google ScholarCrossrefPubMedWorldCat 
+259	Schoenthaler   A, Knafl   GJ, Fiscella   K, Ogedegbe   G. Addressing the social needs of hypertensive patients: the role of patient–provider communication as a predictor of medication adherence. Circ Cardiovasc Qual Outcomes  2017;10:e003659. https://doi.org/10.1161/circoutcomes.117.003659
+Google ScholarCrossrefPubMedWorldCat 
+260	Schmieder   RE, Wassmann   S, Predel   HG, Weisser   B, Blettenberg   J, Gillessen   A, et al.   Improved persistence to medication, decreased cardiovascular events and reduced all-cause mortality in hypertensive patients with use of single-pill combinations: results from the START-study. Hypertension  2023;80:1127–35. https://doi.org/10.1161/hypertensionaha.122.20810
+Google ScholarCrossrefPubMedWorldCat 
+261	Ruzicka   M, Leenen   FHH, Ramsay   T, Bugeja   A, Edwards   C, McCormick   B, et al.   Use of directly observed therapy to assess treatment adherence in patients with apparent treatment-resistant hypertension. JAMA Intern Med  2019;179:1433–4. https://doi.org/10.1001/jamainternmed.2019.1455
+Google ScholarCrossrefPubMedWorldCat 
+262	Pio-Abreu   A, Trani-Ferreira   F, Silva   GV, Bortolotto   LA, Drager   LF. Directly observed therapy for resistant/refractory hypertension diagnosis and blood pressure control. Heart  2022;108:1952–6. https://doi.org/10.1136/heartjnl-2022-320802
+Google ScholarCrossrefPubMedWorldCat 
+263	Tomaszewski   M, White   C, Patel   P, Masca   N, Damani   R, Hepworth   J, et al.   High rates of non-adherence to antihypertensive treatment revealed by high-performance liquid chromatography-tandem mass spectrometry (HP LC-MS/MS) urine analysis. Heart  2014;100:855–61. https://doi.org/10.1136/heartjnl-2013-305063
+Google ScholarCrossrefPubMedWorldCat 
+264	Forette   F, Seux   ML, Staessen   JA, et al.   The prevention of dementia with antihypertensive treatment: new evidence from the systolic hypertension in Europe (Syst-Eur) study. Arch Intern Med  2002;162:2046–52. https://doi.org/10.1001/archinte.162.18.2046
+Google ScholarCrossrefPubMedWorldCat 
+265	Näslund   U, Ng   N, Lundgren   A, Fhärm   E, Grönlund   C, Johansson   H, et al.   Visualization of asymptomatic atherosclerotic disease for optimum cardiovascular prevention (VIPVIZA): a pragmatic, open-label, randomised controlled trial. Lancet  2019;393:133–42. https://doi.org/10.1016/s0140-6736(18)32818-6
+Google ScholarCrossrefPubMedWorldCat 
+266	Bengtsson   A, Norberg   M, Ng   N, Carlberg   B, Grönlund   C, Hultdin   J, et al.   The beneficial effect over 3 years by pictorial information to patients and their physician about subclinical atherosclerosis and cardiovascular risk: results from the VIPVIZA randomized clinical trial. Am J Prev Cardiol  2021;7:100199. https://doi.org/10.1016/j.ajpc.2021.100199
+Google ScholarCrossrefPubMedWorldCat 
+267	Sjölander   M, Carlberg   B, Norberg   M, Näslund   U, Ng   N. Prescription of lipid-lowering and antihypertensive drugs following pictorial information about subclinical atherosclerosis: a secondary outcome of a randomized clinical trial. JAMA Netw Open  2021;4:e2121683. https://doi.org/10.1001/jamanetworkopen.2021.21683
+Google ScholarCrossrefPubMedWorldCat 
+268	Muiesan   ML, Salvetti   M, Monteduro   C, Bonzi   B, Paini   A, Viola   S, et al.   Left ventricular concentric geometry during treatment adversely affects cardiovascular prognosis in hypertensive patients. Hypertension  2004;43:731–8. https://doi.org/10.1161/01.HYP.0000121223.44837.de
+Google ScholarCrossrefPubMedWorldCat 
+269	Guerin   AP, Blacher   J, Pannier   B, Marchais   SJ, Safar   ME, London   GM, et al.   Impact of aortic stiffness attenuation on survival of patients in end-stage renal failure. Circulation  2001;103:987–92. https://doi.org/10.1161/01.cir.103.7.987
+Google ScholarCrossrefPubMedWorldCat 
+270	Cardoso   CRL, Salles   GF. Prognostic value of changes in aortic stiffness for cardiovascular outcomes and mortality in resistant hypertension: a cohort study. Hypertension  2022;79:447–56. https://doi.org/10.1161/hypertensionaha.121.18498
+Google ScholarCrossrefPubMedWorldCat 
+271	Laurent   S, Chatellier   G, Azizi   M, Calvet   D, Choukroun   G, Danchin   N, et al.   SPARTE study: normalization of arterial stiffness and cardiovascular events in patients with hypertension at medium to very high risk. Hypertension  2021;78:983–95. https://doi.org/10.1161/hypertensionaha.121.17579
+Google ScholarCrossrefPubMedWorldCat 
+272	Levin   A, Stevens   PE, Bilous   RW, Coresh   J, De Francisco   ALM, De Jong   PE, et al.   Summary of recommendation statements. Kidney Int Suppl (2011)  2013;3:5–14. https://doi.org/10.1038/kisup.2012.77
+Google ScholarPubMedWorldCat 
+273	Matsushita   K, Coresh   J, Sang   Y, Chalmers   J, Fox   C, Guallar   E, et al.   Estimated glomerular filtration rate and albuminuria for prediction of cardiovascular outcomes: a collaborative meta-analysis of individual participant data. Lancet Diabetes Endocrinol  2015;3:514–25. https://doi.org/10.1016/s2213-8587(15)00040-6
+Google ScholarCrossrefPubMedWorldCat 
+274	Cheung   AK, Rahman   M, Reboussin   DM, Craven   TE, Greene   T, Kimmel   PL, et al.   Effects of intensive BP control in CKD. J Am Soc Nephrol  2017;28:2812–23. https://doi.org/10.1681/asn.2017020148
+Google ScholarCrossrefPubMedWorldCat 
+275	Malhotra   R, Nguyen   HA, Benavente   O, Mete   M, Howard   BV, Mant   J, et al.   Association between more intensive vs less intensive blood pressure lowering and risk of mortality in chronic kidney disease stages 3 to 5: a systematic review and meta-analysis. JAMA Intern Med  2017;177:1498–505. https://doi.org/10.1001/jamainternmed.2017.4377
+Google ScholarCrossrefPubMedWorldCat 
+276	Stevens   PE, Levin   A. Evaluation and management of chronic kidney disease: synopsis of the kidney disease: improving global outcomes 2012 clinical practice guideline. Ann Intern Med  2013;158:825–30. https://doi.org/10.7326/0003-4819-158-11-201306040-00007
+Google ScholarCrossrefPubMedWorldCat 
+277	Aboyans   V, Ricco   JB, Bartelink   MEL, Björck   M, Brodmann   M, Cohnert   T, et al.   2017 ESC Guidelines on the diagnosis and treatment of peripheral arterial diseases, in collaboration with the European Society for Vascular Surgery (ESVS): document covering atherosclerotic disease of extracranial carotid and vertebral, mesenteric, renal, upper and lower extremity arteriesEndorsed by: the European Stroke Organization (ESO) The Task Force for the Diagnosis and Treatment of Peripheral Arterial Diseases of the European Society of Cardiology (ESC) and of the European Society for Vascular Surgery (ESVS). Eur Heart J  2018;39:763–816. https://doi.org/10.1093/eurheartj/ehx095
+Google ScholarCrossrefPubMedWorldCat 
+278	Iribarren   C, Round   AD, Lu   M, Okin   PM, McNulty   EJ. Cohort study of ECG left ventricular hypertrophy trajectories: ethnic disparities, associations with cardiovascular outcomes, and clinical utility. J Am Heart Assoc  2017;6:e004954. https://doi.org/10.1161/jaha.116.004954
+Google ScholarCrossrefPubMedWorldCat 
+279	Okin   PM, Devereux   RB, Jern   S, Kjeldsen   SE, Julius   S, Dahlöf   B. Baseline characteristics in relation to electrocardiographic left ventricular hypertrophy in hypertensive patients: the Losartan Intervention For Endpoint reduction (LIFE) in hypertension study. Hypertension  2000;36:766–73. https://doi.org/10.1161/01.hyp.36.5.766
+Google ScholarCrossrefPubMedWorldCat 
+280	Okin   PM, Oikarinen   L, Viitasalo   M, Toivonen   L, Kjeldsen   SE, Nieminen   MS, et al.   Prognostic value of changes in the electrocardiographic strain pattern during antihypertensive treatment: the Losartan Intervention for End-point reduction in hypertension study (LIFE). Circulation  2009;119:1883–91. https://doi.org/10.1161/circulationaha.108.812313
+Google ScholarCrossrefPubMedWorldCat 
+281	Lehtonen   AO, Puukka   P, Varis   J, Porthan   K, Tikkanen   JT, Nieminen   MS, et al.   Prevalence and prognosis of ECG abnormalities in normotensive and hypertensive individuals. J Hypertens  2016;34:959–66. https://doi.org/10.1097/hjh.0000000000000882
+Google ScholarCrossrefPubMedWorldCat 
+282	Pewsner   D, Jüni   P, Egger   M, Battaglia   M, Sundström   J, Bachmann   LM. Accuracy of electrocardiography in diagnosis of left ventricular hypertrophy in arterial hypertension: systematic review. BMJ  2007;335:711. https://doi.org/10.1136/bmj.39276.636354.AE
+Google ScholarCrossrefPubMedWorldCat 
+283	Kuznetsova   T, Thijs   L, Knez   J, Cauwenberghs   N, Petit   T, Gu   Y-M. Longitudinal changes in left ventricular diastolic function in a general population. Circ Cardiovasc Imaging  2015;8:e002882. https://doi.org/10.1161/circimaging.114.002882
+Google ScholarCrossrefPubMedWorldCat 
+284	Zhao   L, Zierath   R, Claggett   B, Dorbala   P, Matsushita   K, Kitzman   D. Longitudinal changes in left ventricular diastolic function in late life: the ARIC study. JACC Cardiovasc Imaging  2023;16:1133–45. https://doi.org/10.1016/j.jcmg.2023.02.022
+Google ScholarCrossrefPubMedWorldCat 
+285	Redfield   MM, Jacobsen   SJ, Burnett   JC  Jr, Mahoney   DW, Bailey   KR, Rodeheffer   RJ. Burden of systolic and diastolic ventricular dysfunction in the community: appreciating the scope of the heart failure epidemic. JAMA  2003;289:194–202. https://doi.org/10.1001/jama.289.2.194
+Google ScholarCrossrefPubMedWorldCat 
+286	Sundström   J, Lind   L, Arnlöv   J, Zethelius   B, Andrén   B, Lithell   HO. Echocardiographic and electrocardiographic diagnoses of left ventricular hypertrophy predict mortality independently of each other in a population of elderly men. Circulation  2001;103:2346–51. https://doi.org/10.1161/01.cir.103.19.2346
+Google ScholarCrossrefPubMedWorldCat 
+287	Seko   Y, Kato   T, Yamaji   Y, Haruna   Y, Nakane   E, Haruna   T, et al.   Discrepancy between left ventricular hypertrophy by echocardiography and electrocardiographic hypertrophy: clinical characteristics and outcomes. Open Heart  2021;8:e001765. https://doi.org/10.1136/openhrt-2021-001765
+Google ScholarCrossrefPubMedWorldCat 
+288	Modin   D, Biering-Sørensen   SR, Mogelvang   R, Landler   N, Jensen   JS, Biering-Sørensen   T. Prognostic value of echocardiography in hypertensive versus nonhypertensive participants from the general population. Hypertension  2018;71:742–51. https://doi.org/10.1161/hypertensionaha.117.10674
+Google ScholarCrossrefPubMedWorldCat 
+289	Armstrong   AC, Jacobs   DR  Jr, Gidding   SS, Colangelo   LA, Gjesdal   O, Lewis   CE, et al.   Framingham score and LV mass predict events in young adults: CARDIA study. Int J Cardiol  2014;172:350–5. https://doi.org/10.1016/j.ijcard.2014.01.003
+Google ScholarCrossrefPubMedWorldCat 
+290	Kuznetsova   T, Thijs   L, Knez   J, Herbots   L, Zhang   Z, Staessen   JA. Prognostic value of left ventricular diastolic dysfunction in a general population. J Am Heart Assoc  2014;3:e000789. https://doi.org/10.1161/jaha.114.000789
+Google ScholarCrossrefPubMedWorldCat 
+291	Marwick   TH, Gillebert   TC, Aurigemma   G, et al.   Recommendations on the use of echocardiography in adult hypertension: a report from the European Association of Cardiovascular Imaging (EACVI) and the American Society of Echocardiography (ASE). Eur Heart J Cardiovasc Imaging  2015;16:577–605. https://doi.org/10.1093/ehjci/jev076
+Google ScholarPubMedWorldCat 
+292	Douglas   PS, Garcia   MJ, Haines   DE, Lai   WW, Manning   WJ, Patel   AR, et al.   ACCF/ASE/AHA/ASNC/HFSA/HRS/SCAI/SCCM/SCCT/SCMR 2011 appropriate use criteria for echocardiography. A report of the American College of Cardiology Foundation appropriate use criteria task force, American Society of Echocardiography, American Heart Association, American Society of Nuclear Cardiology, Heart Failure Society of America, Heart Rhythm Society, Society for Cardiovascular Angiography and Interventions, Society of Critical Care Medicine, Society of Cardiovascular Computed Tomography, Society for Cardiovascular Magnetic Resonance American College of Chest Physicians. J Am Soc Echocardiogr  2011;24:229–67. https://doi.org/10.1016/j.echo.2010.12.008
+Google ScholarPubMedWorldCat 
+293	van Rosendael   AR, Bax   AM, Smit   JM, van den Hoogen   IJ, Ma   X, Al’Aref   S, et al.   Clinical risk factors and atherosclerotic plaque extent to define risk for major events in patients without obstructive coronary artery disease: the long-term coronary computed tomography angiography CONFIRM registry. Eur Heart J Cardiovasc Imaging  2020;21:479–88. https://doi.org/10.1093/ehjci/jez322
+Google ScholarCrossrefPubMedWorldCat 
+294	Mehta   A, Pandey   A, Ayers   CR, Khera   A, Sperling   LS, Szklo   M, et al.   Predictive value of coronary artery calcium score categories for coronary events versus strokes: impact of sex and race: MESA and DHS. Circ Cardiovasc Imaging  2020;13:e010153. https://doi.org/10.1161/circimaging.119.010153
+Google ScholarCrossrefPubMedWorldCat 
+295	Bengtsson   A, Lindvall   K, Norberg   M, Fhärm   E. Increased knowledge makes a difference!—general practitioners’ experiences of pictorial information about subclinical atherosclerosis for primary prevention: an interview study from the VIPVIZA trial. Scand J Prim Health Care  2021;39:77–84. https://doi.org/10.1080/02813432.2021.1882083
+Google ScholarCrossrefPubMedWorldCat 
+296	Ibanez   B, Fernández-Ortiz   A, Fernández-Friera   L, García-Lunar   I, Andrés   V, Fuster   V. Progression of early subclinical atherosclerosis (PESA) study: JACC focus seminar 7/8. J Am Coll Cardiol  2021;78:156–79. https://doi.org/10.1016/j.jacc.2021.05.011
+Google ScholarCrossrefPubMedWorldCat 
+297	Den Ruijter   HM, Peters   SA, Anderson   TJ, Britton   AR, Dekker   JM, Eijkemans   MJ. Common carotid intima-media thickness measurements in cardiovascular risk prediction: a meta-analysis. JAMA  2012;308:796–803. https://doi.org/10.1001/jama.2012.9630
+Google ScholarCrossrefPubMedWorldCat 
+298	Downie   LE, Hodgson   LA, DSylva   C, McIntosh   RL, Rogers   SL, Connell   P, et al.   Hypertensive retinopathy: comparing the Keith-Wagener-Barker to a simplified classification. J Hypertens  2013;31:960–5. https://doi.org/10.1097/HJH.0b013e32835efea3
+Google ScholarCrossrefPubMedWorldCat 
+299	Liew   G, Xie   J, Nguyen   H, Keay   L, Kamran Ikram   M, McGeechan   K, et al.   Hypertensive retinopathy and cardiovascular disease risk: 6 population-based cohorts meta-analysis. Int J Cardiol Cardiovasc Risk Prev  2023;17:200180. https://doi.org/10.1016/j.ijcrp.2023.200180
+Google ScholarPubMedWorldCat 
+300	Padmanabhan   S, Caulfield   M, Dominiczak   AF. Genetic and molecular aspects of hypertension. Circ Res  2015;116:937–59. https://doi.org/10.1161/circresaha.116.303647
+Google ScholarCrossrefPubMedWorldCat 
+301	Casey   R, Neumann   HPH, Maher   ER. Genetic stratification of inherited and sporadic phaeochromocytoma and paraganglioma: implications for precision medicine. Hum Mol Genet  2020;29:R128–137. https://doi.org/10.1093/hmg/ddaa201
+Google ScholarCrossrefPubMedWorldCat 
+302	Rossi   GP, Ceolotto   G, Caroccia   B, Lenzini   L. Genetic screening in arterial hypertension. Nat Rev Endocrinol  2017;13:289–98. https://doi.org/10.1038/nrendo.2016.196
+Google ScholarCrossrefPubMedWorldCat 
+303	Cascón   A, Calsina   B, Monteagudo   M, Mellid   S, Díaz-Talavera   A, Currás-Freixes   M, et al.   Genetic bases of pheochromocytoma and paraganglioma. J Mol Endocrinol  2023;70:e220167. https://doi.org/10.1530/jme-22-0167
+Google ScholarCrossrefPubMedWorldCat 
+304	Staessen   JA, Wang   J, Bianchi   G, Birkenhäger   WH. Essential hypertension. Lancet  2003;361:1629–41. https://doi.org/10.1016/s0140-6736(03)13302-8
+Google ScholarCrossrefPubMedWorldCat 
+305	Lenders   JW, Duh   QY, Eisenhofer   G, Gimenez-Roqueplo   A-P, Grebe   SKG, Murad   MH, et al.   Pheochromocytoma and paraganglioma: an endocrine society clinical practice guideline. J Clin Endocrinol Metab  2014;99:1915–42. https://doi.org/10.1210/jc.2014-1498
+Google ScholarCrossrefPubMedWorldCat 
+306	Poulter   NR, Prabhakaran   D, Caulfield   M. Hypertension. Lancet  2015;386:801–12. https://doi.org/10.1016/s0140-6736(14)61468-9
+Google ScholarCrossrefPubMedWorldCat 
+307	Mills   KT, Bundy   JD, Kelly   TN, Reed   JE, Kearney   PM, Reynolds   K, et al.   Global disparities of hypertension prevalence and control: a systematic analysis of population-based studies from 90 countries. Circulation  2016;134:441–50. https://doi.org/10.1161/circulationaha.115.018912
+Google ScholarCrossrefPubMedWorldCat 
+308	Wei   FF, Zhang   ZY, Huang   QF, Staessen   JA. Diagnosis and management of resistant hypertension: state of the art. Nat Rev Nephrol  2018;14:428–41. https://doi.org/10.1038/s41581-018-0006-6
+Google ScholarCrossrefPubMedWorldCat 
+309	Carey   RM, Calhoun   DA, Bakris   GL, Brook   RD, Daugherty   SL, Dennison-Himmelfarb Cheryl   R, et al.   Resistant hypertension: detection, evaluation, and management: a scientific statement from the American Heart Association. Hypertension  2018;72:e53–90. https://doi.org/10.1161/hyp.0000000000000084
+Google ScholarCrossrefPubMedWorldCat 
+310	Carey   RM, Sakhuja   S, Calhoun   DA, Whelton   PK, Muntner   P. Prevalence of apparent treatment-resistant hypertension in the United States. Hypertension  2019;73:424–31. https://doi.org/10.1161/hypertensionaha.118.12191
+Google ScholarCrossrefPubMedWorldCat 
+311	Vongpatanasin   W. Resistant hypertension: a review of diagnosis and management. JAMA  2014;311:2216–24. https://doi.org/10.1001/jama.2014.5180
+Google ScholarCrossrefPubMedWorldCat 
+312	Azizi   M, Sapoval   M, Gosse   P, Monge   M, Bobrie   G, Delsart   P, et al.   Optimum and stepped care standardised antihypertensive treatment with or without renal denervation for resistant hypertension (DENERHTN): a multicentre, open-label, randomised controlled trial. Lancet  2015;385:1957–65. https://doi.org/10.1016/s0140-6736(14)61942-5
+Google ScholarCrossrefPubMedWorldCat 
+313	Rossi   GP, Bernini   G, Caliumi   C, Desideri   G, Fabris   B, Ferri   C, et al.   A prospective study of the prevalence of primary aldosteronism in 1,125 hypertensive patients. J Am Coll Cardiol  2006;48:2293–300. https://doi.org/10.1016/j.jacc.2006.07.059
+Google ScholarCrossrefPubMedWorldCat 
+314	Pedrosa   RP, Drager   LF, Gonzaga   CC, Sousa   MG, de Paula   LKG, Amaro   ACS, et al.   Obstructive sleep apnea: the most common secondary cause of hypertension associated with resistant hypertension. Hypertension  2011;58:811–7. https://doi.org/10.1161/hypertensionaha.111.179788
+Google ScholarCrossrefPubMedWorldCat 
+315	Douma   S, Petidis   K, Doumas   M, Papaefthimiou   P, Triantafyllou   A, Kartali   N, et al.   Prevalence of primary hyperaldosteronism in resistant hypertension: a retrospective observational study. Lancet  2008;371:1921–6. https://doi.org/10.1016/s0140-6736(08)60834-x
+Google ScholarCrossrefPubMedWorldCat 
+316	Monticone   S, Burrello   J, Tizzani   D, Bertello   C, Viola   A, Buffolo   F, et al.   Prevalence and clinical manifestations of primary aldosteronism encountered in primary care practice. J Am Coll Cardiol  2017;69:1811–20. https://doi.org/10.1016/j.jacc.2017.01.052
+Google ScholarCrossrefPubMedWorldCat 
+317	Käyser   SC, Deinum   J, de Grauw   WJ, Schalk   BWM, Bor   HJHJ, Lenders   JWM, et al.   Prevalence of primary aldosteronism in primary care: a cross-sectional study. Br J Gen Pract  2018;68:e114–22. https://doi.org/10.3399/bjgp18X694589
+Google ScholarCrossrefPubMedWorldCat 
+318	Rimoldi   SF, Scherrer   U, Messerli   FH. Secondary arterial hypertension: when, who, and how to screen?  Eur Heart J  2014;35:1245–54. https://doi.org/10.1093/eurheartj/eht534
+Google ScholarCrossrefPubMedWorldCat 
+319	Rossi   GP, Bisogni   V, Rossitto   G, Maiolino   G, Cesari   M, Zhu   R, et al.   Practice recommendations for diagnosis and treatment of the most common forms of secondary hypertension. High Blood Press Cardiovasc Prev  2020;27:547–60. https://doi.org/10.1007/s40292-020-00415-9
+Google ScholarCrossrefPubMedWorldCat 
+320	Calhoun   DA, Nishizaka   MK, Zaman   MA, Thakkar   RB, Weissmann   P. Hyperaldosteronism among black and white subjects with resistant hypertension. Hypertension  2002;40:892–6. https://doi.org/10.1161/01.hyp.0000040261.30455.b6
+Google ScholarCrossrefPubMedWorldCat 
+321	Jaffe   G, Gray   Z, Krishnan   G, Stedman   M, Zheng   Y, Han   J, et al.   Screening rates for primary aldosteronism in resistant hypertension: a cohort study. Hypertension  2020;75:650–9. https://doi.org/10.1161/hypertensionaha.119.14359
+Google ScholarCrossrefPubMedWorldCat 
+322	Hundemer   GL, Imsirovic   H, Vaidya   A, Yozamp   N, Goupil   R, Madore   F, et al.   Screening rates for primary aldosteronism among individuals with hypertension plus hypokalemia: a population-based retrospective cohort study. Hypertension  2022;79:178–86. https://doi.org/10.1161/hypertensionaha.121.18118
+Google ScholarCrossrefPubMedWorldCat 
+323	Monticone   S, D’Ascenzo   F, Moretti   C, Williams   TA, Veglio   F, Gaita   F, et al.   Cardiovascular events and target organ damage in primary aldosteronism compared with essential hypertension: a systematic review and meta-analysis. Lancet Diabetes Endocrinol  2018;6:41–50. https://doi.org/10.1016/s2213-8587(17)30319-4
+Google ScholarCrossrefPubMedWorldCat 
+324	Savard   S, Amar   L, Plouin   PF, Steichen   O. Cardiovascular complications associated with primary aldosteronism: a controlled cross-sectional study. Hypertension  2013;62:331–6. https://doi.org/10.1161/hypertensionaha.113.01060
+Google ScholarCrossrefPubMedWorldCat 
+325	Hiramatsu   K, Yamada   T, Yukimura   Y, Komiya   I, Ichikawa   K, Ishihara   M, et al.   A screening test to identify aldosterone-producing adenoma by measuring plasma renin activity. Results in hypertensive patients. Arch Intern Med  1981;141:1589–93. https://doi.org/10.1001/archinte.1981.00340130033011
+Google ScholarCrossrefPubMedWorldCat 
+326	Rossi   GP. Primary aldosteronism: JACC state-of-the-art review. J Am Coll Cardiol  2019;74:2799–811. https://doi.org/10.1016/j.jacc.2019.09.057
+Google ScholarCrossrefPubMedWorldCat 
+327	Rossi   GP, Ceolotto   G, Rossitto   G, Maiolino   G, Cesari   M, Seccia   TM. Effects of mineralocorticoid and AT1 receptor antagonism on the aldosterone-renin ratio in primary aldosteronism—the EMIRA study. J Clin Endocrinol Metab  2020;105:2060–7. https://doi.org/10.1210/clinem/dgaa080
+Google ScholarCrossrefWorldCat 
+328	Rossi   GP, Bisogni   V, Bacca   AV, Bacca   AV, Belfiore   A, Cesari   M, et al.   The 2020 Italian Society of Arterial Hypertension (SIIA) practical guidelines for the management of primary aldosteronism. Int J Cardiol Hypertens  2020;5:100029. https://doi.org/10.1016/j.ijchy.2020.100029
+Google ScholarCrossrefPubMedWorldCat 
+329	Faconti   L, Kulkarni   S, Delles   C, Kapil   V, Lewis   P, Glover   M, et al.   Diagnosis and management of primary hyperaldosteronism in patients with hypertension: a practical approach endorsed by the British and Irish Hypertension Society. J Hum Hypertens  2024;38:8–18. https://doi.org/10.1038/s41371-023-00875-1
+Google ScholarCrossrefPubMedWorldCat 
+330	Olin   JW, Gornik   HL, Bacharach   JM, Biller   J, Fine   LJ, Gray   BH, et al.   Fibromuscular dysplasia: state of the science and critical unanswered questions: a scientific statement from the American Heart Association. Circulation  2014;129:1048–78. https://doi.org/10.1161/01.cir.0000442577.96802.8c
+Google ScholarCrossrefPubMedWorldCat 
+331	Faconti   L, Morselli   F, Sinha   M, Chrysochou   C, Chowienczyk   PJ. Fibromuscular dysplasia and hypertension—a statement on behalf of the British and Irish Hypertension Society. J Hum Hypertens  2021;35:1051–3. https://doi.org/10.1038/s41371-020-00456-6
+Google ScholarCrossrefPubMedWorldCat 
+332	Gornik   HL, Persu   A, Adlam   D, Aparicio   LS, Azizi   M, Boulanger   M, et al.   First international consensus on the diagnosis and management of fibromuscular dysplasia. J Hypertens  2019;37:229–52. https://doi.org/10.1097/hjh.0000000000002019
+Google ScholarCrossrefPubMedWorldCat 
+333	Abrishami   A, Khajehdehi   A, Chung   F. A systematic review of screening questionnaires for obstructive sleep apnea. Can J Anaesth  2010;57:423–38. https://doi.org/10.1007/s12630-010-9280-x
+Google ScholarCrossrefPubMedWorldCat 
+334	Chai-Coetzer   CL, Antic   NA, Hamilton   GS, McArdle   N, Wong   K, Yee   BJ, et al.   Physician decision making and clinical outcomes with laboratory polysomnography or limited-channel sleep studies for obstructive sleep apnea: a randomized trial. Ann Intern Med  2017;166:332–40. https://doi.org/10.7326/m16-1301
+Google ScholarCrossrefPubMedWorldCat 
+335	Lenders   JW, Eisenhofer   G, Mannelli   M, Pacak   K. Phaeochromocytoma. Lancet  2005;366:665–75. https://doi.org/10.1016/s0140-6736(05)67139-5
+Google ScholarCrossrefPubMedWorldCat 
+336	Lenders   JWM, Kerstens   MN, Amar   L, Prejbisz   A, Robledo   M, Taieb   D, et al.   Genetics, diagnosis, management and future directions of research of phaeochromocytoma and paraganglioma: a position statement and consensus of the Working Group on Endocrine Hypertension of the European Society of Hypertension. J Hypertens  2020;38:1443–56. https://doi.org/10.1097/hjh.0000000000002438
+Google ScholarCrossrefPubMedWorldCat 
+337	Mannelli   M, Ianni   L, Cilotti   A, Conti   A. Pheochromocytoma in Italy: a multicentric retrospective study. Eur J Endocrinol  1999;141:619–24. https://doi.org/10.1530/eje.0.1410619
+Google ScholarPubMedWorldCat 
+338	Neumann   HPH, Young   WF  Jr, Eng   C. Pheochromocytoma and paraganglioma. N Engl J Med  2019;381:552–65. https://doi.org/10.1056/NEJMra1806651
+Google ScholarCrossrefPubMedWorldCat 
+339	Hundemer   GL, Curhan   GC, Yozamp   N, Wang   M, Vaidya   A. Cardiometabolic outcomes and mortality in medically treated primary aldosteronism: a retrospective cohort study. Lancet Diabetes Endocrinol  2018;6:51–9. https://doi.org/10.1016/s2213-8587(17)30367-4
+Google ScholarCrossrefPubMedWorldCat 
+340	Jackson   R, Lawes   CM, Bennett   DA, Milne   RJ, Rodgers   A. Treatment with drugs to lower blood pressure and blood cholesterol based on an individual’s absolute cardiovascular risk. Lancet  2005;365:434–41.
+Google ScholarCrossrefPubMedWorldCat 
+341	Yang   L, Sun   J, Zhao   M, Liang   Y, Bovet   P, Xi   B. Elevated blood pressure in childhood and hypertension risk in adulthood: a systematic review and meta-analysis. J Hypertens  2020;38:2346–55. https://doi.org/10.1097/hjh.0000000000002550
+Google ScholarCrossrefPubMedWorldCat 
+342	Allen   NB, Krefman   AE, Labarthe   D, Greenland   P, Juonala   M, Kähönen   M, et al.   Cardiovascular health trajectories from childhood through middle age and their association with subclinical atherosclerosis. JAMA Cardiol  2020;5:557–66. https://doi.org/10.1001/jamacardio.2020.0140
+Google ScholarCrossrefPubMedWorldCat 
+343	de Simone   G, Mancusi   C, Hanssen   H, Genovesi   S, Lurbe   E, Parati   G, et al.   Hypertension in children and adolescents. Eur Heart J  2022;43:3290–301. https://doi.org/10.1093/eurheartj/ehac328
+Google ScholarCrossrefPubMedWorldCat 
+344	Falkstedt   D, Koupil   I, Hemmingsson   T. Blood pressure in late adolescence and early incidence of coronary heart disease and stroke in the Swedish 1969 conscription cohort. J Hypertens  2008;26:1313–20. https://doi.org/10.1097/HJH.0b013e3282ffb17e
+Google ScholarCrossrefPubMedWorldCat 
+345	Jacobs   DR  Jr, Woo   JG, Sinaiko   AR, Daniels   SR, Ikonen   J, Juonala   M, et al.   Childhood cardiovascular risk factors and adult cardiovascular events. N Engl J Med  2022;386:1877–88. https://doi.org/10.1056/NEJMoa2109191
+Google ScholarCrossrefPubMedWorldCat 
+346	Oikonen   M, Nuotio   J, Magnussen   CG, Viikari   JSA, Taittonen   L, Laitinen   T, et al.   Repeated blood pressure measurements in childhood in prediction of hypertension in adulthood. Hypertension  2016;67:41–7. https://doi.org/10.1161/hypertensionaha.115.06395
+Google ScholarCrossrefPubMedWorldCat 
+347	Garcia-Lunar   I, van der Ploeg   HP, Fernández Alvira   JM, van Nassau   F, Castellano Vázquez   JM, van der Beek   AJ, et al.   Effects of a comprehensive lifestyle intervention on cardiovascular health: the TANSNIP-PESA trial. Eur Heart J  2022;43:3732–45. https://doi.org/10.1093/eurheartj/ehac378
+Google ScholarCrossrefPubMedWorldCat 
+348	Neal   B, Wu   Y, Feng   X, Zhang   R, Zhang   Y, Shi   J, et al.   Effect of salt substitution on cardiovascular events and death. N Engl J Med  2021;385:1067–77. https://doi.org/10.1056/NEJMoa2105675
+Google ScholarCrossrefPubMedWorldCat 
+349	He   FJ, Tan   M, Ma   Y, MacGregor   GA. Salt reduction to prevent hypertension and cardiovascular disease: JACC state-of-the-art review. J Am Coll Cardiol  2020;75:632–47. https://doi.org/10.1016/j.jacc.2019.11.055
+Google ScholarCrossrefPubMedWorldCat 
+350	Ma   Y, He   FJ, Sun   Q, Yuan   C, Kieneker   LM, Curhan   GC, et al.   24-Hour urinary sodium and potassium excretion and cardiovascular risk. N Engl J Med  2022;386:252–63. https://doi.org/10.1056/NEJMoa2109794
+Google ScholarCrossrefPubMedWorldCat 
+351	Ma   H, Xue   Q, Wang   X, Li   X, Franco   OH, Li   Y, et al.   Adding salt to foods and hazard of premature mortality. Eur Heart J  2022;43:2878–88. https://doi.org/10.1093/eurheartj/ehac208
+Google ScholarCrossrefPubMedWorldCat 
+352	Huang   L, Trieu   K, Yoshimura   S, M  Woodward, N  Campbell, D  Lackland, et al.   Effect of dose and duration of reduction in dietary sodium on blood pressure levels: systematic review and meta-analysis of randomised trials. BMJ  2020;368:m315. https://doi.org/10.1136/bmj.m315
+Google ScholarPubMedWorldCat 
+353	Graudal   N, Hubeck-Graudal   T, Jürgens   G, Taylor   RS. Dose-response relation between dietary sodium and blood pressure: a meta-regression analysis of 133 randomized controlled trials. Am J Clin Nutr  2019;109:1273–8. https://doi.org/10.1093/ajcn/nqy384
+Google ScholarCrossrefPubMedWorldCat 
+354	Graudal   NA, Hubeck-Graudal   T, Jurgens   G. Effects of low sodium diet versus high sodium diet on blood pressure, renin, aldosterone, catecholamines, cholesterol, and triglyceride. Cochrane Database Syst Rev  2020;12:CD004022. https://doi.org/10.1002/14651858.CD004022.pub5
+Google ScholarPubMedWorldCat 
+355	Filippini   T, Malavolti   M, Whelton   PK, Naska   A, Orsini   N, Vinceti   M. Blood pressure effects of sodium reduction: dose–response meta-analysis of experimental studies. Circulation  2021;143:1542–67. https://doi.org/10.1161/circulationaha.120.050371
+Google ScholarCrossrefPubMedWorldCat 
+356	Gupta   DK, Lewis   CE, Varady   KA, Su   YR, Madhur   MS, Lackland   DT, et al.   Effect of dietary sodium on blood pressure: a crossover trial. JAMA  2023;330:2258 . https://doi.org/10.1001/jama.2023.23651
+Google ScholarCrossrefPubMedWorldCat 
+357	He   J, Gu   D, Chen   J, Jaquish   CE, Rao   DC, Hixson   JE, et al.   Gender difference in blood pressure responses to dietary sodium intervention in the GenSalt study. J Hypertens  2009;27:48–54. https://doi.org/10.1097/hjh.0b013e328316bb87
+Google ScholarCrossrefPubMedWorldCat 
+358	Sacks   FM, Svetkey   LP, Vollmer   WM, Appel   LJ, Bray   GA, Harsha   D, et al.   Effects on blood pressure of reduced dietary sodium and the Dietary Approaches to Stop Hypertension (DASH) diet. N Engl J Med  2001;344:3–10. https://doi.org/10.1056/nejm200101043440101
+Google ScholarCrossrefPubMedWorldCat 
+359	MacGregor   GA, Markandu   ND, Sagnella   GA, Singer   DR, Cappuccio   FP. Double-blind study of three sodium intakes and long-term effects of sodium restriction in essential hypertension. Lancet  1989;2:1244–7. https://doi.org/10.1016/s0140-6736(89)91852-7
+Google ScholarPubMedWorldCat 
+360	Whelton   PK, Appel   LJ, Espeland   MA, Applegate   WB, Ettinger   WH  Jr, Kostis   JB, et al.   Sodium reduction and weight loss in the treatment of hypertension in older persons: a randomized controlled trial of nonpharmacologic interventions in the elderly (TONE). JAMA  1998;279:839–46. https://doi.org/10.1001/jama.279.11.839
+Google ScholarCrossrefPubMedWorldCat 
+361	He   FJ, Li   J, Macgregor   GA. Effect of longer term modest salt reduction on blood pressure: Cochrane systematic review and meta-analysis of randomised trials. BMJ  2013;346:f1325. https://doi.org/10.1136/bmj.f1325
+Google ScholarCrossrefPubMedWorldCat 
+362	Stolarz-Skrzypek   K, Kuznetsova   T, Thijs   L, Tikhonoff   V, Seidlerová   J, Richart   T, et al.   Fatal and nonfatal outcomes, incidence of hypertension, and blood pressure changes in relation to urinary sodium excretion. JAMA  2011;305:1777–85. https://doi.org/10.1001/jama.2011.574
+Google ScholarCrossrefPubMedWorldCat 
+363	Messerli   FH, Hofstetter   L, Syrogiannouli   L, Rexhaj   E, Siontis   GCM, Seiler   C, et al.   Sodium intake, life expectancy, and all-cause mortality. Eur Heart J  2021;42:2103–12. https://doi.org/10.1093/eurheartj/ehaa947
+Google ScholarCrossrefPubMedWorldCat 
+364	Mente   A, O’Donnell   M, Rangarajan   S, McQueen   M, Dagenais   G, Wielgosz   A, et al.   Urinary sodium excretion, blood pressure, cardiovascular disease, and mortality: a community-level prospective epidemiological cohort study. Lancet  2018;392:496–506. https://doi.org/10.1016/s0140-6736(18)31376-x
+Google ScholarCrossrefPubMedWorldCat 
+365	Au Yeung   SL, Schooling   CM. Impact of urinary sodium on cardiovascular disease and risk factors: a 2 sample Mendelian randomization study. Clin Nutr  2021;40:1990–6. https://doi.org/10.1016/j.clnu.2020.09.018
+Google ScholarCrossrefPubMedWorldCat 
+366	Zanetti   D, Bergman   H, Burgess   S, Assimes   TL, Bhalla   V, Ingelsson   E. Urinary albumin, sodium, and potassium and cardiovascular outcomes in the UK Biobank: observational and Mendelian randomization analyses. Hypertension  2020;75:714–22. https://doi.org/10.1161/hypertensionaha.119.14028
+Google ScholarCrossrefPubMedWorldCat 
+367	Nolan   P, McEvoy   JW. Salt restriction for treatment of hypertension—current state and future directions. Curr Opin Cardiol  2024;39:61–7. https://doi.org/10.1097/hco.0000000000001098
+Google ScholarCrossrefPubMedWorldCat 
+368	Yuan   Y, Jin   A, Neal   B, Feng   X, Qiao   Q, Wang   H, et al.   Salt substitution and salt-supply restriction for lowering blood pressure in elderly care facilities: a cluster-randomized trial. Nat Med  2023;29:973–81. https://doi.org/10.1038/s41591-023-02286-8
+Google ScholarCrossrefPubMedWorldCat 
+369	Lechner   K, Schunkert   H. Recommendations on sodium intake for cardiovascular health: conviction or evidence?  Eur Heart J  2020;41:3374–5. https://doi.org/10.1093/eurheartj/ehaa545
+Google ScholarCrossrefPubMedWorldCat 
+370	O’Donnell   M, Mente   A, Alderman   MH, Brady   AJB, Diaz   R, Gupta   R, et al.   Salt and cardiovascular disease: insufficient evidence to recommend low sodium intake. Eur Heart J  2020;41:3363–73. https://doi.org/10.1093/eurheartj/ehaa586
+Google ScholarCrossrefPubMedWorldCat 
+371	Aburto   NJ, Hanson   S, Gutierrez   H, Hooper   L, Elliott   P, Cappuccio   FP. Effect of increased potassium intake on cardiovascular risk factors and disease: systematic review and meta-analyses. BMJ  2013;346:f1378. https://doi.org/10.1136/bmj.f1378
+Google ScholarCrossrefPubMedWorldCat 
+372	O’Donnell   M, Mente   A, Rangarajan   S, McQueen   MJ, Wang   X, Liu   L, et al.   Urinary sodium and potassium excretion, mortality, and cardiovascular events. N Engl J Med  2014;371:612–23. https://doi.org/10.1056/NEJMoa1311889
+Google ScholarCrossrefPubMedWorldCat 
+373	Wouda   RD, Boekholdt   SM, Khaw   KT, Wareham   NJ, de Borst   MH, Hoorn   EJ, et al.   Sex-specific associations between potassium intake, blood pressure, and cardiovascular outcomes: the EPIC-Norfolk study. Eur Heart J  2022;43:2867–75. https://doi.org/10.1093/eurheartj/ehac313
+Google ScholarCrossrefPubMedWorldCat 
+374	Filippini   T, Naska   A, Kasdagli   MI, Torres   D, Lopes   C, Carvalho   C, et al.   Potassium intake and blood pressure: a dose-response meta-analysis of randomized controlled trials. J Am Heart Assoc  2020;9:e015719. https://doi.org/10.1161/jaha.119.015719
+Google ScholarCrossrefPubMedWorldCat 
+375	O’Donnell   M, Yusuf   S, Vogt   L, Mente   A, Messerli   FH. Potassium intake: the Cinderella electrolyte. Eur Heart J  2023;44:4925–34. https://doi.org/10.1093/eurheartj/ehad628
+Google ScholarCrossrefPubMedWorldCat 
+376	Kidney Disease Outcomes Quality Initiative (K/DOQI). K/DOQI clinical practice guidelines on hypertension and antihypertensive agents in chronic kidney disease. Am J Kidney Dis  2004;43:S1–290. https://doi.org/10.1053/j.ajkd.2004.03.006
+PubMedWorldCat 
+377	Ndanuko   RN, Ibrahim   R, Hapsari   RA, Neale   EP, Raubenheimer   D, Charlton   KE. Association between the urinary sodium to potassium ratio and blood pressure in adults: a systematic review and meta-analysis. Adv Nutr  2021;12:1751–67. https://doi.org/10.1093/advances/nmab036
+Google ScholarCrossrefPubMedWorldCat 
+378	Messerli   FH, O’Donnell   M, Mente   A, Yusuf   S. Settling the controversy of salt substitutes and stroke: sodium reduction or potassium increase?  Eur Heart J  2022;43:3365–7. https://doi.org/10.1093/eurheartj/ehac160
+Google ScholarCrossrefPubMedWorldCat 
+379	Yin   X, Paige   E, Tian   M, Li   Q, Huang   L, Yu   J, et al.   The proportion of dietary salt replaced with potassium-enriched salt in the SSaSS: implications for scale-up. Hypertension  2023;80:956–65. https://doi.org/10.1161/hypertensionaha.122.20115
+Google ScholarCrossrefPubMedWorldCat 
+380	Xu   X, Zeng   L, Jha   V, Cobb   LK, Shibuya   K, Appel   LJ, et al.   Potassium-enriched salt substitutes: a review of recommendations in clinical management guidelines. Hypertension  2024;81:400–14. https://doi.org/10.1161/hypertensionaha.123.21343
+Google ScholarCrossrefPubMedWorldCat 
+381	Hanssen   H, Boardman   H, Deiseroth   A, Moholdt   T, Simonenko   M, Kränkel   N, et al.   Personalized exercise prescription in the prevention and treatment of arterial hypertension: a consensus document from the European Association of Preventive Cardiology (EAPC) and the ESC Council on Hypertension. Eur J Prev Cardiol  2022;29:205–15. https://doi.org/10.1093/eurjpc/zwaa141
+Google ScholarCrossrefPubMedWorldCat 
+382	Van Hoof   R, Hespel   P, Fagard   R, Lijnen   P, Staessen   J, Amery   A. Effect of endurance training on blood pressure at rest, during exercise and during 24 hours in sedentary men. Am J Cardiol  1989;63:945–9. https://doi.org/10.1016/0002-9149(89)90145-8
+Google ScholarCrossrefPubMedWorldCat 
+383	MacDonald   HV, Johnson   BT, Huedo-Medina   TB, Livingston   J, Forsyth   KC, Kraemer   WJ, et al.   Dynamic resistance training as stand-alone antihypertensive lifestyle therapy: a meta-analysis. J Am Heart Assoc  2016;5:e003231. https://doi.org/10.1161/jaha.116.003231
+Google ScholarCrossrefPubMedWorldCat 
+384	Hansford   HJ, Parmenter   BJ, McLeod   KA, Wewege   MA, Smart   NA, Schutte   AE, et al.   The effectiveness and safety of isometric resistance training for adults with high blood pressure: a systematic review and meta-analysis. Hypertens Res  2021;44:1373–84. https://doi.org/10.1038/s41440-021-00720-3
+Google ScholarCrossrefPubMedWorldCat 
+385	Van Hoof   R, Macor   F, Lijnen   P, Staessen   J, Thijs   L, Vanhees   L, et al.   Effect of strength training on blood pressure measured in various conditions in sedentary men. Int J Sports Med  1996;17:415–22. https://doi.org/10.1055/s-2007-972871
+Google ScholarCrossrefPubMedWorldCat 
+386	Leal   JM, Galliano   LM, Del Vecchio   FB. Effectiveness of high-intensity interval training versus moderate-intensity continuous training in hypertensive patients: a systematic review and meta-analysis. Curr Hypertens Rep  2020;22:26. https://doi.org/10.1007/s11906-020-1030-z
+Google ScholarCrossrefPubMedWorldCat 
+387	Rossi   A, Dikareva   A, Bacon   SL, Daskalopoulou   SS. The impact of physical activity on mortality in patients with high blood pressure: a systematic review. J Hypertens  2012;30:1277–88. https://doi.org/10.1097/HJH.0b013e3283544669
+Google ScholarCrossrefPubMedWorldCat 
+388	Cuspidi   C, Gherbesi   E, Faggiano   A, Sala   C, Carugo   S, Grassi   G, et al.   Masked hypertension and exaggerated blood pressure response to exercise: a review and meta-analysis. Diagnostics (Basel)  2023;13:1005. https://doi.org/10.3390/diagnostics13061005
+Google ScholarCrossrefPubMedWorldCat 
+389	Mariampillai   JE, Liestøl   K, Kjeldsen   SE, Prestgaard   EE, Engeseth   K, Bodegard   J, et al.   Exercise systolic blood pressure at moderate workload is linearly associated with coronary disease risk in healthy men. Hypertension  2020;75:44–50. https://doi.org/10.1161/hypertensionaha.119.13528
+Google ScholarCrossrefPubMedWorldCat 
+390	Pelliccia   A, Sharma   S, Gati   S, Bäck   M, Börjesson   M, Caselli   S. 2020 ESC Guidelines on sports cardiology and exercise in patients with cardiovascular disease. Eur Heart J  2021;42:17–96. https://doi.org/10.1093/eurheartj/ehaa605
+Google ScholarCrossrefPubMedWorldCat 
+391	Bull   FC, Al-Ansari   SS, Biddle   S, Borodulin   K, Buman   MP, Cardon   G, et al.   World Health Organization 2020 guidelines on physical activity and sedentary behaviour. Br J Sports Med  2020;54:1451–62. https://doi.org/10.1136/bjsports-2020-102955
+Google ScholarCrossrefPubMedWorldCat 
+392	Saco-Ledo   G, Valenzuela   PL, Ramírez-Jiménez   M, Morales   JS, Castillo-García   A, Blumenthal   JA, et al.   Acute aerobic exercise induces short-term reductions in ambulatory blood pressure in patients with hypertension: a systematic review and meta-analysis. Hypertension  2021;78:1844–58. https://doi.org/10.1161/hypertensionaha.121.18099
+Google ScholarCrossrefPubMedWorldCat 
+393	Garber   CE, Blissmer   B, Deschenes   MR, Franklin   BA, Lamonte   MJ, Lee   I-M, et al.   American College of Sports Medicine position stand. Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise. Med Sci Sports Exerc  2011;43:1334–59. https://doi.org/10.1249/MSS.0b013e318213fefb
+Google ScholarCrossrefPubMedWorldCat 
+394	Edwards   JJ, Deenmamode   AHP, Griffiths   M, Arnold   O, Cooper   NJ, Wiles   JD, et al.   Exercise training and resting blood pressure: a large-scale pairwise and network meta-analysis of randomised controlled trials. Br J Sports Med  2023;57:1317–26. https://doi.org/10.1136/bjsports-2022-106503
+Google ScholarCrossrefPubMedWorldCat 
+395	Fletcher   GF, Ades   PA, Kligfield   P, Arena   R, Balady   GJ, Bittner   VA, et al.   Exercise standards for testing and training: a scientific statement from the American Heart Association. Circulation  2013;128:873–934. https://doi.org/10.1161/CIR.0b013e31829b5b44
+Google ScholarCrossrefPubMedWorldCat 
+396	Craft   BB, Carroll   HA, Lustyk   MK. Gender differences in exercise habits and quality of life reports: assessing the moderating effects of reasons for exercise. Int J Lib Arts Soc Sci  2014;2:65–76.
+Google ScholarPubMedWorldCat 
+397	Mathieu   P, Poirier   P, Pibarot   P, Lemieux   I, Després   JP. Visceral obesity: the link among inflammation, hypertension, and cardiovascular disease. Hypertension  2009;53:577–84. https://doi.org/10.1161/hypertensionaha.108.110320
+Google ScholarCrossrefPubMedWorldCat 
+398	Chandra   A, Neeland   IJ, Berry   JD, Ayers   CR, Rohatgi   A, Das   SR, et al.   The relationship of body mass and fat distribution with incident hypertension: observations from the Dallas heart study. J Am Coll Cardiol  2014;64:997–1002. https://doi.org/10.1016/j.jacc.2014.05.057
+Google ScholarCrossrefPubMedWorldCat 
+399	Neter   JE, Stam   BE, Kok   FJ, Grobbee   DE, Geleijnse   JM. Influence of weight reduction on blood pressure: a meta-analysis of randomized controlled trials. Hypertension  2003;42:878–84. https://doi.org/10.1161/01.Hyp.0000094221.86888.Ae
+Google ScholarCrossrefPubMedWorldCat 
+400	Haase   CL, Lopes   S, Olsen   AH, Satylganova   A, Schnecke   V, McEwan   P. Weight loss and risk reduction of obesity-related outcomes in 0.5 million people: evidence from a UK primary care database. Int J Obes (Lond)  2021;45:1249–58. https://doi.org/10.1038/s41366-021-00788-4
+Google ScholarCrossrefPubMedWorldCat 
+401	Moore   LL, Visioni   AJ, Qureshi   MM, Bradlee   ML, Ellison   RC, D’Agostino   R. Weight loss in overweight adults and the long-term risk of hypertension: the Framingham study. Arch Intern Med  2005;165:1298–303. https://doi.org/10.1001/archinte.165.11.1298
+Google ScholarCrossrefPubMedWorldCat 
+402	Zomer   E, Gurusamy   K, Leach   R, Trimmer   C, Lobstein   T, Morris   S, et al.   Interventions that cause weight loss and the impact on cardiovascular risk factors: a systematic review and meta-analysis. Obes Rev  2016;17:1001–11. https://doi.org/10.1111/obr.12433
+Google ScholarCrossrefPubMedWorldCat 
+403	Wing   RR, Espeland   MA, Clark   JM, Hazuda   HP, Knowler   WC, Pownall   HJ, et al.   Association of weight loss maintenance and weight regain on 4-year changes in CVD risk factors: the action for health in diabetes (Look AHEAD) clinical trial. Diabetes Care  2016;39:1345–55. https://doi.org/10.2337/dc16-0509
+Google ScholarPubMedWorldCat 
+404	Ma   C, Avenell   A, Bolland   M, Hudson   J, Stewart   F, Robertson   C, et al.   Effects of weight loss interventions for adults who are obese on mortality, cardiovascular disease, and cancer: systematic review and meta-analysis. BMJ  2017;359:j4849. https://doi.org/10.1136/bmj.j4849
+Google ScholarPubMedWorldCat 
+405	Semlitsch   T, Krenn   C, Jeitler   K, Berghold   A, Horvath   K, Siebenhofer   A. Long-term effects of weight-reducing diets in people with hypertension. Cochrane Database Syst Rev  2021;2:CD008274. https://doi.org/10.1002/14651858.CD008274.pub4
+Google ScholarPubMedWorldCat 
+406	Wing   RR, Bolin   P, Brancati   FL, Bray   GA, Clark   JM, Coday   M, et al.   Cardiovascular effects of intensive lifestyle intervention in type 2 diabetes. N Engl J Med  2013;369:145–54. https://doi.org/10.1056/NEJMoa1212914
+Google ScholarPubMedWorldCat 
+407	Pagidipati   NJ, Phelan   M, Page   C, Clowse   M, Henao   R, Peterson   ED, et al.   The importance of weight stabilization amongst those with overweight or obesity: results from a large health care system. Prev Med Rep  2021;24:101615. https://doi.org/10.1016/j.pmedr.2021.101615
+Google ScholarCrossrefPubMedWorldCat 
+408	Estruch   R, Ros   E, Salas-Salvadó   J, Covas   M-I, Corella   D, Arós   F, et al.   Primary prevention of cardiovascular disease with a Mediterranean diet supplemented with extra-virgin olive oil or nuts. N Engl J Med  2018;378:e34. https://doi.org/10.1056/NEJMoa1800389
+Google ScholarPubMedWorldCat 
+409	Delgado-Lista   J, Alcala-Diaz   JF, Torres-Peña   JD, Quintana-Navarro   GM, Fuentes   F, Garcia-Rios   A, et al.   Long-term secondary prevention of cardiovascular disease with a Mediterranean diet and a low-fat diet (CORDIOPREV): a randomised controlled trial. Lancet  2022;399:1876–85. https://doi.org/10.1016/s0140-6736(22)00122-2
+Google ScholarCrossrefPubMedWorldCat 
+410	Blumenthal   JA, Babyak   MA, Hinderliter   A, Watkins   LL, Craighead   L, Lin   P-H, et al.   Effects of the DASH diet alone and in combination with exercise and weight loss on blood pressure and cardiovascular biomarkers in men and women with high blood pressure: the ENCORE study. Arch Intern Med  2010;170:126–35. https://doi.org/10.1001/archinternmed.2009.470
+Google ScholarCrossrefPubMedWorldCat 
+411	Juraschek   SP, Miller   ER  III, Weaver   CM, Appel   LJ. Effects of sodium reduction and the DASH diet in relation to baseline blood pressure. J Am Coll Cardiol  2017;70:2841–8. https://doi.org/10.1016/j.jacc.2017.10.011
+Google ScholarCrossrefPubMedWorldCat 
+412	Gay   HC, Rao   SG, Vaccarino   V, Ali   MK. Effects of different dietary interventions on blood pressure: systematic review and meta-analysis of randomized controlled trials. Hypertension  2016;67:733–9. https://doi.org/10.1161/hypertensionaha.115.06853
+Google ScholarCrossrefPubMedWorldCat 
+413	Siebenhofer   A, Winterholer   S, Jeitler   K, Horvath   K, Berghold   A, Krenn   C, et al.   Long-term effects of weight-reducing drugs in people with hypertension. Cochrane Database Syst Rev  2021;1:CD007654. https://doi.org/10.1002/14651858.CD007654.pub5
+Google ScholarPubMedWorldCat 
+414	Müller   TD, Blüher   M, Tschöp   MH, DiMarchi   RD. Anti-obesity drug discovery: advances and challenges. Nat Rev Drug Discov  2022;21:201–23. https://doi.org/10.1038/s41573-021-00337-8
+Google ScholarCrossrefPubMedWorldCat 
+415	Wilding   JPH, Batterham   RL, Calanna   S, Davies   M, Van Gaal   LF, Lingvay   I, et al.   Once-weekly semaglutide in adults with overweight or obesity. N Engl J Med  2021;384:989–1002. https://doi.org/10.1056/NEJMoa2032183
+Google ScholarCrossrefPubMedWorldCat 
+416	Davies   M, Færch   L, Jeppesen   OK, Pakseresht   A, Pedersen   SD, Perreault   L, et al.   Semaglutide 2·4 mg once a week in adults with overweight or obesity, and type 2 diabetes (STEP 2): a randomised, double-blind, double-dummy, placebo-controlled, phase 3 trial. Lancet  2021;397:971–84. https://doi.org/10.1016/s0140-6736(21)00213-0
+Google ScholarCrossrefPubMedWorldCat 
+417	Tasnim   S, Tang   C, Musini   VM, Wright   JM. Effect of alcohol on blood pressure. Cochrane Database Syst Rev  2020;7:CD012787. https://doi.org/10.1002/14651858.CD012787.pub2
+Google ScholarPubMedWorldCat 
+418	Liu   F, Liu   Y, Sun   X, Yin   Z, Li   H, Deng   K, et al.   Race- and sex-specific association between alcohol consumption and hypertension in 22 cohort studies: a systematic review and meta-analysis. Nutr Metab Cardiovasc Dis  2020;30:1249–59. https://doi.org/10.1016/j.numecd.2020.03.018
+Google ScholarCrossrefPubMedWorldCat 
+419	Griswold   MG, Fullman   N, Hawley   C, Arian   N, Zimsen   SRM, Tymeson   HD, et al.   Alcohol use and burden for 195 countries and territories, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016. Lancet  2018;392:1015–35. https://doi.org/10.1016/s0140-6736(18)31310-2
+Google ScholarCrossrefPubMedWorldCat 
+420	D’Elia   L, La Fata   E, Galletti   F, Scalfi   L, Strazzullo   P. Coffee consumption and risk of hypertension: a dose–response meta-analysis of prospective studies. Eur J Nutr  2019;58:271–80. https://doi.org/10.1007/s00394-017-1591-z
+Google ScholarCrossrefPubMedWorldCat 
+421	Hodgson   JM, Puddey   IB, Woodman   RJ, Mulder   TPJ, Fuchs   D, Scott   K, et al.   Effects of black tea on blood pressure: a randomized controlled trial. Arch Intern Med  2012;172:186–8. https://doi.org/10.1001/archinte.172.2.186
+Google ScholarCrossrefPubMedWorldCat 
+422	Shah   SA, Chu   BW, Lacey   CS, Riddock   IC, Lee   M, Dargush   AE. Impact of acute energy drink consumption on blood pressure parameters: a meta-analysis. Ann Pharmacother  2016;50:808–15. https://doi.org/10.1177/1060028016656433
+Google ScholarCrossrefPubMedWorldCat 
+423	Shah   SA, Szeto   AH, Farewell   R, Shek   A, Fan   D, Quach   KN, et al.   Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial. J Am Heart Assoc  2019;8:e011318. https://doi.org/10.1161/jaha.118.011318
+Google ScholarCrossrefPubMedWorldCat 
+424	Basrai   M, Schweinlin   A, Menzel   J, Mielke   H, Weikert   C, Dusemund   B, et al.   Energy drinks induce acute cardiovascular and metabolic changes pointing to potential risks for young adults: a randomized controlled trial. J Nutr  2019;149:441–50. https://doi.org/10.1093/jn/nxy303
+Google ScholarCrossrefPubMedWorldCat 
+425	Fung   TT, Malik   V, Rexrode   KM, Manson   JE, Willett   WC, Hu   FB. Sweetened beverage consumption and risk of coronary heart disease in women. Am J Clin Nutr  2009;89:1037–42. https://doi.org/10.3945/ajcn.2008.27140
+Google ScholarCrossrefPubMedWorldCat 
+426	Mullee   A, Romaguera   D, Pearson-Stuttard   J, Viallon   V, Stepien   M, Freisling   H, et al.   Association between soft drink consumption and mortality in 10 European countries. JAMA Intern Med  2019;179:1479–90. https://doi.org/10.1001/jamainternmed.2019.2478
+Google ScholarCrossrefPubMedWorldCat 
+427	Farhangi   MA, Nikniaz   L, Khodarahmi   M. Sugar-sweetened beverages increases the risk of hypertension among children and adolescence: a systematic review and dose–response meta-analysis. J Transl Med  2020;18:344. https://doi.org/10.1186/s12967-020-02511-9
+Google ScholarCrossrefPubMedWorldCat 
+428	Critchley   JA, Capewell   S. Mortality risk reduction associated with smoking cessation in patients with coronary heart disease: a systematic review. JAMA  2003;290:86–97. https://doi.org/10.1001/jama.290.1.86
+Google ScholarCrossrefPubMedWorldCat 
+429	Anthonisen   NR, Skeans   MA, Wise   RA, Manfreda   J, Kanner   RE, Connett   JE. The effects of a smoking cessation intervention on 14.5-year mortality: a randomized clinical trial. Ann Intern Med  2005;142:233–9. https://doi.org/10.7326/0003-4819-142-4-200502150-00005
+Google ScholarCrossrefPubMedWorldCat 
+430	Thomson   B, Emberson   J, Lacey   B, Lewington   S, Peto   R, Jemal   A. Association between smoking, smoking cessation, and mortality by race, ethnicity, and sex among US adults. JAMA Netw Open  2022;5:e2231480. https://doi.org/10.1001/jamanetworkopen.2022.31480
+Google ScholarCrossrefPubMedWorldCat 
+431	Yang   JJ, Yu   D, Shu   XO, Wen   W, Rahman   S, Abe   S. Reduction in total and major cause-specific mortality from tobacco smoking cessation: a pooled analysis of 16 population-based cohort studies in Asia. Int J Epidemiol  2022;50:2070–81. https://doi.org/10.1093/ije/dyab087
+Google ScholarCrossrefPubMedWorldCat 
+432	Martinez-Morata   I, Sanchez   TR, Shimbo   D, Navas-Acien   A. Electronic cigarette use and blood pressure endpoints: a systematic review. Curr Hypertens Rep  2020;23:2. https://doi.org/10.1007/s11906-020-01119-0
+Google ScholarCrossrefPubMedWorldCat 
+433	Kim   SY, Jeong   SH, Joo   HJ, Park   M, Park   E-C, Kim   JH, et al.   High prevalence of hypertension among smokers of conventional and e-cigarette: using the nationally representative community dwelling survey. Front Public Health  2022;10:919585. https://doi.org/10.3389/fpubh.2022.919585
+Google ScholarCrossrefPubMedWorldCat 
+434	Groppelli   A, Giorgi   DM, Omboni   S, Parati   G, Mancia   G. Persistent blood pressure increase induced by heavy smoking. J Hypertens  1992;10:495–9. https://doi.org/10.1097/00004872-199205000-00014
+Google ScholarCrossrefPubMedWorldCat 
+435	Primatesta   P, Falaschetti   E, Gupta   S, Marmot   MG, Poulter   NR. Association between smoking and blood pressure: evidence from the health survey for England. Hypertension  2001;37:187–93. https://doi.org/10.1161/01.hyp.37.2.187
+Google ScholarCrossrefPubMedWorldCat 
+436	Stead   LF, Buitrago   D, Preciado   N, Sanchez   G, Hartmann-Boyce   J, Lancaster   T. Physician advice for smoking cessation. Cochrane Database Syst Rev  2013;2013:CD000165. https://doi.org/10.1002/14651858.CD000165.pub4
+Google ScholarPubMedWorldCat 
+437	Rasmussen   M, Lauridsen   SV, Pedersen   B, Backer   V, Tønnesen   H. Intensive versus short face-to-face smoking cessation interventions: a meta-analysis. Eur Respir Rev  2022;31:220063. https://doi.org/10.1183/16000617.0063-2022
+Google ScholarCrossrefPubMedWorldCat 
+438	Filippou   CD, Thomopoulos   CG, Kouremeti   MM, Sotiropoulou   LI, Nihoyannopoulos   PI, Tousoulis   DM, et al.   Mediterranean diet and blood pressure reduction in adults with and without hypertension: a systematic review and meta-analysis of randomized controlled trials. Clin Nutr  2021;40:3191–200. https://doi.org/10.1016/j.clnu.2021.01.030
+Google ScholarCrossrefPubMedWorldCat 
+439	Cowell   OR, Mistry   N, Deighton   K, Matu   J, Griffiths   A, Minihane   AM, et al.   Effects of a Mediterranean diet on blood pressure: a systematic review and meta-analysis of randomized controlled trials and observational studies. J Hypertens  2021;39:729–39. https://doi.org/10.1097/hjh.0000000000002667
+Google ScholarCrossrefPubMedWorldCat 
+440	Roerecke   M, Tobe   SW, Kaczorowski   J, Bacon   SL, Vafaei   A, Hasan   OSM, et al.   Sex-specific associations between alcohol consumption and incidence of hypertension: a systematic review and meta-analysis of cohort studies. J Am Heart Assoc  2018;7:e008202. https://doi.org/10.1161/jaha.117.008202
+Google ScholarCrossrefPubMedWorldCat 
+441	Ding   C, O’Neill   D, Bell   S, Stamatakis   E, Britton   A. Association of alcohol consumption with morbidity and mortality in patients with cardiovascular disease: original data and meta-analysis of 48,423 men and women. BMC Med  2021;19:167. https://doi.org/10.1186/s12916-021-02040-2
+Google ScholarCrossrefPubMedWorldCat 
+442	Marklund   M, Singh   G, Greer   R, Cudhea   F, Matsushita   K, Micha   R, et al.   Estimated population wide benefits and risks in China of lowering sodium through potassium enriched salt substitution: modelling study. BMJ  2020;369:m824. https://doi.org/10.1136/bmj.m824
+Google ScholarPubMedWorldCat 
+443	Pinho-Gomes   AC, Azevedo   L, Copland   E, Canoy   D, Nazarzadeh   M, Ramakrishnan   R, et al.   Blood pressure-lowering treatment for the prevention of cardiovascular events in patients with atrial fibrillation: an individual participant data meta-analysis. PLoS Med  2021;18:e1003599. https://doi.org/10.1371/journal.pmed.1003599
+Google ScholarCrossrefPubMedWorldCat 
+444	Bidel   Z, Nazarzadeh   M, Canoy   D, Copland   E, Gerdts   E, Woodward   M, et al.   Sex-specific effects of blood pressure lowering pharmacotherapy for the prevention of cardiovascular disease: an individual participant-level data meta-analysis. Hypertension  2023;80:2293–302. https://doi.org/10.1161/hypertensionaha.123.21496
+Google ScholarCrossrefPubMedWorldCat 
+445	Nazarzadeh   M, Bidel   Z, Canoy   D, Copland   E, Bennett   DA, Dehghan   A, et al.   Blood pressure-lowering treatment for prevention of major cardiovascular diseases in people with and without type 2 diabetes: an individual participant-level data meta-analysis. Lancet Diabetes Endocrinol  2022;10:645–54. https://doi.org/10.1016/s2213-8587(22)00172-3
+Google ScholarCrossrefPubMedWorldCat 
+446	Thomopoulos   C, Parati   G, Zanchetti   A. Effects of blood pressure lowering on outcome incidence in hypertension: 4. Effects of various classes of antihypertensive drugs—overview and meta-analyses. J Hypertens  2015;33:195–211. https://doi.org/10.1097/hjh.0000000000000447
+Google ScholarCrossrefPubMedWorldCat 
+447	Ishani   A, Cushman   WC, Leatherman   SM, Lew   RA, Woods   P, Glassman   PA, et al.   Chlorthalidone vs. hydrochlorothiazide for hypertension-cardiovascular events. N Engl J Med  2022;387:2401–10. https://doi.org/10.1056/NEJMoa2212270
+Google ScholarCrossrefPubMedWorldCat 
+448	Ziff   OJ, Samra   M, Howard   JP, Bromage   DI, Ruschitzka   F, Francis   DP, et al.   Beta-blocker efficacy across different cardiovascular indications: an umbrella review and meta-analytic assessment. BMC Med  2020;18:103. https://doi.org/10.1186/s12916-020-01564-3
+Google ScholarCrossrefPubMedWorldCat 
+449	Thomopoulos   C, Bazoukis   G, Tsioufis   C, Mancia   G. Beta-blockers in hypertension: overview and meta-analysis of randomized outcome trials. J Hypertens  2020;38:1669–81. https://doi.org/10.1097/hjh.0000000000002523
+Google ScholarCrossrefPubMedWorldCat 
+450	Mancia   G, Kjeldsen   SE, Kreutz   R, Pathak   A, Grassi   G, Esler   M. Individualized beta-blocker treatment for high blood pressure dictated by medical comorbidities: indications beyond the 2018 European Society of Cardiology/European Society of Hypertension Guidelines. Hypertension  2022;79:1153–66. https://doi.org/10.1161/hypertensionaha.122.19020
+Google ScholarCrossrefPubMedWorldCat 
+451	Bradley   HA, Wiysonge   CS, Volmink   JA, Mayosi   BM, Opie   LH. How strong is the evidence for use of beta-blockers as first-line therapy for hypertension? Systematic review and meta-analysis. J Hypertens  2006;24:2131–41. https://doi.org/10.1097/01.hjh.0000249685.58370.28
+Google ScholarCrossrefPubMedWorldCat 
+452	Wiysonge   CS, Bradley   HA, Volmink   J, Mayosi   BM, Opie   LH. Beta-blockers for hypertension. Cochrane Database Syst Rev  2017;1:CD002003. https://doi.org/10.1002/14651858.CD002003.pub5
+Google ScholarPubMedWorldCat 
+453	Elliott   WJ, Meyer   PM. Incident diabetes in clinical trials of antihypertensive drugs: a network meta-analysis. Lancet  2007;369:201–7. https://doi.org/10.1016/s0140-6736(07)60108-1
+Google ScholarCrossrefPubMedWorldCat 
+454	Bangalore   S, Parkar   S, Grossman   E, Messerli   FH. A meta-analysis of 94,492 patients with hypertension treated with beta blockers to determine the risk of new-onset diabetes mellitus. Am J Cardiol  2007;100:1254–62. https://doi.org/10.1016/j.amjcard.2007.05.057
+Google ScholarCrossrefPubMedWorldCat 
+455	Laurent   S, Briet   M, Boutouyrie   P. Large and small artery cross-talk and recent morbidity-mortality trials in hypertension. Hypertension  2009;54:388–92. https://doi.org/10.1161/hypertensionaha.109.133116
+Google ScholarCrossrefPubMedWorldCat 
+456	Klingbeil   AU, Schneider   M, Martus   P, Messerli   FH, Schmieder   RE. A meta-analysis of the effects of treatment on left ventricular mass in essential hypertension. Am J Med  2003;115:41–6. https://doi.org/10.1016/s0002-9343(03)00158-x
+Google ScholarCrossrefPubMedWorldCat 
+457	Zanchetti   A, Bond   MG, Hennig   M, Neiss   A, Mancia   G, Dal Palù   C, et al.   Calcium antagonist lacidipine slows down progression of asymptomatic carotid atherosclerosis: principal results of the European Lacidipine Study on Atherosclerosis (ELSA), a randomized, double-blind, long-term trial. Circulation  2002;106:2422–7. https://doi.org/10.1161/01.cir.0000039288.86470.dd
+Google ScholarCrossrefPubMedWorldCat 
+458	Schiffrin   EL, Deng   LY. Comparison of effects of angiotensin I-converting enzyme inhibition and beta-blockade for 2 years on function of small arteries from hypertensive patients. Hypertension  1995;25:699–703. https://doi.org/10.1161/01.hyp.25.4.699
+Google ScholarCrossrefPubMedWorldCat 
+459	Williams   B, MacDonald   TM, Morant   S, Webb   DJ, Sever   P, McInnes   G, et al.   Spironolactone versus placebo, bisoprolol, and doxazosin to determine the optimal treatment for drug-resistant hypertension (PATHWAY-2): a randomised, double-blind, crossover trial. Lancet  2015;386:2059–68. https://doi.org/10.1016/s0140-6736(15)00257-3
+Google ScholarCrossrefPubMedWorldCat 
+460	Agarwal   R, Filippatos   G, Pitt   B, Anker   SD, Rossing   P, Joseph   A, et al.   Cardiovascular and kidney outcomes with finerenone in patients with type 2 diabetes and chronic kidney disease: the FIDELITY pooled analysis. Eur Heart J  2022;43:474–84. https://doi.org/10.1093/eurheartj/ehab777
+Google ScholarCrossrefPubMedWorldCat 
+461	Agarwal   R, Ruilope   LM, Ruiz-Hurtado   G, Haller   H, Schmieder   RE, Anker   SD, et al.   Effect of finerenone on ambulatory blood pressure in chronic kidney disease in type 2 diabetes. J Hypertens  2023;41:295–302. https://doi.org/10.1097/hjh.0000000000003330
+Google ScholarCrossrefPubMedWorldCat 
+462	Bakris   GL, Agarwal   R, Anker   SD, Pitt   B, Ruilope   LM, Rossing   P, et al.   Effect of finerenone on chronic kidney disease outcomes in type 2 diabetes. N Engl J Med  2020;383:2219–29. https://doi.org/10.1056/NEJMoa2025845
+Google ScholarCrossrefPubMedWorldCat 
+463	The ALLHAT Officers Coordinators for the ALLHAT Collaborative Research Group. Major cardiovascular events in hypertensive patients randomized to doxazosin vs chlorthalidone: the antihypertensive and lipid-lowering treatment to prevent heart attack trial (ALLHAT). JAMA  2000;283:1967–75. https://doi.org/10.1001/jama.283.15.1967
+CrossrefPubMedWorldCat 
+464	Ruilope   LM, Dukat   A, Böhm   M, Lacourcière   Y, Gong   J, Lefkowitz   MP. Blood-pressure reduction with LCZ696, a novel dual-acting inhibitor of the angiotensin II receptor and neprilysin: a randomised, double-blind, placebo-controlled, active comparator study. Lancet  2010;375:1255–66. https://doi.org/10.1016/s0140-6736(09)61966-8
+Google ScholarCrossrefPubMedWorldCat 
+465	McMurray   JJ, Packer   M, Desai   AS, Gong   J, Lefkowitz   MP, Rizkala   AR, et al.   Angiotensin–neprilysin inhibition versus enalapril in heart failure. N Engl J Med  2014;371:993–1004. https://doi.org/10.1056/NEJMoa1409077
+Google ScholarCrossrefPubMedWorldCat 
+466	Rakugi   H, Kario   K, Yamaguchi   M, Sasajima   T, Gotou   H, Zhang   J. Efficacy of sacubitril/valsartan versus olmesartan in Japanese patients with essential hypertension: a randomized, double-blind, multicenter study. Hypertens Res  2022;45:824–33. https://doi.org/10.1038/s41440-021-00819-7
+Google ScholarCrossrefPubMedWorldCat 
+467	Jackson   AM, Jhund   PS, Anand   IS, Düngen   H-D, Lam   CSP, Lefkowitz   MP, et al.   Sacubitril-valsartan as a treatment for apparent resistant hypertension in patients with heart failure and preserved ejection fraction. Eur Heart J  2021;42:3741–52. https://doi.org/10.1093/eurheartj/ehab499
+Google ScholarCrossrefPubMedWorldCat 
+468	Kario   K, Sun   N, Chiang   FT, Supasyndh   O, Baek   SH, Inubushi-Molessa   A, et al.   Efficacy and safety of LCZ696, a first-in-class angiotensin receptor neprilysin inhibitor, in Asian patients with hypertension: a randomized, double-blind, placebo-controlled study. Hypertension  2014;63:698–705. https://doi.org/10.1161/hypertensionaha.113.02002
+Google ScholarCrossrefPubMedWorldCat 
+469	Williams   B, Cockcroft   JR, Kario   K, Zappe   DH, Brunel   PC, Wang   Q, et al.   Effects of sacubitril/valsartan versus olmesartan on central hemodynamics in the elderly with systolic hypertension: the PARAMETER study. Hypertension  2017;69:411–20. https://doi.org/10.1161/hypertensionaha.116.08556
+Google ScholarCrossrefPubMedWorldCat 
+470	Herrington   WG, Savarese   G, Haynes   R, Marx   N, Mellbin   L, Lund   LH, et al.   Cardiac, renal, and metabolic effects of sodium-glucose co-transporter 2 inhibitors: a position paper from the European Society of Cardiology ad-hoc task force on sodium-glucose co-transporter 2 inhibitors. Eur J Heart Fail  2021;23:1260–75. https://doi.org/10.1002/ejhf.2286
+Google ScholarCrossrefPubMedWorldCat 
+471	Gupta   R, Maitz   T, Egeler   D, Mehta   A, Nyaeme   M, Hajra   A, et al.   SGLT2 inhibitors in hypertension: role beyond diabetes and heart failure. Trends Cardiovasc Med  2022;33:479–86. https://doi.org/10.1016/j.tcm.2022.05.005
+Google ScholarCrossrefPubMedWorldCat 
+472	Kario   K, Ferdinand   KC, Vongpatanasin   W. Are SGLT2 inhibitors new hypertension drugs?  Circulation  2021;143:1750–3. https://doi.org/10.1161/circulationaha.121.053709
+Google ScholarCrossrefPubMedWorldCat 
+473	Yan   C, Thijs   L, Cao   Y, Trenson   S, Zhang   Z-Y, Janssens   S, et al.   Opportunities of antidiabetic drugs in cardiovascular medicine: a meta-analysis and perspectives for trial design. Hypertension  2020;76:420–31. https://doi.org/10.1161/hypertensionaha.120.14791
+Google ScholarCrossrefPubMedWorldCat 
+474	Freeman   MW, Halvorsen   YD, Marshall   W, Pater   M, Isaacsohn   J, Pearce   C, et al.   Phase 2 trial of baxdrostat for treatment-resistant hypertension. N Engl J Med  2023;388:395–405. https://doi.org/10.1056/NEJMoa2213169
+Google ScholarCrossrefPubMedWorldCat 
+475	Laffin   LJ, Rodman   D, Luther   JM, Vaidya   A, Weir   MR, Rajicic   N, et al.   Aldosterone synthase inhibition with lorundrostat for uncontrolled hypertension: the target-HTN randomized clinical trial. JAMA  2023;330:1140–50. https://doi.org/10.1001/jama.2023.16029
+Google ScholarCrossrefPubMedWorldCat 
+476	Schlaich   MP, Bellet   M, Weber   MA, Danaietash   P, Bakris   GL, Flack   JM, et al.   Dual endothelin antagonist aprocitentan for resistant hypertension (PRECISION): a multicentre, blinded, randomised, parallel-group, phase 3 trial. Lancet  2022;400:1927–37. https://doi.org/10.1016/s0140-6736(22)02034-7
+Google ScholarCrossrefPubMedWorldCat 
+477	Desai   AS, Webb   DJ, Taubel   J, Casey   S, Cheng   Y, Robbie   GJ, et al.   Zilebesiran, an RNA interference therapeutic agent for hypertension. N Engl J Med  2023;389:228–38. https://doi.org/10.1056/NEJMoa2208391
+Google ScholarCrossrefPubMedWorldCat 
+478	Law   MR, Wald   NJ, Morris   JK, Jordan   RE. Value of low dose combination treatment with blood pressure lowering drugs: analysis of 354 randomised trials. BMJ  2003;326:1427. https://doi.org/10.1136/bmj.326.7404.1427
+Google ScholarCrossrefPubMedWorldCat 
+479	Mahmud   A, Feely   J. Low-dose quadruple antihypertensive combination: more efficacious than individual agents—a preliminary report. Hypertension  2007;49:272–5. https://doi.org/10.1161/01.HYP.0000254479.66645.a3
+Google ScholarCrossrefPubMedWorldCat 
+480	Wald   DS, Law   M, Morris   JK, Bestwick   JP, Wald   NJ. Combination therapy versus monotherapy in reducing blood pressure: meta-analysis on 11,000 participants from 42 trials. Am J Med  2009;122:290–300. https://doi.org/10.1016/j.amjmed.2008.09.038
+Google ScholarCrossrefPubMedWorldCat 
+481	Chow   CK, Thakkar   J, Bennett   A, Hillis   G, Burke   M, Usherwood   T, et al.   Quarter-dose quadruple combination therapy for initial treatment of hypertension: placebo-controlled, crossover, randomised trial and systematic review. Lancet  2017;389:1035–42. https://doi.org/10.1016/s0140-6736(17)30260-x
+Google ScholarCrossrefPubMedWorldCat 
+482	Chow   CK, Atkins   ER, Hillis   GS, Nelson   MR, Reid   CM, Schlaich   MP, et al.   Initial treatment with a single pill containing quadruple combination of quarter doses of blood pressure medicines versus standard dose monotherapy in patients with hypertension (QUARTET): a phase 3, randomised, double-blind, active-controlled trial. Lancet  2021;398:1043–52. https://doi.org/10.1016/s0140-6736(21)01922-x
+Google ScholarCrossrefPubMedWorldCat 
+483	Webster   R, Salam   A, de Silva   HA, Selak   V, Stepien   S, Rajapakse   S, et al.   Fixed low-dose triple combination antihypertensive medication vs usual care for blood pressure control in patients with mild to moderate hypertension in Sri Lanka: a randomized clinical trial. JAMA  2018;320:566–79. https://doi.org/10.1001/jama.2018.10359
+Google ScholarCrossrefPubMedWorldCat 
+484	MacDonald   TM, Williams   B, Webb   DJ, Morant   S, Caulfield   M, Cruickshank   JK, et al.   Combination therapy is superior to sequential monotherapy for the initial treatment of hypertension: a double-blind randomized controlled trial. J Am Heart Assoc  2017;6:e006986. https://doi.org/10.1161/jaha.117.006986
+Google ScholarCrossrefPubMedWorldCat 
+485	Salam   A, Kanukula   R, Atkins   E, Wang   X, Islam   S, Kishore   SP, et al.   Efficacy and safety of dual combination therapy of blood pressure-lowering drugs as initial treatment for hypertension: a systematic review and meta-analysis of randomized controlled trials. J Hypertens  2019;37:1768–74. https://doi.org/10.1097/hjh.0000000000002096
+Google ScholarCrossrefPubMedWorldCat 
+486	Zhang   ZY, Yu   YL, Asayama   K, Hansen   TW, Maestre   GE, Staessen   JA. Starting antihypertensive drug treatment with combination therapy: controversies in hypertension—con side of the argument. Hypertension  2021;77:788–98. https://doi.org/10.1161/hypertensionaha.120.12858
+Google ScholarCrossrefPubMedWorldCat 
+487	Kahan   T. Low-dose combination of blood pressure-lowering medicines. Lancet  2021;398:1022–3. https://doi.org/10.1016/s0140-6736(21)01964-4
+Google ScholarCrossrefPubMedWorldCat 
+488	Rea   F, Corrao   G, Merlino   L, Mancia   G. Initial antihypertensive treatment strategies and therapeutic inertia. Hypertension  2018;72:846–53. https://doi.org/10.1161/hypertensionaha.118.11308
+Google ScholarCrossrefPubMedWorldCat 
+489	Egan   BM, Bandyopadhyay   D, Shaftman   SR, Wagner   CS, Zhao   Y, Yu-Isenberg   KS. Initial monotherapy and combination therapy and hypertension control the first year. Hypertension  2012;59:1124–31. https://doi.org/10.1161/hypertensionaha.112.194167
+Google ScholarCrossrefPubMedWorldCat 
+490	Sundström   J, Lind   L, Nowrouzi   S, Hagström   E, Held   C, Lytsy   P, et al.   Heterogeneity in blood pressure response to 4 antihypertensive drugs: a randomized clinical trial. JAMA  2023;329:1160–9. https://doi.org/10.1001/jama.2023.3322
+Google ScholarCrossrefPubMedWorldCat 
+491	Tsioufis   K, Kreutz   R, Sykara   G, van Vugt   J, Hassan   T. Impact of single-pill combination therapy on adherence, blood pressure control, and clinical outcomes: a rapid evidence assessment of recent literature. J Hypertens  2020;38:1016–28. https://doi.org/10.1097/hjh.0000000000002381
+Google ScholarCrossrefPubMedWorldCat 
+492	Parati   G, Kjeldsen   S, Coca   A, Cushman   WC, Wang   J. Adherence to single-pill versus free-equivalent combination therapy in hypertension: a systematic review and meta-analysis. Hypertension  2021;77:692–705. https://doi.org/10.1161/hypertensionaha.120.15781
+Google ScholarCrossrefPubMedWorldCat 
+493	Egan   BM, Kjeldsen   SE, Narkiewicz   K, Kreutz   R, Burnier   M. Single-pill combinations, hypertension control and clinical outcomes: potential, pitfalls and solutions. Blood Press  2022;31:164–8. https://doi.org/10.1080/08037051.2022.2095254
+Google ScholarCrossrefPubMedWorldCat 
+494	Yusuf   S, Joseph   P, Dans   A, Gao   P, Teo   K, Xavier   D, et al.   Polypill with or without aspirin in persons without cardiovascular disease. N Engl J Med  2021;384:216–28. https://doi.org/10.1056/NEJMoa2028220
+Google ScholarCrossrefPubMedWorldCat 
+495	Roshandel   G, Khoshnia   M, Poustchi   H, Hemming   K, Kamangar   F, Gharavi   A, et al.   Effectiveness of polypill for primary and secondary prevention of cardiovascular diseases (PolyIran): a pragmatic, cluster-randomised trial. Lancet  2019;394:672–83. https://doi.org/10.1016/s0140-6736(19)31791-x
+Google ScholarCrossrefPubMedWorldCat 
+496	Joseph   P, Roshandel   G, Gao   P, Pais   P, Lonn   E, Xavier   D, et al.   Fixed-dose combination therapies with and without aspirin for primary prevention of cardiovascular disease: an individual participant data meta-analysis. Lancet  2021;398:1133–46. https://doi.org/10.1016/s0140-6736(21)01827-4
+Google ScholarCrossrefPubMedWorldCat 
+497	van Vark   LC, Bertrand   M, Akkerhuis   KM, Brugts   JJ, Fox   K, Mourad   J-J, et al.   Angiotensin-converting enzyme inhibitors reduce mortality in hypertension: a meta-analysis of randomized clinical trials of renin–angiotensin–aldosterone system inhibitors involving 158 998 patients. Eur Heart J  2012;33:2088–97. https://doi.org/10.1093/eurheartj/ehs075
+Google ScholarCrossrefPubMedWorldCat 
+498	Parving   HH, Brenner   BM, McMurray   JJ, de Zeeuw   D, Haffner   SM, Solomon   SD, et al.   Cardiorenal end points in a trial of aliskiren for type 2 diabetes. N Engl J Med  2012;367:2204–13. https://doi.org/10.1056/NEJMoa1208799
+Google ScholarCrossrefPubMedWorldCat 
+499	Fried   LF, Emanuele   N, Zhang   JH, Brophy   M, Conner   TA, Duckworth   W, et al.   Combined angiotensin inhibition for the treatment of diabetic nephropathy. N Engl J Med  2013;369:1892–903. https://doi.org/10.1056/NEJMoa1303154
+Google ScholarCrossrefPubMedWorldCat 
+500	Yusuf   S, Teo   KK, Pogue   J, Dyal   L, Copland   I, Schumacher   H, et al.   Telmisartan, ramipril, or both in patients at high risk for vascular events. N Engl J Med  2008;358:1547–59. https://doi.org/10.1056/NEJMoa0801317
+Google ScholarPubMedWorldCat 
+501	Gupta   AK, Arshad   S, Poulter   NR. Compliance, safety, and effectiveness of fixed-dose combinations of antihypertensive agents: a meta-analysis. Hypertension  2010;55:399–407. https://doi.org/10.1161/hypertensionaha.109.139816
+Google ScholarCrossrefPubMedWorldCat 
+502	Gnanenthiran   SR, Wang   N, Di Tanna   GL, Salam   A, Webster   R, de Silva   HA, et al.   Association of low-dose triple combination therapy vs usual care with time at target blood pressure: a secondary analysis of the TRIUMPH randomized clinical trial. JAMA Cardiol  2022;7:645–50. https://doi.org/10.1001/jamacardio.2022.0471
+Google ScholarCrossrefPubMedWorldCat 
+503	Tam   TS, Wu   MH, Masson   SC, Tsang   MP, Stabler   SN, Kinkade   A, et al.   Eplerenone for hypertension. Cochrane Database Syst Rev  2017;2:CD008996. https://doi.org/10.1002/14651858.CD008996.pub2
+Google ScholarPubMedWorldCat 
+504	Pedersen   ME, Cockcroft   JR. The vasodilatory beta-blockers. Curr Hypertens Rep  2007;9:269–77. https://doi.org/10.1007/s11906-007-0050-2
+Google ScholarCrossrefPubMedWorldCat 
+505	Sica   DA. Minoxidil: an underused vasodilator for resistant or severe hypertension. J Clin Hypertens (Greenwich)  2004;6:283–7. https://doi.org/10.1111/j.1524-6175.2004.03585.x
+Google ScholarCrossrefPubMedWorldCat 
+506	Muñoz   D, Uzoije   P, Reynolds   C, Miller   R, Walkley   D, Pappalardo   S, et al.   Polypill for cardiovascular disease prevention in an underserved population. N Engl J Med  2019;381:1114–23. https://doi.org/10.1056/NEJMoa1815359
+Google ScholarCrossrefPubMedWorldCat 
+507	Castellano   JM, Pocock   SJ, Bhatt   DL, Quesada   AJ, Owen   R, Fernandez-Ortiz   A, et al.   Polypill strategy in secondary cardiovascular prevention. N Engl J Med  2022;387:967–77. https://doi.org/10.1056/NEJMoa2208275
+Google ScholarCrossrefPubMedWorldCat 
+508	González-Juanatey   JR, Cordero   A, Castellano   JM, Masana   L, Dalmau   R, Ruiz   E, et al.   The CNIC-polypill reduces recurrent major cardiovascular events in real-life secondary prevention patients in Spain: the NEPTUNO study. Int J Cardiol  2022;361:116–23. https://doi.org/10.1016/j.ijcard.2022.05.015
+Google ScholarCrossrefPubMedWorldCat 
+509	Jowett   S, Barton   P, Roalfe   A, Fletcher   K, Hobbs   FDR, McManus   RJ, et al.   Cost-effectiveness analysis of use of a polypill versus usual care or best practice for primary prevention in people at high risk of cardiovascular disease. PLoS One  2017;12:e0182625. https://doi.org/10.1371/journal.pone.0182625
+Google ScholarCrossrefPubMedWorldCat 
+510	McManus   RJ, Mant   J, Bray   EP, Holder   R, Jones   MI, Greenfield   S, et al.   Telemonitoring and self-management in the control of hypertension (TASMINH2): a randomised controlled trial. Lancet  2010;376:163–72. https://doi.org/10.1016/s0140-6736(10)60964-6
+Google ScholarCrossrefPubMedWorldCat 
+511	Clark   CE, Smith   LF, Taylor   RS, Campbell   JL. Nurse led interventions to improve control of blood pressure in people with hypertension: systematic review and meta-analysis. BMJ  2010;341:c3995. https://doi.org/10.1136/bmj.c3995
+Google ScholarCrossrefPubMedWorldCat 
+512	Mackenzie   IS, Rogers   A, Poulter   NR, Williams   B, Brown   MJ, Webb   DJ, et al.   Cardiovascular outcomes in adults with hypertension with evening versus morning dosing of usual antihypertensives in the UK (TIME study): a prospective, randomised, open-label, blinded-endpoint clinical trial. Lancet  2022;400:1417–25. https://doi.org/10.1016/s0140-6736(22)01786-x
+Google ScholarCrossrefPubMedWorldCat 
+513	Conn   VS, Ruppar   TM, Chase   JA, Enriquez   M, Cooper   PS. Interventions to improve medication adherence in hypertensive patients: systematic review and meta-analysis. Curr Hypertens Rep  2015;17:94. https://doi.org/10.1007/s11906-015-0606-5
+Google ScholarCrossrefPubMedWorldCat 
+514	Corrao   G, Parodi   A, Zambon   A, Heiman   F, Filippi   A, Cricelli   C, et al.   Reduced discontinuation of antihypertensive treatment by two-drug combination as first step. Evidence from daily life practice. J Hypertens  2010;28:1584–90. https://doi.org/10.1097/HJH.0b013e328339f9fa
+Google ScholarCrossrefPubMedWorldCat 
+515	Krieger   EM, Drager   LF, Giorgi   DMA, Pereira   AC, Barreto-Filho   JAS, Nogueira   AR, et al.   Spironolactone versus clonidine as a fourth-drug therapy for resistant hypertension: the ReHOT randomized study (resistant hypertension optimal treatment). Hypertension  2018;71:681–90. https://doi.org/10.1161/hypertensionaha.117.10662
+Google ScholarCrossrefPubMedWorldCat 
+516	Williams   B, MacDonald   TM, Morant   SV, Webb   DJ, Sever   P, McInnes   GT, et al.   Endocrine and haemodynamic changes in resistant hypertension, and blood pressure responses to spironolactone or amiloride: the PATHWAY-2 mechanisms substudies. Lancet Diabetes Endocrinol  2018;6:464–75. https://doi.org/10.1016/s2213-8587(18)30071-8
+Google ScholarCrossrefPubMedWorldCat 
+517	Mann   JF, Schmieder   RE, McQueen   M, Dyal   L, Schumacher   H, Pogue   J, et al.   Renal outcomes with telmisartan, ramipril, or both, in people at high vascular risk (the ONTARGET study): a multicentre, randomised, double-blind, controlled trial. Lancet  2008;372:547–53. https://doi.org/10.1016/s0140-6736(08)61236-2
+Google ScholarCrossrefPubMedWorldCat 
+518	Jones   DW, Whelton   PK, Allen   N, Clark   D  III, Gidding   SS, Muntner   P, et al.   Management of stage 1 hypertension in adults with a low 10-year risk for cardiovascular disease: filling a guidance gap: a scientific statement from the American Heart Association. Hypertension  2021;77:e58–67. https://doi.org/10.1161/hyp.0000000000000195
+Google ScholarCrossrefPubMedWorldCat 
+519	Ali   DH, Kiliç   B, Hart   HE, Bots   ML, Biermans   MCJ, Spiering   W, et al.   Therapeutic inertia in the management of hypertension in primary care. J Hypertens  2021;39:1238–45. https://doi.org/10.1097/hjh.0000000000002783
+Google ScholarCrossrefPubMedWorldCat 
+520	Appel   LJ, Champagne   CM, Harsha   DW, Cooper   LS, Obarzanek   E, Elmer   PJ, et al.   Effects of comprehensive lifestyle modification on blood pressure control: main results of the PREMIER clinical trial. JAMA  2003;289:2083–93. https://doi.org/10.1001/jama.289.16.2083
+Google ScholarPubMedWorldCat 
+521	Appel   LJ, Sacks   FM, Carey   VJ, Obarzanek   E, Swain   JF, Miller   ER, et al.   Effects of protein, monounsaturated fat, and carbohydrate intake on blood pressure and serum lipids: results of the OmniHeart randomized trial. JAMA  2005;294:2455–64. https://doi.org/10.1001/jama.294.19.2455
+Google ScholarCrossrefPubMedWorldCat 
+522	Thomopoulos   C, Parati   G, Zanchetti   A. Effects of blood-pressure-lowering treatment on outcome incidence. 12. Effects in individuals with high-normal and normal blood pressure: overview and meta-analyses of randomized trials. J Hypertens  2017;35:2150–60. https://doi.org/10.1097/hjh.0000000000001547
+Google ScholarCrossrefPubMedWorldCat 
+523	Williamson   JD, Supiano   MA, Applegate   WB, Berlowitz   DR, Campbell   RC, Chertow   GM, et al.   Intensive vs standard blood pressure control and cardiovascular disease outcomes in adults aged ≥75 years: a randomized clinical trial. JAMA  2016;315:2673–82. https://doi.org/10.1001/jama.2016.7050
+Google ScholarCrossrefPubMedWorldCat 
+524	Beckett   N, Peters   R, Leonetti   G, Duggan   J, Fagard   R, Thijs   L, et al.   Subgroup and per-protocol analyses from the hypertension in the very elderly trial. J Hypertens  2014;32:1478–87; discussion 1487. https://doi.org/10.1097/hjh.0000000000000195
+Google ScholarCrossrefPubMedWorldCat 
+525	Jowett   S, Kodabuckus   S, Ford   GA, Hobbs   FDR, Lown   M, Mant   J, et al.   Cost-effectiveness of antihypertensive deprescribing in primary care: a Markov modelling study using data from the OPTiMISE trial. Hypertension  2022;79:1122–31. https://doi.org/10.1161/hypertensionaha.121.18726
+Google ScholarCrossrefPubMedWorldCat 
+526	Odden   MC, McClure   LA, Sawaya   BP, White   CL, Peralta   CA, Field   TS, et al.   Achieved blood pressure and outcomes in the secondary prevention of small subcortical strokes trial. Hypertension  2016;67:63–9. https://doi.org/10.1161/hypertensionaha.115.06480
+Google ScholarCrossrefPubMedWorldCat 
+527	Chen   T, Shao   F, Chen   K, Wang   Y, Wu   Z, Wang   Y, et al.   Time to clinical benefit of intensive blood pressure lowering in patients 60 years and older with hypertension: a secondary analysis of randomized clinical trials. JAMA Intern Med  2022;182:660–7. https://doi.org/10.1001/jamainternmed.2022.1657
+Google ScholarCrossrefPubMedWorldCat 
+528	Neaton   JD, Grimm   RH  Jr, Prineas   RJ, Stamler   J, Grandits   GA, Elmer   PJ, et al.   Treatment of mild hypertension study. Final results. Treatment of mild hypertension study research group. JAMA  1993;270:713–24. https://doi.org/10.1001/jama.1993.03510060059034
+Google ScholarCrossrefPubMedWorldCat 
+529	Wu   J, Kraja   AT, Oberman   A, Lewis   C, Ellison   R, Arnett   D, et al.   A summary of the effects of antihypertensive medications on measured blood pressure. Am J Hypertens  2005;18:935–42. https://doi.org/10.1016/j.amjhyper.2005.01.011
+Google ScholarCrossrefPubMedWorldCat 
+530	Canoy   D, Copland   E, Nazarzadeh   M, Ramakrishnan   R, Pinho-Gomes   A-C, Salam   A, et al.   Antihypertensive drug effects on long-term blood pressure: an individual-level data meta-analysis of randomised clinical trials. Heart  2022;108:1281–9. https://doi.org/10.1136/heartjnl-2021-320171
+Google ScholarCrossrefPubMedWorldCat 
+531	Paz   MA, de-La-Sierra   A, Sáez   M, Barceló   MA, Rodríguez   JJ, Castro   S, et al.   Treatment efficacy of anti-hypertensive drugs in monotherapy or combination: ATOM systematic review and meta-analysis of randomized clinical trials according to PRISMA statement. Medicine (Baltimore)  2016;95:e4071. https://doi.org/10.1097/md.0000000000004071
+Google ScholarCrossrefPubMedWorldCat 
+532	Morales-Salinas   A, Kones   R. Concerning the degradation of β-blocker use in the 2018 ESC/ESH hypertension guidelines. Eur Heart J  2019;40:2091. https://doi.org/10.1093/eurheartj/ehz125
+Google ScholarCrossrefPubMedWorldCat 
+533	Lindholm   LH, Carlberg   B, Samuelsson   O. Should beta blockers remain first choice in the treatment of primary hypertension? A meta-analysis. Lancet  2005;366:1545–53. https://doi.org/10.1016/s0140-6736(05)67573-3
+Google ScholarCrossrefPubMedWorldCat 
+534	Larochelle   P, Tobe   SW, Lacourcière   Y. β-Blockers in hypertension: studies and meta-analyses over the years. Can J Cardiol  2014;30:S16–22. https://doi.org/10.1016/j.cjca.2014.02.012
+Google ScholarCrossrefPubMedWorldCat 
+535	Reboussin   DM, Allen   NB, Griswold   ME, Guallar   E, Hong   Y, Lackland   DT, et al.   Systematic review for the 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Hypertension  2018;71:e116–35. https://doi.org/10.1161/hyp.0000000000000067
+Google ScholarCrossrefPubMedWorldCat 
+536	Wright   JM, Musini   VM, Gill   R. First-line drugs for hypertension. Cochrane Database Syst Rev  2018;4:CD001841. https://doi.org/10.1002/14651858.CD001841.pub3
+Google ScholarPubMedWorldCat 
+537	Johnston   GD. Dose-response relationships with antihypertensive drugs. Pharmacol Ther  1992;55:53–93. https://doi.org/10.1016/0163-7258(92)90029-y
+Google ScholarCrossrefPubMedWorldCat 
+538	Law   MR, Morris   JK, Wald   NJ. Use of blood pressure lowering drugs in the prevention of cardiovascular disease: meta-analysis of 147 randomised trials in the context of expectations from prospective epidemiological studies. BMJ  2009;338:b1665. https://doi.org/10.1136/bmj.b1665
+Google ScholarCrossrefPubMedWorldCat 
+539	Messerli   FH, Bangalore   S, Schmieder   RE. Wilder’s principle: pre-treatment value determines post-treatment response. Eur Heart J  2015;36:576–9. https://doi.org/10.1093/eurheartj/ehu467
+Google ScholarCrossrefPubMedWorldCat 
+540	Lasserson   DS, Buclin   T, Glasziou   P. How quickly should we titrate antihypertensive medication? Systematic review modelling blood pressure response from trial data. Heart  2011;97:1771–5. https://doi.org/10.1136/hrt.2010.221473
+Google ScholarCrossrefPubMedWorldCat 
+541	Thomopoulos   C, Parati   G, Zanchetti   A. Effects of blood pressure lowering on outcome incidence in hypertension. 1. Overview, meta-analyses, and meta-regression analyses of randomized trials. J Hypertens  2014;32:2285–95. https://doi.org/10.1097/hjh.0000000000000378
+Google ScholarCrossrefPubMedWorldCat 
+542	Verdecchia   P, Staessen   JA, Angeli   F, de Simone   G, Achilli   A, Ganau   A, et al.   Usual versus tight control of systolic blood pressure in non-diabetic patients with hypertension (Cardio-Sis): an open-label randomised trial. Lancet  2009;374:525–33. https://doi.org/10.1016/s0140-6736(09)61340-4
+Google ScholarCrossrefPubMedWorldCat 
+543	Benavente   OR, Coffey   CS, Conwit   R, Hart   RG, McClure   LA, Pearce   LA, et al.   Blood-pressure targets in patients with recent lacunar stroke: the SPS3 randomised trial. Lancet  2013;382:507–15. https://doi.org/10.1016/s0140-6736(13)60852-1
+Google ScholarPubMedWorldCat 
+544	Vaduganathan   M, Claggett   BL, Juraschek   SP, Solomon   SD. Assessment of long-term benefit of intensive blood pressure control on residual life span: secondary analysis of the Systolic Blood Pressure Intervention Trial (SPRINT). JAMA Cardiol  2020;5:576–81. https://doi.org/10.1001/jamacardio.2019.6192
+Google ScholarCrossrefPubMedWorldCat 
+545	Lewis   CE, Fine   LJ, Beddhu   S, Cheung   AK, Cushman   WC, Cutler   JA, et al.   Final report of a trial of intensive versus standard blood-pressure control. N Engl J Med  2021;384:1921–30. https://doi.org/10.1056/NEJMoa1901281
+Google ScholarPubMedWorldCat 
+546	Beddhu   S, Chertow   GM, Cheung   AK, Cushman   WC, Rahman   M, Greene   T, et al.   Influence of baseline diastolic blood pressure on effects of intensive compared with standard blood pressure control. Circulation  2018;137:134–43. https://doi.org/10.1161/circulationaha.117.030848
+Google ScholarCrossrefPubMedWorldCat 
+547	McEvoy   JW, Daya   N, Rahman   F, Hoogeveen   RC, Blumenthal   RS, Shah   AM, et al.   Association of isolated diastolic hypertension as defined by the 2017 ACC/AHA blood pressure guideline with incident cardiovascular outcomes. JAMA  2020;323:329–38. https://doi.org/10.1001/jama.2019.21402
+Google ScholarCrossrefPubMedWorldCat 
+548	Jacobsen   AP, Al Rifai   M, Arps   K, Whelton   SP, Budoff   MJ, Nasir   K, et al.   A cohort study and meta-analysis of isolated diastolic hypertension: searching for a threshold to guide treatment. Eur Heart J  2021;42:2119–29. https://doi.org/10.1093/eurheartj/ehab111
+Google ScholarCrossrefPubMedWorldCat 
+549	McEvoy   JW, Yang   WY, Thijs   L, Zhang   Z-Y, Melgarejo   JD, Boggia   J, et al.   Isolated diastolic hypertension in the IDACO study: an age-stratified analysis using 24-hour ambulatory blood pressure measurements. Hypertension  2021;78:1222–31. https://doi.org/10.1161/hypertensionaha.121.17766
+Google ScholarCrossrefPubMedWorldCat 
+550	Albasri   A, Hattle   M, Koshiaris   C, Dunnigan   A, Paxton   B, Fox   SE, et al.   Association between antihypertensive treatment and adverse events: systematic review and meta-analysis. BMJ  2021;372:n189. https://doi.org/10.1136/bmj.n189
+Google ScholarPubMedWorldCat 
+551	Savoia   C, Volpe   M, Grassi   G, Borghi   C, Agabiti Rosei   E, Touyz   RM, et al.   Personalized medicine-a modern approach for the diagnosis and management of hypertension. Clin Sci (Lond)  2017;131:2671–85. https://doi.org/10.1042/cs20160407
+Google ScholarCrossrefPubMedWorldCat 
+552	Egan   BM, Basile   JN, Rehman   SU, Davis   PB, Grob   CH 3rd, Riehle   JF, et al.   Plasma renin test–guided drug treatment algorithm for correcting patients with treated but uncontrolled hypertension: a randomized controlled trial. Am J Hypertens  2009;22:792–801. https://doi.org/10.1038/ajh.2009.63
+Google ScholarCrossrefPubMedWorldCat 
+553	Huang   KY, Tseng   PT, Wu   YC, Tu   Y-K, Stubbs   B, Su   K-P, et al.   Do beta-adrenergic blocking agents increase asthma exacerbation? A network meta-analysis of randomized controlled trials. Sci Rep  2021;11:452. https://doi.org/10.1038/s41598-020-79837-3
+Google ScholarCrossrefPubMedWorldCat 
+554	Bennett   M, Chang   CL, Tatley   M, Savage   R, Hancox   RJ. The safety of cardioselective β1-blockers in asthma: literature review and search of global pharmacovigilance safety reports. ERJ Open Res  2021;7:00801-2020. https://doi.org/10.1183/23120541.00801-2020
+Google ScholarCrossrefPubMedWorldCat 
+555	Assimes   TL, Elstein   E, Langleben   A, Suissa   S. Long-term use of antihypertensive drugs and risk of cancer. Pharmacoepidemiol Drug Saf  2008;17:1039–49. https://doi.org/10.1002/pds.1656
+Google ScholarCrossrefPubMedWorldCat 
+556	Zhang   Y, Song   M, Chan   AT, Meyerhardt   JA, Willett   WC, Giovannucci   EL. Long-term use of antihypertensive medications, hypertension and colorectal cancer risk and mortality: a prospective cohort study. Br J Cancer  2022;127:1974–82. https://doi.org/10.1038/s41416-022-01975-4
+Google ScholarCrossrefPubMedWorldCat 
+557	Grossman   E, Messerli   FH. Long-term safety of antihypertensive therapy. Prog Cardiovasc Dis  2006;49:16–25. https://doi.org/10.1016/j.pcad.2006.06.002
+Google ScholarCrossrefPubMedWorldCat 
+558	Parati   G, Stergiou   GS, Dolan   E, Bilo   G. Blood pressure variability: clinical relevance and application. J Clin Hypertens (Greenwich)  2018;20:1133–7. https://doi.org/10.1111/jch.13304
+Google ScholarCrossrefPubMedWorldCat 
+559	Schutte   AE, Kollias   A, Stergiou   GS. Blood pressure and its variability: classic and novel measurement techniques. Nat Rev Cardiol  2022;19:643–54. https://doi.org/10.1038/s41569-022-00690-0
+Google ScholarCrossrefPubMedWorldCat 
+560	Lauder   L, Azizi   M, Kirtane   AJ, Böhm   M, Mahfoud   F. Device-based therapies for arterial hypertension. Nat Rev Cardiol  2020;17:614–28. https://doi.org/10.1038/s41569-020-0364-1
+Google ScholarCrossrefPubMedWorldCat 
+561	Mahfoud   F, Schlaich   MP, Lobo   MD. Device therapy of hypertension. Circ Res  2021;128:1080–99. https://doi.org/10.1161/circresaha.121.318091
+Google ScholarCrossrefPubMedWorldCat 
+562	DiBona   GF. Sympathetic nervous system and hypertension. Hypertension  2013;61:556–60. https://doi.org/10.1161/hypertensionaha.111.00633
+Google ScholarCrossrefPubMedWorldCat 
+563	DiBona   GF, Esler   M. Translational medicine: the antihypertensive effect of renal denervation. Am J Physiol Regul Integr Comp Physiol  2010;298:R245–253. https://doi.org/10.1152/ajpregu.00647.2009
+Google ScholarCrossrefPubMedWorldCat 
+564	Böhm   M, Kario   K, Kandzari   DE, Mahfoud   F, Weber   MA, Schmieder   RE, et al.   Efficacy of catheter-based renal denervation in the absence of antihypertensive medications (SPYRAL HTN-OFF MED Pivotal): a multicentre, randomised, sham-controlled trial. Lancet  2020;395:1444–51. https://doi.org/10.1016/s0140-6736(20)30554-7
+Google ScholarCrossrefPubMedWorldCat 
+565	Weber   MA, Kirtane   AJ, Weir   MR, Radhakrishnan   J, Das   T, Berk   M, et al.   The REDUCE HTN: REINFORCE: randomized, sham-controlled trial of bipolar radiofrequency renal denervation for the treatment of hypertension. JACC Cardiovasc Interv  2020;13:461–70. https://doi.org/10.1016/j.jcin.2019.10.061
+Google ScholarCrossrefPubMedWorldCat 
+566	Kandzari   DE, Böhm   M, Mahfoud   F, Townsend   RR, Weber   MA, Pocock   S, et al.   Effect of renal denervation on blood pressure in the presence of antihypertensive drugs: 6-month efficacy and safety results from the SPYRAL HTN-ON MED proof-of-concept randomised trial. Lancet  2018;391:2346–55. https://doi.org/10.1016/s0140-6736(18)30951-6
+Google ScholarCrossrefPubMedWorldCat 
+567	Azizi   M, Schmieder   RE, Mahfoud   F, Weber   MA, Daemen   J, Davies   J, et al.   Endovascular ultrasound renal denervation to treat hypertension (RADIANCE-HTN SOLO): a multicentre, international, single-blind, randomised, sham-controlled trial. Lancet  2018;391:2335–45. https://doi.org/10.1016/s0140-6736(18)31082-1
+Google ScholarCrossrefPubMedWorldCat 
+568	Azizi   M, Sanghvi   K, Saxena   M, Gosse   P, Reilly   JP, Levy   T, et al.   Ultrasound renal denervation for hypertension resistant to a triple medication pill (RADIANCE-HTN TRIO): a randomised, multicentre, single-blind, sham-controlled trial. Lancet  2021;397:2476–86. https://doi.org/10.1016/s0140-6736(21)00788-1
+Google ScholarCrossrefPubMedWorldCat 
+569	Mahfoud   F, Böhm   M, Schmieder   R, Narkiewicz   K, Ewen   S, Ruilope   L, et al.   Effects of renal denervation on kidney function and long-term outcomes: 3-year follow-up from the global SYMPLICITY registry. Eur Heart J  2019;40:3474–82. https://doi.org/10.1093/eurheartj/ehz118
+Google ScholarCrossrefPubMedWorldCat 
+570	Bhatt   DL, Vaduganathan   M, Kandzari   DE, Leon   MB, Rocha-Singh   K, Townsend   RR, et al.   Long-term outcomes after catheter-based renal artery denervation for resistant hypertension: final follow-up of the randomised SYMPLICITY HTN-3 trial. Lancet  2022;400:1405–16. https://doi.org/10.1016/s0140-6736(22)01787-1
+Google ScholarCrossrefPubMedWorldCat 
+571	Mahfoud   F, Kandzari   DE, Kario   K, Townsend   RR, Weber   MA, Schmieder   RE, et al.   Long-term efficacy and safety of renal denervation in the presence of antihypertensive drugs (SPYRAL HTN-ON MED): a randomised, sham-controlled trial. Lancet  2022;399:1401–10. https://doi.org/10.1016/s0140-6736(22)00455-x
+Google ScholarCrossrefPubMedWorldCat 
+572	Rader   F, Kirtane   AJ, Wang   Y, Daemen   J, Lurz   P, Sayer   J, et al.   Durability of blood pressure reduction after ultrasound renal denervation: three-year follow-up of the treatment arm of the randomised RADIANCE-HTN SOLO trial. EuroIntervention  2022;18:e677–85. https://doi.org/10.4244/eij-d-22-00305
+Google ScholarCrossrefPubMedWorldCat 
+573	Al Ghorani   H, Kulenthiran   S, Recktenwald   MJM, Lauder   L, Kunz   M, Götzinger   F, et al.   10-year outcomes of catheter-based renal denervation in patients with resistant hypertension. J Am Coll Cardiol  2023;81:517–9. https://doi.org/10.1016/j.jacc.2022.11.038
+Google ScholarCrossrefPubMedWorldCat 
+574	Stone   P, Campbell   J, Thompson   S, Walker   J. A prospective, randomized study comparing ultrasound versus fluoroscopic guided femoral arterial access in noncardiac vascular patients. J Vasc Surg  2020;72:259–67. https://doi.org/10.1016/j.jvs.2019.09.051
+Google ScholarCrossrefPubMedWorldCat 
+575	Jolly   SS, Yusuf   S, Cairns   J, Niemelä   K, Xavier   D, Widimsky   P, et al.   Radial versus femoral access for coronary angiography and intervention in patients with acute coronary syndromes (RIVAL): a randomised, parallel group, multicentre trial. Lancet  2011;377:1409–20. https://doi.org/10.1016/s0140-6736(11)60404-2
+Google ScholarCrossrefPubMedWorldCat 
+576	Townsend   RR, Walton   A, Hettrick   DA, Hickey   GL, Weil   J, Sharp   ASP, et al.   Review and meta-analysis of renal artery damage following percutaneous renal denervation with radiofrequency renal artery ablation. EuroIntervention  2020;16:89–96. https://doi.org/10.4244/eij-d-19-00902
+Google ScholarCrossrefPubMedWorldCat 
+577	Sanders   MF, Reitsma   JB, Morpey   M, Gremmels   H, Bots   ML, Pisano   A, et al.   Renal safety of catheter-based renal denervation: systematic review and meta-analysis. Nephrol Dial Transplant  2017;32:1440–7. https://doi.org/10.1093/ndt/gfx088
+Google ScholarCrossrefPubMedWorldCat 
+578	Ahmad   Y, Francis   DP, Bhatt   DL, Howard   JP. Renal denervation for hypertension: a systematic review and meta-analysis of randomized, blinded, placebo-controlled trials. JACC Cardiovasc Interv  2021;14:2614–24. https://doi.org/10.1016/j.jcin.2021.09.020
+Google ScholarCrossrefPubMedWorldCat 
+579	Chowdhury   EK, Reid   CM, Zomer   E, Kelly   DJ, Liew   D. Cost-effectiveness of renal denervation therapy for treatment-resistant hypertension: a best case scenario. Am J Hypertens  2018;31:1156–63. https://doi.org/10.1093/ajh/hpy108
+Google ScholarCrossrefPubMedWorldCat 
+580	Sharp   ASP, Cao   KN, Esler   MD, Kandzari   DE, Lobo   MD, Schmieder   RE, et al.   Cost-effectiveness of catheter-based radiofrequency renal denervation for the treatment of uncontrolled hypertension: an analysis for the UK based on recent clinical evidence. Eur Heart J Qual Care Clin Outcomes  2024:qcae001. https://doi.org/10.1093/ehjqcco/qcae001
+Google ScholarWorldCat 
+581	Fengler   K, Reimann   P, Rommel   KP, Kresoja   K-P, Blazek   S, Unterhuber   M, et al.   Comparison of long-term outcomes for responders versus non-responders following renal denervation in resistant hypertension. J Am Heart Assoc  2021;10:e022429. https://doi.org/10.1161/jaha.121.022429
+Google ScholarCrossrefPubMedWorldCat 
+582	Mahfoud   F, Mancia   G, Schmieder   RE, Ruilope   L, Narkiewicz   K, Schlaich   M, et al.   Cardiovascular risk reduction after renal denervation according to time in therapeutic systolic blood pressure range. J Am Coll Cardiol  2022;80:1871–80. https://doi.org/10.1016/j.jacc.2022.08.802
+Google ScholarCrossrefPubMedWorldCat 
+583	Byrne   RA, Rossello   X, Coughlan   JJ, Barbato   E, Berry   C, Chieffo   A, et al.   ESC guidelines for the management of acute coronary syndromes. Eur Heart J  2023;44:3720–826. https://doi.org/10.1093/eurheartj/ehad191
+Google ScholarCrossrefPubMedWorldCat 
+584	Singh   RR, Denton   KM. Renal denervation. Hypertension  2018;72:528–36. https://doi.org/10.1161/hypertensionaha.118.10265
+Google ScholarCrossrefPubMedWorldCat 
+585	Barbato   E, Azizi   M, Schmieder   RE, Lauder   L, Böhm   M, Brouwers   S, et al.   Renal denervation in the management of hypertension in adults. A clinical consensus statement of the ESC Council on Hypertension and the European Association of Percutaneous Cardiovascular Interventions (EAPCI). Eur Heart J  2023;44:1313–30. https://doi.org/10.1093/eurheartj/ehad054
+Google ScholarCrossrefPubMedWorldCat 
+586	Bhatt   DL, Kandzari   DE, O’Neill   WW, D’Agostino   R, Flack   JM, Katzen   BT, et al.   A controlled trial of renal denervation for resistant hypertension. N Engl J Med  2014;370:1393–401. https://doi.org/10.1056/NEJMoa1402670
+Google ScholarCrossrefPubMedWorldCat 
+587	Desch   S, Okon   T, Heinemann   D, Kulle   K, Röhnert   K, Sonnabend   M, et al.   Randomized sham-controlled trial of renal sympathetic denervation in mild resistant hypertension. Hypertension  2015;65:1202–8. https://doi.org/10.1161/hypertensionaha.115.05283
+Google ScholarCrossrefPubMedWorldCat 
+588	Mathiassen   ON, Vase   H, Bech   JN, Christensen   KL, Buus   NH, Schroeder   AP, et al.   Renal denervation in treatment-resistant essential hypertension. A randomized, SHAM-controlled, double-blinded 24–h blood pressure-based trial. J Hypertens  2016;34:1639–47. https://doi.org/10.1097/hjh.0000000000000977
+Google ScholarCrossrefPubMedWorldCat 
+589	Townsend   RR, Mahfoud   F, Kandzari   DE, Kario   K, Pocock   S, Weber   MA, et al.   Catheter-based renal denervation in patients with uncontrolled hypertension in the absence of antihypertensive medications (SPYRAL HTN-OFF MED): a randomised, sham-controlled, proof-of-concept trial. Lancet  2017;390:2160–70. https://doi.org/10.1016/s0140-6736(17)32281-x
+Google ScholarCrossrefPubMedWorldCat 
+590	Kario   K, Yokoi   Y, Okamura   K, Fujihara   M, Ogoyama   Y, Yamamoto   E, et al.   Catheter-based ultrasound renal denervation in patients with resistant hypertension: the randomized, controlled REQUIRE trial. Hypertens Res  2022;45:221–31. https://doi.org/10.1038/s41440-021-00754-7
+Google ScholarCrossrefPubMedWorldCat 
+591	Neuzil   P, Merkely   B, Erglis   A, Marinskis   G, de Groot   JR, Schmidinger   H, et al.   Pacemaker-mediated programmable hypertension control therapy. J Am Heart Assoc  2017;6:e006974. https://doi.org/10.1161/jaha.117.006974
+Google ScholarCrossrefPubMedWorldCat 
+592	Kalarus   Z, Merkely   B, Neužil   P, Grabowski   M, Mitkowski   P, Marinskis   G, et al.   Pacemaker-based cardiac neuromodulation therapy in patients with hypertension: a pilot study. J Am Heart Assoc  2021;10:e020492. https://doi.org/10.1161/jaha.120.020492
+Google ScholarCrossrefPubMedWorldCat 
+593	Musini   VM, Tejani   AM, Bassett   K, Puil   L, Wright   JM. Pharmacotherapy for hypertension in adults 60 years or older. Cochrane Database Syst Rev  2019;6:CD000028. https://doi.org/10.1002/14651858.CD000028.pub3
+Google ScholarPubMedWorldCat 
+594	Musini   VM, Gueyffier   F, Puil   L, Salzwedel   DM, Wright   JM. Pharmacotherapy for hypertension in adults aged 18 to 59 years. Cochrane Database Syst Rev  2017;8:CD008276. https://doi.org/10.1002/14651858.CD008276.pub2
+Google ScholarPubMedWorldCat 
+595	Thomopoulos   C, Parati   G, Zanchetti   A. Effects of blood-pressure-lowering treatment in hypertension: 9. Discontinuations for adverse events attributed to different classes of antihypertensive drugs: meta-analyses of randomized trials. J Hypertens  2016;34:1921–32. https://doi.org/10.1097/hjh.0000000000001052
+Google ScholarCrossrefPubMedWorldCat 
+596	Benetos   A, Petrovic   M, Strandberg   T. Hypertension management in older and frail older patients. Circ Res  2019;124:1045–60. https://doi.org/10.1161/circresaha.118.313236
+Google ScholarCrossrefPubMedWorldCat 
+597	Frey   L, Gravestock   I, Pichierri   G, Steurer   J, Burgstaller   JM. Serious adverse events in patients with target-oriented blood pressure management: a systematic review. J Hypertens  2019;37:2135–44. https://doi.org/10.1097/hjh.0000000000002176
+Google ScholarCrossrefPubMedWorldCat 
+598	Palmer   SC, Sciancalepore   M, Strippoli   GF. Trial quality in nephrology: how are we measuring up?  Am J Kidney Dis  2011;58:335–7. https://doi.org/10.1053/j.ajkd.2011.06.006
+Google ScholarCrossrefPubMedWorldCat 
+599	Carriazo   S, Sarafidis   P, Ferro   CJ, Ortiz   A. Blood pressure targets in CKD 2021: the never-ending guidelines debacle. Clin Kidney J  2022;15:845–51. https://doi.org/10.1093/ckj/sfac014
+Google ScholarCrossrefPubMedWorldCat 
+600	Kessler   A, Sollie   S, Challacombe   B, Briggs   K, Van Hemelrijck   M. The global prevalence of erectile dysfunction: a review. BJU Int  2019;124:587–99. https://doi.org/10.1111/bju.14813
+Google ScholarCrossrefPubMedWorldCat 
+601	Doumas   M, Douma   S. The effect of antihypertensive drugs on erectile function: a proposed management algorithm. J Clin Hypertens (Greenwich)  2006;8:359–64. https://doi.org/10.1111/j.1524-6175.2005.05285.x
+Google ScholarCrossrefPubMedWorldCat 
+602	Ismail   SB, Noor   NM, Hussain   NHN, Sulaiman   Z, Shamsudin   MA, Irfan   M. Angiotensin receptor blockers for erectile dysfunction in hypertensive men: a brief meta-analysis of randomized control trials. Am J Mens Health  2019;13:1557988319892735. https://doi.org/10.1177/1557988319892735
+Google ScholarWorldCat 
+603	Lawson   AJ, Hameed   MA, Brown   R, Cappuccio   FP, George   S, Hinton   T, et al.   Nonadherence to antihypertensive medications is related to pill burden in apparent treatment-resistant hypertensive individuals. J Hypertens  2020;38:1165–73. https://doi.org/10.1097/hjh.0000000000002398
+Google ScholarCrossrefPubMedWorldCat 
+604	Choudhry   NK, Kronish   IM, Vongpatanasin   W, Ferdinand   KC, Pavlik   VN, Egan   BM, et al.   Medication adherence and blood pressure control: a scientific statement from the American heart association. Hypertension  2022;79:e1–14. https://doi.org/10.1161/hyp.0000000000000203
+Google ScholarCrossrefPubMedWorldCat 
+605	Liao   CT, Toh   HS, Sun   L, Yang   C-T, Hu   A, Wei   D, et al.   Cost-effectiveness of intensive vs standard blood pressure control among older patients with hypertension. JAMA Netw Open  2023;6:e230708. https://doi.org/10.1001/jamanetworkopen.2023.0708
+Google ScholarCrossrefPubMedWorldCat 
+606	O’Donoghue   P, O’Halloran   AM, Kenny   RA, Romero-Ortuno   R. Do the frail experience more adverse events from intensive blood pressure control? A 2-year prospective study in the Irish Longitudinal Study on Ageing (TILDA). EClinicalMedicine  2022;45:101304. https://doi.org/10.1016/j.eclinm.2022.101304
+Google ScholarCrossrefPubMedWorldCat 
+607	Sexton   DJ, Canney   M, O’Connell   MDL, Moore   P, Little   MA, O’Seaghdha   CM, et al.   Injurious falls and syncope in older community-dwelling adults meeting inclusion criteria for SPRINT. JAMA Intern Med  2017;177:1385–7. https://doi.org/10.1001/jamainternmed.2017.2924
+Google ScholarCrossrefPubMedWorldCat 
+608	Masoli   JAH, Sheppard   JP, Rajkumar   C. Hypertension management in older patients-are the guideline blood pressure targets appropriate?  Age Ageing  2022;51:afab226. https://doi.org/10.1093/ageing/afab226
+Google ScholarCrossrefPubMedWorldCat 
+609	Richter   D, Guasti   L, Walker   D, Lambrinou   E, Lionis   C, Abreu   A, et al.   Frailty in cardiology: definition, assessment and clinical implications for general cardiology. A consensus document of the Council for Cardiology Practice (CCP), Association for Acute Cardio Vascular Care (ACVC), Association of Cardiovascular Nursing and Allied Professions (ACNAP), European Association of Preventive Cardiology (EAPC), European Heart Rhythm Association (EHRA), Council on Valvular Heart Diseases (VHD), Council on Hypertension (CHT), Council of Cardio-Oncology (CCO), Working Group (WG) Aorta and Peripheral Vascular Diseases, WG e-Cardiology, WG Thrombosis, of the European Society of Cardiology, European Primary Care Cardiology Society (EPCCS). Eur J Prev Cardiol  2022;29:216–27. https://doi.org/10.1093/eurjpc/zwaa167
+Google ScholarCrossrefPubMedWorldCat 
+610	Hughes   D, Judge   C, Murphy   R, Loughlin   E, Costello   M, Whiteley   W, et al.   Association of blood pressure lowering with incident dementia or cognitive impairment: a systematic review and meta-analysis. JAMA  2020;323:1934–44. https://doi.org/10.1001/jama.2020.4249
+Google ScholarCrossrefPubMedWorldCat 
+611	Peters   R, Xu   Y, Fitzgerald   O, Aung   HL, Beckett   N, Bulpitt   C, et al.   Blood pressure lowering and prevention of dementia: an individual patient data meta-analysis. Eur Heart J  2022;43:4980–90. https://doi.org/10.1093/eurheartj/ehac584
+Google ScholarCrossrefPubMedWorldCat 
+612	Pathak   A, Poulter   NR, Kavanagh   M, Kreutz   R, Burnier   M. Improving the management of hypertension by tackling awareness, adherence, and clinical inertia: a symposium report. Am J Cardiovasc Drugs  2022;22:251–61. https://doi.org/10.1007/s40256-021-00505-6
+Google ScholarCrossrefPubMedWorldCat 
+613	Sheppard   JP, Lown   M, Burt   J, Temple   E, Lowe   R, Ashby   H, et al.   Generalizability of blood pressure lowering trials to older patients: cross-sectional analysis. J Am Geriatr Soc  2020;68:2508–15. https://doi.org/10.1111/jgs.16749
+Google ScholarCrossrefPubMedWorldCat 
+614	Thomopoulos   C, Parati   G, Zanchetti   A. Effects of blood pressure lowering treatment in hypertension: 8. Outcome reductions vs. discontinuations because of adverse drug events—meta-analyses of randomized trials. J Hypertens  2016;34:1451–63. https://doi.org/10.1097/hjh.0000000000000972
+Google ScholarCrossrefPubMedWorldCat 
+615	Jordan   J, Tank   J, Reuter   H. Risk-benefit assessment of intense blood pressure lowering. Hypertension  2019;74:1302–4. https://doi.org/10.1161/hypertensionaha.119.13835
+Google ScholarCrossrefPubMedWorldCat 
+616	Rietz   H, Pennlert   J, Nordström   P, Brunström   M. Prevalence, time-trends and clinical characteristics of hypertension in young adults: nationwide cross-sectional study of 1.7 million Swedish 18-year-olds, 1969–2010. J Hypertens  2022;40:1231–8. https://doi.org/10.1097/hjh.0000000000003141
+Google ScholarCrossrefPubMedWorldCat 
+617	Ostchega   Y, Fryar   CD, Nwankwo   T, Nguyen   DT. Hypertension prevalence among adults aged 18 and over: United States, 2017–2018. NCHS Data Brief  2020;364:1–8.
+Google ScholarWorldCat 
+618	O’Neil   A, Scovelle   AJ, Milner   AJ, Kavanagh   A. Gender/sex as a social determinant of cardiovascular risk. Circulation  2018;137:854–64. https://doi.org/10.1161/circulationaha.117.028595
+Google ScholarCrossrefPubMedWorldCat 
+619	Bruno   RM, Pucci   G, Rosticci   M, Guarino   L, Guglielmo   C, Agabiti Rosei   C, et al.   Association between lifestyle and systemic arterial hypertension in young adults: a national, survey-based, cross-sectional study. High Blood Press Cardiovasc Prev  2016;23:31–40. https://doi.org/10.1007/s40292-016-0135-6
+Google ScholarCrossrefPubMedWorldCat 
+620	Suzuki   Y, Kaneko   H, Yano   Y, Okada   A, Itoh   H, Matsuoka   S, et al.   Association of cardiovascular health metrics with risk of transition to hypertension in non-hypertensive young adults. Am J Hypertens  2022;35:858–66. https://doi.org/10.1093/ajh/hpac057
+Google ScholarCrossrefPubMedWorldCat 
+621	Haggart   RC, Bartels   CM, Smith   MA, Johnson   HM. Sociodemographics and hypertension control among young adults with incident hypertension: a multidisciplinary group practice observational study. J Hypertens  2018;36:2425–33. https://doi.org/10.1097/hjh.0000000000001872
+Google ScholarCrossrefPubMedWorldCat 
+622	Liu   J, Bu   X, Wei   L, Wang   X, Lai   L, Dong   C, et al.   Global burden of cardiovascular diseases attributable to hypertension in young adults from 1990 to 2019. J Hypertens  2021;39:2488–96. https://doi.org/10.1097/hjh.0000000000002958
+Google ScholarCrossrefPubMedWorldCat 
+623	Zhang   Y, Moran   AE. Trends in the prevalence, awareness, treatment, and control of hypertension among young adults in the United States, 1999 to 2014. Hypertension  2017;70:736–42. https://doi.org/10.1161/hypertensionaha.117.09801
+Google ScholarCrossrefPubMedWorldCat 
+624	Yano   Y, Stamler   J, Garside   DB, Daviglus   ML, Franklin   SS, Carnethon   MR, et al.   Isolated systolic hypertension in young and middle-aged adults and 31-year risk for cardiovascular mortality: the Chicago Heart Association Detection Project in Industry study. J Am Coll Cardiol  2015;65:327–35. https://doi.org/10.1016/j.jacc.2014.10.060
+Google ScholarCrossrefPubMedWorldCat 
+625	Noilhan   C, Barigou   M, Bieler   L, Amar   J, Chamontin   B, Bouhanick   B, et al.   Causes of secondary hypertension in the young population: a monocentric study. Ann Cardiol Angeiol (Paris)  2016;65:159–64. https://doi.org/10.1016/j.ancard.2016.04.016
+Google ScholarCrossrefPubMedWorldCat 
+626	Jones   ESW, Esack   I, Mangena   P, Rayner   BL. Hypertension in adolescents and young adults referred to a tertiary hypertension clinic in Cape Town, South Africa. Medicine (Baltimore)  2020;99:e23137. https://doi.org/10.1097/md.0000000000023137
+Google ScholarCrossrefPubMedWorldCat 
+627	Chasan-Taber   L, Willett   WC, Manson   JE, Spiegelman   D, Hunter   DJ, Curhan   G, et al.   Prospective study of oral contraceptives and hypertension among women in the United States. Circulation  1996;94:483–9. https://doi.org/10.1161/01.cir.94.3.483
+Google ScholarCrossrefPubMedWorldCat 
+628	Lubianca   JN, Faccin   CS, Fuchs   FD. Oral contraceptives: a risk factor for uncontrolled blood pressure among hypertensive women. Contraception  2003;67:19–24. https://doi.org/10.1016/s0010-7824(02)00429-8
+Google ScholarCrossrefPubMedWorldCat 
+629	The American College of Obstetricians and Gynecologists. ACOG practice bulletin No. 206: use of hormonal contraception in women with coexisting medical conditions. Obstet Gynecol  2019;133:e128–50. https://doi.org/10.1097/aog.0000000000003072
+CrossrefPubMedWorldCat 
+630	Glisic   M, Shahzad   S, Tsoli   S, Chadni   M, Asllanaj   E, Rojas   LZ, et al.   Association between progestin-only contraceptive use and cardiometabolic outcomes: a systematic review and meta-analysis. Eur J Prev Cardiol  2018;25:1042–52. https://doi.org/10.1177/2047487318774847
+Google ScholarCrossrefPubMedWorldCat 
+631	Archer   DF, Ahrendt   HJ, Drouin   D. Drospirenone-only oral contraceptive: results from a multicenter noncomparative trial of efficacy, safety and tolerability. Contraception  2015;92:439–44. https://doi.org/10.1016/j.contraception.2015.07.014
+Google ScholarCrossrefPubMedWorldCat 
+632	Pappaccogli   M, Di Monaco   S, Warchoł-Celińska   E, Lorthioir   A, Amar   L, Aparicio   LS, et al.   The European/International Fibromuscular Dysplasia Registry and Initiative (FEIRI)—clinical phenotypes and their predictors based on a cohort of 1000 patients. Cardiovasc Res  2021;117:950–9. https://doi.org/10.1093/cvr/cvaa102
+Google ScholarCrossrefPubMedWorldCat 
+633	Thompson   P, Logan   I, Tomson   C, Sheerin   N, Ellam   T. Obesity, sex, race, and early onset hypertension: implications for a refined investigation strategy. Hypertension  2020;76:859–65. https://doi.org/10.1161/hypertensionaha.120.15557
+Google ScholarCrossrefPubMedWorldCat 
+634	Saladini   F, Fania   C, Mos   L, Mazzer   A, Casiglia   E, Palatini   P. Office pulse pressure is a predictor of favorable outcome in young- to middle-aged subjects with stage 1 hypertension. Hypertension  2017;70:537–42. https://doi.org/10.1161/hypertensionaha.117.09516
+Google ScholarCrossrefWorldCat 
+635	Hoeltzenbein   M, Tissen-Diabaté   T, Fietz   AK, Zinke   S, Kayser   A, Meister   R, et al.   Increased rate of birth defects after first trimester use of angiotensin converting enzyme inhibitors—treatment or hypertension related? An observational cohort study. Pregnancy Hypertens  2018;13:65–71. https://doi.org/10.1016/j.preghy.2018.04.022
+Google ScholarCrossrefPubMedWorldCat 
+636	Ahmed   B, Tran   DT, Zoega   H, Kennedy   SE, Jorm   LR, Havard   A. Maternal and perinatal outcomes associated with the use of renin-angiotensin system (RAS) blockers for chronic hypertension in early pregnancy. Pregnancy Hypertens  2018;14:156–61. https://doi.org/10.1016/j.preghy.2018.09.010
+Google ScholarCrossrefPubMedWorldCat 
+637	Cífková   R, Johnson   MR, Kahan   T, Brguljan   J, Williams   B, Coca   A, et al.   Peripartum management of hypertension: a position paper of the ESC Council on Hypertension and the European Society of Hypertension. Eur Heart J Cardiovasc Pharmacother  2020;6:384–93. https://doi.org/10.1093/ehjcvp/pvz082
+Google ScholarCrossrefPubMedWorldCat 
+638	Magee   LA, Brown   MA, Hall   DR, Gupte   S, Hennessy   A, Karumanchi   SA, et al.   The 2021 International Society for the Study of Hypertension in Pregnancy classification, diagnosis & management recommendations for international practice. Pregnancy Hypertens  2022;27:148–69. https://doi.org/10.1016/j.preghy.2021.09.008
+Google ScholarCrossrefPubMedWorldCat 
+639	Kassebaum   NJ, Barber   RM, Bhutta   ZA, Dandona   L, Gething   PW, Hay   SI, et al.   Global, regional, and national levels of maternal mortality, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015. The Lancet  2016;388:1775–812. https://doi.org/10.1016/S0140-6736(16)31470-2
+Google ScholarCrossrefWorldCat 
+640	Garovic   VD, White   WM, Vaughan   L, Saiki   M, Parashuram   S, Garcia-Valencia   O, et al.   Incidence and long-term outcomes of hypertensive disorders of pregnancy. J Am Coll Cardiol  2020;75:2323–34. https://doi.org/10.1016/j.jacc.2020.03.028
+Google ScholarCrossrefPubMedWorldCat 
+641	Heida   KY, Franx   A, van Rijn   BB, Eijkemans   MJC, Boer   JMA, Verschuren   MWM, et al.   Earlier age of onset of chronic hypertension and type 2 diabetes mellitus after a hypertensive disorder of pregnancy or gestational diabetes mellitus. Hypertension  2015;66:1116–22. https://doi.org/10.1161/hypertensionaha.115.06005
+Google ScholarCrossrefPubMedWorldCat 
+642	Garovic   VD, Bailey   KR, Boerwinkle   E, Hunt   SC, Weder   AB, Curb   D, et al.   Hypertension in pregnancy as a risk factor for cardiovascular disease later in life. J Hypertens  2010;28:826–33. https://doi.org/10.1097/HJH.0b013e328335c29a
+Google ScholarCrossrefPubMedWorldCat 
+643	Brown   MA, Magee   LA, Kenny   LC, Karumanchi   SA, McCarthy   FP, Saito   S, et al.   Hypertensive disorders of pregnancy: ISSHP classification, diagnosis, and management recommendations for international practice. Hypertension  2018;72:24–43. https://doi.org/10.1161/hypertensionaha.117.10803
+Google ScholarCrossrefPubMedWorldCat 
+644	Homer   CS, Brown   MA, Mangos   G, Davis   GK. Non-proteinuric pre-eclampsia: a novel risk indicator in women with gestational hypertension. J Hypertens  2008;26:295–302. https://doi.org/10.1097/HJH.0b013e3282f1a953
+Google ScholarCrossrefPubMedWorldCat 
+645	Davis   GK, Roberts   LM, Mangos   GJ, Brown   MA. Comparisons of auscultatory hybrid and automated sphygmomanometers with mercury sphygmomanometry in hypertensive and normotensive pregnant women: parallel validation studies. J Hypertens  2015;33:499–505; discussion 505–496. https://doi.org/10.1097/hjh.0000000000000420
+Google ScholarCrossrefPubMedWorldCat 
+646	Schmella   MJ, Clifton   RG, Althouse   AD, Roberts   JM. Uric acid determination in gestational hypertension: is it as effective a delineator of risk as proteinuria in high-risk women?  Reprod Sci  2015;22:1212–9. https://doi.org/10.1177/1933719115572477
+Google ScholarCrossrefPubMedWorldCat 
+647	Rolnik   DL, Wright   D, Poon   LC, O’Gorman   N, Syngelaki   A, de Paco Matallana   C, et al.   Aspirin versus placebo in pregnancies at high risk for preterm preeclampsia. N Engl J Med  2017;377:613–22. https://doi.org/10.1056/NEJMoa1704559
+Google ScholarCrossrefPubMedWorldCat 
+648	Chappell   LC, Shennan   AH. Assessment of proteinuria in pregnancy. BMJ  2008;336:968–9. https://doi.org/10.1136/bmj.39540.657928.BE
+Google ScholarCrossrefPubMedWorldCat 
+649	Jeon   HR, Jeong   DH, Lee   JY, Woo   EY, Shin   GT, Kim   S-Y. sFlt-1/PlGF ratio as a predictive and prognostic marker for preeclampsia. J Obstet Gynaecol Res  2021;47:2318–23. https://doi.org/10.1111/jog.14815
+Google ScholarCrossrefPubMedWorldCat 
+650	Bateman   BT, Bansil   P, Hernandez-Diaz   S, Mhyre   JM, Callaghan   WM, Kuklina   EV. Prevalence, trends, and outcomes of chronic hypertension: a nationwide sample of delivery admissions. Am J Obstet Gynecol  2012;206:134.e1–8. https://doi.org/10.1016/j.ajog.2011.10.878
+Google ScholarCrossrefPubMedWorldCat 
+651	Zhou   J, Azizan   EAB, Cabrera   CP, Fernandes-Rosa   FL, Boulkroun   S, Argentesi   G, et al.   Somatic mutations of GNA11 and GNAQ in CTNNB1-mutant aldosterone-producing adenomas presenting in puberty, pregnancy or menopause. Nat Genet  2021;53:1360–72. https://doi.org/10.1038/s41588-021-00906-y
+Google ScholarCrossrefPubMedWorldCat 
+652	Lenders   JWM, Langton   K, Langenhuijsen   JF, Eisenhofer   G. Pheochromocytoma and pregnancy. Endocrinol Metab Clin North Am  2019;48:605–17. https://doi.org/10.1016/j.ecl.2019.05.006
+Google ScholarCrossrefPubMedWorldCat 
+653	Bancos   I, Atkinson   E, Eng   C, Young   WF  Jr, Neumann   HPH, Yukina   M, et al.   Maternal and fetal outcomes in phaeochromocytoma and pregnancy: a multicentre retrospective cohort study and systematic review of literature. Lancet Diabetes Endocrinol  2021;9:13–21. https://doi.org/10.1016/s2213-8587(20)30363-6
+Google ScholarCrossrefPubMedWorldCat 
+654	Martínez-Vizcaíno   V, Sanabria-Martínez   G, Fernández-Rodríguez   R, Cavero-Redondo   I, Pascual-Morena   C, Álvarez-Bueno   C, et al.   Exercise during pregnancy for preventing gestational diabetes mellitus and hypertensive disorders: an umbrella review of randomised controlled trials and an updated meta-analysis. Bjog  2023;130:264–75. https://doi.org/10.1111/1471-0528.17304
+Google ScholarCrossrefPubMedWorldCat 
+655	Mottola   MF, Davenport   MH, Ruchat   SM, Davies   GA, Poitras   VJ, Gray   CE, et al.   2019 Canadian guideline for physical activity throughout pregnancy. Br J Sports Med  2018;52:1339–46. https://doi.org/10.1136/bjsports-2018-100056
+Google ScholarCrossrefPubMedWorldCat 
+656	Askie   LM, Duley   L, Henderson-Smart   DJ, Stewart   LA. Antiplatelet agents for prevention of pre-eclampsia: a meta-analysis of individual patient data. Lancet  2007;369:1791–8. https://doi.org/10.1016/s0140-6736(07)60712-0
+Google ScholarCrossrefPubMedWorldCat 
+657	Duley   L, Meher   S, Hunter   KE, Seidler   AL, Askie   LM. Antiplatelet agents for preventing pre-eclampsia and its complications. Cochrane Database Syst Rev  2019;2019:CD004659. https://doi.org/10.1002/14651858.CD004659.pub3
+Google ScholarPubMedWorldCat 
+658	Hofmeyr   GJ, Lawrie   TA, Atallah   ÁN, Torloni   MR. Calcium supplementation during pregnancy for preventing hypertensive disorders and related problems. Cochrane Database Syst Rev  2018;10:CD001059. https://doi.org/10.1002/14651858.CD001059.pub5
+Google ScholarPubMedWorldCat 
+659	Dwarkanath   P, Muhihi   A, Sudfeld   CR, Wylie   BJ, Wang   M, Perumal   N, et al.   Two randomized trials of low-dose calcium supplementation in pregnancy. N Engl J Med  2024;390:143–53. https://doi.org/10.1056/NEJMoa2307212
+Google ScholarCrossrefPubMedWorldCat 
+660	Abalos   E, Duley   L, Steyn   DW, Gialdini   C. Antihypertensive drug therapy for mild to moderate hypertension during pregnancy. Cochrane Database Syst Rev  2018;10:CD002252. https://doi.org/10.1002/14651858.CD002252.pub4
+Google ScholarPubMedWorldCat 
+661	Magee   LA, von Dadelszen   P, Rey   E, Ross   S, Asztalos   E, Murphy   KE, et al.   Less-tight versus tight control of hypertension in pregnancy. N Engl J Med  2015;372:407–17. https://doi.org/10.1056/NEJMoa1404595
+Google ScholarCrossrefPubMedWorldCat 
+662	Redman   CW. Fetal outcome in trial of antihypertensive treatment in pregnancy. Lancet  1976;2:753–6. https://doi.org/10.1016/s0140-6736(76)90597-3
+Google ScholarPubMedWorldCat 
+663	Cockburn   J, Moar   VA, Ounsted   M, Redman   CW. Final report of study on hypertension during pregnancy: the effects of specific treatment on the growth and development of the children. Lancet  1982;1:647–9. https://doi.org/10.1016/s0140-6736(82)92202-4
+Google ScholarPubMedWorldCat 
+664	Bellos   I, Pergialiotis   V, Papapanagiotou   A, Loutradis   D, Daskalakis   G. Comparative efficacy and safety of oral antihypertensive agents in pregnant women with chronic hypertension: a network metaanalysis. Am J Obstet Gynecol  2020;223:525–37. https://doi.org/10.1016/j.ajog.2020.03.016
+Google ScholarCrossrefPubMedWorldCat 
+665	Lydakis   C, Lip   GY, Beevers   M, Beevers   DG. Atenolol and fetal growth in pregnancies complicated by hypertension. Am J Hypertens  1999;12:541–7. https://doi.org/10.1016/s0895-7061(99)00031-x
+Google ScholarCrossrefPubMedWorldCat 
+666	Sridharan   K, Sequeira   RP. Drugs for treating severe hypertension in pregnancy: a network meta-analysis and trial sequential analysis of randomized clinical trials. Br J Clin Pharmacol  2018;84:1906–16. https://doi.org/10.1111/bcp.13649
+Google ScholarCrossrefPubMedWorldCat 
+667	Bhat   AD, Keasler   PM, Kolluru   L, Dombrowski   MM, Palanisamy   A, Singh   PM, et al.   Treatment of acute-onset hypertension in pregnancy: a network meta-analysis of randomized controlled trials comparing anti-hypertensives and route of administration. Pregnancy Hypertens  2023;34:74–82. https://doi.org/10.1016/j.preghy.2023.10.005
+Google ScholarCrossrefPubMedWorldCat 
+668	Ehikioya   E, Okobi   OE, Beeko   MAE, Abanga   R, Abah   NNI, Briggs   L, et al.   Comparing intravenous labetalol and intravenous hydralazine for managing severe gestational hypertension. Cureus  2023;15:e42332. https://doi.org/10.7759/cureus.42332
+Google ScholarPubMedWorldCat 
+669	Halpern   DG, Weinberg   CR, Pinnelas   R, Mehta-Lee   S, Economy   KE, Valente   AM, et al.   Use of medication for cardiovascular disease during pregnancy: JACC state-of-the-art review. J Am Coll Cardiol  2019;73:457–76. https://doi.org/10.1016/j.jacc.2018.10.075
+Google ScholarCrossrefPubMedWorldCat 
+670	Goel   A, Maski   MR, Bajracharya   S, Wenger   JB, Zhang   D, Salahuddin   S, et al.   Epidemiology and mechanisms of de novo and persistent hypertension in the postpartum period. Circulation  2015;132:1726–33. https://doi.org/10.1161/circulationaha.115.015721
+Google ScholarCrossrefPubMedWorldCat 
+671	Behrens   I, Basit   S, Melbye   M, Lykke   JA, Wohlfahrt   J, Bundgaard   H, et al.   Risk of post-pregnancy hypertension in women with a history of hypertensive disorders of pregnancy: nationwide cohort study. BMJ  2017;358:j3078. https://doi.org/10.1136/bmj.j3078
+Google ScholarPubMedWorldCat 
+672	Barrett   PM, McCarthy   FP, Evans   M, Kublickas   M, Perry   IJ, Stenvinkel   P, et al.   Hypertensive disorders of pregnancy and the risk of chronic kidney disease: a Swedish registry-based cohort study. PLoS Med  2020;17:e1003255. https://doi.org/10.1371/journal.pmed.1003255
+Google ScholarCrossrefPubMedWorldCat 
+673	Giorgione   V, Ridder   A, Kalafat   E, Khalil   A, Thilaganathan   B. Incidence of postpartum hypertension within 2 years of a pregnancy complicated by pre-eclampsia: a systematic review and meta-analysis. BJOG  2021;128:495–503. https://doi.org/10.1111/1471-0528.16545
+Google ScholarCrossrefPubMedWorldCat 
+674	Benschop   L, Duvekot   JJ, Versmissen   J, van Broekhoven   V, Steegers   EAP, Roeters van Lennep   JE, et al.   Blood pressure profile 1 year after severe preeclampsia. Hypertension  2018;71:491–8. https://doi.org/10.1161/hypertensionaha.117.10338
+Google ScholarCrossrefPubMedWorldCat 
+675	Kitt   J, Fox   R, Frost   A, Shanyinde   M, Tucker   K, Bateman   PA, et al.   Long-term blood pressure control after hypertensive pregnancy following physician-optimized self-management: the POP-HT randomized clinical trial. JAMA  2023;330:1991–9. https://doi.org/10.1001/jama.2023.21523
+Google ScholarCrossrefPubMedWorldCat 
+676	van Oostwaard   MF, Langenveld   J, Schuit   E, Papatsonis   DNM, Brown   MA, Byaruhanga   RN, et al.   Recurrence of hypertensive disorders of pregnancy: an individual patient data metaanalysis. Am J Obstet Gynecol  2015;212:624.e1–17. https://doi.org/10.1016/j.ajog.2015.01.009
+Google ScholarCrossrefPubMedWorldCat 
+677	Brown   MA, Mackenzie   C, Dunsmuir   W, Roberts   L, Ikin   K, Matthews   J, et al.   Can we predict recurrence of pre-eclampsia or gestational hypertension?  BJOG  2007;114:984–93. https://doi.org/10.1111/j.1471-0528.2007.01376.x
+Google ScholarCrossrefPubMedWorldCat 
+678	Heimberger   S, Perdigao   JL, Mueller   A, Shahul   S, Naseem   H, Minhas   R, et al.   Effect of blood pressure control in early pregnancy and clinical outcomes in African American women with chronic hypertension. Pregnancy Hypertens  2020;20:102–7. https://doi.org/10.1016/j.preghy.2020.03.008
+Google ScholarCrossrefPubMedWorldCat 
+679	Salazar   MR, Espeche   WG, Balbín   E, Leiva Sisnieguez   CE, Leiva Sisnieguez   BC, Stavile   RN, et al.   Office blood pressure values and the necessity of out-of-office measurements in high-risk pregnancies. J Hypertens  2019;37:1838–44. https://doi.org/10.1097/hjh.0000000000002140
+Google ScholarCrossrefPubMedWorldCat 
+680	Buawangpong   N, Teekachunhatean   S, Koonrungsesomboon   N. Adverse pregnancy outcomes associated with first-trimester exposure to angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers: a systematic review and meta-analysis. Pharmacol Res Perspect  2020;8:e00644. https://doi.org/10.1002/prp2.644
+Google ScholarCrossrefPubMedWorldCat 
+681	Weber-Schoendorfer   C, Kayser   A, Tissen-Diabaté   T, Winterfeld   U, Eleftheriou   G, Te Winkel   B, et al.   Fetotoxic risk of AT1 blockers exceeds that of angiotensin-converting enzyme inhibitors: an observational study. J Hypertens  2020;38:133–41. https://doi.org/10.1097/hjh.0000000000002233
+Google ScholarCrossrefPubMedWorldCat 
+682	Chen   X, Mao   G, Leng   SX. Frailty syndrome: an overview. Clin Interv Aging  2014;9:433–41. https://doi.org/10.2147/cia.S45300
+Google ScholarPubMedWorldCat 
+683	Rodriguez-Mañas   L, Fried   LP. Frailty in the clinical scenario. Lancet  2015;385:e7–9. https://doi.org/10.1016/s0140-6736(14)61595-6
+Google ScholarCrossrefPubMedWorldCat 
+684	Fried   LP, Tangen   CM, Walston   J, Newman   AB, Hirsch   C, Gottdiener   J, et al.   Frailty in older adults: evidence for a phenotype. J Gerontol A Biol Sci Med Sci  2001;56:M146–156. https://doi.org/10.1093/gerona/56.3.m146
+Google ScholarCrossrefPubMedWorldCat 
+685	Fried   LP, Kronmal   RA, Newman   AB, Bild   DE, Mittelmark   MB, Polak   JF, et al.   Risk factors for 5-year mortality in older adults: the cardiovascular health study. JAMA  1998;279:585–92. https://doi.org/10.1001/jama.279.8.585
+Google ScholarCrossrefPubMedWorldCat 
+686	Martens   DS, Thijs   L, Latosinska   A, Trenson   S, Siwy   J, Zhang   Z-Y, et al.   Urinary peptidomic profiles to address age-related disabilities: a prospective population study. Lancet Healthy Longev  2021;2:e690–703. https://doi.org/10.1016/s2666-7568(21)00226-9
+Google ScholarCrossrefPubMedWorldCat 
+687	Monahan   KD. Effect of aging on baroreflex function in humans. Am J Physiol Regul Integr Comp Physiol  2007;293:R3–r12. https://doi.org/10.1152/ajpregu.00031.2007
+Google ScholarCrossrefPubMedWorldCat 
+688	Paleczny   B, Niewiński   P, Rydlewska   A, Piepoli   MF, Borodulin-Nadzieja   L, Jankowska   EA, et al.   Age-related reflex responses from peripheral and central chemoreceptors in healthy men. Clin Auton Res  2014;24:285–96. https://doi.org/10.1007/s10286-014-0263-9
+Google ScholarCrossrefPubMedWorldCat 
+689	Anker   D, Santos-Eggimann   B, Zwahlen   M, Santschi   V, Rodondi   N, Wolfson   C, et al.   Blood pressure in relation to frailty in older adults: a population-based study. J Clin Hypertens (Greenwich)  2019;21:1895–904. https://doi.org/10.1111/jch.13722
+Google ScholarCrossrefPubMedWorldCat 
+690	Ravindrarajah   R, Hazra   NC, Hamada   S, Charlton   J, Jackson   SHD, Dregan   A, et al.   Systolic blood pressure trajectory, frailty, and all-cause mortality >80 years of age: cohort study using electronic health records. Circulation  2017;135:2357–68. https://doi.org/10.1161/circulationaha.116.026687
+Google ScholarCrossrefPubMedWorldCat 
+691	Searle   SD, Mitnitski   A, Gahbauer   EA, Gill   TM, Rockwood   K. A standard procedure for creating a frailty index. BMC Geriatr  2008;8:24. https://doi.org/10.1186/1471-2318-8-24
+Google ScholarCrossrefPubMedWorldCat 
+692	Clegg   A, Bates   C, Young   J, Ryan   R, Nichols   L, Ann Teale   E, et al.   Development and validation of an electronic frailty index using routine primary care electronic health record data. Age Ageing  2016;45:353–60. https://doi.org/10.1093/ageing/afw039
+Google ScholarCrossrefPubMedWorldCat 
+693	Rockwood   K, Song   X, MacKnight   C, Bergman   H, Hogan   DB, McDowell   I, et al.   A global clinical measure of fitness and frailty in elderly people. CMAJ  2005;173:489–95. https://doi.org/10.1503/cmaj.050051
+Google ScholarCrossrefPubMedWorldCat 
+694	Nguyen   TN, Harris   K, Woodward   M, Chalmers   J, Cooper   M, Hamet   P, et al.   The impact of frailty on the effectiveness and safety of intensive glucose control and blood pressure-lowering therapy for people with type 2 diabetes: results from the ADVANCE trial. Diabetes Care  2021;44:1622–9. https://doi.org/10.2337/dc20-2664
+Google ScholarCrossrefPubMedWorldCat 
+695	Masoli   JAH, Delgado   J, Pilling   L, Strain   D, Melzer   D. Blood pressure in frail older adults: associations with cardiovascular outcomes and all-cause mortality. Age Ageing  2020;49:807–13. https://doi.org/10.1093/ageing/afaa028
+Google ScholarCrossrefPubMedWorldCat 
+696	Aparicio   LS, Thijs   L, Boggia   J, Jacobs   L, Barochiner   J, Odili   AN, et al.   Defining thresholds for home blood pressure monitoring in octogenarians. Hypertension  2015;66:865–73. https://doi.org/10.1161/hypertensionaha.115.05800
+Google ScholarCrossrefPubMedWorldCat 
+697	Gaffney   B, Jacobsen   AP, Pallippattu   AW, Leahy   N, McEvoy   JW. The diastolic blood pressure J-curve in hypertension management: links and risk for cardiovascular disease. Integr Blood Press Control  2021;14:179–87. https://doi.org/10.2147/ibpc.S286957
+Google ScholarCrossrefPubMedWorldCat 
+698	Warwick   J, Falaschetti   E, Rockwood   K, Mitnitski   A, Thijs   L, Beckett   N, et al.   No evidence that frailty modifies the positive impact of antihypertensive treatment in very elderly people: an investigation of the impact of frailty upon treatment effect in the HYpertension in the Very Elderly Trial (HYVET) study, a double-blind, placebo-controlled study of antihypertensives in people with hypertension aged 80 and over. BMC Med  2015;13:78. https://doi.org/10.1186/s12916-015-0328-1
+Google ScholarCrossrefPubMedWorldCat 
+699	Todd   OM, Wilkinson   C, Hale   M, Wong   NL, Hall   M, Sheppard   JP, et al.   Is the association between blood pressure and mortality in older adults different with frailty? A systematic review and meta-analysis. Age Ageing  2019;48:627–35. https://doi.org/10.1093/ageing/afz072
+Google ScholarCrossrefPubMedWorldCat 
+700	Li   Y, Thijs   L, Zhang   ZY, Asayama   K, Hansen   TW, Boggia   J, et al.   Opposing age-related trends in absolute and relative risk of adverse health outcomes associated with out-of-office blood pressure. Hypertension  2019;74:1333–42. https://doi.org/10.1161/hypertensionaha.119.12958
+Google ScholarCrossrefPubMedWorldCat 
+701	Beckett   NS, Peters   R, Fletcher   AE, Staessen   JA, Liu   L, Dumitrascu   D, et al.   Treatment of hypertension in patients 80 years of age or older. N Engl J Med  2008;358:1887–98. https://doi.org/10.1056/NEJMoa0801369
+Google ScholarCrossrefPubMedWorldCat 
+702	Peters   R, Beckett   N, McCormack   T, Fagard   R, Fletcher   A, Bulpitt   C. Treating hypertension in the very elderly-benefits, risks, and future directions, a focus on the hypertension in the very elderly trial. Eur Heart J  2014;35:1712–8. https://doi.org/10.1093/eurheartj/eht464
+Google ScholarCrossrefPubMedWorldCat 
+703	Travers   J, Romero-Ortuno   R, Bailey   J, Cooney   MT. Delaying and reversing frailty: a systematic review of primary care interventions. Br J Gen Pract  2019;69:e61–9. https://doi.org/10.3399/bjgp18X700241
+Google ScholarCrossrefPubMedWorldCat 
+704	Bogaerts   JMK, von Ballmoos   LM, Achterberg   WP, Gussekloo   J, Streit   S, van der Ploeg   MA, et al.   Do we AGREE on the targets of antihypertensive drug treatment in older adults: a systematic review of guidelines on primary prevention of cardiovascular diseases. Age Ageing  2022;51:afab192. https://doi.org/10.1093/ageing/afab192
+Google ScholarCrossrefPubMedWorldCat 
+705	Sheppard   JP, Benetos   A, McManus   RJ. Antihypertensive deprescribing in older adults: a practical guide. Curr Hypertens Rep  2022;24:571–80. https://doi.org/10.1007/s11906-022-01215-3
+Google ScholarCrossrefPubMedWorldCat 
+706	McDonnell   CC, Rogers   KC, Regen   SM, Finks   SW. The Fall Risk with Alpha blockers Given InitiaL dose or Elderly status (FRAGILE) study. Ann Pharmacother  2020;54:226–31. https://doi.org/10.1177/1060028019880305
+Google ScholarCrossrefPubMedWorldCat 
+707	Hiremath   S, Ruzicka   M, Petrcich   W, McCallum   MK, Hundemer   GL, Tanuseputro   P, et al.   Alpha-blocker use and the risk of hypotension and hypotension-related clinical events in women of advanced age. Hypertension  2019;74:645–51. https://doi.org/10.1161/hypertensionaha.119.13289
+Google ScholarCrossrefPubMedWorldCat 
+708	Li   H, Xu   TY, Li   Y, Chia   Y-C, Buranakitjaroen   P, Cheng   H-M, et al.   Role of α1-blockers in the current management of hypertension. J Clin Hypertens (Greenwich)  2022;24:1180–6. https://doi.org/10.1111/jch.14556
+Google ScholarCrossrefPubMedWorldCat 
+709	Ravindrarajah   R, Dregan   A, Hazra   NC, Hamada   S, Jackson   SHD, Gulliford   MC, et al.   Declining blood pressure and intensification of blood pressure management among people over 80 years: cohort study using electronic health records. J Hypertens  2017;35:1276–82. https://doi.org/10.1097/hjh.0000000000001291
+Google ScholarCrossrefPubMedWorldCat 
+710	Chun   S, Han   K, Lee   S, Cho   M-H, Jeong   S-M, Jung   H-W, et al.   Impact of frailty on the relationship between blood pressure and cardiovascular diseases and mortality in young-old adults. J Pers Med  2022;12:418. https://doi.org/10.3390/jpm12030418
+Google ScholarCrossrefPubMedWorldCat 
+711	Khan   N, McAlister   FA. Re-examining the efficacy of beta-blockers for the treatment of hypertension: a meta-analysis. CMAJ  2006;174:1737–42. https://doi.org/10.1503/cmaj.060110
+Google ScholarCrossrefPubMedWorldCat 
+712	Lavan   AH, Gallagher   P, Parsons   C, O’Mahony   D. STOPPFrail (Screening Tool of Older Persons Prescriptions in Frail adults with limited life expectancy): consensus validation. Age Ageing  2017;46:600–7. https://doi.org/10.1093/ageing/afx005
+Google ScholarCrossrefPubMedWorldCat 
+713	Eeftinck Schattenkerk   DW, van Gorp   J, Vogt   L, Peters   RJ, van den Born   BH. Isolated systolic hypertension of the young and its association with central blood pressure in a large multi-ethnic population. The HELIUS study. Eur J Prev Cardiol  2018;25:1351–9. https://doi.org/10.1177/2047487318777430
+Google ScholarCrossrefPubMedWorldCat 
+714	Franklin   SS, Jacobs   MJ, Wong   ND, L’Italien   GJ, Lapuerta   P. Predominance of isolated systolic hypertension among middle-aged and elderly US hypertensives: analysis based on National Health and Nutrition Examination Survey (NHANES) III. Hypertension  2001;37:869–74. https://doi.org/10.1161/01.hyp.37.3.869
+Google ScholarCrossrefPubMedWorldCat 
+715	Van Bortel   LM, Laurent   S, Boutouyrie   P, Chowienczyk   P, Cruickshank   JK, De Backer   T, et al.   Expert consensus document on the measurement of aortic stiffness in daily practice using carotid-femoral pulse wave velocity. J Hypertens  2012;30:445–8. https://doi.org/10.1097/HJH.0b013e32834fa8b0
+Google ScholarCrossrefPubMedWorldCat 
+716	The Reference Values for Arterial Stiffness Collaboration. Determinants of pulse wave velocity in healthy people and in the presence of cardiovascular risk factors: ‘establishing normal and reference values’. Eur Heart J  2010;31:2338–50. https://doi.org/10.1093/eurheartj/ehq165
+CrossrefPubMedWorldCat 
+717	Li   Y, Wei   FF, Thijs   L, Boggia   J, Asayama   K, Hansen   TW, et al.   Ambulatory hypertension subtypes and 24-hour systolic and diastolic blood pressure as distinct outcome predictors in 8341 untreated people recruited from 12 populations. Circulation  2014;130:466–74. https://doi.org/10.1161/circulationaha.113.004876
+Google ScholarCrossrefPubMedWorldCat 
+718	Staessen   JA, Gasowski   J, Wang   JG, Thijs   L, Hond   ED, Boissel   J-P, et al.   Risks of untreated and treated isolated systolic hypertension in the elderly: meta-analysis of outcome trials. Lancet  2000;355:865–72. https://doi.org/10.1016/s0140-6736(99)07330-4
+Google ScholarCrossrefPubMedWorldCat 
+719	McEniery   CM, Yasmin, Wallace   S, Maki-Petaja   K, McDonnell   B, Sharman   JE, et al.   Increased stroke volume and aortic stiffness contribute to isolated systolic hypertension in young adults. Hypertension  2005;46:221–6. https://doi.org/10.1161/01.HYP.0000165310.84801.e0
+Google ScholarCrossrefPubMedWorldCat 
+720	Palatini   P, Rosei   EA, Avolio   A, Bilo   G, Casiglia   E, Ghiadoni   L, et al.   Isolated systolic hypertension in the young: a position paper endorsed by the European Society of Hypertension. J Hypertens  2018;36:1222–36. https://doi.org/10.1097/hjh.0000000000001726
+Google ScholarCrossrefPubMedWorldCat 
+721	Unger   T, Borghi   C, Charchar   F, Khan   NA, Poulter   NR, Prabhakaran   D, et al.   2020 International Society of Hypertension global hypertension practice guidelines. Hypertension  2020;75:1334–57. https://doi.org/10.1161/hypertensionaha.120.15026
+Google ScholarCrossrefPubMedWorldCat 
+722	Yano   Y, Chang Kim   H, Lee   H, Azahar   N, Ahmed   S, Kitaoka   K, et al.   Response to isolated diastolic hypertension and risk of cardiovascular disease: controversies in hypertension—con side of the argument. Hypertension  2022;79:1579. https://doi.org/10.1161/hypertensionaha.122.19493
+Google ScholarCrossrefPubMedWorldCat 
+723	Jacobsen   AP, McKittrick   M, Daya   N, Al Rifai   M, McEvoy   JW. Isolated diastolic hypertension and risk of cardiovascular disease: controversies in hypertension—con side of the argument. Hypertension  2022;79:1571–8. https://doi.org/10.1161/hypertensionaha.122.18458
+Google ScholarCrossrefPubMedWorldCat 
+724	Blank   SG, Mann   SJ, James   GD, West   JE, Pickering   TG. Isolated elevation of diastolic blood pressure. Real or artifactual?  Hypertension  1995;26:383–9. https://doi.org/10.1161/01.hyp.26.3.383
+Google ScholarCrossrefPubMedWorldCat 
+725	Cho   SMJ, Lee   H, Koyama   S, Zou   RS, Schuermans   A, Ganesh   S, et al.   Cumulative diastolic blood pressure burden in normal systolic blood pressure and cardiovascular disease. Hypertension  2024;81:273–81. https://doi.org/10.1161/hypertensionaha.123.22160
+Google ScholarCrossrefPubMedWorldCat 
+726	Grobman   B, Turkson-Ocran   RN, Staessen   JA, Yu   Y-L, Lipsitz   LA, Mukamal   KJ, et al.   Body position and orthostatic hypotension in hypertensive adults: results from the Syst-Eur trial. Hypertension  2023;80:820–7. https://doi.org/10.1161/hypertensionaha.122.20602
+Google ScholarCrossrefPubMedWorldCat 
+727	Juraschek   SP, Taylor   AA, Wright   JT  Jr, Evans   GW, Miller   ER, Plante   TB, et al.   Orthostatic hypotension, cardiovascular outcomes, and adverse events: results from SPRINT. Hypertension  2020;75:660–7. https://doi.org/10.1161/hypertensionaha.119.14309
+Google ScholarCrossrefPubMedWorldCat 
+728	Juraschek   SP, Daya   N, Appel   LJ, Miller   ER, McEvoy   JW, Matsushita   K, et al.   Orthostatic hypotension and risk of clinical and subclinical cardiovascular disease in middle-aged adults. J Am Heart Assoc  2018;7:e008884. https://doi.org/10.1161/jaha.118.008884
+Google ScholarCrossrefPubMedWorldCat 
+729	Fleg   JL, Evans   GW, Margolis   KL, Barzilay   J, Basile   JN, Bigger   JT, et al.   Orthostatic hypotension in the ACCORD (Action to Control Cardiovascular Risk in Diabetes) blood pressure trial: prevalence, incidence, and prognostic significance. Hypertension  2016;68:888–95. https://doi.org/10.1161/hypertensionaha.116.07474
+Google ScholarCrossrefPubMedWorldCat 
+730	Juraschek   SP, Hu   JR, Cluett   JL, Ishak   A, Mita   C, Lipsitz   LA, et al.   Effects of intensive blood pressure treatment on orthostatic hypotension : a systematic review and individual participant-based meta-analysis. Ann Intern Med  2021;174:58–68. https://doi.org/10.7326/m20-4298
+Google ScholarCrossrefPubMedWorldCat 
+731	Ylitalo   A, Airaksinen   KE, Sellin   L, Huikuri   HV. Effects of combination antihypertensive therapy on baroreflex sensitivity and heart rate variability in systemic hypertension. Am J Cardiol  1999;83:885–9. https://doi.org/10.1016/s0002-9149(98)01067-4
+Google ScholarCrossrefPubMedWorldCat 
+732	Ganjehei   L, Massumi   A, Razavi   M, Wilson   JM. Orthostatic hypotension as a manifestation of vitamin B12 deficiency. Tex Heart Inst J  2012;39:722–3.
+Google ScholarPubMedWorldCat 
+733	Shimbo   D, Barrett Bowling   C, Levitan   EB, Deng   L, Sim   JJ, Huang   L, et al.   Short-term risk of serious fall injuries in older adults initiating and intensifying treatment with antihypertensive medication. Circ Cardiovasc Qual Outcomes  2016;9:222–9. https://doi.org/10.1161/circoutcomes.115.002524
+Google ScholarCrossrefPubMedWorldCat 
+734	Krediet   CT, van Lieshout   JJ, Bogert   LW, Immink   RV, Kim   Y-S, Wieling   W, et al.   Leg crossing improves orthostatic tolerance in healthy subjects: a placebo-controlled crossover study. Am J Physiol Heart Circ Physiol  2006;291:H1768–72. https://doi.org/10.1152/ajpheart.00287.2006
+Google ScholarCrossrefPubMedWorldCat 
+735	Okamoto   LE, Diedrich   A, Baudenbacher   FJ, Harder   R, Whitfield   JS, Iqbal   F, et al.   Efficacy of servo-controlled splanchnic venous compression in the treatment of orthostatic hypotension: a randomized comparison with midodrine. Hypertension  2016;68:418–26. https://doi.org/10.1161/hypertensionaha.116.07199
+Google ScholarCrossrefPubMedWorldCat 
+736	Okamoto   LE, Celedonio   JE, Smith   EC, Gamboa   A, Shibao   CA, Diedrich   A, et al.   Local passive heat for the treatment of hypertension in autonomic failure. J Am Heart Assoc  2021;10:e018979. https://doi.org/10.1161/jaha.120.018979
+Google ScholarCrossrefPubMedWorldCat 
+737	Buyken   AE, von Eckardstein   A, Schulte   H, Cullen   P, Assmann   G. Type 2 diabetes mellitus and risk of coronary heart disease: results of the 10-year follow-up of the PROCAM study. Eur J Cardiovasc Prev Rehabil  2007;14:230–6. https://doi.org/10.1097/HJR.0b013e3280142037
+Google ScholarCrossrefPubMedWorldCat 
+738	Nathan   DM. Long-term complications of diabetes mellitus. N Engl J Med  1993;328:1676–85. https://doi.org/10.1056/nejm199306103282306
+Google ScholarCrossrefPubMedWorldCat 
+739	Marx   N, Federici   M, Schütt   K, Müller-Wieland   D, Ajjan   RA, Antunes   MJ, et al.   2023 ESC Guidelines for the management of cardiovascular disease in patients with diabetes. Eur Heart J  2023;44:4043–140. https://doi.org/10.1093/eurheartj/ehad192
+Google ScholarCrossrefPubMedWorldCat 
+740	Pylypchuk   R, Wells   S, Kerr   A, Poppe   K, Harwood   M, Mehta   S, et al.   Cardiovascular risk prediction in type 2 diabetes before and after widespread screening: a derivation and validation study. Lancet  2021;397:2264–74. https://doi.org/10.1016/s0140-6736(21)00572-9
+Google ScholarCrossrefPubMedWorldCat 
+741	Danaei   G, Fahimi   S, Lu   Y, Zhou   B, Hajifathalian   K, Di Cesare   M, et al.   Effects of diabetes definition on global surveillance of diabetes prevalence and diagnosis: a pooled analysis of 96 population-based studies with 331288 participants. Lancet Diabetes Endocrinol  2015;3:624–37. https://doi.org/10.1016/S2213-8587(15)00129-1
+Google ScholarCrossrefPubMedWorldCat 
+742	Wright   AK, Suarez-Ortegon   MF, Read   SH, Kontopantelis   E, Buchan   I, Emsley   R, et al.   Risk factor control and cardiovascular event risk in people with type 2 diabetes in primary and secondary prevention settings. Circulation  2020;142:1925–36. https://doi.org/10.1161/circulationaha.120.046783
+Google ScholarCrossrefPubMedWorldCat 
+743	Adamsson Eryd   S, Gudbjörnsdottir   S, Manhem   K, Rosengren   A, Svensson   A-M, Miftaraj   M, et al.   Blood pressure and complications in individuals with type 2 diabetes and no previous cardiovascular disease: national population based cohort study. BMJ  2016;354:i4070. https://doi.org/10.1136/bmj.i4070
+Google ScholarPubMedWorldCat 
+744	Brunström   M, Carlberg   B. Effect of antihypertensive treatment at different blood pressure levels in patients with diabetes mellitus: systematic review and meta-analyses. BMJ  2016;352:i717. https://doi.org/10.1136/bmj.i717
+Google ScholarPubMedWorldCat 
+745	Emdin   CA, Rahimi   K, Neal   B, Callender   T, Perkovic   V, Patel   A. Blood pressure lowering in type 2 diabetes: a systematic review and meta-analysis. JAMA  2015;313:603–15. https://doi.org/10.1001/jama.2014.18574
+Google ScholarCrossrefPubMedWorldCat 
+746	Thomopoulos   C, Parati   G, Zanchetti   A. Effects of blood-pressure-lowering treatment on outcome incidence in hypertension: 10 – Should blood pressure management differ in hypertensive patients with and without diabetes mellitus? Overview and meta-analyses of randomized trials. J Hypertens  2017;35:922–44. https://doi.org/10.1097/hjh.0000000000001276
+Google ScholarCrossrefPubMedWorldCat 
+747	Rahman   F, McEvoy   JW, Ohkuma   T, Marre   M, Hamet   P, Harrap   S, et al.   Effects of blood pressure lowering on clinical outcomes according to baseline blood pressure and cardiovascular risk in patients with type 2 diabetes mellitus. Hypertension  2019;73:1291–9. https://doi.org/10.1161/hypertensionaha.118.12414
+Google ScholarCrossrefPubMedWorldCat 
+748	Agashe   S, Petak   S. Cardiac autonomic neuropathy in diabetes mellitus. Methodist Debakey Cardiovasc J  2018;14:251–6. https://doi.org/10.14797/mdcj-14-4-251
+Google ScholarCrossrefPubMedWorldCat 
+749	Beddhu   S, Chertow   GM, Greene   T, Whelton   PK, Ambrosius   WT, Cheung   AK, et al.   Effects of intensive systolic blood pressure lowering on cardiovascular events and mortality in patients with type 2 diabetes mellitus on standard glycemic control and in those without diabetes mellitus: reconciling results from ACCORD BP and SPRINT. J Am Heart Assoc  2018;7:e009326. https://doi.org/10.1161/jaha.118.009326
+Google ScholarCrossrefPubMedWorldCat 
+750	Buckley   LF, Dixon   DL, Wohlford   GF, Wijesinghe   DS, Baker   WL, Van Tassell   BW. Intensive versus standard blood pressure control in SPRINT-eligible participants of ACCORD-BP. Diabetes Care  2017;40:1733–8. https://doi.org/10.2337/dc17-1366
+Google ScholarCrossrefPubMedWorldCat 
+751	Brouwer   TF, Vehmeijer   JT, Kalkman   DN, Berger   WR, van den Born   B-JH, Peters   RJ, et al.   Intensive blood pressure lowering in patients with and patients without type 2 diabetes: a pooled analysis from two randomized trials. Diabetes Care  2018;41:1142–8. https://doi.org/10.2337/dc17-1722
+Google ScholarCrossrefPubMedWorldCat 
+752	Shi   S, Gouskova   N, Najafzadeh   M, Wei   LJ, Kim   DH. Intensive versus standard blood pressure control in type 2 diabetes: a restricted mean survival time analysis of a randomised controlled trial. BMJ Open  2021;11:e050335. https://doi.org/10.1136/bmjopen-2021-050335
+Google ScholarCrossrefPubMedWorldCat 
+753	Palmer   SC, Mavridis   D, Navarese   E, Craig   JC, Tonelli   M, Salanti   G, et al.   Comparative efficacy and safety of blood pressure-lowering agents in adults with diabetes and kidney disease: a network meta-analysis. Lancet  2015;385:2047–56. https://doi.org/10.1016/s0140-6736(14)62459-4
+Google ScholarCrossrefPubMedWorldCat 
+754	Ying   A, Arima   H, Czernichow   S, Woodward   M, Huxley   R, Turnbull   F, et al.   Effects of blood pressure lowering on cardiovascular risk according to baseline body-mass index: a meta-analysis of randomised trials. Lancet  2015;385:867–74. https://doi.org/10.1016/s0140-6736(14)61171-5
+Google ScholarPubMedWorldCat 
+755	Nazarzadeh   M, Bidel   Z, Canoy   D, Copland   E, Wamil   M, Majert   J, et al.   Blood pressure lowering and risk of new-onset type 2 diabetes: an individual participant data meta-analysis. Lancet  2021;398:1803–10. https://doi.org/10.1016/s0140-6736(21)01920-6
+Google ScholarCrossrefPubMedWorldCat 
+756	Kearney   PM, Whelton   M, Reynolds   K, Muntner   P, Whelton   PK, He   J, et al.   Global burden of hypertension: analysis of worldwide data. Lancet  2005;365:217–23. https://doi.org/10.1016/s0140-6736(05)17741-1
+Google ScholarCrossrefPubMedWorldCat 
+757	Jager   KJ, Kovesdy   C, Langham   R, Rosenberg   M, Jha   V, Zoccali   C, et al.   A single number for advocacy and communication—worldwide more than 850 million individuals have kidney diseases. Kidney Int  2019;96:1048–50. https://doi.org/10.1016/j.kint.2019.07.012
+Google ScholarCrossrefPubMedWorldCat 
+758	Foreman   KJ, Marquez   N, Dolgert   A, Fukutaki   K, Fullman   N, McGaughey   M, et al.   Forecasting life expectancy, years of life lost, and all-cause and cause-specific mortality for 250 causes of death: reference and alternative scenarios for 2016–40 for 195 countries and territories. Lancet  2018;392:2052–90. https://doi.org/10.1016/s0140-6736(18)31694-5
+Google ScholarCrossrefPubMedWorldCat 
+759	Ortiz   A, Sanchez-Niño   MD, Crespo-Barrio   M, De-Sequera-Ortiz   P, Fernández-Giráldez   E, García-Maset   R, et al.   The Spanish Society of Nephrology (SENEFRO) commentary to the Spain GBD 2016 report: keeping chronic kidney disease out of sight of health authorities will only magnify the problem. Nefrologia (Engl Ed)  2019;39:29–34. https://doi.org/10.1016/j.nefro.2018.09.002
+Google ScholarCrossrefPubMedWorldCat 
+760	Law   JP, Pickup   L, Pavlovic   D, Townend   JN, Ferro   CJ. Hypertension and cardiomyopathy associated with chronic kidney disease: epidemiology, pathogenesis and treatment considerations. J Hum Hypertens  2023;37:1–19. https://doi.org/10.1038/s41371-022-00751-4
+Google ScholarCrossrefPubMedWorldCat 
+761	Fay   KS, Cohen   DL. Resistant hypertension in people with CKD: a review. Am J Kidney Dis  2021;77:110–21. https://doi.org/10.1053/j.ajkd.2020.04.017
+Google ScholarCrossrefPubMedWorldCat 
+762	Webster   AC, Nagler   EV, Morton   RL, Masson   P. Chronic kidney disease. Lancet  2017;389:1238–52. https://doi.org/10.1016/s0140-6736(16)32064-5
+Google ScholarCrossrefPubMedWorldCat 
+763	Ninomiya   T, Perkovic   V, Turnbull   F, Neal   B, Barzi   F, Cass   A, et al.   Blood pressure lowering and major cardiovascular events in people with and without chronic kidney disease: meta-analysis of randomised controlled trials. BMJ  2013;347:f5680. https://doi.org/10.1136/bmj.f5680
+Google ScholarPubMedWorldCat 
+764	Aggarwal   R, Petrie   B, Bala   W, Chiu   N. Mortality outcomes with intensive blood pressure targets in chronic kidney disease patients. Hypertension  2019;73:1275–82. https://doi.org/10.1161/hypertensionaha.119.12697
+Google ScholarCrossrefPubMedWorldCat 
+765	Bangalore   S, Toklu   B, Gianos   E, Schwartzbard   A, Weintraub   H, Ogedegbe   G, et al.   Optimal systolic blood pressure target after SPRINT: insights from a network meta-analysis of randomized trials. Am J Med  2017;130:707–19.e8. https://doi.org/10.1016/j.amjmed.2017.01.004
+Google ScholarCrossrefPubMedWorldCat 
+766	Lv   J, Ehteshami   P, Sarnak   MJ, Tighiouart   H, Jun   M, Ninomiya   T, et al.   Effects of intensive blood pressure lowering on the progression of chronic kidney disease: a systematic review and meta-analysis. CMAJ  2013;185:949–57. https://doi.org/10.1503/cmaj.121468
+Google ScholarCrossrefPubMedWorldCat 
+767	Tsai   WC, Wu   HY, Peng   YS, Yang   J-Y, Chen   H-Y, Chiu   Y-L, et al.   Association of intensive blood pressure control and kidney disease progression in nondiabetic patients with chronic kidney disease: a systematic review and meta-analysis. JAMA Intern Med  2017;177:792–9. https://doi.org/10.1001/jamainternmed.2017.0197
+Google ScholarCrossrefPubMedWorldCat 
+768	Thompson   S, Wiebe   N, Padwal   RS, Gyenes   G, Headley   SAE, Radhakrishnan   J, et al.   The effect of exercise on blood pressure in chronic kidney disease: a systematic review and meta-analysis of randomized controlled trials. PLoS One  2019;14:e0211032. https://doi.org/10.1371/journal.pone.0211032
+Google ScholarCrossrefPubMedWorldCat 
+769	Huang   M, Lv   A, Wang   J, Xu   N, Ma   G, Zhai   Z, et al.   Exercise training and outcomes in hemodialysis patients: systematic review and meta-analysis. Am J Nephrol  2019;50:240–54. https://doi.org/10.1159/000502447
+Google ScholarCrossrefPubMedWorldCat 
+770	Zhang   Y, He   D, Zhang   W, Xing   Y, Guo   Y, Wang   F, et al.   ACE inhibitor benefit to kidney and cardiovascular outcomes for patients with non-dialysis chronic kidney disease stages 3–5: a network meta-analysis of randomised clinical trials. Drugs  2020;80:797–811. https://doi.org/10.1007/s40265-020-01290-3
+Google ScholarCrossrefPubMedWorldCat 
+771	Jafar   TH, Stark   PC, Schmid   CH, Landa   M, Maschio   G, de Jong   PE, et al.   Progression of chronic kidney disease: the role of blood pressure control, proteinuria, and angiotensin-converting enzyme inhibition: a patient-level meta-analysis. Ann Intern Med  2003;139:244–52. https://doi.org/10.7326/0003-4819-139-4-200308190-00006
+Google ScholarCrossrefPubMedWorldCat 
+772	Xie   X, Liu   Y, Perkovic   V, Li   X, Ninomiya   T, Hou   W, et al.   Renin-angiotensin system inhibitors and kidney and cardiovascular outcomes in patients with CKD: a Bayesian network meta-analysis of randomized clinical trials. Am J Kidney Dis  2016;67:728–41. https://doi.org/10.1053/j.ajkd.2015.10.011
+Google ScholarCrossrefPubMedWorldCat 
+773	Wu   HY, Huang   JW, Lin   HJ, Liao   W-C, Peng   Y-S, Hung   K-Y, et al.   Comparative effectiveness of renin-angiotensin system blockers and other antihypertensive drugs in patients with diabetes: systematic review and Bayesian network meta-analysis. BMJ  2013;347:f6008. https://doi.org/10.1136/bmj.f6008
+Google ScholarCrossrefPubMedWorldCat 
+774	Agarwal   R, Sinha   AD, Cramer   AE, Balmes-Fenwick   M, Dickinson   JH, Ouyang   F, et al.   Chlorthalidone for hypertension in advanced chronic kidney disease. N Engl J Med  2021;385:2507–19. https://doi.org/10.1056/NEJMoa2110730
+Google ScholarCrossrefPubMedWorldCat 
+775	Beddhu   S, Shen   J, Cheung   AK, Kimmel   PL, Chertow   GM, Wei   G, et al.   Implications of early decline in eGFR due to intensive BP control for cardiovascular outcomes in SPRINT. J Am Soc Nephrol  2019;30:1523–33. https://doi.org/10.1681/asn.2018121261
+Google ScholarCrossrefPubMedWorldCat 
+776	Herrington   WG, Staplin   N, Wanner   C, Green   JB, Hauske   SJ, Emberson   JR, et al.   Empagliflozin in patients with chronic kidney disease. N Engl J Med  2023;388:117–27. https://doi.org/10.1056/NEJMoa2204233
+Google ScholarPubMedWorldCat 
+777	Heerspink   HJL, Stefánsson   BV, Correa-Rotter   R, Chertow   GM, Greene   T, Hou   F-F, et al.   Dapagliflozin in patients with chronic kidney disease. N Engl J Med  2020;383:1436–46. https://doi.org/10.1056/NEJMoa2024816
+Google ScholarCrossrefPubMedWorldCat 
+778	Pitt   B, Filippatos   G, Agarwal   R, Anker   SD, Bakris   GL, Rossing   P, et al.   Cardiovascular events with finerenone in kidney disease and type 2 diabetes. N Engl J Med  2021;385:2252–63. https://doi.org/10.1056/NEJMoa2110956
+Google ScholarCrossrefPubMedWorldCat 
+779	Ku   E, McCulloch   CE, Inker   LA, Tighiouart   H, Schaefer   F, Wühl   E, et al.   Intensive BP control in patients with CKD and risk for adverse outcomes. J Am Soc Nephrol  2023;34:385–93. https://doi.org/10.1681/asn.0000000000000072
+Google ScholarCrossrefPubMedWorldCat 
+780	Lewis   EJ, Hunsicker   LG, Clarke   WR, Berl   T, Pohl   MA, Lewis   JB, et al.   Renoprotective effect of the angiotensin-receptor antagonist irbesartan in patients with nephropathy due to type 2 diabetes. N Engl J Med  2001;345:851–60. https://doi.org/10.1056/NEJMoa011303
+Google ScholarCrossrefPubMedWorldCat 
+781	Brenner   BM, Cooper   ME, de Zeeuw   D, Keane   WF, Mitch   WE, Parving   H-H, et al.   Effects of losartan on renal and cardiovascular outcomes in patients with type 2 diabetes and nephropathy. N Engl J Med  2001;345:861–9. https://doi.org/10.1056/NEJMoa011161
+Google ScholarCrossrefPubMedWorldCat 
+782	The GISEN Group (Gruppo Italiano di Studi Epidemiologici in Nefrologia). Randomised placebo-controlled trial of effect of ramipril on decline in glomerular filtration rate and risk of terminal renal failure in proteinuric, non-diabetic nephropathy. Lancet  1997;349:1857–63. https://doi.org/10.1016/S0140-6736(96)11445-8
+CrossrefPubMedWorldCat 
+783	Cruickshank   JM, Thorp   JM, Zacharias   FJ. Benefits and potential harm of lowering high blood pressure. Lancet  1987;1:581–4. https://doi.org/10.1016/s0140-6736(87)90231-5
+Google ScholarPubMedWorldCat 
+784	Staessen   J, Bulpitt   C, Clement   D, De Leeuw   P, Fagard   R, Fletcher   A, et al.   Relation between mortality and treated blood pressure in elderly patients with hypertension: report of the European working party on high blood pressure in the elderly. BMJ  1989;298:1552–6. https://doi.org/10.1136/bmj.298.6687.1552
+Google ScholarCrossrefPubMedWorldCat 
+785	Böhm   M, Schumacher   H, Teo   KK, Lonn   EM, Mahfoud   F, Mann   JFE, et al.   Achieved blood pressure and cardiovascular outcomes in high-risk patients: results from ONTARGET and TRANSCEND trials. Lancet  2017;389:2226–37. https://doi.org/10.1016/s0140-6736(17)30754-7
+Google ScholarCrossrefPubMedWorldCat 
+786	Böhm   M, Ferreira   JP, Mahfoud   F, Duarte   K, Pitt   B, Zannad   F, et al.   Myocardial reperfusion reverses the J-curve association of cardiovascular risk and diastolic blood pressure in patients with left ventricular dysfunction and heart failure after myocardial infarction: insights from the EPHESUS trial. Eur Heart J  2020;41:1673–83. https://doi.org/10.1093/eurheartj/ehaa132
+Google ScholarCrossrefPubMedWorldCat 
+787	McEvoy   JW, Chen   Y, Rawlings   A, Hoogeveen   RC, Ballantyne   CM, Blumenthal   RS, et al.   Diastolic blood pressure, subclinical myocardial damage, and cardiac events: implications for blood pressure control. J Am Coll Cardiol  2016;68:1713–22. https://doi.org/10.1016/j.jacc.2016.07.754
+Google ScholarCrossrefPubMedWorldCat 
+788	Mancia   G, Kreutz   R, Brunström   M, Burnier   M, Grassi   G, Januszewicz   A, et al.   2023 ESH Guidelines for the management of arterial hypertension The Task Force for the management of arterial hypertension of the European Society of Hypertension: Endorsed by the International Society of Hypertension (ISH) and the European Renal Association (ERA). J Hypertens  2023;41:1874–2071. https://doi.org/10.1097/hjh.0000000000003480
+Google ScholarCrossrefPubMedWorldCat 
+789	Carvalho   JJ, Baruzzi   RG, Howard   PF, Poulter   N, Alpers   M P, Franco   L J, et al.   Blood pressure in four remote populations in the INTERSALT study. Hypertension  1989;14:238–46. https://doi.org/10.1161/01.hyp.14.3.238
+Google ScholarCrossrefPubMedWorldCat 
+790	Birrane   JP, Foschi   M, Sacco   S, McEvoy   JW. Another nail in the coffin of causality for the diastolic blood pressure J curve. Hypertension  2022;79:794–7. https://doi.org/10.1161/hypertensionaha.122.18997
+Google ScholarCrossrefPubMedWorldCat 
+791	Mueller   NT, Noya-Alarcon   O, Contreras   M, Appel   LJ, Dominguez-Bello   MG. Association of age with blood pressure across the lifespan in isolated Yanomami and Yekwana villages. JAMA Cardiol  2018;3:1247–9. https://doi.org/10.1001/jamacardio.2018.3676
+Google ScholarCrossrefPubMedWorldCat 
+792	Ilkun   OL, Greene   T, Cheung   AK, Whelton   PK, Wei   G, Boucher   RE, et al.   The influence of baseline diastolic blood pressure on the effects of intensive blood pressure lowering on cardiovascular outcomes and all-cause mortality in type 2 diabetes. Diabetes Care  2020;43:1878–84. https://doi.org/10.2337/dc19-2047
+Google ScholarCrossrefPubMedWorldCat 
+793	Shihab   S, Boucher   RE, Abraham   N, Wei   G, Beddhu   S. Influence of baseline diastolic blood pressure on the effects of intensive systolic blood pressure lowering on the risk of stroke. Hypertension  2022;79:785–93. https://doi.org/10.1161/hypertensionaha.121.18172
+Google ScholarCrossrefPubMedWorldCat 
+794	Vahanian   A, Beyersdorf   F, Praz   F, Milojevic   M, Baldus   S, Bauersachs   J, et al.   2021 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J  2022;43:561–632. https://doi.org/10.1093/eurheartj/ehab395
+Google ScholarCrossrefPubMedWorldCat 
+795	McDonagh   TA, Metra   M, Adamo   M, Gardner   RS, Baumbach   A, Böhm   M, et al.   2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J  2021;42:3599–726. https://doi.org/10.1093/eurheartj/ehab368
+Google ScholarCrossrefPubMedWorldCat 
+796	Mancusi   C, de Simone   G, Brguljan Hitij   J, Sudano   I, Mahfoud   F, Parati   G, et al.   Management of patients with combined arterial hypertension and aortic valve stenosis: a consensus document from the Council on Hypertension and Council on Valvular Heart Disease of the European Society of Cardiology, the European Association of Cardiovascular Imaging (EACVI), and the European Association of Percutaneous Cardiovascular Interventions (EAPCI). Eur Heart J Cardiovasc Pharmacother  2021;7:242–50. https://doi.org/10.1093/ehjcvp/pvaa040
+Google ScholarCrossrefPubMedWorldCat 
+797	Nielsen   OW, Sajadieh   A, Sabbah   M, Greve   AM, Olsen   MH, Boman   K, et al.   Assessing optimal blood pressure in patients with asymptomatic aortic valve stenosis: the simvastatin ezetimibe in aortic stenosis study (SEAS). Circulation  2016;134:455–68. https://doi.org/10.1161/circulationaha.115.021213
+Google ScholarCrossrefPubMedWorldCat 
+798	McDonagh   TA, Metra   M, Adamo   M, Gardner   RS, Baumbach   A, Böhm   M, et al.   2023 focused update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J  2023;44:3627–39. https://doi.org/10.1093/eurheartj/ehad195
+Google ScholarCrossrefPubMedWorldCat 
+799	Yusuf   S, Pfeffer   MA, Swedberg   K, Granger   CB, Held   P, McMurray   JJV, et al.   Effects of candesartan in patients with chronic heart failure and preserved left-ventricular ejection fraction: the CHARM-preserved trial. Lancet  2003;362:777–81. https://doi.org/10.1016/s0140-6736(03)14285-7
+Google ScholarCrossrefPubMedWorldCat 
+800	Pitt   B, Pfeffer   MA, Assmann   SF, Boineau   R, Anand   IS, Claggett   B, et al.   Spironolactone for heart failure with preserved ejection fraction. N Engl J Med  2014;370:1383–92. https://doi.org/10.1056/NEJMoa1313731
+Google ScholarCrossrefPubMedWorldCat 
+801	Nazarzadeh   M, Pinho-Gomes   AC, Bidel   Z, Canoy   D, Dehghan   A, Byrne   KS, et al.   Genetic susceptibility, elevated blood pressure, and risk of atrial fibrillation: a Mendelian randomization study. Genome Med  2021;13:38. https://doi.org/10.1186/s13073-021-00849-3
+Google ScholarCrossrefPubMedWorldCat 
+802	Emdin   CA, Anderson   SG, Salimi-Khorshidi   G, Woodward   M, MacMahon   S, Dwyer   T, et al.   Usual blood pressure, atrial fibrillation and vascular risk: evidence from 4.3 million adults. Int J Epidemiol  2017;46:162–72. https://doi.org/10.1093/ije/dyw053
+Google ScholarPubMedWorldCat 
+803	Hindricks   G, Potpara   T, Dagres   N, Arbelo   E, Bax   JJ, Blomström-Lundqvist   C, et al.   2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Heart J  2021;42:373–498. https://doi.org/10.1093/eurheartj/ehaa612
+Google ScholarCrossrefPubMedWorldCat 
+804	Alber   J, Alladi   S, Bae   HJ, Barton   DA, Beckett   LA, Bell   JM, et al.   White matter hyperintensities in vascular contributions to cognitive impairment and dementia (VCID): knowledge gaps and opportunities. Alzheimers Dement (N Y)  2019;5:107–17. https://doi.org/10.1016/j.trci.2019.02.001
+Google ScholarCrossrefPubMedWorldCat 
+805	Georgakis   MK, Duering   M, Wardlaw   JM, Dichgans   M. WMH and long-term outcomes in ischemic stroke: a systematic review and meta-analysis. Neurology  2019;92:e1298–308. https://doi.org/10.1212/wnl.0000000000007142
+Google ScholarCrossrefPubMedWorldCat 
+806	Jokinen   H, Koikkalainen   J, Laakso   HM, Melkas   S, Nieminen   T, Brander   A, et al.   Global burden of small vessel disease-related brain changes on MRI predicts cognitive and functional decline. Stroke  2020;51:170–8. https://doi.org/10.1161/strokeaha.119.026170
+Google ScholarCrossrefPubMedWorldCat 
+807	Potter   T, Lioutas   VA, Tano   M, Pan   A, Meeks   J, Woo   D, et al.   Cognitive impairment after intracerebral hemorrhage: a systematic review of current evidence and knowledge gaps. Front Neurol  2021;12:716632. https://doi.org/10.3389/fneur.2021.716632
+Google ScholarCrossrefPubMedWorldCat 
+808	Wang   F, Hua   S, Zhang   Y, Zhu   J, Liu   R, Jiang   Z. Association between small vessel disease markers, medial temporal lobe atrophy and cognitive impairment after stroke: a systematic review and meta-analysis. J Stroke Cerebrovasc Dis  2021;30:105460. https://doi.org/10.1016/j.jstrokecerebrovasdis.2020.105460
+Google ScholarCrossrefPubMedWorldCat 
+809	Ungvari   Z, Toth   P, Tarantini   S, Prodan   CI, Sorond   F, Merkely   B, et al.   Hypertension-induced cognitive impairment: from pathophysiology to public health. Nat Rev Nephrol  2021;17:639–54. https://doi.org/10.1038/s41581-021-00430-6
+Google ScholarCrossrefPubMedWorldCat 
+810	Kelly   D, Rothwell   PM. Disentangling the multiple links between renal dysfunction and cerebrovascular disease. J Neurol Neurosurg Psychiatry  2020;91:88–97. https://doi.org/10.1136/jnnp-2019-320526
+Google ScholarCrossrefPubMedWorldCat 
+811	Papanastasiou   CA, Theochari   CA, Zareifopoulos   N, Arfaras-Melainis   A, Giannakoulas   G, Karamitsos   TD, et al.   Atrial fibrillation is associated with cognitive impairment, all-cause dementia, vascular dementia, and Alzheimer’s disease: a systematic review and meta-analysis. J Gen Intern Med  2021;36:3122–35. https://doi.org/10.1007/s11606-021-06954-8
+Google ScholarCrossrefPubMedWorldCat 
+812	Li   J, Wu   Y, Zhang   D, Nie   J. Associations between heart failure and risk of dementia: a PRISMA-compliant meta-analysis. Medicine (Baltimore)  2020;99:e18492. https://doi.org/10.1097/md.0000000000018492
+Google ScholarCrossrefPubMedWorldCat 
+813	Canavan   M, O’Donnell   MJ. Hypertension and cognitive impairment: a review of mechanisms and key concepts. Front Neurol  2022;13:821135. https://doi.org/10.3389/fneur.2022.821135
+Google ScholarCrossrefPubMedWorldCat 
+814	Dawson   J, Béjot   Y, Christensen   LM, De Marchis   GM, Dichgans   M, Hagberg   G, et al.   European Stroke Organisation (ESO) guideline on pharmacological interventions for long-term secondary prevention after ischaemic stroke or transient ischaemic attack. Eur Stroke J  2022;7:I–XLI. https://doi.org/10.1177/23969873221100032
+Google ScholarCrossrefWorldCat 
+815	Kleindorfer   DO, Towfighi   A, Chaturvedi   S, Cockroft   KM, Gutierrez   J, Lombardi-Hill   D, et al.   2021 Guideline for the prevention of stroke in patients with stroke and transient ischemic attack: a guideline from the American Heart Association/American Stroke Association. Stroke  2021;52:e364–467. https://doi.org/10.1161/str.0000000000000375
+Google ScholarCrossrefPubMedWorldCat 
+816	Zonneveld   TP, Richard   E, Vergouwen   MD, Nederkoorn   PJ, de Haan   RJ, Roos   YB, et al.   Blood pressure-lowering treatment for preventing recurrent stroke, major vascular events, and dementia in patients with a history of stroke or transient ischaemic attack. Cochrane Database Syst Rev  2018;7:CD007858. https://doi.org/10.1002/14651858.CD007858.pub2
+Google ScholarPubMedWorldCat 
+817	Boncoraglio   GB, Del Giovane   C, Tramacere   I. Antihypertensive drugs for secondary prevention after ischemic stroke or transient ischemic attack: a systematic review and meta-analysis. Stroke  2021;52:1974–82. https://doi.org/10.1161/strokeaha.120.031945
+Google ScholarCrossrefPubMedWorldCat 
+818	Fischer   U, Cooney   MT, Bull   LM, Silver   LE, Chalmers   J, Anderson   CS, et al.   Acute post-stroke blood pressure relative to premorbid levels in intracerebral haemorrhage versus major ischaemic stroke: a population-based study. Lancet Neurol  2014;13:374–84. https://doi.org/10.1016/s1474-4422(14)70031-6
+Google ScholarCrossrefPubMedWorldCat 
+819	Yusuf   S, Diener   HC, Sacco   RL, Cotton   D, Ôunpuu   S, Lawton   WA, et al.   Telmisartan to prevent recurrent stroke and cardiovascular events. N Engl J Med  2008;359:1225–37. https://doi.org/10.1056/NEJMoa0804593
+Google ScholarCrossrefPubMedWorldCat 
+820	PROGRESS Collaborative Group. Randomised trial of a perindopril-based blood-pressure-lowering regimen among 6,105 individuals with previous stroke or transient ischaemic attack. Lancet  2001;358:1033–41. https://doi.org/10.1016/s0140-6736(01)06178-5
+CrossrefPubMedWorldCat 
+821	McGurgan   IJ, Kelly   PJ, Turan   TN, Rothwell   PM. Long-term secondary prevention: management of blood pressure after a transient ischemic attack or stroke. Stroke  2022;53:1085–103. https://doi.org/10.1161/strokeaha.121.035851
+Google ScholarCrossrefPubMedWorldCat 
+822	Rudd   AG, Bowen   A, Young   GR, James   MA. The latest national clinical guideline for stroke. Clin Med (Lond)  2017;17:154–5. https://doi.org/10.7861/clinmedicine.17-2-154
+Google ScholarCrossrefPubMedWorldCat 
+823	Arima   H, Chalmers   J, Woodward   M, Anderson   C, Rodgers   A, Davis   S, et al.   Lower target blood pressures are safe and effective for the prevention of recurrent stroke: the PROGRESS trial. J Hypertens  2006;24:1201–8. https://doi.org/10.1097/01.hjh.0000226212.34055.86
+Google ScholarCrossrefPubMedWorldCat 
+824	Kitagawa   K, Yamamoto   Y, Arima   H, Maeda   T, Sunami   N, Kanzawa   T, et al.   Effect of standard vs intensive blood pressure control on the risk of recurrent stroke: a randomized clinical trial and meta-analysis. JAMA Neurol  2019;76:1309–18. https://doi.org/10.1001/jamaneurol.2019.2167
+Google ScholarCrossrefPubMedWorldCat 
+825	Suchard   MA, Schuemie   MJ, Krumholz   HM, You   SC, Chen   R, Pratt   N, et al.   Comprehensive comparative effectiveness and safety of first-line antihypertensive drug classes: a systematic, multinational, large-scale analysis. Lancet  2019;394:1816–26. https://doi.org/10.1016/s0140-6736(19)32317-7
+Google ScholarCrossrefPubMedWorldCat 
+826	Wang   WT, You   LK, Chiang   CE, Sung   S-H, Chuang   S-Y, Cheng   H-M, et al.   Comparative effectiveness of blood pressure-lowering drugs in patients who have already suffered from stroke: traditional and Bayesian network meta-analysis of randomized trials. Medicine (Baltimore)  2016;95:e3302. https://doi.org/10.1097/md.0000000000003302
+Google ScholarCrossrefPubMedWorldCat 
+827	Bath   PM, Scutt   P, Blackburn   DJ, Ankolekar   S, Krishnan   K, Ballard   C, et al.   Intensive versus guideline blood pressure and lipid lowering in patients with previous stroke: main results from the pilot ‘Prevention of Decline in Cognition after Stroke Trial’ (PODCAST) randomised controlled trial. PLoS One  2017;12:e0164608. https://doi.org/10.1371/journal.pone.0164608
+Google ScholarCrossrefPubMedWorldCat 
+828	Mant   J, McManus   RJ, Roalfe   A, Fletcher   K, Taylor   CJ, Martin   U, et al.   Different systolic blood pressure targets for people with history of stroke or transient ischaemic attack: PAST-BP (Prevention After Stroke—Blood Pressure) randomised controlled trial. BMJ  2016;352:i708. https://doi.org/10.1136/bmj.i708
+Google ScholarPubMedWorldCat 
+829	Kolmos   M, Christoffersen   L, Kruuse   C. Recurrent ischemic stroke—a systematic review and meta-analysis. J Stroke Cerebrovasc Dis  2021;30:105935. https://doi.org/10.1016/j.jstrokecerebrovasdis.2021.105935
+Google ScholarCrossrefPubMedWorldCat 
+830	Livingston   G, Huntley   J, Sommerlad   A, Ames   D, Ballard   C, Banerjee   S, et al.   Dementia prevention, intervention, and care: 2020 report of the Lancet Commission. Lancet  2020;396:413–46. https://doi.org/10.1016/s0140-6736(20)30367-6
+Google ScholarCrossrefPubMedWorldCat 
+831	Ou   YN, Tan   CC, Shen   XN, Xu   W, Hou   X-H, Dong   Q, et al.   Blood pressure and risks of cognitive impairment and dementia: a systematic review and meta-analysis of 209 prospective studies. Hypertension  2020;76:217–25. https://doi.org/10.1161/hypertensionaha.120.14993
+Google ScholarCrossrefPubMedWorldCat 
+832	Abell   JG, Kivimäki   M, Dugravot   A, Tabak   AG, Fayosse   A, Shipley   M, et al.   Association between systolic blood pressure and dementia in the Whitehall II cohort study: role of age, duration, and threshold used to define hypertension. Eur Heart J  2018;39:3119–25. https://doi.org/10.1093/eurheartj/ehy288
+Google ScholarCrossrefPubMedWorldCat 
+833	Alpérovitch   A, Blachier   M, Soumaré   A, Ritchie   K, Dartigues   J-F, Richard-Harston   S, et al.   Blood pressure variability and risk of dementia in an elderly cohort, the Three-City study. Alzheimers Dement  2014;10:S330–337. https://doi.org/10.1016/j.jalz.2013.05.1777
+Google ScholarCrossrefPubMedWorldCat 
+834	McGrath   ER, Beiser   AS, DeCarli   C, Plourde   KL, Vasan   RS, Greenberg   S, et al.   Blood pressure from mid- to late life and risk of incident dementia. Neurology  2017;89:2447–54. https://doi.org/10.1212/wnl.0000000000004741
+Google ScholarCrossrefPubMedWorldCat 
+835	Skoog   I, Nilsson   L, Persson   G, Lernfelt   B, Landahl   S, Palmertz   B, et al.   15-year longitudinal study of blood pressure and dementia. Lancet  1996;347:1141–5. https://doi.org/10.1016/s0140-6736(96)90608-x
+Google ScholarCrossrefPubMedWorldCat 
+836	Launer   LJ, Masaki   K, Petrovitch   H, Foley   D, Havlik   RJ. The association between midlife blood pressure levels and late-life cognitive function. The Honolulu-Asia aging study. JAMA  1995;274:1846–51. https://doi.org/10.1001/jama.1995.03530230032026
+Google ScholarCrossrefPubMedWorldCat 
+837	Gottesman   RF, Albert   MS, Alonso   A, Coker   LH, Coresh   J, Davis   SM, et al.   Associations between midlife vascular risk factors and 25-year incident dementia in the atherosclerosis risk in Communities (ARIC) cohort. JAMA Neurol  2017;74:1246–54. https://doi.org/10.1001/jamaneurol.2017.1658
+Google ScholarCrossrefPubMedWorldCat 
+838	Levine   DA, Springer   MV, Brodtmann   A. Blood pressure and vascular cognitive impairment. Stroke  2022;53:1104–13. https://doi.org/10.1161/strokeaha.121.036140
+Google ScholarCrossrefPubMedWorldCat 
+839	Bosch   J, O’Donnell   M, Swaminathan   B, Lonn   EM, Sharma   M, Dagenais   G, et al.   Effects of blood pressure and lipid lowering on cognition: results from the HOPE-3 study. Neurology  2019;92:e1435–46. https://doi.org/10.1212/wnl.0000000000007174
+Google ScholarCrossrefPubMedWorldCat 
+840	Applegate   WB, Pressel   S, Wittes   J, Luhr   J, Shekelle   RB, Camel   GH, et al.   Impact of the treatment of isolated systolic hypertension on behavioral variables. Results from the systolic hypertension in the elderly program. Arch Intern Med  1994;154:2154–60. https://doi.org/10.1001/archinte.1994.00420190047006
+Google ScholarCrossrefPubMedWorldCat 
+841	Williamson   JD, Pajewski   NM, Auchus   AP, Bryan   RN, Chelune   G, Cheung   AK, et al.   Effect of intensive vs standard blood pressure control on probable dementia: a randomized clinical trial. JAMA  2019;321:553–61. https://doi.org/10.1001/jama.2018.21442
+Google ScholarPubMedWorldCat 
+842	Peters   R, Beckett   N, Forette   F, Tuomilehto   J, Clarke   R, Ritchie   C, et al.   Incident dementia and blood pressure lowering in the Hypertension in the Very Elderly Trial cognitive function assessment (HYVET-COG): a double-blind, placebo controlled trial. Lancet Neurol  2008;7:683–9. https://doi.org/10.1016/s1474-4422(08)70143-1
+Google ScholarCrossrefPubMedWorldCat 
+843	Lithell   H, Hansson   L, Skoog   I, Elmfeldt   D, Hofman   A, Olofsson   B, et al.   The Study on Cognition and Prognosis in the Elderly (SCOPE): principal results of a randomized double-blind intervention trial. J Hypertens  2003;21:875–86. https://doi.org/10.1097/00004872-200305000-00011
+Google ScholarCrossrefPubMedWorldCat 
+844	White   WB, Wakefield   DB, Moscufo   N, Guttmann   CRG, Kaplan   RF, Bohannon   RW, et al.   Effects of intensive versus standard ambulatory blood pressure control on cerebrovascular outcomes in older people (INFINITY). Circulation  2019;140:1626–35. https://doi.org/10.1161/circulationaha.119.041603
+Google ScholarCrossrefPubMedWorldCat 
+845	Tzourio   C, Anderson   C, Chapman   N, Woodward   M, Neal   B, MacMahon   S, et al.   Effects of blood pressure lowering with perindopril and indapamide therapy on dementia and cognitive decline in patients with cerebrovascular disease. Arch Intern Med  2003;163:1069–75. https://doi.org/10.1001/archinte.163.9.1069
+Google ScholarPubMedWorldCat 
+846	Peters   R, Yasar   S, Anderson   CS, Andrews   S, Antikainen   R, Arima   H, et al.   Investigation of antihypertensive class, dementia, and cognitive decline: a meta-analysis. Neurology  2020;94:e267–81. https://doi.org/10.1212/wnl.0000000000008732
+Google ScholarPubMedWorldCat 
+847	Yang   W, Luo   H, Ma   Y, Si   S, Zhao   H. Effects of antihypertensive drugs on cognitive function in elderly patients with hypertension: a review. Aging Dis  2021;12:841–51. https://doi.org/10.14336/ad.2020.1111
+Google ScholarCrossrefPubMedWorldCat 
+848	Iseli   R, Nguyen   VTV, Sharmin   S, Reijnierse   EM, Lim   WK, Maier   AB, et al.   Orthostatic hypotension and cognition in older adults: a systematic review and meta-analysis. Exp Gerontol  2019;120:40–9. https://doi.org/10.1016/j.exger.2019.02.017
+Google ScholarCrossrefPubMedWorldCat 
+849	Ernst   ME, Ryan   J, Chowdhury   EK, Margolis   KL, Beilin   LJ, Reid   CM, et al.   Long-term blood pressure variability and risk of cognitive decline and dementia among older adults. J Am Heart Assoc  2021;10:e019613. https://doi.org/10.1161/jaha.120.019613
+Google ScholarCrossrefPubMedWorldCat 
+850	Nakamura   K, Stefanescu Schmidt   A. Treatment of hypertension in coarctation of the aorta. Curr Treat Options Cardiovasc Med  2016;18:40. https://doi.org/10.1007/s11936-016-0462-x
+Google ScholarCrossrefPubMedWorldCat 
+851	Dijkema   EJ, Leiner   T, Grotenhuis   HB. Diagnosis, imaging and clinical management of aortic coarctation. Heart  2017;103:1148–55. https://doi.org/10.1136/heartjnl-2017-311173
+Google ScholarCrossrefPubMedWorldCat 
+852	Panzer   J, Bové   T, Vandekerckhove   K, De Wolf   D. Hypertension after coarctation repair-a systematic review. Transl Pediatr  2022;11:270–9. https://doi.org/10.21037/tp-21-418
+Google ScholarCrossrefPubMedWorldCat 
+853	Schaefer   BM, Lewin   MB, Stout   KK, Gill   E, Prueitt   A, Byers   P H, et al.   The bicuspid aortic valve: an integrated phenotypic classification of leaflet morphology and aortic root shape. Heart  2008;94:1634–8. https://doi.org/10.1136/hrt.2007.132092
+Google ScholarCrossrefPubMedWorldCat 
+854	Wang   J, Deng   W, Lv   Q, Li   Y, Liu   T, Xie   M, et al.   Aortic dilatation in patients with bicuspid aortic valve. Front Physiol  2021;12:615175. https://doi.org/10.3389/fphys.2021.615175
+Google ScholarCrossrefPubMedWorldCat 
+855	Davies   RR, Kaple   RK, Mandapati   D, Gallo   A, Botta   DM, Elefteriades   JA, et al.   Natural history of ascending aortic aneurysms in the setting of an unreplaced bicuspid aortic valve. Ann Thorac Surg  2007;83:1338–44. https://doi.org/10.1016/j.athoracsur.2006.10.074
+Google ScholarCrossrefPubMedWorldCat 
+856	Lindman   BR, Otto   CM. Time to treat hypertension in patients with aortic stenosis. Circulation  2013;128:1281–3. https://doi.org/10.1161/circulationaha.113.005275
+Google ScholarCrossrefPubMedWorldCat 
+857	Erbel   R, Aboyans   V, Boileau   C, Bossone   E, Di Bartolomeo   R, Eggebrecht   H, et al.   2014 ESC Guidelines on the diagnosis and treatment of aortic diseases: document covering acute and chronic aortic diseases of the thoracic and abdominal aorta of the adult. The Task Force for the Diagnosis and Treatment of Aortic Diseases of the European Society of Cardiology (ESC). Eur Heart J  2014;35:2873–926. https://doi.org/10.1093/eurheartj/ehu281
+Google ScholarPubMedWorldCat 
+858	Shores   J, Berger   KR, Murphy   EA, Pyeritz   RE. Progression of aortic dilatation and the benefit of long-term beta-adrenergic blockade in Marfan’s syndrome. N Engl J Med  1994;330:1335–41. https://doi.org/10.1056/nejm199405123301902
+Google ScholarCrossrefPubMedWorldCat 
+859	Groenink   M, den Hartog   AW, Franken   R, Radonic   T, de Waard   V, Timmermans   J, et al.   Losartan reduces aortic dilatation rate in adults with Marfan syndrome: a randomized controlled trial. Eur Heart J  2013;34:3491–500. https://doi.org/10.1093/eurheartj/eht334
+Google ScholarCrossrefPubMedWorldCat 
+860	Pitcher   A, Spata   E, Emberson   J, Davies   K, Halls   H, Holland   L, et al.   Angiotensin receptor blockers and β blockers in Marfan syndrome: an individual patient data meta-analysis of randomised trials. Lancet  2022;400:822–31. https://doi.org/10.1016/s0140-6736(22)01534-3
+Google ScholarCrossrefPubMedWorldCat 
+861	Mazzolai   L, Rodriguez-Palomares   JF, Teixido-Tura   G, Lanzi   S, Boc   V, Bossone   E, et al.   2024 ESC Guidelines for the management peripheral arterial and aortic diseases. Eur Heart J  2024. https://doi.org/10.1093/eurheartj/ehae179
+Google ScholarWorldCat 
+862	Rechel   B, Mladovsky   P, Ingleby   D, Mackenbach   JP, McKee   M. Migration and health in an increasingly diverse Europe. Lancet  2013;381:1235–45. https://doi.org/10.1016/s0140-6736(12)62086-8
+Google ScholarCrossrefPubMedWorldCat 
+863	Modesti   PA, Reboldi   G, Cappuccio   FP, Agyemang   C, Remuzzi   G, Rapi   S, et al.   Panethnic differences in blood pressure in Europe: a systematic review and meta-analysis. PLoS One  2016;11:e0147601. https://doi.org/10.1371/journal.pone.0147601
+Google ScholarCrossrefPubMedWorldCat 
+864	Whelton   PK, Einhorn   PT, Muntner   P, Appel   LJ, Cushman   WC, Diez Roux   AV, et al.   Research needs to improve hypertension treatment and control in African Americans. Hypertension  2016;68:1066–72. https://doi.org/10.1161/hypertensionaha.116.07905
+Google ScholarCrossrefPubMedWorldCat 
+865	Kaufman   JS, Cooper   RS, McGee   DL. Socioeconomic status and health in blacks and whites: the problem of residual confounding and the resiliency of race. Epidemiology  1997;8:621–8.
+Google ScholarPubMedWorldCat 
+866	Agyemang   C, van Oeffelen   AA, Norredam   M, Kappelle   LJ, Klijn   CJM, Bots   ML, et al.   Socioeconomic inequalities in stroke incidence among migrant groups: analysis of nationwide data. Stroke  2014;45:2397–403. https://doi.org/10.1161/strokeaha.114.005505
+Google ScholarCrossrefPubMedWorldCat 
+867	Mehanna   M, Gong   Y, McDonough   CW, Beitelshees   AL, Gums   JG, Chapman   AB, et al.   Blood pressure response to metoprolol and chlorthalidone in European and African Americans with hypertension. J Clin Hypertens (Greenwich)  2017;19:1301–8. https://doi.org/10.1111/jch.13094
+Google ScholarCrossrefPubMedWorldCat 
+868	Faconti   L, McNally   RJ, Farukh   B, Adeyemi   O, Cruickshank   JK, Wilkinson   IB, et al.   Differences in hypertension phenotypes between Africans and Europeans: role of environment. J Hypertens  2020;38:1278–85. https://doi.org/10.1097/hjh.0000000000002403
+Google ScholarCrossrefPubMedWorldCat 
+869	Schutte   AE, Kruger   R, Gafane-Matemane   LF, Breet   Y, Strauss-Kruger   M, Cruickshank   JK, et al.   Ethnicity and arterial stiffness. Arterioscler Thromb Vasc Biol  2020;40:1044–54. https://doi.org/10.1161/atvbaha.120.313133
+Google ScholarCrossrefPubMedWorldCat 
+870	Erlinger   TP, Vollmer   WM, Svetkey   LP, Appel   LJ. The potential impact of nonpharmacologic population-wide blood pressure reduction on coronary heart disease events: pronounced benefits in African-Americans and hypertensives. Prev Med  2003;37:327–33. https://doi.org/10.1016/s0091-7435(03)00140-3
+Google ScholarCrossrefPubMedWorldCat 
+871	The ALLHAT Officers Coordinators for the ALLHAT Collaborative Research Group. Major outcomes in high-risk hypertensive patients randomized to angiotensin-converting enzyme inhibitor or calcium channel blocker vs diuretic: the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT). JAMA  2002;288:2981–97. https://doi.org/10.1001/jama.288.23.2981
+CrossrefPubMedWorldCat 
+872	Wright   JT  Jr, Dunn   JK, Cutler   JA, Davis   BR, Cushman   WC, Ford   CE, et al.   Outcomes in hypertensive black and nonblack patients treated with chlorthalidone, amlodipine, and lisinopril. JAMA  2005;293:1595–608. https://doi.org/10.1001/jama.293.13.1595
+Google ScholarCrossrefPubMedWorldCat 
+873	Wright   JT  Jr, Harris-Haywood   S, Pressel   S, Barzilay   J, Baimbridge   C, Bareis   CJ, et al.   Clinical outcomes by race in hypertensive patients with and without the metabolic syndrome: antihypertensive and lipid-lowering treatment to prevent heart attack trial (ALLHAT). Arch Intern Med  2008;168:207–17. https://doi.org/10.1001/archinternmed.2007.66
+Google ScholarCrossrefPubMedWorldCat 
+874	Ojji   DB, Mayosi   B, Francis   V, Badri   M, Cornelius   V, Smythe   W, et al.   Comparison of dual therapies for lowering blood pressure in Black Africans. N Engl J Med  2019;380:2429–39. https://doi.org/10.1056/NEJMoa1901113
+Google ScholarCrossrefPubMedWorldCat 
+875	van der Linden   EL, Couwenhoven   BN, Beune   E, Daams   JG, van den Born   B-JH, Agyemang   C. Hypertension awareness, treatment and control among ethnic minority populations in Europe: a systematic review and meta-analysis. J Hypertens  2021;39:202–13. https://doi.org/10.1097/hjh.0000000000002651
+Google ScholarCrossrefPubMedWorldCat 
+876	Agyemang   C, Nyaaba   G, Beune   E, Meeks   K, Owusu-Dabo   E, Addo   J, et al.   Variations in hypertension awareness, treatment, and control among Ghanaian migrants living in Amsterdam, Berlin, London, and nonmigrant Ghanaians living in rural and urban Ghana—the RODAM study. J Hypertens  2018;36:169–77. https://doi.org/10.1097/hjh.0000000000001520
+Google ScholarCrossrefPubMedWorldCat 
+877	van Laer   SD, Snijder   MB, Agyemang   C, Peters   RJ, van den Born   BH. Ethnic differences in hypertension prevalence and contributing determinants – the HELIUS study. Eur J Prev Cardiol  2018;25:1914–22. https://doi.org/10.1177/2047487318803241
+Google ScholarCrossrefPubMedWorldCat 
+878	Costello   HM, Gumz   ML. Circadian rhythm, clock genes, and hypertension: recent advances in hypertension. Hypertension  2021;78:1185–96. https://doi.org/10.1161/hypertensionaha.121.14519
+Google ScholarCrossrefPubMedWorldCat 
+879	O’Brien   E, Sheridan   J, O’Malley   K. Dippers and non-dippers. Lancet  1988;2:397. https://doi.org/10.1016/s0140-6736(88)92867-x
+Google ScholarPubMedWorldCat 
+880	Pickering   TG, Shimbo   D, Haas   D. Ambulatory blood-pressure monitoring. N Engl J Med  2006;354:2368–74. https://doi.org/10.1056/NEJMra060433
+Google ScholarCrossrefPubMedWorldCat 
+881	Abdalla   M, Goldsmith   J, Muntner   P, Diaz   KM, Reynolds   K, Schwartz   JE, et al.   Is isolated nocturnal hypertension a reproducible phenotype?  Am J Hypertens  2016;29:33–8. https://doi.org/10.1093/ajh/hpv058
+Google ScholarCrossrefPubMedWorldCat 
+882	Mancia   G, Facchetti   R, Bombelli   M, Quarti-Trevano   F, Cuspidi   C, Grassi   G. Short- and long-term reproducibility of nighttime blood pressure phenotypes and nocturnal blood pressure reduction. Hypertension  2021;77:1745–55. https://doi.org/10.1161/hypertensionaha.120.16827
+Google ScholarCrossrefPubMedWorldCat 
+883	Nolde   JM, Kiuchi   MG, Lugo-Gavidia   LM, Ho   JK, Chan   J, Matthews   VB, et al.   Nocturnal hypertension: a common phenotype in a tertiary clinical setting associated with increased arterial stiffness and central blood pressure. J Hypertens  2021;39:250–8. https://doi.org/10.1097/hjh.0000000000002620
+Google ScholarCrossrefPubMedWorldCat 
+884	Thomas   SJ, Booth   JN  III, Jaeger   BC, Hubbard   D, Sakhuja   S, Abdalla   M, et al.   Association of sleep characteristics with nocturnal hypertension and nondipping blood pressure in the CARDIA study. J Am Heart Assoc  2020;9:e015062. https://doi.org/10.1161/jaha.119.015062
+Google ScholarCrossrefPubMedWorldCat 
+885	Kario   K, Hoshide   S, Haimoto   H, Yamagiwa   K, Uchiba   K, Nagasaka   S, et al.   Sleep blood pressure self-measured at home as a novel determinant of organ damage: Japan morning surge home blood pressure (J-HOP) study. J Clin Hypertens (Greenwich)  2015;17:340–8. https://doi.org/10.1111/jch.12500
+Google ScholarCrossrefPubMedWorldCat 
+886	de la Sierra   A, Gorostidi   M, Banegas   JR, Segura   J, de la Cruz   JJ, Ruilope   LM, et al.   Nocturnal hypertension or nondipping: which is better associated with the cardiovascular risk profile?  Am J Hypertens  2014;27:680–7. https://doi.org/10.1093/ajh/hpt175
+Google ScholarCrossrefPubMedWorldCat 
+887	Wijkman   M, Länne   T, Engvall   J, Lindström   T, Östgren   CJ, Nystrom   FH, et al.   Masked nocturnal hypertension—a novel marker of risk in type 2 diabetes. Diabetologia  2009;52:1258–64. https://doi.org/10.1007/s00125-009-1369-9
+Google ScholarCrossrefPubMedWorldCat 
+888	Muntner   P, Lewis   CE, Diaz   KM, Carson   AP, Kim   Y, Calhoun   D, et al.   Racial differences in abnormal ambulatory blood pressure monitoring measures: results from the coronary artery risk development in young adults (CARDIA) study. Am J Hypertens  2015;28:640–8. https://doi.org/10.1093/ajh/hpu193
+Google ScholarCrossrefPubMedWorldCat 
+889	Thomas   SJ, Booth   JN  III, Bromfield   SG, Seals   SR, Spruill   TM, Ogedegbe   G, et al.   Clinic and ambulatory blood pressure in a population-based sample of African Americans: the Jackson heart study. J Am Soc Hypertens  2017;11:204–212.e205. https://doi.org/10.1016/j.jash.2017.02.001
+Google ScholarCrossrefPubMedWorldCat 
+890	Husain   A, Lin   FC, Tuttle   LA, Olsson   E, Viera   AJ. The reproducibility of racial differences in ambulatory blood pressure phenotypes and measurements. Am J Hypertens  2017;30:961–7. https://doi.org/10.1093/ajh/hpx079
+Google ScholarCrossrefPubMedWorldCat 
+891	Li   Y, Wang   JG. Isolated nocturnal hypertension: a disease masked in the dark. Hypertension  2013;61:278–83. https://doi.org/10.1161/hypertensionaha.111.00217
+Google ScholarCrossrefPubMedWorldCat 
+892	Hoshide   S, Kario   K, de la Sierra   A, Bilo   G, Schillaci   G, Banegas   JR, et al.   Ethnic differences in the degree of morning blood pressure surge and in its determinants between Japanese and European hypertensive subjects: data from the ARTEMIS study. Hypertension  2015;66:750–6. https://doi.org/10.1161/hypertensionaha.115.05958
+Google ScholarCrossrefPubMedWorldCat 
+893	Banegas   JR, Ruilope   LM, de la Sierra   A, Gorostidi   M, Segura   J, Martell   N, et al.   High prevalence of masked uncontrolled hypertension in people with treated hypertension. Eur Heart J  2014;35:3304–12. https://doi.org/10.1093/eurheartj/ehu016
+Google ScholarCrossrefPubMedWorldCat 
+894	Huang   JF, Zhang   DY, Sheng   CS, An   D-W, Li   M, Cheng   Y-B, et al.   Isolated nocturnal hypertension in relation to host and environmental factors and clock genes. J Clin Hypertens (Greenwich)  2022;24:1255–62. https://doi.org/10.1111/jch.14532
+Google ScholarCrossrefPubMedWorldCat 
+895	Matsumoto   T, Tabara   Y, Murase   K, Setoh   K, Kawaguchi   T, Nagashima   S, et al.   Nocturia and increase in nocturnal blood pressure: the Nagahama study. J Hypertens  2018;36:2185–92. https://doi.org/10.1097/hjh.0000000000001802
+Google ScholarCrossrefPubMedWorldCat 
+896	Seif   F, Patel   SR, Walia   HK, Rueschman   M, Bhatt   DL, Blumenthal   RS, et al.   Obstructive sleep apnea and diurnal nondipping hemodynamic indices in patients at increased cardiovascular risk. J Hypertens  2014;32:267–75. https://doi.org/10.1097/hjh.0000000000000011
+Google ScholarCrossrefPubMedWorldCat 
+897	Kimura   G, Dohi   Y, Fukuda   M. Salt sensitivity and circadian rhythm of blood pressure: the keys to connect CKD with cardiovascular events. Hypertens Res  2010;33:515–20. https://doi.org/10.1038/hr.2010.47
+Google ScholarCrossrefPubMedWorldCat 
+898	Drawz   PE, Alper   AB, Anderson   AH, Brecklin   CS, Charleston   J, Chen   J, et al.   Masked hypertension and elevated nighttime blood pressure in CKD: prevalence and association with target organ damage. Clin J Am Soc Nephrol  2016;11:642–52. https://doi.org/10.2215/cjn.08530815
+Google ScholarCrossrefPubMedWorldCat 
+899	Kanno   A, Metoki   H, Kikuya   M, Terawaki   H, Hara   A, Hashimoto   T, et al.   Usefulness of assessing masked and white-coat hypertension by ambulatory blood pressure monitoring for determining prevalent risk of chronic kidney disease: the Ohasama study. Hypertens Res  2010;33:1192–8. https://doi.org/10.1038/hr.2010.139
+Google ScholarCrossrefPubMedWorldCat 
+900	Kushiro   T, Kario   K, Saito   I, Teramukai   S, Sato   Y, Okuda   Y, et al.   Increased cardiovascular risk of treated white coat and masked hypertension in patients with diabetes and chronic kidney disease: the HONEST study. Hypertens Res  2017;40:87–95. https://doi.org/10.1038/hr.2016.87
+Google ScholarCrossrefPubMedWorldCat 
+901	Lurbe   E, Redon   J, Kesani   A, Pascual   JM, Tacons   J, Alvarez   V, et al.   Increase in nocturnal blood pressure and progression to microalbuminuria in type 1 diabetes. N Engl J Med  2002;347:797–805. https://doi.org/10.1056/NEJMoa013410
+Google ScholarCrossrefPubMedWorldCat 
+902	Cuspidi   C, Sala   C, Tadic   M, Gherbesi   E, De Giorgi   A, Grassi   G, et al.   Clinical and prognostic significance of a reverse dipping pattern on ambulatory monitoring: an updated review. J Clin Hypertens (Greenwich)  2017;19:713–21. https://doi.org/10.1111/jch.13023
+Google ScholarCrossrefPubMedWorldCat 
+903	Wu   Q, Hong   M, Xu   J, Tang   X, Zhu   L, Gao   P, et al.   Diurnal blood pressure pattern and cardiac damage in hypertensive patients with primary aldosteronism. Endocrine  2021;72:835–43. https://doi.org/10.1007/s12020-021-02606-3
+Google ScholarCrossrefPubMedWorldCat 
+904	Kario   K, Hoshide   S, Mizuno   H, Kabutoya   T, Nishizawa   M, Yoshida   T, et al.   Nighttime blood pressure phenotype and cardiovascular prognosis: practitioner-based nationwide JAMP study. Circulation  2020;142:1810–20. https://doi.org/10.1161/circulationaha.120.049730
+Google ScholarCrossrefPubMedWorldCat 
+905	Kario   K, Hoshide   S, Nagai   M, Okawara   Y, Kanegae   H. Sleep and cardiovascular outcomes in relation to nocturnal hypertension: the J-HOP nocturnal blood pressure study. Hypertens Res  2021;44:1589–96. https://doi.org/10.1038/s41440-021-00709-y
+Google ScholarCrossrefPubMedWorldCat 
+906	Wang   Q, Wang   Y, Wang   J, Zhang   L, Zhao   MH. Nocturnal systolic hypertension and adverse prognosis in patients with CKD. Clin J Am Soc Nephrol  2021;16:356–64. https://doi.org/10.2215/cjn.14420920
+Google ScholarCrossrefPubMedWorldCat 
+907	Hansen   TW, Li   Y, Boggia   J, Thijs   L, Richart   T, Staessen   JA. Predictive role of the nighttime blood pressure. Hypertension  2011;57:3–10. https://doi.org/10.1161/hypertensionaha.109.133900
+Google ScholarCrossrefPubMedWorldCat 
+908	Staessen   JA, Thijs   L, Fagard   R, O’Brien   ET, Clement   D, de Leeuw   PW, et al.   Predicting cardiovascular risk using conventional vs ambulatory blood pressure in older patients with systolic hypertension. JAMA  1999;282:539–46. https://doi.org/10.1001/jama.282.6.539
+Google ScholarCrossrefPubMedWorldCat 
+909	Verdecchia   P, Porcellati   C, Schillaci   G, Borgioni   C, Ciucci   A, Battistelli   M, et al.   Ambulatory blood pressure. An independent predictor of prognosis in essential hypertension. Hypertension  1994;24:793–801. https://doi.org/10.1161/01.hyp.24.6.793
+Google ScholarCrossrefPubMedWorldCat 
+910	Ohkubo   T, Hozawa   A, Yamaguchi   J, Kikuya   M, Ohmori   K, Michimata   M, et al.   Prognostic significance of the nocturnal decline in blood pressure in individuals with and without high 24-h blood pressure: the Ohasama study. J Hypertens  2002;20:2183–9. https://doi.org/10.1097/00004872-200211000-00017
+Google ScholarCrossrefPubMedWorldCat 
+911	Nagai   M, Hoshide   S, Ishikawa   J, Shimada   K, Kario   K. Ambulatory blood pressure as an independent determinant of brain atrophy and cognitive function in elderly hypertension. J Hypertens  2008;26:1636–41. https://doi.org/10.1097/HJH.0b013e3283018333
+Google ScholarCrossrefPubMedWorldCat 
+912	Staessen   JA, Thijs   L, Ohkubo   T, Kikuya   M, Richart   T, Boggia   J, et al.   Thirty years of research on diagnostic and therapeutic thresholds for the self-measured blood pressure at home. Blood Press Monit  2008;13:352–65. https://doi.org/10.1097/MBP.0b013e3283108f93
+Google ScholarCrossrefPubMedWorldCat 
+913	Kario   K, Shimada   K. Risers and extreme-dippers of nocturnal blood pressure in hypertension: antihypertensive strategy for nocturnal blood pressure. Clin Exp Hypertens  2004;26:177–89. https://doi.org/10.1081/ceh-120028556
+Google ScholarCrossrefPubMedWorldCat 
+914	Tan   X, Sundström   J, Lind   L, Franzon   K, Kilander   L, Benedict   C, et al.   Reverse dipping of systolic blood pressure is associated with increased dementia risk in older men: a longitudinal study over 24 years. Hypertension  2021;77:1383–90. https://doi.org/10.1161/hypertensionaha.120.16711
+Google ScholarCrossrefPubMedWorldCat 
+915	Judd   E, Calhoun   DA. Apparent and true resistant hypertension: definition, prevalence and outcomes. J Hum Hypertens  2014;28:463–8. https://doi.org/10.1038/jhh.2013.140
+Google ScholarCrossrefPubMedWorldCat 
+916	Denker   MG, Haddad   DB, Townsend   RR, Cohen   DL. Blood pressure control 1 year after referral to a hypertension specialist. J Clin Hypertens (Greenwich)  2013;15:624–9. https://doi.org/10.1111/jch.12146
+Google ScholarCrossrefPubMedWorldCat 
+917	Blumenthal   JA, Hinderliter   AL, Smith   PJ, Mabe   S, Watkins   LL, Craighead   L, et al.   Effects of lifestyle modification on patients with resistant hypertension: results of the TRIUMPH randomized clinical trial. Circulation  2021;144:1212–26. https://doi.org/10.1161/circulationaha.121.055329
+Google ScholarCrossrefPubMedWorldCat 
+918	Hung   SC, Kuo   KL, Peng   CH, Wu   C-H, Lien   Y-C, Wang   Y-C, et al.   Volume overload correlates with cardiovascular risk factors in patients with chronic kidney disease. Kidney Int  2014;85:703–9. https://doi.org/10.1038/ki.2013.336
+Google ScholarCrossrefPubMedWorldCat 
+919	Taler   SJ, Textor   SC, Augustine   JE. Resistant hypertension: comparing hemodynamic management to specialist care. Hypertension  2002;39:982–8. https://doi.org/10.1161/01.hyp.0000016176.16042.2f
+Google ScholarCrossrefPubMedWorldCat 
+920	Gaddam   KK, Nishizaka   MK, Pratt-Ubunama   MN, Pimenta   E, Aban   I, Oparil   S, et al.   Characterization of resistant hypertension: association between resistant hypertension, aldosterone, and persistent intravascular volume expansion. Arch Intern Med  2008;168:1159–64. https://doi.org/10.1001/archinte.168.11.1159
+Google ScholarCrossrefPubMedWorldCat 
+921	Roush   GC, Ernst   ME, Kostis   JB, Tandon   S, Sica   DA. Head-to-head comparisons of hydrochlorothiazide with indapamide and chlorthalidone: antihypertensive and metabolic effects. Hypertension  2015;65:1041–6. https://doi.org/10.1161/hypertensionaha.114.05021
+Google ScholarCrossrefPubMedWorldCat 
+922	Peterzan   MA, Hardy   R, Chaturvedi   N, Hughes   AD. Meta-analysis of dose-response relationships for hydrochlorothiazide, chlorthalidone, and bendroflumethiazide on blood pressure, serum potassium, and urate. Hypertension  2012;59:1104–9. https://doi.org/10.1161/hypertensionaha.111.190637
+Google ScholarCrossrefPubMedWorldCat 
+923	Chen   C, Zhu   XY, Li   D, Lin   Q, Zhou   K. Clinical efficacy and safety of spironolactone in patients with resistant hypertension: a systematic review and meta-analysis. Medicine (Baltimore)  2020;99:e21694. https://doi.org/10.1097/md.0000000000021694
+Google ScholarCrossrefPubMedWorldCat 
+924	Zhao   D, Liu   H, Dong   P, Zhao   J. A meta-analysis of add-on use of spironolactone in patients with resistant hypertension. Int J Cardiol  2017;233:113–7. https://doi.org/10.1016/j.ijcard.2016.12.158
+Google ScholarCrossrefPubMedWorldCat 
+925	Bazoukis   G, Thomopoulos   C, Tsioufis   C. Effect of mineralocorticoid antagonists on blood pressure lowering: overview and meta-analysis of randomized controlled trials in hypertension. J Hypertens  2018;36:987–94. https://doi.org/10.1097/hjh.0000000000001671
+Google ScholarCrossrefPubMedWorldCat 
+926	Oxlund   CS, Henriksen   JE, Tarnow   L, Schousboe   K, Gram   J, Jacobsen   IA. Low dose spironolactone reduces blood pressure in patients with resistant hypertension and type 2 diabetes mellitus: a double blind randomized clinical trial. J Hypertens  2013;31:2094–102. https://doi.org/10.1097/HJH.0b013e3283638b1a
+Google ScholarCrossrefPubMedWorldCat 
+927	Desai   R, Park   H, Brown   JD, Mohandas   R, Pepine   CJ, Smith   SM. Comparative safety and effectiveness of aldosterone antagonists versus beta-blockers as fourth agents in patients with apparent resistant hypertension. Hypertension  2022;79:2305–15. https://doi.org/10.1161/hypertensionaha.122.19280
+Google ScholarCrossrefPubMedWorldCat 
+928	Juurlink   DN, Mamdani   MM, Lee   DS, Kopp   A, Austin   PC, Laupacis   A, et al.   Rates of hyperkalemia after publication of the randomized aldactone evaluation study. N Engl J Med  2004;351:543–51. https://doi.org/10.1056/NEJMoa040135
+Google ScholarCrossrefPubMedWorldCat 
+929	Agarwal   R, Rossignol   P, Romero   A, Garza   D, Mayo   MR, Warren   S, et al.   Patiromer versus placebo to enable spironolactone use in patients with resistant hypertension and chronic kidney disease (AMBER): a phase 2, randomised, double-blind, placebo-controlled trial. Lancet  2019;394:1540–50. https://doi.org/10.1016/s0140-6736(19)32135-x
+Google ScholarCrossrefPubMedWorldCat 
+930	Burton   TJ, Mackenzie   IS, Balan   K, Koo   B, Bird   N, Soloviev   DV, et al.   Evaluation of the sensitivity and specificity of (11)C-metomidate positron emission tomography (PET)-CT for lateralizing aldosterone secretion by Conn’s adenomas. J Clin Endocrinol Metab  2012;97:100–9. https://doi.org/10.1210/jc.2011-1537
+Google ScholarCrossrefPubMedWorldCat 
+931	Rossi   GP, Maiolino   G, Seccia   TM. Adrenal venous sampling: where do we stand?  Endocrinol Metab Clin North Am  2019;48:843–58. https://doi.org/10.1016/j.ecl.2019.08.012
+Google ScholarCrossrefPubMedWorldCat 
+932	Wu   X, Senanayake   R, Goodchild   E, Bashari   WA, Salsbury   J, Cabrera   CP, et al.   [(11)C]metomidate PET-CT versus adrenal vein sampling for diagnosing surgically curable primary aldosteronism: a prospective, within-patient trial. Nat Med  2023;29:190–202. https://doi.org/10.1038/s41591-022-02114-5
+Google ScholarCrossrefPubMedWorldCat 
+933	Lenzini   L, Prisco   S, Caroccia   B, Rossi   GP. Saga of familial hyperaldosteronism: yet a new channel. Hypertension  2018;71:1010–4. https://doi.org/10.1161/hypertensionaha.118.11150
+Google ScholarCrossrefPubMedWorldCat 
+934	Parthasarathy   HK, Ménard   J, White   WB, Young   WF, Williams   GH, Williams   B, et al.   A double-blind, randomized study comparing the antihypertensive effect of eplerenone and spironolactone in patients with hypertension and evidence of primary aldosteronism. J Hypertens  2011;29:980–90. https://doi.org/10.1097/HJH.0b013e3283455ca5
+Google ScholarCrossrefPubMedWorldCat 
+935	Shagjaa   T, Sanga   V, Rossi   GP. Skin hyperpigmentation due to post-surgical adrenal insufficiency regressed with the dexamethasone treatment. J Clin Med  2022;11:5379. https://doi.org/10.3390/jcm11185379
+Google ScholarCrossrefPubMedWorldCat 
+936	Sanga   V, Lenzini   L, Seccia   TM, Rossi   GP. Familial hyperaldosteronism type 1 and pregnancy: successful treatment with low dose dexamethasone. Blood Press  2021;30:133–7. https://doi.org/10.1080/08037051.2020.1863771
+Google ScholarCrossrefPubMedWorldCat 
+937	Persu   A, Touzé   E, Mousseaux   E, Barral   X, Joffre   F, Plouin   P-F. Diagnosis and management of fibromuscular dysplasia: an expert consensus. Eur J Clin Invest  2012;42:338–47. https://doi.org/10.1111/j.1365-2362.2011.02577.x
+Google ScholarCrossrefPubMedWorldCat 
+938	Wheatley   K, Ives   N, Gray   R, Kalra   PA, Moss   JG, Baigent   C, et al.   Revascularization versus medical therapy for renal-artery stenosis. N Engl J Med  2009;361:1953–62. https://doi.org/10.1056/NEJMoa0905368
+Google ScholarPubMedWorldCat 
+939	Cooper   CJ, Murphy   TP, Cutlip   DE, Jamerson   K, Henrich   W, Reid   DM, et al.   Stenting and medical therapy for atherosclerotic renal-artery stenosis. N Engl J Med  2014;370:13–22. https://doi.org/10.1056/NEJMoa1310753
+Google ScholarCrossrefPubMedWorldCat 
+940	Bailey   SR, Beckman   JA, Dao   TD, Misra   S, Sobieszczyk   PS, White   CJ, et al.   ACC/AHA/SCAI/SIR/SVM 2018 appropriate use criteria for peripheral artery intervention: a report of the American College of Cardiology Appropriate Use Criteria Task Force, American Heart Association, Society for Cardiovascular Angiography and Interventions, Society of Interventional Radiology, and Society for Vascular Medicine. J Am Coll Cardiol  2019;73:214–37. https://doi.org/10.1016/j.jacc.2018.10.002
+Google ScholarCrossrefPubMedWorldCat 
+941	Trinquart   L, Mounier-Vehier   C, Sapoval   M, Gagnon   N, Plouin   PF. Efficacy of revascularization for renal artery stenosis caused by fibromuscular dysplasia: a systematic review and meta-analysis. Hypertension  2010;56:525–32. https://doi.org/10.1161/hypertensionaha.110.152918
+Google ScholarCrossrefPubMedWorldCat 
+942	Sanga   V, Bertoli   E, Crimì   F, Barbiero   G, Battistel   M, Teresa Seccia   M, et al.   Pickering syndrome: an overlooked renovascular cause of recurrent heart failure. J Am Heart Assoc  2023;12:e030474. https://doi.org/10.1161/jaha.123.030474
+Google ScholarCrossrefPubMedWorldCat 
+943	Bhalla   V, Textor   SC, Beckman   JA, Casanegra   AI, Cooper   CJ, Kim   ESH, et al.   Revascularization for renovascular disease: a scientific statement from the American Heart Association. Hypertension  2022;79:e128–43. https://doi.org/10.1161/hyp.0000000000000217
+Google ScholarCrossrefPubMedWorldCat 
+944	Bravo   E, Fouad-Tarazi   F, Rossi   G, Imamura   M, Lin   WW, Madkour   MA, et al.   A reevaluation of the hemodynamics of pheochromocytoma. Hypertension  1990;15:I128–131. https://doi.org/10.1161/01.hyp.15.2_suppl.i128
+Google ScholarCrossrefPubMedWorldCat 
+945	Cohen   JB, Brown   NJ, Brown   SA, Dent   S, van Dorst   DCH, Herrmann   SM, et al.   Cancer therapy-related hypertension: a scientific statement from the American Heart Association. Hypertension  2023;80:e46–57. https://doi.org/10.1161/hyp.0000000000000224
+Google ScholarPubMedWorldCat 
+946	Lyon   AR, López-Fernández   T, Couch   LS, Asteggiano   R, Aznar   MC, Bergler-Klein   J, et al.   ESC guidelines on cardio-oncology developed in collaboration with the European Hematology Association (EHA), the European Society for Therapeutic Radiology and Oncology (ESTRO) and the International Cardio-Oncology Society (IC-OS). Eur Heart J  2022;43:4229–361. https://doi.org/10.1093/eurheartj/ehac244
+Google ScholarCrossrefPubMedWorldCat 
+947	Boulestreau   R, van den Born   BH, Lip   GYH, Gupta   A. Malignant hypertension: current perspectives and challenges. J Am Heart Assoc  2022;11:e023397. https://doi.org/10.1161/jaha.121.023397
+Google ScholarCrossrefPubMedWorldCat 
+948	Ma   L, Hu   X, Song   L, Chen   X, Ouyang   M, Billot   L, et al.   The third intensive care bundle with blood pressure reduction in acute cerebral haemorrhage trial (INTERACT3): an international, stepped wedge cluster randomised controlled trial. Lancet  2023;402:27–40. https://doi.org/10.1016/s0140-6736(23)00806-1
+Google ScholarCrossrefPubMedWorldCat 
+949	Moullaali   TJ, Wang   X, Sandset   EC, Woodhouse   LJ, Law   ZK, Arima   H, et al.   Early lowering of blood pressure after acute intracerebral haemorrhage: a systematic review and meta-analysis of individual patient data. J Neurol Neurosurg Psychiatry  2022;93:6–13. https://doi.org/10.1136/jnnp-2021-327195
+Google ScholarCrossrefPubMedWorldCat 
+950	Wang   X, Di Tanna   GL, Moullaali   TJ, Martin   R’ H, Shipes   VB, Robinson   TG, et al.   J-shape relation of blood pressure reduction and outcome in acute intracerebral hemorrhage: a pooled analysis of INTERACT2 and ATACH-II individual participant data. Int J Stroke  2022;17:1129–36. https://doi.org/10.1177/17474930211064076
+Google ScholarCrossrefPubMedWorldCat 
+951	Qureshi   AI, Huang   W, Lobanova   I, Barsan   WG, Hanley   DF, Hsu   CY, et al.   Outcomes of intensive systolic blood pressure reduction in patients with intracerebral hemorrhage and excessively high initial systolic blood pressure: post hoc analysis of a randomized clinical trial. JAMA Neurol  2020;77:1355–65. https://doi.org/10.1001/jamaneurol.2020.3075
+Google ScholarCrossrefPubMedWorldCat 
+952	Bath   PM, Krishnan   K. Interventions for deliberately altering blood pressure in acute stroke. Cochrane Database Syst Rev  2014;2014:CD000039. https://doi.org/10.1002/14651858.CD000039.pub3
+Google ScholarPubMedWorldCat 
+953	Berge   E, Whiteley   W, Audebert   H, De Marchis   GM, Fonseca   AC, Padiglioni   C, et al.   European Stroke Organisation (ESO) guidelines on intravenous thrombolysis for acute ischaemic stroke. Eur Stroke J  2021;6:I–LXII. https://doi.org/10.1177/2396987321989865
+Google ScholarCrossrefPubMedWorldCat 
+954	LeCouffe   NE, Kappelhof   M, Treurniet   KM, Lingsma   HF, Zhang   G, van den Wijngaard   IR, et al.   2B, 2C, or 3: what should be the angiographic target for endovascular treatment in ischemic stroke?  Stroke  2020;51:1790–6. https://doi.org/10.1161/strokeaha.119.028891
+Google ScholarCrossrefPubMedWorldCat 
+955	Mistry   EA, Hart   KW, Davis   LT, Gao   Y, Prestigiacomo   CJ, Mittal   S, et al.   Blood pressure management after endovascular therapy for acute ischemic stroke: the BEST-II randomized clinical trial. JAMA  2023;330:821–31. https://doi.org/10.1001/jama.2023.14330
+Google ScholarCrossrefPubMedWorldCat 
+956	Lee   M, Ovbiagele   B, Hong   KS, Wu   Y-L, Lee   J-E, Rao   NM, et al.   Effect of blood pressure lowering in early ischemic stroke: meta-analysis. Stroke  2015;46:1883–9. https://doi.org/10.1161/strokeaha.115.009552
+Google ScholarCrossrefPubMedWorldCat 
+957	Anderson   CS, Huang   Y, Lindley   RI, Chen   X, Arima   H, Chen   G, et al.   Intensive blood pressure reduction with intravenous thrombolysis therapy for acute ischaemic stroke (ENCHANTED): an international, randomised, open-label, blinded-endpoint, phase 3 trial. Lancet  2019;393:877–88. https://doi.org/10.1016/s0140-6736(19)30038-8
+Google ScholarCrossrefPubMedWorldCat 
+958	Mazighi   M, Richard   S, Lapergue   B, Sibon   I, Gory   B, Berge   J, et al.   Safety and efficacy of intensive blood pressure lowering after successful endovascular therapy in acute ischaemic stroke (BP-TARGET): a multicentre, open-label, randomised controlled trial. Lancet Neurol  2021;20:265–74. https://doi.org/10.1016/s1474-4422(20)30483-x
+Google ScholarCrossrefPubMedWorldCat 
+959	Yang   P, Song   L, Zhang   Y, Zhang   X, Chen   X, Li   Y, et al.   Intensive blood pressure control after endovascular thrombectomy for acute ischaemic stroke (ENCHANTED2/MT): a multicentre, open-label, blinded-endpoint, randomised controlled trial. Lancet  2022;400:1585–96. https://doi.org/10.1016/s0140-6736(22)01882-7
+Google ScholarCrossrefPubMedWorldCat 
+960	Sandset   EC, Anderson   CS, Bath   PM, Christensen   H, Fischer   U, Gąsecki   D, et al.   European Stroke Organisation (ESO) guidelines on blood pressure management in acute ischaemic stroke and intracerebral haemorrhage. Eur Stroke J  2021;6:Xlviii–lxxxix. https://doi.org/10.1177/23969873211012133
+Google ScholarCrossrefPubMedWorldCat 
+961	Anderson   CS, Heeley   E, Huang   Y, Wang   J, Stapf   C, Delcourt   C, et al.   Rapid blood-pressure lowering in patients with acute intracerebral hemorrhage. N Engl J Med  2013;368:2355–65. https://doi.org/10.1056/NEJMoa1214609
+Google ScholarCrossrefPubMedWorldCat 
+962	Qureshi   AI, Palesch   YY, Barsan   WG, Hanley   DF, Hsu   CY, Martin   RL, et al.   Intensive blood-pressure lowering in patients with acute cerebral hemorrhage. N Engl J Med  2016;375:1033–43. https://doi.org/10.1056/NEJMoa1603460
+Google ScholarCrossrefPubMedWorldCat 
+963	Moullaali   TJ, Wang   X, Woodhouse   LJ, Law   ZK, Delcourt   C, Sprigg   N, et al.   Lowering blood pressure after acute intracerebral haemorrhage: protocol for a systematic review and meta-analysis using individual patient data from randomised controlled trials participating in the blood pressure in acute stroke collaboration (BASC). BMJ Open  2019;9:e030121. https://doi.org/10.1136/bmjopen-2019-030121
+Google ScholarCrossrefPubMedWorldCat 
+964	American College of Obstetricians and Gynecologists. Gestational hypertension and preeclampsia: ACOG practice bulletin, number 222. Obstet Gynecol  2020;135:e237–60. https://doi.org/10.1097/aog.0000000000003891
+CrossrefPubMedWorldCat 
+965	Garovic   VD, Dechend   R, Easterling   T, Karumanchi   SA, Baird   SM, Magee   LA, et al.   Hypertension in pregnancy: diagnosis, blood pressure goals, and pharmacotherapy: a scientific statement from the American Heart Association. Hypertension  2022;79:e21–41. https://doi.org/10.1161/hyp.0000000000000208
+Google ScholarCrossrefPubMedWorldCat 
+966	Magee   LA, Nicolaides   KH, von Dadelszen   P. Preeclampsia. N Engl J Med  2022;386:1817–32. https://doi.org/10.1056/NEJMra2109523
+Google ScholarCrossrefPubMedWorldCat 
+967	Altman   D, Carroli   G, Duley   L, Farrell   B, Moodley   J, Neilson   J, et al.   Do women with pre-eclampsia, and their babies, benefit from magnesium sulphate? The Magpie trial: a randomised placebo-controlled trial. Lancet  2002;359:1877–90. https://doi.org/10.1016/s0140-6736(02)08778-0
+Google ScholarPubMedWorldCat 
+968	Poon   LC, Magee   LA, Verlohren   S, Shennan   A, von Dadelszen   P, Sheiner   E, et al.   A literature review and best practice advice for second and third trimester risk stratification, monitoring, and management of pre-eclampsia: compiled by the pregnancy and non-communicable diseases committee of FIGO (the International Federation of Gynecology and Obstetrics). Int J Gynaecol Obstet  2021;154 Suppl 1:3–31. https://doi.org/10.1002/ijgo.13763
+Google ScholarPubMedWorldCat 
+969	Muhammad   S, Usman   H, Dawha   YM, Yahya   A, Yekeen   A, Bako   B. Comparison of intravenous labetalol and hydralazine for severe hypertension in pregnancy in Northeastern Nigeria: a randomized controlled trial. Pregnancy Hypertens  2022;29:1–6. https://doi.org/10.1016/j.preghy.2022.05.001
+Google ScholarCrossrefPubMedWorldCat 
+970	Magee   LA, Cham   C, Waterman   EJ, Ohlsson   A, von Dadelszen   P. Hydralazine for treatment of severe hypertension in pregnancy: meta-analysis. BMJ  2003;327:955–60. https://doi.org/10.1136/bmj.327.7421.955
+Google ScholarCrossrefPubMedWorldCat 
+971	Wu   HZ, Cheng   Y, Yu   D, Li   J-B, Jiang   Y-F, Zhu   Z-N. Different dosage regimens of nifedipine, labetalol, and hydralazine for the treatment of severe hypertension during pregnancy: a network meta-analysis of randomized controlled trials. Hypertens Pregnancy  2022;41:126–38. https://doi.org/10.1080/10641955.2022.2056196
+Google ScholarCrossrefPubMedWorldCat 
+972	Halvorsen   S, Mehilli   J, Cassese   S, Hall   TS, Abdelhamid   M, Barbato   E, et al.   2022 ESC Guidelines on cardiovascular assessment and management of patients undergoing non-cardiac surgery. Eur Heart J  2022;43:3826–924. https://doi.org/10.1093/eurheartj/ehac270
+Google ScholarCrossrefPubMedWorldCat 
+973	Lizano-Díez   I, Poteet   S, Burniol-Garcia   A, Cerezales   M. The burden of perioperative hypertension/hypotension: a systematic review. PLoS One  2022;17:e0263737. https://doi.org/10.1371/journal.pone.0263737
+Google ScholarCrossrefPubMedWorldCat 
+974	Futier   E, Lefrant   JY, Guinot   PG, Godet   T, Lorne   E, Cuvillon   P, et al.   Effect of individualized vs standard blood pressure management strategies on postoperative organ dysfunction among high-risk patients undergoing major surgery: a randomized clinical trial. JAMA  2017;318:1346–57. https://doi.org/10.1001/jama.2017.14172
+Google ScholarCrossrefPubMedWorldCat 
+975	Sanders   RD, Hughes   F, Shaw   A, Thompson   A, Bader   A, Hoeft   A, et al.   Perioperative quality initiative consensus statement on preoperative blood pressure, risk and outcomes for elective surgery. Br J Anaesth  2019;122:552–62. https://doi.org/10.1016/j.bja.2019.01.018
+Google ScholarCrossrefPubMedWorldCat 
+976	Messina   A, Robba   C, Calabrò   L, Zambelli   D, Iannuzzi   F, Molinari   E, et al.   Association between perioperative fluid administration and postoperative outcomes: a 20-year systematic review and a meta-analysis of randomized goal-directed trials in major visceral/noncardiac surgery. Crit Care  2021;25:43. https://doi.org/10.1186/s13054-021-03464-1
+Google ScholarCrossrefPubMedWorldCat 
+977	Meng   L, Yu   W, Wang   T, Zhang   L, Heerdt   PM, Gelb   AW. Blood pressure targets in perioperative care. Hypertension  2018;72:806–17. https://doi.org/10.1161/hypertensionaha.118.11688
+Google ScholarCrossrefPubMedWorldCat 
+978	Wanner   PM, Wulff   DU, Djurdjevic   M, Korte   W, Schnider   TW, Filipovic   M. Targeting higher intraoperative blood pressures does not reduce adverse cardiovascular events following noncardiac surgery. J Am Coll Cardiol  2021;78:1753–64. https://doi.org/10.1016/j.jacc.2021.08.048
+Google ScholarCrossrefPubMedWorldCat 
+979	Blessberger   H, Lewis   SR, Pritchard   MW, Fawcett   LJ, Domanovits   H, Schlager   O, et al.   Perioperative beta-blockers for preventing surgery-related mortality and morbidity in adults undergoing non-cardiac surgery. Cochrane Database Syst Rev  2019;9:CD013438. https://doi.org/10.1002/14651858.CD013438
+Google ScholarPubMedWorldCat 
+980	McGory   ML, Maggard   MA, Ko   CY. A meta-analysis of perioperative beta blockade: what is the actual risk reduction?  Surgery  2005;138:171–9. https://doi.org/10.1016/j.surg.2005.03.022
+Google ScholarCrossrefPubMedWorldCat 
+981	Kertai   MD, Cooter   M, Pollard   RJ, Buhrman   W, Aronson   S, Mathew   JP, et al.   Is compliance with surgical care improvement project cardiac (SCIP-Card-2) measures for perioperative β-blockers associated with reduced incidence of mortality and cardiovascular-related critical quality indicators after noncardiac surgery?  Anesth Analg  2018;126:1829–38. https://doi.org/10.1213/ane.0000000000002577
+Google ScholarCrossrefPubMedWorldCat 
+982	Roshanov   PS, Rochwerg   B, Patel   A, Salehian   O, Duceppe   E, Belley-Côté   EP, et al.   Withholding versus continuing angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers before noncardiac surgery: an analysis of the vascular events in noncardiac surgery patIents cOhort evaluatioN prospective cohort. Anesthesiology  2017;126:16–27. https://doi.org/10.1097/aln.0000000000001404
+Google ScholarCrossrefPubMedWorldCat 
+983	Shiffermiller   JF, Monson   BJ, Vokoun   CW, Beachy   MW, Smith   MP, Sullivan   JN, et al.   Prospective randomized evaluation of preoperative angiotensin-converting enzyme inhibition (PREOP-ACEI). J Hosp Med  2018;13:661–7. https://doi.org/10.12788/jhm.3036
+Google ScholarCrossrefPubMedWorldCat 
+984	Hollmann   C, Fernandes   NL, Biccard   BM. A systematic review of outcomes associated with withholding or continuing angiotensin-converting enzyme inhibitors and angiotensin receptor blockers before noncardiac surgery. Anesth Analg  2018;127:678–87. https://doi.org/10.1213/ane.0000000000002837
+Google ScholarCrossrefPubMedWorldCat 
+985	Ackland   GL, Patel   A, Abbott   TEF, Begum   S, Dias   P, Crane   DR, et al.   Discontinuation vs. continuation of renin–angiotensin system inhibition before non-cardiac surgery: the SPACE trial. Eur Heart J  2024;45:1146–55. https://doi.org/10.1093/eurheartj/ehad716
+Google ScholarCrossrefPubMedWorldCat 
+986	McEvoy   MD, Gupta   R, Koepke   EJ, Feldheiser   A, Michard   F, Levett   D, et al.   Perioperative quality initiative consensus statement on postoperative blood pressure, risk and outcomes for elective surgery. Br J Anaesth  2019;122:575–86. https://doi.org/10.1016/j.bja.2019.01.019
+Google ScholarCrossrefPubMedWorldCat 
+987	Ekman   I, Swedberg   K, Taft   C, Lindseth   A, Norberg   A, Brink   E, et al.   Person-centered care—ready for prime time. Eur J Cardiovasc Nurs  2011;10:248–51. https://doi.org/10.1016/j.ejcnurse.2011.06.008
+Google ScholarCrossrefPubMedWorldCat 
+988	Krist   AH, Tong   ST, Aycock   RA, Longo   DR. Engaging patients in decision-making and behavior change to promote prevention. Stud Health Technol Inform  2017;240:284–302. https://doi.org/10.3233/ISU-170826
+Google ScholarPubMedWorldCat 
+989	Johnson   RA, Huntley   A, Hughes   RA, Hughes   RA, Cramer   H, Turner   KM, et al.   Interventions to support shared decision making for hypertension: a systematic review of controlled studies. Health Expect  2018;21:1191–207. https://doi.org/10.1111/hex.12826
+Google ScholarCrossrefPubMedWorldCat 
+990	Johnson   RL, Roter   D, Powe   NR, Cooper   LA. Patient race/ethnicity and quality of patient–physician communication during medical visits. Am J Public Health  2004;94:2084–90. https://doi.org/10.2105/ajph.94.12.2084
+Google ScholarCrossrefPubMedWorldCat 
+991	Williams   MV, Davis   T, Parker   RM, Weiss   BD. The role of health literacy in patient-physician communication. Fam Med  2002;34:383–9.
+Google ScholarPubMedWorldCat 
+992	Karmali   KN, Persell   SD, Perel   P, Lloyd-Jones   DM, Berendsen   MA, Huffman   MD. Risk scoring for the primary prevention of cardiovascular disease. Cochrane Database Syst Rev  2017;3:CD006887. https://doi.org/10.1002/14651858.CD006887.pub4
+Google ScholarPubMedWorldCat 
+993	Ma   C, Zhou   Y, Zhou   W, Huang   C. Evaluation of the effect of motivational interviewing counselling on hypertension care. Patient Educ Couns  2014;95:231–7. https://doi.org/10.1016/j.pec.2014.01.011
+Google ScholarCrossrefPubMedWorldCat 
+994	Huang   X, Xu   N, Wang   Y, Sun   Y, Guo   A. The effects of motivational interviewing on hypertension management: a systematic review and meta-analysis. Patient Educ Couns  2023;112:107760. https://doi.org/10.1016/j.pec.2023.107760
+Google ScholarCrossrefPubMedWorldCat 
+995	Glaser   E, Richard   C, Lussier   MT. The impact of a patient web communication intervention on reaching treatment suggested guidelines for chronic diseases: a randomized controlled trial. Patient Educ Couns  2017;100:2062–70. https://doi.org/10.1016/j.pec.2017.05.022
+Google ScholarCrossrefPubMedWorldCat 
+996	Richard   AA, Shea   K. Delineation of self-care and associated concepts. J Nurs Scholarsh  2011;43:255–64. https://doi.org/10.1111/j.1547-5069.2011.01404.x
+Google ScholarPubMedWorldCat 
+997	Wilkinson   A, Whitehead   L. Evolution of the concept of self-care and implications for nurses: a literature review. Int J Nurs Stud  2009;46:1143–7. https://doi.org/10.1016/j.ijnurstu.2008.12.011
+Google ScholarCrossrefPubMedWorldCat 
+998	Bodenheimer   T, Lorig   K, Holman   H, Grumbach   K. Patient self-management of chronic disease in primary care. JAMA  2002;288:2469–75. https://doi.org/10.1001/jama.288.19.2469
+Google ScholarCrossrefPubMedWorldCat 
+999	Barlow   J, Wright   C, Sheasby   J, Turner   A, Hainsworth   J. Self-management approaches for people with chronic conditions: a review. Patient Educ Couns  2002;48:177–87. https://doi.org/10.1016/s0738-3991(02)00032-0
+Google ScholarCrossrefPubMedWorldCat 
+1000	Hallberg   I, Ranerup   A, Kjellgren   K. Supporting the self-management of hypertension: patients’ experiences of using a mobile phone-based system. J Hum Hypertens  2016;30:141–6. https://doi.org/10.1038/jhh.2015.37
+Google ScholarCrossrefPubMedWorldCat 
+1001	Almeida   GO, Aidar   FJ, Matos   DG, Almeida-Neto   PF, Melo   EV, Barreto Filho   JAS, et al.   Non-targeted self-measurement of blood pressure: association with self-medication, unscheduled emergency visits and anxiety. Medicina (Kaunas)  2021;57:75. https://doi.org/10.3390/medicina57010075
+Google ScholarCrossrefPubMedWorldCat 
+1002	Greaves   F, Joshi   I, Campbell   M, Roberts   S, Patel   N, Powell   J, et al.   What is an appropriate level of evidence for a digital health intervention?  Lancet  2019;392:2665–7. https://doi.org/10.1016/s0140-6736(18)33129-5
+Google ScholarCrossrefPubMedWorldCat 
+1003	Morton   K, Dennison   L, May   C, Murray   E, Little   P, McManus   RJ, et al.   Using digital interventions for self-management of chronic physical health conditions: a meta-ethnography review of published studies. Patient Educ Couns  2017;100:616–35. https://doi.org/10.1016/j.pec.2016.10.019
+Google ScholarCrossrefPubMedWorldCat 
+1004	McKinstry   B, Hanley   J, Wild   S, Pagliari   C, Paterson   M, Lewis   S, et al.   Telemonitoring based service redesign for the management of uncontrolled hypertension: multicentre randomised controlled trial. BMJ  2013;346:f3030. https://doi.org/10.1136/bmj.f3030
+Google ScholarCrossrefPubMedWorldCat 
+1005	Persell   SD, Peprah   YA, Lipiszko   D, Lee   JY, Li   JJ, Ciolino   JD, et al.   Effect of home blood pressure monitoring via a smartphone hypertension coaching application or tracking application on adults with uncontrolled hypertension: a randomized clinical trial. JAMA Netw Open  2020;3:e200255. https://doi.org/10.1001/jamanetworkopen.2020.0255
+Google ScholarCrossrefPubMedWorldCat 
+1006	Andersson   U, Nilsson   PM, Kjellgren   K, Hoffmann   M, Wennersten   A, Midlöv   P, et al.   PERson-centredness in Hypertension management using Information Technology: a randomized controlled trial in primary care. J Hypertens  2023;41:246–53. https://doi.org/10.1097/hjh.0000000000003322
+Google ScholarCrossrefPubMedWorldCat 
+1007	Bergland   OU, Halvorsen   LV, Søraas   CL, Hjørnholm   U, Kjær   VN, Rognstad   S, et al.   Detection of nonadherence to antihypertensive treatment by measurements of serum drug concentrations. Hypertension  2021;78:617–28. https://doi.org/10.1161/hypertensionaha.121.17514
+Google ScholarCrossrefPubMedWorldCat 
+1008	Durand   H, Hayes   P, Morrissey   EC, Newell   J, Casey   M, Murphy   AW, et al.   Medication adherence among patients with apparent treatment-resistant hypertension: systematic review and meta-analysis. J Hypertens  2017;35:2346–57. https://doi.org/10.1097/hjh.0000000000001502
+Google ScholarCrossrefPubMedWorldCat 
+1009	Kronish   IM, Thorpe   CT, Voils   CI. Measuring the multiple domains of medication nonadherence: findings from a Delphi survey of adherence experts. Transl Behav Med  2021;11:104–13. https://doi.org/10.1093/tbm/ibz133
+Google ScholarCrossrefPubMedWorldCat 
+1010	DiMatteo   MR. Social support and patient adherence to medical treatment: a meta-analysis. Health Psychol  2004;23:207–18. https://doi.org/10.1037/0278-6133.23.2.207
+Google ScholarCrossrefWorldCat 
+1011	Houle   SK, Chatterley   T, Tsuyuki   RT. Multidisciplinary approaches to the management of high blood pressure. Curr Opin Cardiol  2014;29:344–53. https://doi.org/10.1097/hco.0000000000000071
+Google ScholarCrossrefWorldCat 
+1012	Woodham   NS, Taneepanichskul   S, Somrongthong   R, Kitsanapun   A, Sompakdee   B. Effectiveness of a multidisciplinary approach intervention to improve blood pressure control among elderly hypertensive patients in rural Thailand: a quasi-experimental study. J Multidiscip Healthc  2020;13:571–80. https://doi.org/10.2147/jmdh.S254286
+Google ScholarCrossrefWorldCat 
+1013	Mattei da Silva   ÂT, de Fátima Mantovani   M, Castanho Moreira   R, Perez Arthur   J, Molina de Souza   R. Nursing case management for people with hypertension in primary health care: a randomized controlled trial. Res Nurs Health  2020;43:68–78. https://doi.org/10.1002/nur.21994
+Google ScholarCrossrefWorldCat 
+1014	He   J, Ouyang   N, Guo   X, Sun   G, Li   Z, Mu   J, et al.   Effectiveness of a non-physician community health-care provider-led intensive blood pressure intervention versus usual care on cardiovascular disease (CRHCP): an open-label, blinded-endpoint, cluster-randomised trial. Lancet  2023;401:928–38. https://doi.org/10.1016/s0140-6736(22)02603-4
+Google ScholarCrossrefWorldCat 
+1015	Creegan   D, McEvoy   JW. Selected highlights in the updated treatment of hypertension. Trends Cardiovasc Med  https://doi.org/10.1016/j.tcm.2023.11.001
+WorldCat 
+1016	Jaffe   MG, Lee   GA, Young   JD, Sidney   S, Go   AS. Improved blood pressure control associated with a large-scale hypertension program. JAMA  2013;310:699–705. https://doi.org/10.1001/jama.2013.108769
+Google ScholarCrossrefWorldCat 
+1017	Hänsel   M, Steigmiller   K, Luft   AR, Gebhard   C, Held   U, Wegener   S, et al.   Neurovascular disease in Switzerland: 10-year trends show non-traditional risk factors on the rise and higher exposure in women. Eur J Neurol  2022;29:2851–60. https://doi.org/10.1111/ene.15434
+Google ScholarCrossrefWorldCat 
+1018	de Ruiter   SC, Schmidt   AF, Grobbee   DE, den Ruijter   HM, Peters   SAE. Sex-specific Mendelian randomisation to assess the causality of sex differences in the effects of risk factors and treatment: spotlight on hypertension. J Hum Hypertens  2023;37:602–8. https://doi.org/10.1038/s41371-023-00821-1
+Google ScholarCrossrefWorldCat 
+1019	Chapman   N, Ching   SM, Konradi   AO, Nuyt   AM, Khan   T, Twumasi-Ankrah   B, et al.   Arterial hypertension in women: state of the art and knowledge gaps. Hypertension  2023;80:1140–9. https://doi.org/10.1161/hypertensionaha.122.20448
+Google ScholarCrossrefWorldCat 
+1020	Tamargo   J, Caballero   R, Mosquera   ED. Sex and gender differences in the treatment of arterial hypertension. Expert Rev Clin Pharmacol  2023;16:329–47. https://doi.org/10.1080/17512433.2023.2189585
+Google ScholarCrossrefWorldCat 
+1021	Olsen   MH, Angell   SY, Asma   S, Boutouyrie   P, Burger   D, Chirinos   JA, et al.   A call to action and a lifecourse strategy to address the global burden of raised blood pressure on current and future generations: the Lancet Commission on hypertension. Lancet  2016;388:2665–712. https://doi.org/10.1016/s0140-6736(16)31134-5
+Google ScholarCrossrefWorldCat 
+
 ## Author notes
 
 John William McEvoy and Rhian M Touyz Chairpersons contributed equally to the document and are joint corresponding authors.
