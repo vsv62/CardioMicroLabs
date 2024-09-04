@@ -23,15 +23,8 @@ Published:
 
 30 August 2024
 
-$(document).ready(function () { $('.article-top-widget').on('click', '.ati-toggle-trigger', function () { $(this).find('.icon-general-add, .icon-minus').toggleClass('icon-minus icon-general-add'); $(this).siblings('.ati-toggle-content').toggleClass('hide'); }); // In Chrome, an anchor tag with target="\_blank" and a "mailto:" href opens a new tab/window as well as the email client // I suspect this behavior will be corrected in the future // Remove the target="\_blank" $('ul.wi-affiliationList').find('a\[href^="mailto:"\]').each(function () { $(this).removeAttr('target'); }); });
-
 -   [![pdf](https://academic.oup.com//oup.silverchair-cdn.com/UI/app/svg/pdf.svg)PDF](https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehae178/58916755/ehae178.pdf)
--   [Split View](javascript:;)
 -   [Cite](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae178/7741010?login=false#)
-    
--   [_Permissions Icon_ Permissions](https://s100.copyright.com/AppDispatchServlet?publisherName=OUP&publication=1522-9645&title=2024%20ESC%20Guidelines%20for%20the%20management%20of%20elevated%20blood%20pressure%20and%20hypertension%3A%20Developed%20by%20the%20task%20force%20on%20the%20management%20of%20elevated%20blood%20pressure%20and%20hypertension%20of%20the%20European%20Society%20of%20Cardiology%20%28ESC%29%20and%20endorsed%20by%20the%20European%20Society%20of%20Endocrinology%20%28ESE%29%20and%20the%20European%20Stroke%20Organisation%20%28ESO%29&publicationDate=2024-08-30&volumeNum=&issueNum=&author=McEvoy%2C%20John%20William%3B%20McCarthy%2C%20Cian%20P&startPage=1&endPage=107&contentId=10.1093%2Feurheartj%2Fehae178&oa=&copyright=%C2%A9%20The%20European%20Society%20of%20Cardiology%202024.%20All%20rights%20reserved.%20For%20permissions%2C%20please%20email%3A%20journals.permissions%40oup.com&orderBeanReset=True)
-    
--   [_Share Icon_ Share](javascript:;)
 
 [Guidelines](javascript:;), [Blood pressure](javascript:;), [Hypertension](javascript:;), [Hypertension-mediated organ damage](javascript:;), [Blood pressure measurement](javascript:;), [Ambulatory blood pressure monitoring](javascript:;), [Home blood pressure monitoring](javascript:;), [Antihypertensive medication](javascript:;), [Hypertension treatment](javascript:;), [Hypertension targets](javascript:;), [Secondary hypertension](javascript:;), [Cardiovascular disease risk estimation](javascript:;), [Cardiovascular disease prevention](javascript:;), [Resistant hypertension](javascript:;), [Hypertension screening](javascript:;)
 
@@ -46,532 +39,532 @@ Topic:
 
 ## Table of contents
 
--   1\. Preamble 7
+-   1\. Preamble 
     
--   2\. Introduction 8
+-   2\. Introduction 
     
--    2.1. What is new 9
+-    2.1. What is new 
     
--   3\. Pathophysiology of elevated blood pressure and hypertension 17
+-   3\. Pathophysiology of elevated blood pressure and hypertension 
     
--   4\. Clinical consequences of elevated blood pressure and hypertension 17
+-   4\. Clinical consequences of elevated blood pressure and hypertension 
     
--   5\. Measuring blood pressure 18
+-   5\. Measuring blood pressure 
     
--    5.1. Introduction and pertinent definitions 18
+-    5.1. Introduction and pertinent definitions 
     
--    5.2. Practical recommendations for measuring blood pressure 19
+-    5.2. Practical recommendations for measuring blood pressure 
     
--     5.2.1. Clinical validation of equipment for measuring blood pressure 19
+-     5.2.1. Clinical validation of equipment for measuring blood pressure 
     
--     5.2.2. Office blood pressure measurement 19
+-     5.2.2. Office blood pressure measurement 
     
--     5.2.3. Home blood pressure measurement 20
+-     5.2.3. Home blood pressure measurement 
     
--     5.2.4. Ambulatory blood pressure measurement 22
+-     5.2.4. Ambulatory blood pressure measurement 
     
--     5.2.5. Comparison of home and ambulatory blood pressure monitoring 23
+-     5.2.5. Comparison of home and ambulatory blood pressure monitoring 
     
--    5.3. What is the best method for measuring blood pressure to diagnose hypertension? 23
+-    5.3. What is the best method for measuring blood pressure to diagnose hypertension? 
     
--     5.3.1. Blood pressure measurement for hypertension screening  23
+-     5.3.1. Blood pressure measurement for hypertension screening  
     
--     5.3.2. Blood pressure measurement for diagnosing hypertension  23
+-     5.3.2. Blood pressure measurement for diagnosing hypertension  
     
 -    5.4. What is the best method for measuring blood pressure for long-term management of hypertension? 23
     
--     5.4.1. Home monitoring 23
+-     5.4.1. Home monitoring 
     
--     5.4.2. Ambulatory monitoring 23
+-     5.4.2. Ambulatory monitoring 
     
--    5.5. Measuring blood pressure in selected groups 24
+-    5.5. Measuring blood pressure in selected groups 
     
--     5.5.1. Pregnancy 24
+-     5.5.1. Pregnancy 
     
--     5.5.2. Atrial fibrillation 24
+-     5.5.2. Atrial fibrillation 
     
--     5.5.3. Orthostatic hypotension 24
+-     5.5.3. Orthostatic hypotension 
     
--    5.6. Novel methods of measuring blood pressure 24
+-    5.6. Novel methods of measuring blood pressure 
     
--   6\. Definition and classification of elevated blood pressure and hypertension, and cardiovascular disease risk assessment 25
+-   6\. Definition and classification of elevated blood pressure and hypertension, and cardiovascular disease risk assessment 
     
--    6.1. Definition and classification of elevated blood pressure and hypertension 25
+-    6.1. Definition and classification of elevated blood pressure and hypertension 
     
--    6.2. Principles of a risk-based approach for managing blood pressure and preventing cardiovascular disease 25
+-    6.2. Principles of a risk-based approach for managing blood pressure and preventing cardiovascular disease 
     
--     6.2.1. Role of cardiovascular disease risk assessment 25
+-     6.2.1. Role of cardiovascular disease risk assessment 
     
--    6.3. Predicting cardiovascular disease risk 26
+-    6.3. Predicting cardiovascular disease risk 
     
--     6.3.1. 10-year cardiovascular disease risk-prediction models 27
+-     6.3.1. 10-year cardiovascular disease risk-prediction models 
     
--    6.4. Refining cardiovascular disease risk estimation beyond risk models 28
+-    6.4. Refining cardiovascular disease risk estimation beyond risk models 
     
--     6.4.1. Sex-specific non-traditional cardiovascular disease risk modifiers 28
+-     6.4.1. Sex-specific non-traditional cardiovascular disease risk modifiers 
     
--     6.4.2. Non-traditional cardiovascular disease risk modifiers shared by men and women 29
+-     6.4.2. Non-traditional cardiovascular disease risk modifiers shared by men and women 
     
--     6.4.3. Additional risk decision tests 30
+-     6.4.3. Additional risk decision tests 
     
--    6.5. Summary of the cardiovascular disease risk stratification approach for allocating blood pressure treatment 30
+-    6.5. Summary of the cardiovascular disease risk stratification approach for allocating blood pressure treatment 
     
--   7\. Diagnosing hypertension and investigating underlying causes 32
+-   7\. Diagnosing hypertension and investigating underlying causes 
     
--    7.1. Screening for hypertension 32
+-    7.1. Screening for hypertension 
     
--    7.2. Confirming the diagnosis of hypertension 32
+-    7.2. Confirming the diagnosis of hypertension 
     
--    7.3. Communicating the diagnosis 33
+-    7.3. Communicating the diagnosis 
     
--    7.4. Baseline assessment and diagnostic approach 33
+-    7.4. Baseline assessment and diagnostic approach 
     
--     7.4.1. Medical history, medication history, and physical examination 33
+-     7.4.1. Medical history, medication history, and physical examination 
     
--     7.4.2. Drug adherence and persistence with treatment 34
+-     7.4.2. Drug adherence and persistence with treatment 
     
--     7.4.3. Routine and optional tests 34
+-     7.4.3. Routine and optional tests 
     
--      7.4.3.1. The kidneys 36
+-      7.4.3.1. The kidneys 
     
--      7.4.3.2. The heart 36
+-      7.4.3.2. The heart 
     
--      7.4.3.3. The arteries 37
+-      7.4.3.3. The arteries 
     
--     7.4.4. Genetic testing 37
+-     7.4.4. Genetic testing 
     
--    7.5. Resistant hypertension: definition and diagnosis 37
+-    7.5. Resistant hypertension: definition and diagnosis 
     
--    7.6. Secondary hypertension: when to screen/further investigations  39
+-    7.6. Secondary hypertension: when to screen/further investigations  
     
--     7.6.1. General considerations 39
+-     7.6.1. General considerations 
     
--     7.6.2. Primary aldosteronism 39
+-     7.6.2. Primary aldosteronism 
     
--     7.6.3. Renovascular hypertension 40
+-     7.6.3. Renovascular hypertension 
     
--     7.6.4. Obstructive sleep apnoea syndrome 40
+-     7.6.4. Obstructive sleep apnoea syndrome 
     
--     7.6.5. Phaeochromocytoma/paraganglioma 43
+-     7.6.5. Phaeochromocytoma/paraganglioma 
     
--   8\. Preventing and treating elevated blood pressure and hypertension  43
+-   8\. Preventing and treating elevated blood pressure and hypertension  
     
--    8.1. Prevention strategies in early life 43
+-    8.1. Prevention strategies in early life 
     
--    8.2. Non-pharmacological interventions 43
+-    8.2. Non-pharmacological interventions 
     
--     8.2.1. Dietary sodium and potassium intake 43
+-     8.2.1. Dietary sodium and potassium intake 
     
--      8.2.1.1. Sodium 43
+-      8.2.1.1. Sodium 
     
--      8.2.1.2. Potassium 44
+-      8.2.1.2. Potassium 
     
--     8.2.2. Physical activity and exercise 45
+-     8.2.2. Physical activity and exercise 
     
--     8.2.3. Weight reduction and diet 46
+-     8.2.3. Weight reduction and diet 
     
--     8.2.4. Alcohol, coffee, and soft drinks 46
+-     8.2.4. Alcohol, coffee, and soft drinks 
     
--     8.2.5. Smoking 46
+-     8.2.5. Smoking 
     
--    8.3. Pharmacological interventions 47
+-    8.3. Pharmacological interventions 
     
--     8.3.1. Treatment strategy to reduce adverse cardiovascular disease outcomes 47
+-     8.3.1. Treatment strategy to reduce adverse cardiovascular disease outcomes 
     
--     8.3.2. Drug classes with evidence on clinical outcomes in the target population 47
+-     8.3.2. Drug classes with evidence on clinical outcomes in the target population 
     
--     8.3.3. New therapies with blood pressure-lowering properties that await supportive evidence from cardiovascular outcomes trials prior to guideline endorsement and routine use in hypertension 48
+-     8.3.3. New therapies with blood pressure-lowering properties that await supportive evidence from cardiovascular outcomes trials prior to guideline endorsement and routine use in hypertension 
     
--     8.3.4. Drug combinations and up-titrating strategies 48
+-     8.3.4. Drug combinations and up-titrating strategies 
     
--     8.3.5. A practical algorithm for intensive, effective, and tolerable blood pressure lowering with drug therapy, including considerations around single-pill combinations 48
+-     8.3.5. A practical algorithm for intensive, effective, and tolerable blood pressure lowering with drug therapy, including considerations around single-pill combinations 
     
--     8.3.6. Timing of blood pressure-lowering drug treatment 51
+-     8.3.6. Timing of blood pressure-lowering drug treatment 
     
--    8.4. Selecting patients for pharmacological blood pressurelowering treatment 51
+-    8.4. Selecting patients for pharmacological blood pressurelowering treatment 
     
--    8.5. Intensity of blood pressure-lowering therapy and ideal treatment targets 53
+-    8.5. Intensity of blood pressure-lowering therapy and ideal treatment targets 
     
--     8.5.1. Expected degree of blood pressure reduction with approved drugs 53
+-     8.5.1. Expected degree of blood pressure reduction with approved drugs 
     
--     8.5.2. The ideal target of blood pressure-lowering treatment 53
+-     8.5.2. The ideal target of blood pressure-lowering treatment 
     
--     8.5.3. Personalizing treatment strategies 54
+-     8.5.3. Personalizing treatment strategies 
     
--     8.5.4. Duration and monitoring of drug therapy 55
+-     8.5.4. Duration and monitoring of drug therapy 
     
--    8.6. Device-based blood pressure lowering 55
+-    8.6. Device-based blood pressure lowering 
     
--     8.6.1. Catheter-based renal denervation 55
+-     8.6.1. Catheter-based renal denervation 
     
--     8.6.2. Other devices 57
+-     8.6.2. Other devices 
     
--    8.7. Unintended and potentially harmful consequences of blood pressure lowering and implications for treatment targets 57
+-    8.7. Unintended and potentially harmful consequences of blood pressure lowering and implications for treatment targets 
     
--     8.7.1. Adverse effects of blood pressure-lowering medications 57
+-     8.7.1. Adverse effects of blood pressure-lowering medications 
     
--      8.7.1.1. Symptomatic adverse effects 57
+-      8.7.1.1. Symptomatic adverse effects 
     
--      8.7.1.2. Renal effects 57
+-      8.7.1.2. Renal effects 
     
--      8.7.1.3. Erectile dysfunction 57
+-      8.7.1.3. Erectile dysfunction 
     
--     8.7.2. Pill burden and non-adherence 57
+-     8.7.2. Pill burden and non-adherence 
     
--     8.7.3. Potentially harmful consequences of blood pressure lowering for frail older people 57
+-     8.7.3. Potentially harmful consequences of blood pressure lowering for frail older people 
     
--     8.7.4. Clinical inertia in blood pressure lowering 57
+-     8.7.4. Clinical inertia in blood pressure lowering 
     
--   9\. Managing specific patient groups or circumstances 58
+-   9\. Managing specific patient groups or circumstances 
     
--    9.1. Young adulthood (18–40 years) 58
+-    9.1. Young adulthood (18–40 years) 
     
--     9.1.1. Definition and epidemiology 58
+-     9.1.1. Definition and epidemiology 
     
--     9.1.2. Secondary hypertension in young adulthood 58
+-     9.1.2. Secondary hypertension in young adulthood 
     
--     9.1.3. Measurement and management of blood pressure in young adults 58
+-     9.1.3. Measurement and management of blood pressure in young adults 
     
--    9.2. Pregnancy 58
+-    9.2. Pregnancy 
     
--     9.2.1. Definition and epidemiology 58
+-     9.2.1. Definition and epidemiology 
     
--     9.2.2. Classifying hypertension in pregnancy 58
+-     9.2.2. Classifying hypertension in pregnancy 
     
--     9.2.3. Measuring blood pressure in pregnancy 59
+-     9.2.3. Measuring blood pressure in pregnancy 
     
--     9.2.4. Investigating hypertension in pregnancy 59
+-     9.2.4. Investigating hypertension in pregnancy 
     
--     9.2.5. Preventing hypertension and pre-eclampsia 59
+-     9.2.5. Preventing hypertension and pre-eclampsia 
     
--     9.2.6. Treatment initiation and blood pressure targets 59
+-     9.2.6. Treatment initiation and blood pressure targets 
     
--     9.2.7. Managing mild hypertension in pregnancy (office blood pressure 140–159/90–109 mmHg) 59
+-     9.2.7. Managing mild hypertension in pregnancy (office blood pressure 140–159/90–109 mmHg) 
     
--     9.2.8. Managing severe hypertension in pregnancy (>160/110 mmHg) 60
+-     9.2.8. Managing severe hypertension in pregnancy (>160/110 mmHg) 
     
--     9.2.9. Managing blood pressure post-partum 60
+-     9.2.9. Managing blood pressure post-partum 
     
--     9.2.10. Risk of recurrence of hypertensive disorders in a subsequent pregnancy 60
+-     9.2.10. Risk of recurrence of hypertensive disorders in a subsequent pregnancy 
     
--    9.3. Very old age (≥85 years), frailty, multimorbidity, and polypharmacy 60
+-    9.3. Very old age (≥85 years), frailty, multimorbidity, and polypharmacy 
     
--     9.3.1. Definition of frailty 60
+-     9.3.1. Definition of frailty 
     
--     9.3.2. Randomized controlled trials of blood pressure lowering in frail older patients 61
+-     9.3.2. Randomized controlled trials of blood pressure lowering in frail older patients 
     
--     9.3.3. Starting blood pressure-lowering treatment in very old or frail patients 62
+-     9.3.3. Starting blood pressure-lowering treatment in very old or frail patients 
     
--     9.3.4. Maintaining blood pressure lowering in very old or frail patients 62
+-     9.3.4. Maintaining blood pressure lowering in very old or frail patients 
     
--    9.4. Isolated systolic and diastolic hypertension 62
+-    9.4. Isolated systolic and diastolic hypertension 
     
--     9.4.1. Definition of isolated systolic hypertension 62
+-     9.4.1. Definition of isolated systolic hypertension 
     
--     9.4.2. Isolated systolic hypertension, risk factors, and ageing 62
+-     9.4.2. Isolated systolic hypertension, risk factors, and ageing 
     
--     9.4.3. Isolated systolic hypertension in young adults 63
+-     9.4.3. Isolated systolic hypertension in young adults 
     
--     9.4.4. Isolated diastolic hypertension 63
+-     9.4.4. Isolated diastolic hypertension 
     
--    9.5. Orthostatic hypotension with supine hypertension 63
+-    9.5. Orthostatic hypotension with supine hypertension 
     
--    9.6. Diabetes 64
+-    9.6. Diabetes 
     
--     9.6.1. Diabetes and elevated blood pressure/hypertension 64
+-     9.6.1. Diabetes and elevated blood pressure/hypertension 
     
--     9.6.2. J-shaped curve of blood pressure and risk of cardiovascular disease in patients with diabetes 64
+-     9.6.2. J-shaped curve of blood pressure and risk of cardiovascular disease in patients with diabetes 
     
--     9.6.3. Managing blood pressure in diabetes 64
+-     9.6.3. Managing blood pressure in diabetes 
     
--    9.7. Chronic kidney disease 64
+-    9.7. Chronic kidney disease 
     
--     9.7.1. Relationship between hypertension and chronic kidney disease 64
+-     9.7.1. Relationship between hypertension and chronic kidney disease 
     
--     9.7.2. Blood pressure lowering in chronic kidney disease 65
+-     9.7.2. Blood pressure lowering in chronic kidney disease 
     
--     9.7.3. Managing blood pressure in chronic kidney disease 65
+-     9.7.3. Managing blood pressure in chronic kidney disease 
     
--     9.7.4. Blood pressure targets in chronic kidney disease 65
+-     9.7.4. Blood pressure targets in chronic kidney disease 
     
--    9.8. Cardiac disease 65
+-    9.8. Cardiac disease 
     
--     9.8.1. Blood pressure thresholds and targets in patients with cardiac disease 65
+-     9.8.1. Blood pressure thresholds and targets in patients with cardiac disease 
     
--     9.8.2. Coronary artery disease with particular reference to the blood pressure J-curve 66
+-     9.8.2. Coronary artery disease with particular reference to the blood pressure J-curve 
     
--     9.8.3. Valvular heart disease 66
+-     9.8.3. Valvular heart disease 
     
--     9.8.4. Heart failure 66
+-     9.8.4. Heart failure 
     
--     9.8.5. Heart rhythm disease (including AF) 67
+-     9.8.5. Heart rhythm disease (including AF) 
     
--    9.9. Chronic cerebrovascular disease and/or cognitive impairment 67
+-    9.9. Chronic cerebrovascular disease and/or cognitive impairment 
     
--     9.9.1. Role of hypertension in chronic cerebrovascular disease 67
+-     9.9.1. Role of hypertension in chronic cerebrovascular disease 
     
--     9.9.2. Treatment in patients with history of prior stroke or transient ischaemic attack 67
+-     9.9.2. Treatment in patients with history of prior stroke or transient ischaemic attack 
     
--     9.9.3. Treatment in patients with chronic cerebrovascular disease and cognitive impairment 67
+-     9.9.3. Treatment in patients with chronic cerebrovascular disease and cognitive impairment 
     
--    9.10. Aortopathy 68
+-    9.10. Aortopathy 
     
--     9.10.1. Coarctation of the aorta 68
+-     9.10.1. Coarctation of the aorta 
     
--     9.10.2. Bicuspid aortic valve-related aortopathy 68
+-     9.10.2. Bicuspid aortic valve-related aortopathy 
     
--     9.10.3. Preventing aortic dilation and dissection in high-risk patients 68
+-     9.10.3. Preventing aortic dilation and dissection in high-risk patients 
     
--    9.11. Different ethnic groups 68
+-    9.11. Different ethnic groups 
     
--    9.12. Nocturnal hypertension 68
+-    9.12. Nocturnal hypertension 
     
--     9.12.1. Definition 68
+-     9.12.1. Definition 
     
--     9.12.2. Epidemiology 69
+-     9.12.2. Epidemiology 
     
--     9.12.3. Night-time blood pressure as a cardiovascular disease risk factor 69
+-     9.12.3. Night-time blood pressure as a cardiovascular disease risk factor 
     
--     9.12.4. Treatment of nocturnal hypertension 69
+-     9.12.4. Treatment of nocturnal hypertension 
     
--    9.13. Resistant hypertension 69
+-    9.13. Resistant hypertension 
     
--     9.13.1. Definition of resistant hypertension 69
+-     9.13.1. Definition of resistant hypertension 
     
--     9.13.2. Non-pharmacological interventions 69
+-     9.13.2. Non-pharmacological interventions 
     
--     9.13.3. Pharmacological interventions 69
+-     9.13.3. Pharmacological interventions 
     
--     9.13.4. Devices for blood pressure lowering 70
+-     9.13.4. Devices for blood pressure lowering 
     
--    9.14. Management of specific causes of secondary hypertension 71
+-    9.14. Management of specific causes of secondary hypertension 
     
--     9.14.1. General considerations 71
+-     9.14.1. General considerations 
     
--     9.14.2. Primary aldosteronism 71
+-     9.14.2. Primary aldosteronism 
     
--     9.14.3. Renovascular hypertension 71
+-     9.14.3. Renovascular hypertension 
     
--     9.14.4. Phaeochromocytoma/paraganglioma 72
+-     9.14.4. Phaeochromocytoma/paraganglioma 
     
--     9.14.5. Obstructive sleep apnoea syndrome 72
+-     9.14.5. Obstructive sleep apnoea syndrome 
     
--     9.14.6. Drug-induced hypertension 72
+-     9.14.6. Drug-induced hypertension 
     
--      9.14.6.1. Anticancer drug-induced hypertension 72
+-      9.14.6.1. Anticancer drug-induced hypertension 
     
--     9.14.7. Other forms of secondary hypertension 72
+-     9.14.7. Other forms of secondary hypertension 
     
--   10\. Acute and short-term lowering of blood pressure 72
+-   10\. Acute and short-term lowering of blood pressure 
     
--    10.1. Acute blood pressure management in hypertensive emergencies 72
+-    10.1. Acute blood pressure management in hypertensive emergencies 
     
--     10.1.1. Definition and characteristics of hypertensive emergencies 72
+-     10.1.1. Definition and characteristics of hypertensive emergencies 
     
--     10.1.2. Acute management of hypertensive emergencies 73
+-     10.1.2. Acute management of hypertensive emergencies 
     
--     10.1.3. Prognosis and follow-up 73
+-     10.1.3. Prognosis and follow-up 
     
--    10.2. Acute blood pressure management in acute intracerebral haemorrhage 73
+-    10.2. Acute blood pressure management in acute intracerebral haemorrhage 
     
--    10.3. Acute blood pressure management in acute ischaemic stroke  73
+-    10.3. Acute blood pressure management in acute ischaemic stroke  
     
--    10.4. Acute blood pressure management in pre-eclampsia and severe hypertension in pregnancy 74
+-    10.4. Acute blood pressure management in pre-eclampsia and severe hypertension in pregnancy 
     
--     10.4.1. Pre-eclampsia 74
+-     10.4.1. Pre-eclampsia 
     
--     10.4.2. Severe acute hypertension in pregnancy 74
+-     10.4.2. Severe acute hypertension in pregnancy 
     
--    10.5. Peri-operative acute management of elevated blood pressure  74
+-    10.5. Peri-operative acute management of elevated blood pressure  
     
--     10.5.1. Blood pressure-lowering drugs in the peri-operative phase 74
+-     10.5.1. Blood pressure-lowering drugs in the peri-operative phase 
     
--   11\. Patient-centred care in hypertension 75
+-   11\. Patient-centred care in hypertension 
     
--    11.1. Definition 75
+-    11.1. Definition 
     
--    11.2. Communicating consequences of treatment 75
+-    11.2. Communicating consequences of treatment 
     
--    11.3. Self-measuring and monitoring 76
+-    11.3. Self-measuring and monitoring 
     
--    11.4. Facilitating medication adherence and persistence 76
+-    11.4. Facilitating medication adherence and persistence 
     
--    11.5. Multidisciplinary management 76
+-    11.5. Multidisciplinary management 
     
--   12\. Key messages 77
+-   12\. Key messages 
     
--   13\. Gaps in the evidence 78
+-   13\. Gaps in the evidence 
     
--   14\. ‘What to do’ and ‘what not to do’ messages from the guidelines  78
+-   14\. ‘What to do’ and ‘what not to do’ messages from the guidelines  
     
--   15\. Evidence tables 82
+-   15\. Evidence tables 
     
--   16\. Data availability statement 82
+-   16\. Data availability statement 
     
--   17\. Author information 82
+-   17\. Author information 
     
--   18\. Appendix 82
+-   18\. Appendix 
     
--   19\. References 83
+-   19\. References 
     
 
 ## Tables of Recommendations
 
--   Recommendation Table 1 — Recommendations for measuring blood pressure (see Evidence Tables 1–8) 24
+-   Recommendation Table 1 — Recommendations for measuring blood pressure (see Evidence Tables 1–8) 
     
--   Recommendation Table 2 — Recommendations for categorizing blood pressure (see Evidence Table 9) 25
+-   Recommendation Table 2 — Recommendations for categorizing blood pressure (see Evidence Table 9) 
     
--   Recommendation Table 3 — Recommendations for assessing cardiovascular disease risk among individuals with elevated blood pressure (office systolic blood pressure 120–139 mmHg or diastolic blood pressure 70–89 mmHg) (see Evidence Tables 10 and 11) 28
+-   Recommendation Table 3 — Recommendations for assessing cardiovascular disease risk among individuals with elevated blood pressure (office systolic blood pressure 120–139 mmHg or diastolic blood pressure 70–89 mmHg) (see Evidence Tables 10 and 11) 
     
--   Recommendation Table 4 — Recommendations for refining cardiovascular disease risk (see Evidence Tables 12–14) 30
+-   Recommendation Table 4 — Recommendations for refining cardiovascular disease risk (see Evidence Tables 12–14) 
     
--   Recommendation Table 5 — Recommendations for blood pressure screening (see Evidence Table 15) 32
+-   Recommendation Table 5 — Recommendations for blood pressure screening (see Evidence Table 15) 
     
--   Recommendation Table 6 — Recommendations for confirming hypertension diagnosis 32
+-   Recommendation Table 6 — Recommendations for confirming hypertension diagnosis 
     
--   Recommendation Table 7 — Recommendations for assessing adherence and persistence with treatment (see Evidence Table 16) 34
+-   Recommendation Table 7 — Recommendations for assessing adherence and persistence with treatment (see Evidence Table 16) 
     
--   Recommendation Table 8 — Recommendations for assessing renal hypertension-mediated organ damage 36
+-   Recommendation Table 8 — Recommendations for assessing renal hypertension-mediated organ damage 
     
--   Recommendation Table 9 — Recommendations for assessing cardiac hypertension-mediated organ damage 36
+-   Recommendation Table 9 — Recommendations for assessing cardiac hypertension-mediated organ damage 
     
--   Recommendation Table 10 — Recommendations for assessing vascular hypertension-mediated organ damage (see Evidence Table 17) 37
+-   Recommendation Table 10 — Recommendations for assessing vascular hypertension-mediated organ damage (see Evidence Table 17) 
     
--   Recommendation Table 11 — Recommendations for genetic testing in hypertension management 37
+-   Recommendation Table 11 — Recommendations for genetic testing in hypertension management 
     
--   Recommendation Table 12 — Recommendations for resistant hypertension work-up (see Evidence Table 18) 39
+-   Recommendation Table 12 — Recommendations for resistant hypertension work-up (see Evidence Table 18) 
     
--   Recommendation Table 13 — Recommendations for screening for secondary hypertension (see Evidence Tables 19 and 20) 43
+-   Recommendation Table 13 — Recommendations for screening for secondary hypertension (see Evidence Tables 19 and 20) 
     
--   Recommendation Table 14 — Recommendations for screening for hypertension in children and adolescents (see Evidence Table 21) 43
+-   Recommendation Table 14 — Recommendations for screening for hypertension in children and adolescents (see Evidence Table 21) 
     
--   Recommendation Table 15 — Recommendations for non-pharmacological treatment of blood pressure and cardiovascular risk reduction (see Evidence Tables 22–26) 47
+-   Recommendation Table 15 — Recommendations for non-pharmacological treatment of blood pressure and cardiovascular risk reduction (see Evidence Tables 22–26) 
     
--   Recommendation Table 16 — Recommendations for pharmacological treatment of hypertension (see Evidence Tables 27, 28, and 29) 51
+-   Recommendation Table 16 — Recommendations for pharmacological treatment of hypertension (see Evidence Tables 27, 28, and 29) 
     
--   Recommendation Table 17 — Recommendations for initiating blood pressure-lowering treatment (see Evidence Tables 30–32) 52
+-   Recommendation Table 17 — Recommendations for initiating blood pressure-lowering treatment (see Evidence Tables 30–32) 
     
--   Recommendation Table 18 — Recommendations for blood pressure targets with treatment (see Evidence Table 34) 55
+-   Recommendation Table 18 — Recommendations for blood pressure targets with treatment (see Evidence Table 34) 
     
--   Recommendation Table 19 — Recommendations for follow-up in patients with treated hypertension (see Evidence Table 33) 55
+-   Recommendation Table 19 — Recommendations for follow-up in patients with treated hypertension (see Evidence Table 33) 
     
--   Recommendation Table 20 — Recommendations for device-based treatment of hypertension (see Evidence Table 35) 56
+-   Recommendation Table 20 — Recommendations for device-based treatment of hypertension (see Evidence Table 35) 
     
--   Recommendation Table 21 — Recommendations for managing hypertension in young adults (see Evidence Tables 36 and 37) 58
+-   Recommendation Table 21 — Recommendations for managing hypertension in young adults (see Evidence Tables 36 and 37) 
     
--   Recommendation Table 22 — Recommendations for managing hypertension in pregnancy (see Evidence Tables 38–40) 60
+-   Recommendation Table 22 — Recommendations for managing hypertension in pregnancy (see Evidence Tables 38–40) 
     
--   Recommendation Table 23 — Recommendations for managing hypertension in patients who are very old or frail (see Evidence Table 41) 62
+-   Recommendation Table 23 — Recommendations for managing hypertension in patients who are very old or frail (see Evidence Table 41) 
     
--   Recommendation Table 24 — Recommendations for managing hypertension in patients with orthostatic hypotension 64
+-   Recommendation Table 24 — Recommendations for managing hypertension in patients with orthostatic hypotension 
     
--   Recommendation Table 25 — Recommendations for managing hypertension in patients with diabetes 64
+-   Recommendation Table 25 — Recommendations for managing hypertension in patients with diabetes 
     
--   Recommendation Table 26 — Recommendations for managing hypertension in patients with chronic kidney disease 65
+-   Recommendation Table 26 — Recommendations for managing hypertension in patients with chronic kidney disease 
     
--   Recommendation Table 27 — Recommendations for managing hypertension in patients with cardiac disease 67
+-   Recommendation Table 27 — Recommendations for managing hypertension in patients with cardiac disease 
     
--   Recommendation Table 28 — Recommendations for managing hypertension in patients with chronic cerebrovascular disease and cognitive impairment 68
+-   Recommendation Table 28 — Recommendations for managing hypertension in patients with chronic cerebrovascular disease and cognitive impairment 
     
--   Recommendation Table 29 — Recommendations for managing hypertension in different ethnic groups 68
+-   Recommendation Table 29 — Recommendations for managing hypertension in different ethnic groups 
     
--   Recommendation Table 30 — Recommendations for treating resistant hypertension (see Evidence Tables 42 and 43) 70
+-   Recommendation Table 30 — Recommendations for treating resistant hypertension (see Evidence Tables 42 and 43) 
     
--   Recommendation Table 31 — Recommendations for managing hypertension in patients with renovascular hypertension (see Evidence Tables 44 and 45) 71
+-   Recommendation Table 31 — Recommendations for managing hypertension in patients with renovascular hypertension (see Evidence Tables 44 and 45) 
     
--   Recommendation Table 32 — Recommendations for acutely managing blood pressure in patients with intracerebral haemorrhage or acute ischaemic stroke 73
+-   Recommendation Table 32 — Recommendations for acutely managing blood pressure in patients with intracerebral haemorrhage or acute ischaemic stroke 
     
--   Recommendation Table 33 — Recommendations for acutely managing blood pressure in patients with severe hypertension in pregnancy and pre-eclampsia (see Evidence Table 46) 74
+-   Recommendation Table 33 — Recommendations for acutely managing blood pressure in patients with severe hypertension in pregnancy and pre-eclampsia (see Evidence Table 46) 
     
--   Recommendation Table 34 — Recommendations for communicating consequences of treatment (see Evidence Table 47) 76
+-   Recommendation Table 34 — Recommendations for communicating consequences of treatment (see Evidence Table 47) 
     
--   Recommendation Table 35 — Recommendations for self-measuring and monitoring blood pressure (see Evidence Table 48) 76
+-   Recommendation Table 35 — Recommendations for self-measuring and monitoring blood pressure (see Evidence Table 48) 
     
--   Recommendation Table 36 — Recommendations for multi/interdisciplinary blood pressure management (see Evidence Table 49) 76
+-   Recommendation Table 36 — Recommendations for multi/interdisciplinary blood pressure management (see Evidence Table 49) 
     
 
 ## List of tables
 
--   Table 1 Classes of recommendations 7
+-   Table 1 Classes of recommendations 
     
--   Table 2 Levels of evidence 8
+-   Table 2 Levels of evidence 
     
--   Table 3 New recommendations 9
+-   Table 3 New recommendations 
     
--   Table 4 Revised recommendations 12
+-   Table 4 Revised recommendations 
     
--   Table 5 Comparison of office, home, and ambulatory blood pressure measurement thresholds for elevated blood pressure and hypertension 22
+-   Table 5 Comparison of office, home, and ambulatory blood pressure measurement thresholds for elevated blood pressure and hypertension 
     
--   Table 6 Comparison of ambulatory and home blood pressure monitoring 23
+-   Table 6 Comparison of ambulatory and home blood pressure monitoring 
     
--   Table 7 Key illness representations and treatment beliefs: how these apply to communicating a hypertension diagnosis to the patient (note that gender influences these representations) 34
+-   Table 7 Key illness representations and treatment beliefs: how these apply to communicating a hypertension diagnosis to the patient (note that gender influences these representations) 
     
--   Table 8 Routine tests recommended in the initial work-up of a patient with elevated blood pressure or hypertension 35
+-   Table 8 Routine tests recommended in the initial work-up of a patient with elevated blood pressure or hypertension 
     
--   Table 9 Optional tests that may be used as clinically indicated in the initial work-up of a patient with elevated blood pressure or hypertension to assess hypertension-mediated organ damage or established cardiovascular disease 36
+-   Table 9 Optional tests that may be used as clinically indicated in the initial work-up of a patient with elevated blood pressure or hypertension to assess hypertension-mediated organ damage or established cardiovascular disease 
     
--   Table 10 Current definition of resistant hypertension 39
+-   Table 10 Current definition of resistant hypertension 
     
--   Table 11 Conditions found to cause pseudo-resistance or resistance to blood pressure-lowering treatment 39
+-   Table 11 Conditions found to cause pseudo-resistance or resistance to blood pressure-lowering treatment 
     
--   Table 12 Drugs and conditions that affect aldosterone, renin, and aldosterone-to-renin ratio 40
+-   Table 12 Drugs and conditions that affect aldosterone, renin, and aldosterone-to-renin ratio 
     
--   Table 13 Optional tests that should be used to screen for secondary hypertension in the presence of suggestive signs, symptoms, or medical history 41
+-   Table 13 Optional tests that should be used to screen for secondary hypertension in the presence of suggestive signs, symptoms, or medical history 
     
--   Table 14 Initiation of blood pressure-lowering treatment based on confirmed blood pressure category and cardiovascular disease risk 52
+-   Table 14 Initiation of blood pressure-lowering treatment based on confirmed blood pressure category and cardiovascular disease risk 
     
--   Table 15 What to do and what not to do 78
+-   Table 15 What to do and what not to do 
     
 
 ## List of figures
 
--   Figure 1 Pathophysiology of elevated blood pressure and hypertension 17
+-   Figure 1 Pathophysiology of elevated blood pressure and hypertension 
     
--   Figure 2 Persistently elevated blood pressure and hypertension lead to hypertension-mediated organ damage and cardiovascular disease 18
+-   Figure 2 Persistently elevated blood pressure and hypertension lead to hypertension-mediated organ damage and cardiovascular disease 
     
--   Figure 3 Summary of office blood pressure measurement 20
+-   Figure 3 Summary of office blood pressure measurement 
     
--   Figure 4 Summary of home blood pressure measurement 21
+-   Figure 4 Summary of home blood pressure measurement 
     
--   Figure 5 Summary of ambulatory blood pressure measurement 22
+-   Figure 5 Summary of ambulatory blood pressure measurement 
     
--   Figure 6 Blood pressure categories 26
+-   Figure 6 Blood pressure categories 
     
--   Figure 7 Sufficiently high cardiovascular risk conditions that warrant blood pressure-lowering treatment among adults with elevated blood pressure 27
+-   Figure 7 Sufficiently high cardiovascular risk conditions that warrant blood pressure-lowering treatment among adults with elevated blood pressure 
     
--   Figure 8 Cardiovascular disease risk modifiers to consider for up-classification of risk 29
+-   Figure 8 Cardiovascular disease risk modifiers to consider for up-classification of risk 
     
--   Figure 9 Summary of cardiovascular disease risk-stratification approach for blood pressure treatment in adults with elevated blood pressure 31
+-   Figure 9 Summary of cardiovascular disease risk-stratification approach for blood pressure treatment in adults with elevated blood pressure 
     
--   Figure 10 Protocol for confirming hypertension diagnosis 33
+-   Figure 10 Protocol for confirming hypertension diagnosis 
     
--   Figure 11 Definitions, assessments, and potential interventions for the three phases of adherence to BP-lowering medications 35
+-   Figure 11 Definitions, assessments, and potential interventions for the three phases of adherence to BP-lowering medications 
     
--   Figure 12 Tests and criteria for defining hypertension-mediated organ damage and considerations for their use in clinical practice 38
+-   Figure 12 Tests and criteria for defining hypertension-mediated organ damage and considerations for their use in clinical practice 
     
--   Figure 13 Summary of primary aldosteronism as a common form of secondary hypertension 41
+-   Figure 13 Summary of primary aldosteronism as a common form of secondary hypertension 
     
--   Figure 14 Summary of renovascular disease as a common form of secondary hypertension 42
+-   Figure 14 Summary of renovascular disease as a common form of secondary hypertension 
     
--   Figure 15 Summary of obstructive sleep apnoea as a common form of secondary hypertension 42
+-   Figure 15 Summary of obstructive sleep apnoea as a common form of secondary hypertension 
     
--   Figure 16 Physical activity according to different types of exercise and reduction of blood pressure and overall cardiovascular disease risk 44
+-   Figure 16 Physical activity according to different types of exercise and reduction of blood pressure and overall cardiovascular disease risk 
     
--   Figure 17 Effects of main lifestyle factors on blood pressure and cardiovascular risk reduction 45
+-   Figure 17 Effects of main lifestyle factors on blood pressure and cardiovascular risk reduction 
     
--   Figure 18 Practical algorithm for pharmacological blood pressure lowering 49
+-   Figure 18 Practical algorithm for pharmacological blood pressure lowering 
     
--   Figure 19 Central Illustration 50
+-   Figure 19 Central Illustration 
     
--   Figure 20 Systolic blood pressure categories and treatment target range 54
+-   Figure 20 Systolic blood pressure categories and treatment target range 
     
--   Figure 21 Frailty assessment in the management of blood pressure 61
+-   Figure 21 Frailty assessment in the management of blood pressure 
     
--   Figure 22 Management of resistant hypertension 70
+-   Figure 22 Management of resistant hypertension 
     
--   Figure 23 Patient-centred care 75
+-   Figure 23 Patient-centred care 
     
--   Figure 24 The five dimensions of adherence (WHO, 2003) applied to hypertension 77
+-   Figure 24 The five dimensions of adherence (WHO, 2003) applied to hypertension 
     
 
 ## Abbreviations and acronyms
