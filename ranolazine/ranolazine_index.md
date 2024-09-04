@@ -1,8 +1,8 @@
 1
 
-Цитировать
 
-Делиться
+
+
 
 [Роль **ранолазина** в лечении желудочковой тахикардии и мерцательной аритмии: обзор клинических данных.](https://pubmed.ncbi.nlm.nih.gov/39200134/)
 
@@ -12,17 +12,17 @@
 
 Данные РКИ показывают, что **ранолазин** снижает заболеваемость ЖТ, хотя этот эффект не является универсальным. ...Несмотря на неоднородность в …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  2
 
-Цитировать
 
-Делиться
+
+
 
 [DREAMER: Изучение общих механизмов побочных реакций на лекарства и фенотипов заболеваний с помощью сетевого анализа.](https://pubmed.ncbi.nlm.nih.gov/39091742/)
 
@@ -32,17 +32,17 @@
 
 Мы также демонстрируем применение DREAMER при повторном использовании лекарственных средств и предлагаем соталол, **ранолазин** и дилтиазем в качестве потенциальных лекарственных средств…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  3
 
-Цитировать
 
-Делиться
+
+
 
 [Усовершенствование разработки лекарственных препаратов для лечения фибрилляции предсердий путем отдачи приоритета результатам исследований генетических ассоциаций человека.](https://pubmed.ncbi.nlm.nih.gov/38941956/)
 
@@ -52,17 +52,17 @@
 
 Cardiovascular drugs from classes not currently used for AF (e.g. **ranolazine** and carperitide) and anti-inflammatory drugs (e.g. dexam …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  4
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние телмисартана, применяемого отдельно и в сочетании с ранолазином или дапаглифлозином, на амплитуду и регуляцию потенциалзависимого тока Na+ в нейрональных клетках нейробластомы.](https://pubmed.ncbi.nlm.nih.gov/38857206/)
 
@@ -72,17 +72,17 @@ Item in Clipboard
 
 Here, we investigated the effects of TEL, either alone or in combination with **ranolazine** (Ran) or dapagliflozin (Dapa), on voltage-ga …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  5
 
-Цитировать
 
-Делиться
+
+
 
 [Новые подходы к прогнозированию судорог, вызванных лекарственными препаратами, у нечеловекообразных приматов с использованием машинного обучения и анализа вариабельности сердечного ритма.](https://pubmed.ncbi.nlm.nih.gov/38692910/)
 
@@ -92,33 +92,33 @@ Item in Clipboard
 
 Telemetry-implanted males were administered various convulsants (4-aminopyridine, bupropion, kainic acid, and **ranolazine**) at differen …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  6
 
-Цитировать
 
-Делиться
+
+
 
 [Сложные зрительные галлюцинации, связанные с лечением **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/38692432/)
 
 Пребил К., Паландачич АК., Рус Прелог П. Prebil K, et al. Can J Cardiol. 2024 30 апреля:S0828-282X(24)00339-8. doi: 10.1016/j.cjca.2024.04.018. Онлайн до выхода в печать. Can J Cardiol. 2024. PMID: 38692432 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  7
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на аритмический субстрат при гипертрофической кардиомиопатии.](https://pubmed.ncbi.nlm.nih.gov/38659580/)
 
@@ -128,17 +128,17 @@ Item in Clipboard
 
 Although the arrhythmic substrate has been hypothesised to be amenable to late Na(+) block with **ranolazine**, the specific mechanisms a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  8
 
-Цитировать
 
-Делиться
+
+
 
 [Исследование _in vitro_ и _in silico_ противотрипаносомной активности экстрактов коры стебля _Anopyxis klaineana_ (Pierre) Engl.](https://pubmed.ncbi.nlm.nih.gov/38545221/)
 
@@ -148,17 +148,17 @@ Item in Clipboard
 
 LC-MS analysis revealed the presence of 24 bioactive compounds with 5 being druglike. Risperidone, **Ranolazine**, Dihydro-7-Desacetyldeo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  9
 
-Цитировать
 
-Делиться
+
+
 
 [Коннексин43 — перспективный препарат для снижения бремени сердечной аритмии при легочной артериальной гипертензии.](https://pubmed.ncbi.nlm.nih.gov/38542257/)
 
@@ -168,17 +168,17 @@ Item in Clipboard
 
 Specifically, the benefits of sodium glucose co-transporter inhibitors (SGLT2i), as well as sotatercept, pirfenidone, **ranolazine**, nin …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  10
 
-Цитировать
 
-Делиться
+
+
 
 [Реальные данные по применению **ранолазина** у пациентов со стабильной стенокардией: исследование RANGER.](https://pubmed.ncbi.nlm.nih.gov/38541898/)
 
@@ -188,17 +188,17 @@ Item in Clipboard
 
 Background: Although **ranolazine** has been available for years as a second-line treatment to reduce angina attacks in patients with sta …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  11
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** : потенциальный антиметастатический препарат, воздействующий на потенциалзависимые натриевые каналы.](https://pubmed.ncbi.nlm.nih.gov/38424164/)
 
@@ -208,17 +208,17 @@ In vivo **ранолазин** подавлял метастатические �
 
 In vivo, **ranolazine** suppressed the metastatic abilities of breast and prostate cancers and melanoma. ...This showed that risk of dyin …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  12
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** для улучшения функции коронарных микрососудов у пациентов с необструктивной ишемической болезнью сердца: систематический обзор и метаанализ с последовательным анализом рандомизированных контролируемых исследований.](https://pubmed.ncbi.nlm.nih.gov/38415135/)
 
@@ -228,17 +228,17 @@ Item in Clipboard
 
 This systematic review and meta-analysis evaluated the effectiveness of **ranolazine**, an antianginal agent, in improving coronary micro …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  13
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** .](https://pubmed.ncbi.nlm.nih.gov/29939605/)
 
@@ -248,17 +248,17 @@ Item in Clipboard
 
 This activity focuses on **ranolazine**, an FDA-approved medication for the management of chronic angina associated with ischemic heart d …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  14
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** как антиангинальный препарат первого выбора для пациентов с эктазией коронарных артерий: серия случаев.](https://pubmed.ncbi.nlm.nih.gov/38384654/)
 
@@ -268,17 +268,17 @@ Item in Clipboard
 
 Clinically, the patients had accelerating angina. They were prescribed an initial dose of 500 mg of **ranolazine** twice daily, which led …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  15
 
-Цитировать
 
-Делиться
+
+
 
 [Замкнутая сердечная ткань, полученная из человеческих индуцированных плюрипотентных стволовых клеток, для оценки лекарственных препаратов.](https://pubmed.ncbi.nlm.nih.gov/38333703/)
 
@@ -288,17 +288,17 @@ Item in Clipboard
 
 Moreover, these cells showcased diminished sensitivity to verapamil and maintained low arrhythmia rates with **ranolazine**\-two drugs ass …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  16
 
-Цитировать
 
-Делиться
+
+
 
 [Сафинамид, ингибитор моноаминоксидазы, модулирует величину, стробирование и гистерезис тока ионов натрия.](https://pubmed.ncbi.nlm.nih.gov/38331833/)
 
@@ -308,17 +308,17 @@ SAF увеличил постоянную времени затухания I(Na
 
 SAF increased the decaying time constant of I(Na(T)) induced by a train of depolarizing stimuli. Notably, subsequent addition of **ranolazi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  17
 
-Цитировать
 
-Делиться
+
+
 
 [Нейропротекторный эффект **ранолазина** улучшает поведенческие отклонения в модели крысиной деменции, вызванной скополамином.](https://pubmed.ncbi.nlm.nih.gov/38323121/)
 
@@ -328,17 +328,17 @@ Item in Clipboard
 
 BACKGROUND: **Ranolazine** (Rn), an antianginal agent, acts in the central nervous system and has been used as a potential treatment agen …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  18
 
-Цитировать
 
-Делиться
+
+
 
 [Антиапоптотический эффект **ранолазина** на защиту головного мозга во время сердечно-легочного шунтирования и операций на сонных артериях.](https://pubmed.ncbi.nlm.nih.gov/38264074/)
 
@@ -348,17 +348,17 @@ Item in Clipboard
 
 BACKGROUND: We aimed to determine the usability of **ranolazine** (Rn) as a neuroprotective during cardiac surgeries and carotid artery i …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  19
 
-Цитировать
 
-Делиться
+
+
 
 [Связь между **ранолазином** , ишемическим прекондиционированием и кардиопротекцией у пациентов, перенесших плановое чрескожное коронарное вмешательство.](https://pubmed.ncbi.nlm.nih.gov/38256425/)
 
@@ -368,17 +368,17 @@ Item in Clipboard
 
 However, there is a lack of trials exploring the combined effects of **ranolazine** pretreatment and RIPC in patients undergoing percutan …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  20
 
-Цитировать
 
-Делиться
+
+
 
 [Различия в частоте желудочковых тахиаритмий у пациентов с имплантированным кардиовертером-дефибриллятором и предшествующими желудочковыми тахиаритмиями, связанные с полом.](https://pubmed.ncbi.nlm.nih.gov/38032582/)
 
@@ -388,17 +388,17 @@ Item in Clipboard
 
 OBJECTIVES: This study aimed to assess sex-related differences in implantable cardioverter-defibrillator (ICD)-treated VT/VF events and deat …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  21
 
-Цитировать
 
-Делиться
+
+
 
 [Противовоспалительное перепрограммирование клеток микроглии метаболическими модуляторами для противодействия нейродегенерации; новая роль **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/37978212/)
 
@@ -408,17 +408,17 @@ Item in Clipboard
 
 For this purpose, we tested various molecules known to act on cell metabolism, and we revealed the anti-inflammatory effect of the FDA-appro …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  22
 
-Цитировать
 
-Делиться
+
+
 
 [ChaMP-CMD: рандомизированное контролируемое перекрестное исследование с фенотипическим слепым анализом.](https://pubmed.ncbi.nlm.nih.gov/37905403/)
 
@@ -428,17 +428,17 @@ Item in Clipboard
 
 The CMD group had a greater increment (delta) in exercise time than the reference group in response to both amlodipine (difference in delta, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  23
 
-Цитировать
 
-Делиться
+
+
 
 [Аморфные твердые формы **ранолазина** и триптофана и их релаксация в метастабильные полиморфы.](https://pubmed.ncbi.nlm.nih.gov/37692331/)
 
@@ -448,17 +448,17 @@ Item in Clipboard
 
 Different methods were explored for the amorphization of **ranolazine**, a sparingly soluble anti-anginal drug, such as mechanochemistry, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  24
 
-Цитировать
 
-Делиться
+
+
 
 [Улучшение сосудистой чувствительности к инсулину с помощью **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/37686345/)
 
@@ -468,17 +468,17 @@ Item in Clipboard
 
 **Ranolazine** (RN) is a drug used in the treatment of chronic coronary ischemia. ...
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  25
 
-Цитировать
 
-Делиться
+
+
 
 [Первичная профилактика с помощью имплантируемого кардиовертера-дефибриллятора у пациентов, получающих сердечную ресинхронизирующую терапию с прогрессирующей хронической болезнью почек.](https://pubmed.ncbi.nlm.nih.gov/37680559/)
 
@@ -488,17 +488,17 @@ Item in Clipboard
 
 METHODS: The study population included 1,015 patients receiving CRT with defibrillator (CRT-D) device for primary prevention of SCD who were …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  26
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** улучшает диастолическую функцию левого желудочка и индексы реполяризации желудочков у пациентов с медленным коронарным кровотоком.](https://pubmed.ncbi.nlm.nih.gov/37671136/)
 
@@ -508,17 +508,17 @@ Item in Clipboard
 
 In this context, this study was carried out to investigate the effects of **ranolazine** on left ventricular diastolic functions and repo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  27
 
-Цитировать
 
-Делиться
+
+
 
 [Наноструктурированные липидные носители для повышения биодоступности и растворимости **ранолазина** : статистическая оптимизация и фармакологическая оценка.](https://pubmed.ncbi.nlm.nih.gov/37631066/)
 
@@ -528,33 +528,33 @@ Item in Clipboard
 
 Chronic stable angina pectoris is the primary indication for **ranolazine** (RZ), an anti-anginal drug. The drug has an anti-ischemic act …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  28
 
-Цитировать
 
-Делиться
+
+
 
 [Фибрилляция предсердий, вызванная этанолом, является результатом позднего I(Na) и может быть предотвращена **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/37603603/)
 
 Мустроф Дж., Байер М.Дж., Унсин Д., Провазник З., Козаков К., Лебек С., Тарновски Д., Шильдт С., Фойгт Н., Вагнер С., Майер Л.С., Нееф С. Mustroph J, et al. Тираж. 22 августа 2023 г.;148(8):698-700. doi: 10.1161/CIRCULATIONAHA.123.064561. Электронная публикация 21 августа 2023 г. Circulation. 2023. PMID: 37603603 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  29
 
-Цитировать
 
-Делиться
+
+
 
 [Метаболическая перестройка, вызванная **ранолазином,** улучшает реакцию меланомы на таргетную терапию и иммунотерапию.](https://pubmed.ncbi.nlm.nih.gov/37563469/)
 
@@ -564,17 +564,17 @@ Item in Clipboard
 
 Targeting FAO using the US Food and Drug Administration-approved and European Medicines Agency-approved anti-anginal drug **ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  30
 
-Цитировать
 
-Делиться
+
+
 
 [Метаболические подходы к лечению дилатационной кардиомиопатии.](https://pubmed.ncbi.nlm.nih.gov/37504543/)
 
@@ -584,17 +584,17 @@ Item in Clipboard
 
 In reality, the vast majority of small-scale pilot trials using trimetazidine, **ranolazine**, perhexiline, and etomoxir have demonstrate …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  31
 
-Цитировать
 
-Делиться
+
+
 
 [Воспроизводимость эффектов лекарственных препаратов на сократимость искусственно созданной сердечной ткани, полученной из человеческих плюрипотентных стволовых клеток.](https://pubmed.ncbi.nlm.nih.gov/37469866/)
 
@@ -604,17 +604,17 @@ Item in Clipboard
 
 The reproducibility of induced contractile variations was tested using compounds with known mechanistic cardiac effects (isoproterenol, EMD- …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  32
 
-Цитировать
 
-Делиться
+
+
 
 [Хронический дефицит тестостерона увеличивает поздний входящий ток натрия и стимулирует триггерную активность в желудочковых миоцитах у стареющих самцов мышей.](https://pubmed.ncbi.nlm.nih.gov/37389950/)
 
@@ -626,17 +626,17 @@ Item in Clipboard
 
 . -1.2 0.2 pA/pF; P = 0.002). When cells were exposed to the I(Na,L) antagonist **ranolazine** (10 M), I(Na,L) declined in GDX cells (-1. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  33
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на функцию правого желудочка, динамику жидкости и метаболизм у пациентов с прекапиллярной легочной гипертензией: выводы из продольного, рандомизированного, двойного слепого, плацебо-контролируемого, многоцентрового исследования.](https://pubmed.ncbi.nlm.nih.gov/37383703/)
 
@@ -646,17 +646,17 @@ Item in Clipboard
 
 DISCUSSION: **Ranolazine** may improve RV function by altering RV metabolism in patients with precapillary PH. Larger studies are needed …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  34
 
-Цитировать
 
-Делиться
+
+
 
 [Характеристика электрофармакологического профиля противоатриального препарата вернакалант, а также потенциального риска развития желудочковой тахикардии типа «пируэт»: трансляционные исследования с использованием анестезированных изофлураном собак и изолированных препаратов аорты крыс.](https://pubmed.ncbi.nlm.nih.gov/37344055/)
 
@@ -666,17 +666,17 @@ Item in Clipboard
 
 We compared them with those of known anti-atrial fibrillatory drugs; **ranolazine**, amiodarone, dronedarone, dl-sotalol and bepridil. Th …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  35
 
-Цитировать
 
-Делиться
+
+
 
 [Антиангинальный препарат **ранолазин** не улучшает гликемию у самцов мышей с ожирением и дефицитом печеночно-специфической пируватдегидрогеназы.](https://pubmed.ncbi.nlm.nih.gov/37269153/)
 
@@ -686,17 +686,17 @@ Item in Clipboard
 
 AIMS: Recent studies have demonstrated that stimulating pyruvate dehydrogenase (PDH, gene Pdha1), the rate-limiting enzyme of glucose oxidat …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  36
 
-Цитировать
 
-Делиться
+
+
 
 [Кардиальный синдром X.](https://pubmed.ncbi.nlm.nih.gov/35201710/)
 
@@ -706,33 +706,33 @@ Item in Clipboard
 
 Additional agents like angiotensin-converting enzyme (ACE) inhibitors, statins, and antianginals such as **ranolazine** may also be used. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  37
 
-Цитировать
 
-Делиться
+
+
 
 [Структурная основа ингибирования сердечного натриевого канала атипичным антиаритмическим препаратом **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/39185478/)
 
 Ленеус М., Гамаль Эль-Дин ТМ, Тонгу Л., Чжэн Н., Каттералл В.А. Lenaeus M, et al. Nat Cardiovasc Res. 2023 июнь;2(6):587-594. doi: 10.1038/s44161-023-00271-5. Электронная публикация 4 мая 2023 г. Nat Cardiovasc Res. 2023. PMID: 39185478 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  38
 
-Цитировать
 
-Делиться
+
+
 
 [**Токсичность ранолазина,** вторичная по отношению к паксовиду.](https://pubmed.ncbi.nlm.nih.gov/37153311/)
 
@@ -742,17 +742,17 @@ Item in Clipboard
 
 Here we present a rare case of a patient that was given Paxlovid and continued to take her **Ranolazine** at home. She presented to the e …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  39
 
-Цитировать
 
-Делиться
+
+
 
 [Поздний натриевый ток в синергизме с Ca <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2+</font></font></sup> /кальмодулин-зависимой протеинкиназой II способствует мерцательной аритмии, вызванной β-адренергической активацией.](https://pubmed.ncbi.nlm.nih.gov/37122215/)
 
@@ -762,17 +762,17 @@ Item in Clipboard
 
 Sea anemone toxin II (ATX-II, 2 nM) was insufficient to induce any atrial arrhythmias, whereas the propensities of AF were greater in hearts …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  40
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** проявляет противовоспалительную и антиоксидантную активность в кардиомиоцитах H9c2.](https://pubmed.ncbi.nlm.nih.gov/37070896/)
 
@@ -782,17 +782,17 @@ Item in Clipboard
 
 RESULTS: Oxidative stress markers decreased, and antioxidant capacity markers increased in cells treated with **ranolazine** alone compar …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  41
 
-Цитировать
 
-Делиться
+
+
 
 [ПЭТ-исследование перфузии миокарда для выявления и сообщения о коронарной микрососудистой дисфункции: заявление JACC: Экспертной группы по визуализации сердечно-сосудистых заболеваний.](https://pubmed.ncbi.nlm.nih.gov/36881418/)
 
@@ -802,17 +802,17 @@ Item in Clipboard
 
 Individualized or intensified medical therapies with nitrates, calcium-channel blockers, statins, angiotensin-converting enzyme inhibitors, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  42
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность **ранолазина** для улучшения диастолической производительности при сердечной недостаточности с сохраненной фракцией выброса: систематический обзор и метаанализ.](https://pubmed.ncbi.nlm.nih.gov/36844933/)
 
@@ -822,17 +822,17 @@ Item in Clipboard
 
 This article evaluates the efficacy of using **ranolazine** to improve diastolic performance and exercise capacity in heart failure with …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  43
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** оказывает предсердное антиаритмическое действие в модели легочной гипертензии, вызванной монокроталином, у крыс.](https://pubmed.ncbi.nlm.nih.gov/36799082/)
 
@@ -842,17 +842,17 @@ Item in Clipboard
 
 Atrial arrhythmias are a hallmark of heart diseases. The antiarrhythmic drug **ranolazine** with multichannel blocker properties is a pro …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  44
 
-Цитировать
 
-Делиться
+
+
 
 [Фенотипическая проверка in vivo активности неаденозиновых препаратов, зависящей от аденозиновых рецепторов.](https://pubmed.ncbi.nlm.nih.gov/36781825/)
 
@@ -862,17 +862,17 @@ Item in Clipboard
 
 Two drugs (cannabidiol, canrenoate) did not cause hypothermia in wild type mice. Four other drugs (nifedipine, **ranolazine**, ketamine, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  45
 
-Цитировать
 
-Делиться
+
+
 
 [Возраст и риск желудочковой тахиаритмии у пациентов с имплантированным кардиовертером-дефибриллятором.](https://pubmed.ncbi.nlm.nih.gov/36752470/)
 
@@ -882,17 +882,17 @@ Item in Clipboard
 
 METHODS: The study included 5,170 primary prevention ICD recipients enrolled in 5 landmark ICD trials (MADIT \[Multicenter Automatic Defibril …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  46
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование потенциалзависимых токов Na <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+</font></font></sup> , оказываемое KB-R7943 (2-\[2-\[4-(4-нитробензилокси)фенил\]этил\]изотиомочевиной), ингибитором процесса обмена Na <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+</font></font></sup> -Ca2 <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+</font></font></sup> .](https://pubmed.ncbi.nlm.nih.gov/36675319/)
 
@@ -902,17 +902,17 @@ Item in Clipboard
 
 The resurgent Na(+) current (I(Na(R))) evoked by a repolarizing V(ramp) was also suppressed by adding this compound; moreover, subsequent ad …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  47
 
-Цитировать
 
-Делиться
+
+
 
 [Отрицательные инотропные эффекты антиаритмических препаратов I класса на миокард желудочков морской свинки: корреляция с блокадой кальциевых каналов <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L -типа.</font></font></sup>](https://pubmed.ncbi.nlm.nih.gov/36596522/)
 
@@ -922,17 +922,17 @@ Item in Clipboard
 
 The drugs decreased the contractile force of papillary muscles with different potencies: the potency order was propafenone > aprindine &g …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  48
 
-Цитировать
 
-Делиться
+
+
 
 [Метформин-'BRAINS & AIMS' фармакологические/принципы назначения часто назначаемых (100 лучших) препаратов: обучение и обсуждение.](https://pubmed.ncbi.nlm.nih.gov/36575901/)
 
@@ -942,17 +942,17 @@ Item in Clipboard
 
 Interactions (pharmacokinetic) occur with drugs impairing renal function and hence metformin excretion, and drugs inhibiting organic cation …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  49
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** взаимодействует антагонистически с некоторыми классическими противоэпилептическими препаратами — изоболографический анализ.](https://pubmed.ncbi.nlm.nih.gov/36558088/)
 
@@ -962,17 +962,17 @@ Item in Clipboard
 
 Unfortunately, an attempt to conduct a passive avoidance task (evaluating long-term memory) resulted in **ranolazine**\-induced delayed le …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  50
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** ослабляет воспаление мозга в модели диабета 2 типа на крысах.](https://pubmed.ncbi.nlm.nih.gov/36555798/)
 
@@ -982,17 +982,17 @@ Item in Clipboard
 
 There are a number of experimental studies presenting evidence that **ranolazine**, an antianginal drug, acts as a neuroprotective drug. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  51
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на различные исходы у пациентов со стабильной стенокардией: обновленный метаанализ.](https://pubmed.ncbi.nlm.nih.gov/36481415/)
 
@@ -1002,17 +1002,17 @@ Item in Clipboard
 
 Risk ratios or achieved mean differences during follow-up and 95% confidence interval (CI) of categorical or continuous outcomes, respective …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  52
 
-Цитировать
 
-Делиться
+
+
 
 [_Оценка in silico_ фармакотерапии аритмий, вызванных оксидом углерода, у здоровых и больных сердечных мышц.](https://pubmed.ncbi.nlm.nih.gov/36467675/)
 
@@ -1022,17 +1022,17 @@ Item in Clipboard
 
 After this, we first assessed the efficacy of some common antiarrhythmic drugs like **ranolazine**, amiodarone, nifedipine, etc., by inco …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  53
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние пандемии COVID-19 на использование лекарств от сердечно-сосудистых заболеваний: анализ временных рядов данных о назначении лекарств в Англии во время пандемии COVID-19 (с января 2019 года по октябрь 2020 года).](https://pubmed.ncbi.nlm.nih.gov/36420815/)
 
@@ -1042,17 +1042,17 @@ Item in Clipboard
 
 Analysis of variance reveals statistically significant differences for bendroflumethiazide, potassium-sparing diuretics, nicorandil, ezetimi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  54
 
-Цитировать
 
-Делиться
+
+
 
 [Гендерные различия в литий-индуцированной дисрегуляции натриевого тока и желудочковом аритмогенезе в кардиомиоцитах выходного тракта правого желудочка.](https://pubmed.ncbi.nlm.nih.gov/36359250/)
 
@@ -1062,17 +1062,17 @@ Item in Clipboard
 
 Compared to those in the female RVOT cardiomyocytes, LiCl (100 muM) reduced INa to a greater extent and increased INa-late in the male RVOT …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  55
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование позднего натриевого тока посредством сигнализации PI3K/Akt предотвращает клеточное ремоделирование в предсердных миоцитах HL-1, вызванных тахикардией.](https://pubmed.ncbi.nlm.nih.gov/36274100/)
 
@@ -1082,17 +1082,17 @@ Item in Clipboard
 
 Those detrimental effects were related to increased I(Na,Late) and were significantly mediated by treatment with the I(Na,Late) blocker **r** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  56
 
-Цитировать
 
-Делиться
+
+
 
 [Важность контроля частоты сокращений для анализа влияния лекарственных препаратов на сократимость кардиомиоцитов, полученных из человеческих индуцированных плюрипотентных стволовых клеток.](https://pubmed.ncbi.nlm.nih.gov/36273536/)
 
@@ -1102,17 +1102,17 @@ Item in Clipboard
 
 Therefore, we investigated the relationship between contraction parameters and beating rates of cardiac cell sheet tissues by directly measu …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  57
 
-Цитировать
 
-Делиться
+
+
 
 [Усиление эффектов инсулина **ранолазином** в астроцитах в первичной культуре.](https://pubmed.ncbi.nlm.nih.gov/36233271/)
 
@@ -1122,33 +1122,33 @@ Item in Clipboard
 
 **Ranolazine** (Rn) is a drug used to treat persistent chronic coronary ischemia. ...
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  58
 
-Цитировать
 
-Делиться
+
+
 
 [Интервал QT <sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">c</font></font></sub> и удлинение потенциала действия желудочков в мышиной модели синдрома Ретта Mecp2 <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Null/+ .</font></font></sup>](https://pubmed.ncbi.nlm.nih.gov/36200140/)
 
 Ченг Х., Карл I, Джеймс А.Ф., Абдала А.П., Хэнкокс Дж.К. Cheng H, et al. Physiol Rep. 2022 октябрь;10(19):e15437. doi: 10.14814/phy2.15437. Physiol Rep. 2022. PMID: 36200140 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  59
 
-Цитировать
 
-Делиться
+
+
 
 [Характеристика эффективной стимуляции по величине, стробированию, частотной зависимости и гистерезису _I_ <sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Na</font></font></sub> , оказываемой пикаридином (или икаридином), известным репеллентом от насекомых.](https://pubmed.ncbi.nlm.nih.gov/36077093/)
 
@@ -1158,17 +1158,17 @@ Item in Clipboard
 
 Picaritin-induced increases of I(Na(P)) or I(Na(R)) intrinsically in GH(3) cells could be attenuated by further addition of **ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  60
 
-Цитировать
 
-Делиться
+
+
 
 [Регуляторы пероксисомального ацил-карнитинового челнока CROT и CRAT способствуют метастазированию при меланоме.](https://pubmed.ncbi.nlm.nih.gov/36058299/)
 
@@ -1178,17 +1178,17 @@ Item in Clipboard
 
 Knockdown of carnitine O-octanoyltransferase or carnitine acetyltransferase and short-term treatment with peroxisomal or mitochondrial FA be …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  61
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние фактора, ингибирующего миграцию макрофагов, на аритмогенез легочных вен через поздний натриевый ток.](https://pubmed.ncbi.nlm.nih.gov/36056883/)
 
@@ -1198,17 +1198,17 @@ KN93 \[селективный блокатор кальций/кальмодул
 
 KN93 \[a selective calcium/calmodulin-dependent protein kinase II (CaMKII) blocker, 1 muM\], **ranolazine** (an INa-Late inhibitor, 10 muM) …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  62
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение фармакокинетических параметров **ранолазина** у крыс с диабетом и без диабета.](https://pubmed.ncbi.nlm.nih.gov/36033953/)
 
@@ -1218,17 +1218,17 @@ Item in Clipboard
 
 All animals were treated with 80 mg/kg of **ranolazine** for 7 continuous days. The blood samples were collected immediately at 0 (prior …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  63
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** в сравнении с аллопуринолом для пациентов с симптомами, имеющих анамнез ангиопластики: сравнительное исследование эффективности.](https://pubmed.ncbi.nlm.nih.gov/35976197/)
 
@@ -1238,33 +1238,33 @@ Item in Clipboard
 
 OBJECTIVE: This study aims to compare the antianginal efficacy of **ranolazine** versus allopurinol for eligible symptomatic patients wit …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  64
 
-Цитировать
 
-Делиться
+
+
 
 [Одновременное применение **ранолазина** и триметазидина у пациентов с рефрактерной стенокардией: первоначальный опыт.](https://pubmed.ncbi.nlm.nih.gov/35946755/)
 
 Дурадо LOC, Морено CPD, Grobe SF, Gowdak LHW, Cesar LAM. Dourado LOC, et al. Arq Bras Cardiol. 2022 октябрь;119(4):619-621. doi: 10.36660/abc.20210711. Arq Bras Cardiol. 2022. PMID: 35946755 Бесплатная статья PMC. Английский, португальский. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  65
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** противодействует снижению силы и окислительному стрессу у старых саркопенических мышей.](https://pubmed.ncbi.nlm.nih.gov/35888787/)
 
@@ -1274,17 +1274,17 @@ Item in Clipboard
 
 We chose to investigate the ability of the metabolic modulator **Ranolazine** to counteract skeletal muscle dysfunctions that occur with …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  66
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакологическая модуляция внутриклеточной концентрации Na(+) с помощью **ранолазина** влияет на воспалительную реакцию у людей и мышей.](https://pubmed.ncbi.nlm.nih.gov/35858345/)
 
@@ -1294,17 +1294,17 @@ Item in Clipboard
 
 In stable coronary artery disease patients (n = 51) we observed reduced levels of high-sensitive C-reactive protein (CRP) 3 mo after the sta …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  67
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка риска проаритмии с использованием электромеханического окна в кардиомиоцитах, полученных из человеческих iPS-клеток.](https://pubmed.ncbi.nlm.nih.gov/35786601/)
 
@@ -1314,17 +1314,17 @@ Item in Clipboard
 
 However, there were still some outliers, such as bepridil, mexiletine, and **ranolazine**, among the CiPA 28 compounds in the CiPA intern …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  68
 
-Цитировать
 
-Делиться
+
+
 
 [Человеческие кардиомиоциты с дефицитом SNTA1 демонстрируют гипертрофический фенотип и нарушение обмена кальция.](https://pubmed.ncbi.nlm.nih.gov/35773684/)
 
@@ -1334,33 +1334,33 @@ Item in Clipboard
 
 However, H9SNTA1KO derived cardiomyocytes exhibited hypertrophic phenotype, lower cardiac contractility, weak calcium transient intensity, a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  69
 
-Цитировать
 
-Делиться
+
+
 
 [Роль **ранолазина** в лечении желудочковых аритмий?](https://pubmed.ncbi.nlm.nih.gov/35738853/)
 
 Андраде Дж. Г., Дейелл М. В. Andrade JG, et al. JACC Клин Электрофизиол. июнь 2022 г.;8(6):763-765. doi: 10.1016/j.jacep.2022.04.010. JACC Clin Electrophysiol. 2022. PMID: 35738853 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  70
 
-Цитировать
 
-Делиться
+
+
 
 [Снижение частоты желудочковых тахиаритмий у пациентов, включенных в исследование RAID.](https://pubmed.ncbi.nlm.nih.gov/35738852/)
 
@@ -1370,33 +1370,33 @@ Item in Clipboard
 
 BACKGROUND: The RAID (**Ranolazine** Implantable Cardioverter-Defibrillator) randomized placebo-controlled trial showed that **ranolazin** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  71
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** — может ли антиангинальный препарат использоваться для профилактики инсульта?](https://pubmed.ncbi.nlm.nih.gov/35677351/)
 
 Сурма С., Романчик М., Филипьяк К.Ю. Surma S, et al. Int J Cardiol Cardiovasc Risk Prev. 2022 May 30;14:200137. doi: 10.1016/j.ijcrp.2022.200137. eCollection 2022 Sep. Int J Cardiol Cardiovasc Risk Prev. 2022. PMID: 35677351 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  72
 
-Цитировать
 
-Делиться
+
+
 
 [Антиинвазивное действие миноксидила на клетки рака молочной железы человека: сочетание с **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/35643818/)
 
@@ -1406,17 +1406,17 @@ Item in Clipboard
 
 In contrast, invasion was significantly reduced in a dose-dependent manner by clinical concentrations of minoxidil and **ranolazine**. Co …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  73
 
-Цитировать
 
-Делиться
+
+
 
 [Задержка реполяризации желудочков и модификация тока натриевых каналов в мышиной модели синдрома Ретта.](https://pubmed.ncbi.nlm.nih.gov/35628543/)
 
@@ -1426,17 +1426,17 @@ Item in Clipboard
 
 Fast I(Na) 'window current' was reduced in RTT myocytes; small but significant alterations of inactivation and reactivation time-courses wer …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  74
 
-Цитировать
 
-Делиться
+
+
 
 [Зипрасидон вызывает аритмогенез предсердий у кроликов посредством модификации окислительного стресса и гомеостаза натрия/кальция.](https://pubmed.ncbi.nlm.nih.gov/35625713/)
 
@@ -1446,17 +1446,17 @@ Item in Clipboard
 
 RESULTS: Ziprasidone-treated atriums showed sustained triggered activities after rapid pacing, which were inhibited by KN-93 and **ranolazi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  75
 
-Цитировать
 
-Делиться
+
+
 
 [Эсликарбазепин, но не ламотриджин или **ранолазин** , демонстрирует противосудорожную эффективность у крыс, резистентных к карбамазепину, у которых развилась реакция «окно-пентилентетразола».](https://pubmed.ncbi.nlm.nih.gov/35625015/)
 
@@ -1466,17 +1466,17 @@ Item in Clipboard
 
 Right after, sodium channel blockers were tested for anticonvulsant action (lamotrigine, 30 mg/kg i.p.; eslicarbazepine, 150 or 300 mg/kg i. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  76
 
-Цитировать
 
-Делиться
+
+
 
 [Проектирование, разработка, оптимизация и оценка таблеток пролонгированного действия **ранолазина .**](https://pubmed.ncbi.nlm.nih.gov/35509223/)
 
@@ -1486,17 +1486,17 @@ Item in Clipboard
 
 OBJECTIVES: The objective of the current study was to develop an extended release (XR) tablet formulation for **ranolazine** using Eudrag …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  77
 
-Цитировать
 
-Делиться
+
+
 
 [Нитраты как маркер множественных сопутствующих заболеваний и повышенной смертности у пациентов, перенесших чрескожное коронарное вмешательство (ЧКВ).](https://pubmed.ncbi.nlm.nih.gov/35494964/)
 
@@ -1506,17 +1506,17 @@ Item in Clipboard
 
 Conclusions In this large, all-inclusive state-wide contemporary cohort study of SIHD patients, treatment with nitrates, but not beta-blocke …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  78
 
-Цитировать
 
-Делиться
+
+
 
 [Открытое пилотное исследование **ранолазина** при судорогах при боковом амиотрофическом склерозе.](https://pubmed.ncbi.nlm.nih.gov/35466411/)
 
@@ -1526,17 +1526,17 @@ Item in Clipboard
 
 METHODS: We performed an open-label dose-ascending study of **ranolazine** in 14 individuals with ALS in two sequential cohorts: 500 mg ( …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  79
 
-Цитировать
 
-Делиться
+
+
 
 [\[Диагностика, терапия и значение качества жизни у больных с хроническим коронарным синдромом. Результаты исследования общей врачебной помощи ALTHEA\].](https://pubmed.ncbi.nlm.nih.gov/35449487/)
 
@@ -1546,17 +1546,17 @@ Item in Clipboard
 
 Amongst the available antianginal medications, the interviewees showed preferences in terms of efficacy (betablockers), tolerability (**ran** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  80
 
-Цитировать
 
-Делиться
+
+
 
 [Кератолиз, эксфолиативноподобная сыпь, вызванная **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/35399369/)
 
@@ -1566,17 +1566,17 @@ Item in Clipboard
 
 To underline the importance of a thorough unbiased analysis of the patient's history and clinical features, we present the iconic case of a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  81
 
-Цитировать
 
-Делиться
+
+
 
 [Потенциальная роль кардиопульмонального нагрузочного тестирования как инструмента раннего скрининга пациентов с подозрением на легочную гипертензию, включая легочную гипертензию, вызванную физической нагрузкой: результаты ретроспективного анализа.](https://pubmed.ncbi.nlm.nih.gov/35348085/)
 
@@ -1586,17 +1586,17 @@ Item in Clipboard
 
 OBJECTIVE: The primary goal of our retrospective case-control study was to evaluate the ability of cardiopulmonary exercise testing to scree …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  82
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** устраняет фенотип сердечной недостаточности кардиомиоцитов человека, полученных из плюрипотентных стволовых клеток с дефицитом PLN.](https://pubmed.ncbi.nlm.nih.gov/35334215/)
 
@@ -1606,17 +1606,17 @@ Item in Clipboard
 
 PLN deletion hiPSCs-CMs had enhanced contractility at day 30, but proceeded to a cardiac failure phenotype at day 60, with decreased contrac …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  83
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** ингибирует пироптоз посредством регуляции miR-135b при лечении диабетического кардиофиброза.](https://pubmed.ncbi.nlm.nih.gov/35155576/)
 
@@ -1626,17 +1626,17 @@ Item in Clipboard
 
 **Ranolazine** increased miR-135b expression in high glucose-treated cardiac fibroblasts, and miR-135b directly bound to caspase-1. Inter …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  84
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** : старый препарат с новым потенциалом; уроки доклинических и клинических исследований для возможного репозиционирования.](https://pubmed.ncbi.nlm.nih.gov/35056088/)
 
@@ -1646,17 +1646,17 @@ Item in Clipboard
 
 However, despite initial enthusiasm and promising development in the cardiovascular field, **ranolazine** is only authorized as a second- …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  85
 
-Цитировать
 
-Делиться
+
+
 
 [ЛПНП, модифицированные гипохлоритом, вызывают аритмию и сократительную дисфункцию кардиомиоцитов.](https://pubmed.ncbi.nlm.nih.gov/35052529/)
 
@@ -1666,17 +1666,17 @@ Item in Clipboard
 
 Furthermore, HOCl-LDL-mediated alterations of cardiac contractility and electrophysiology, including arrhythmic events, were ameliorated by …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  86
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** улучшает гликемическую вариабельность и функцию эндотелия у пациентов с диабетом и хроническими коронарными синдромами: результаты экспериментального исследования.](https://pubmed.ncbi.nlm.nih.gov/35005029/)
 
@@ -1686,17 +1686,17 @@ Item in Clipboard
 
 BACKGROUND: **Ranolazine** is a second-line drug for the management of chronic coronary syndromes (CCS). ...Conversely, no significant ch …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  87
 
-Цитировать
 
-Делиться
+
+
 
 [Повышение мышечной силы у мышей с дислипидемией и ее связь с повышением способности к окислению жирных кислот.](https://pubmed.ncbi.nlm.nih.gov/34830135/)
 
@@ -1706,33 +1706,33 @@ Item in Clipboard
 
 We noted increased triglycerides contents in skeletal muscles and increased serum free fatty acids (FFA) levels in ApoE/LDLR -/- mice. Impor …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  88
 
-Цитировать
 
-Делиться
+
+
 
 [Гипенозид XVII защищает от ишемии миокарда и реперфузионного повреждения, ингибируя повреждение митохондрий, вызванное стрессом ЭР.](https://pubmed.ncbi.nlm.nih.gov/34764719/)
 
 Юй И, Ван М, Чэнь Р, Сан Икс, Сан Г, Сан Икс. Yu Y, et al. J Женьшень Рез. Ноябрь 2021 г.;45(6):642-653. дои: 10.1016/j.jgr.2019.09.003. Epub, 14 ноября 2019 г. J Ginseng Res. 2021. PMID: 34764719 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  89
 
-Цитировать
 
-Делиться
+
+
 
 [Роторы, закрепленные на огнеупорных островах, вызывают пируэтные вихри в экспериментальной модели грозы.](https://pubmed.ncbi.nlm.nih.gov/34678525/)
 
@@ -1742,17 +1742,17 @@ Item in Clipboard
 
 Epinephrine exacerbated the island by prolonging APD and enhancing APD dispersion, which was less evident after late Na(+) current blockade …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  90
 
-Цитировать
 
-Делиться
+
+
 
 [Подавление кальциевой сигнализации при фибрилляции предсердий: значение для гомеостаза натрия в предсердиях.](https://pubmed.ncbi.nlm.nih.gov/34638854/)
 
@@ -1762,17 +1762,17 @@ Item in Clipboard
 
 We summarize the proposed arrhythmogenic mechanisms associated with increases in I(Na,L) during AF and discuss the evidence from clinical tr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  91
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективное усиление потенциалзависимого натриевого тока, вызванное апоцинином (4'-гидрокси-3'-метоксиацетофеноном), известным ингибитором НАДФН-оксидазы.](https://pubmed.ncbi.nlm.nih.gov/34572332/)
 
@@ -1782,17 +1782,17 @@ Item in Clipboard
 
 In continued presence of aPO, further application of rufinamide or **ranolazine** attenuated aPO-stimulated I(Na). In methylglyoxal- or s …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  92
 
-Цитировать
 
-Делиться
+
+
 
 [Через сердце и дальше: обзор **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/34498453/)
 
@@ -1802,17 +1802,17 @@ Item in Clipboard
 
 **Ranolazine** derives from piperazine and has been approved as a drug for the therapy of chronic stable angina. ...In this paper I make …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  93
 
-Цитировать
 
-Делиться
+
+
 
 [Современный подход к пониманию и лечению аритмии, связанной с COVID-19.](https://pubmed.ncbi.nlm.nih.gov/34459992/)
 
@@ -1822,17 +1822,17 @@ Item in Clipboard
 
 Of these drugs, we discuss the potential role of adrenergic antagonists, trimetazidine, **ranolazine**, and the debatable angiotensin con …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  94
 
-Цитировать
 
-Делиться
+
+
 
 [Неонатальные каналы Na <sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">V</font></font></sub> 1.5: фармакологическая особенность варианта сплайсинга потенциалзависимых натриевых каналов, связанного с раком.](https://pubmed.ncbi.nlm.nih.gov/34411279/)
 
@@ -1842,17 +1842,17 @@ Item in Clipboard
 
 KEY RESULTS: Several clinically used blockers of Na(V) channels (lidocaine, procaine, phenytoin, mexiletine, **ranolazine**, and riluzole …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  95
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на интервал Tp-e, Tp-e/QTc и дисперсию зубца P у пациентов со стабильной ишемической болезнью сердца.](https://pubmed.ncbi.nlm.nih.gov/34386127/)
 
@@ -1862,17 +1862,17 @@ Item in Clipboard
 
 METHODS: This study included 175 patients, aged between 35 and 90 years who were followed with stable CAD for at least 3 months. Ninety pati …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  96
 
-Цитировать
 
-Делиться
+
+
 
 [Функциональные перекрестные помехи между фосфорилированием и болезнетворными мутациями в сердечном натриевом канале Na <sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">v</font></font></sub> 1.5.](https://pubmed.ncbi.nlm.nih.gov/34373326/)
 
@@ -1882,17 +1882,17 @@ Item in Clipboard
 
 We also show that both phosphorylation and patient mutations can impact Na(v)1.5 sensitivity toward the clinically used antiarrhythmic drugs …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  97
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакоэкономический отчет: **Ранолазин** (Корзина): (KYE Pharmaceuticals): Показания: Стабильная стенокардия, взрослые.](https://pubmed.ncbi.nlm.nih.gov/36099388/)
 
@@ -1902,17 +1902,17 @@ CADTH провел повторный анализ для устранения �
 
 CADTH undertook reanalyses to address limitations in the sponsor's submission, including using an appropriate value for the rate of **ranol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  98
 
-Цитировать
 
-Делиться
+
+
 
 [Отчет о клиническом обзоре: **Ранолазин** (Корзина): (KYE Pharmaceuticals Inc.): Показания: Стабильная стенокардия, взрослые.](https://pubmed.ncbi.nlm.nih.gov/36099387/)
 
@@ -1922,17 +1922,17 @@ Item in Clipboard
 
 The objective of this report is to perform a systematic review of the beneficial and harmful effects of **ranolazine** 500 mg and 1,000 m …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  99
 
-Цитировать
 
-Делиться
+
+
 
 [Механическое воздействие **ранолазина** на нормальное и изолированное диабетическое сердце крысы.](https://pubmed.ncbi.nlm.nih.gov/34221060/)
 
@@ -1942,17 +1942,17 @@ Item in Clipboard
 
 After 8 weeks, the effects of cumulative concentrations of **ranolazine** and lidocaine were evaluated on diabetic and normal hearts by t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  100
 
-Цитировать
 
-Делиться
+
+
 
 [Модуляция эффектов антиаритмических препаратов класса Ib на сердечные каналы, кодируемые NaV1.5, с помощью дополнительных субъединиц NaVβ.](https://pubmed.ncbi.nlm.nih.gov/34156986/)
 
@@ -1962,17 +1962,17 @@ Item in Clipboard
 
 Here, we investigated the impact of accessory NaVbeta1 and NaVbeta3 subunits on the functional effects of 2 well-known class Ib antiarrhythm …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  101
 
-Цитировать
 
-Делиться
+
+
 
 [Аритмогенное и антиаритмическое действие позднего поддерживаемого тока натрия в сердце взрослого человека.](https://pubmed.ncbi.nlm.nih.gov/34103608/)
 
@@ -1982,17 +1982,17 @@ Item in Clipboard
 
 Potentiation of late INa with ATX-II (anemonia sulcata toxin II) and E-4031 (selective blocker of the hERG channel) slowed the kinetics of a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  102
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние антиаритмических препаратов на hERG-регуляцию в кардиомиоцитах, полученных из человеческих индуцированных плюрипотентных стволовых клеток, у пациента с синдромом укороченного интервала QT 1-го типа.](https://pubmed.ncbi.nlm.nih.gov/34025432/)
 
@@ -2002,17 +2002,17 @@ Item in Clipboard
 
 Results: Ajmaline, amiodarone, ivabradine, flecainide, quinidine, mexiletine and **ranolazine** inhibited the hERG channel current (I(Kr) …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  103
 
-Цитировать
 
-Делиться
+
+
 
 [Прогностическая платформа оценки риска in vitro проаритмической токсичности с использованием трехмерных сердечных микротканей человека.](https://pubmed.ncbi.nlm.nih.gov/33986332/)
 
@@ -2022,33 +2022,33 @@ Item in Clipboard
 
 Using automated algorithms and statistical analyses of eight comprehensive evaluation metrics of cardiac action potentials, we demonstrate t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  104
 
-Цитировать
 
-Делиться
+
+
 
 [Рекомендация Канадского комитета экспертов по лекарственным препаратам CADTH: **Ранолазин** (Corzyna - KYE Pharmaceuticals Inc.): Показания: Пациенты со стабильной стенокардией, у которых не обеспечивается адекватный контроль или которые не переносят антиангинальную терапию первой линии.](https://pubmed.ncbi.nlm.nih.gov/36099389/)
 
 \[Авторы не указаны\] \[No authors listed\] Оттава (Онтарио): Канадское агентство по лекарственным препаратам и технологиям в здравоохранении; май 2021 г. Ottawa (ON): Canadian Agency for Drugs and Technologies in Health; 2021 May. PMID: 36099389 Бесплатные книги и документы. Обзор. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  105
 
-Цитировать
 
-Делиться
+
+
 
 [Роль **ранолазина** в профилактике и лечении мерцательной аритмии у пациентов с систолической дисфункцией левого желудочка: метаанализ рандомизированных клинических испытаний.](https://pubmed.ncbi.nlm.nih.gov/33923428/)
 
@@ -2058,17 +2058,17 @@ Item in Clipboard
 
 Moreover, the time to sinus rhythm restoration was 2.46 h shorter in the **ranolazine** added to amiodarone group (95% CI: 2.27-2.64). No …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  106
 
-Цитировать
 
-Делиться
+
+
 
 [Механизм, лежащий в основе преходящей слабости при врожденной миотонии.](https://pubmed.ncbi.nlm.nih.gov/33904400/)
 
@@ -2078,17 +2078,17 @@ Na(+) постоянный входящий ток (NaPIC) через канал
 
 Na(+) persistent inward current (NaPIC) through Na(V)1.4 channels is the key trigger of plateau potentials and current through Ca(V)1.1 Ca(2 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  107
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** в профилактике и лечении мерцательной аритмии: протокол метаанализа.](https://pubmed.ncbi.nlm.nih.gov/33879675/)
 
@@ -2098,17 +2098,17 @@ Item in Clipboard
 
 BACKGROUND: Atrial fibrillation (AF) is the most common clinical arrhythmia and a major cause of morbidity and mortality in clinical practic …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  108
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование гликолиза и окисления жирных кислот улучшает выживаемость при глиобластоме.](https://pubmed.ncbi.nlm.nih.gov/33854970/)
 
@@ -2118,17 +2118,17 @@ Item in Clipboard
 
 This study examined GBM cellular energetic pathways and blockade using repurposed drugs: the glycolytic inhibitor, namely dicholoroacetate ( …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  109
 
-Цитировать
 
-Делиться
+
+
 
 [Плазменные омега-3 жирные кислоты и риск сердечно-сосудистых событий у пациентов после острого коронарного синдрома в MERLIN-TIMI 36.](https://pubmed.ncbi.nlm.nih.gov/33840228/)
 
@@ -2138,17 +2138,17 @@ Item in Clipboard
 
 Methods and Results Baseline plasma omega3-PUFA composition (alpha-linolenic acid, eicosapentaenoic acid, docosapentaenoic acid, and docosah …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  110
 
-Цитировать
 
-Делиться
+
+
 
 [Поздний ток натриевых каналов сердца является молекулярной мишенью для ингибитора натрий/глюкозного котранспортера 2 эмпаглифлозина.](https://pubmed.ncbi.nlm.nih.gov/33832341/)
 
@@ -2158,17 +2158,17 @@ Item in Clipboard
 
 In mouse cardiomyocytes, empagliflozin reduced the incidence of spontaneous calcium transients induced by the late-I(Na) activator veratridi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  111
 
-Цитировать
 
-Делиться
+
+
 
 [Госпитализация по поводу сердечной недостаточности и последующих желудочковых тахиаритмий у пациентов с дисфункцией левого желудочка.](https://pubmed.ncbi.nlm.nih.gov/33812828/)
 
@@ -2178,33 +2178,33 @@ Item in Clipboard
 
 METHODS: We analyzed all 5,511 ICD patients enrolled in the landmark MADIT (Multicenter Automatic Defibrillator Implantation Trial) and RAID …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  112
 
-Цитировать
 
-Делиться
+
+
 
 [«Ранолазиодарона» — синергизм, который нельзя пропустить.](https://pubmed.ncbi.nlm.nih.gov/33779663/)
 
 Рейффель JA. Reiffel JA. J Innov Card Rhythm Manag. 15 марта 2021 г.; 12 (3): 4429-4431. doi: 10.19102/icrm.2021.120303. Электронная коллекция 2021 март. J Innov Card Rhythm Manag. 2021. PMID: 33779663 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  113
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** и его комбинации с амиодароном на реципрокную предсердную тахикардию, вызванную быстрой стимуляцией, у кроликов.](https://pubmed.ncbi.nlm.nih.gov/33777481/)
 
@@ -2214,17 +2214,17 @@ Item in Clipboard
 
 **Ranolazine** (RAN) has previously been shown to lower the onset of cholinergic atrial fibrillation in intact animals; however, its effi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  114
 
-Цитировать
 
-Делиться
+
+
 
 [Координированное постнатальное созревание стриарных холинергических интернейронов и динамика высвобождения дофамина у мышей.](https://pubmed.ncbi.nlm.nih.gov/33664134/)
 
@@ -2234,17 +2234,17 @@ Item in Clipboard
 
 We characterized the postnatal development of four currents that contribute to the spontaneous firing rate of ChIs, including I(SK), I(A), I …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  115
 
-Цитировать
 
-Делиться
+
+
 
 [Стенокардия связана с коронарным кровотоком у женщин с ишемией и без обструктивной ишемической болезни сердца.](https://pubmed.ncbi.nlm.nih.gov/33662486/)
 
@@ -2254,17 +2254,17 @@ Item in Clipboard
 
 RESULTS: Women with high bAPV had worse Seattle Angina Questionnaire (SAQ) angina frequency (58 26 vs 67 25, p = 0.005) and SAQ-7 scores (57 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  116
 
-Цитировать
 
-Делиться
+
+
 
 [Аритмии, связанные с COVID-19, и возможные эффекты **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/33636586/)
 
@@ -2274,17 +2274,17 @@ Item in Clipboard
 
 In this study, we reviewed the potential antiarrhythmic effects of **ranolazine** in the management of cardiac arrhythmias associated wit …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  117
 
-Цитировать
 
-Делиться
+
+
 
 [Антиаритмические исследования на крупных животных моделях мерцательной аритмии.](https://pubmed.ncbi.nlm.nih.gov/33624840/)
 
@@ -2294,17 +2294,17 @@ Item in Clipboard
 
 The major focus of the review is on anti-arrhythmic compounds either frequently used in the human clinic (**ranolazine**, flecainide, ver …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  118
 
-Цитировать
 
-Делиться
+
+
 
 [Достижение оптимальной приверженности к медицинской терапии с помощью телемедицины: результаты исследования приверженности к лечению ORBITA.](https://pubmed.ncbi.nlm.nih.gov/33570248/)
 
@@ -2314,33 +2314,33 @@ Item in Clipboard
 
 The percentage of samples in which drug was detected at pre-randomization and at follow-up in the PCI versus placebo groups respectively was …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  119
 
-Цитировать
 
-Делиться
+
+
 
 [Критическая оценка фармакологического лечения стабильной стенокардии.](https://pubmed.ncbi.nlm.nih.gov/33540054/)
 
 Фармакис Д., Ксантопулос А., Трипоскиадис Ф. Farmakis D, et al. Hellenic J Cardiol. 2021 март-апрель;62(2):135-138. doi: 10.1016/j.hjc.2021.01.012. Epub 2 февраля 2021 г. Hellenic J Cardiol. 2021. PMID: 33540054 Бесплатная статья.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  120
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** как альтернативная терапия флекаиниду для пациентов с синдромом удлиненного интервала QT SCN5A V411M 3-го типа.](https://pubmed.ncbi.nlm.nih.gov/33519442/)
 
@@ -2350,17 +2350,17 @@ Item in Clipboard
 
 While flecainide specifically targeted the mutation-induced increase in peak INaL, **ranolazine** reduced it during the entire AP. Our si …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  121
 
-Цитировать
 
-Делиться
+
+
 
 [Достижение оптимальной медицинской терапии: выводы исследования ORBITA.](https://pubmed.ncbi.nlm.nih.gov/33496201/)
 
@@ -2370,17 +2370,17 @@ Item in Clipboard
 
 Amlodipine and bisoprolol were well tolerated (stopped for adverse effects in 4/175 \[2.3%\] and 9/167 \[5.4%\], respectively). **Ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  122
 
-Цитировать
 
-Делиться
+
+
 
 [**CuO NP, функционализированные ранолазином** : эффективные гомогенные и гетерогенные катализаторы для восстановления 4-нитрофенола.](https://pubmed.ncbi.nlm.nih.gov/33493244/)
 
@@ -2390,17 +2390,17 @@ Item in Clipboard
 
 The SEM pattern confirmed the morphology of **ranolazine**\-functionalized CuO NPs with well-defined rice-like structures. FTIR spectrosco …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  123
 
-Цитировать
 
-Делиться
+
+
 
 [УНКП улучшает показатели функциональной способности независимо от базовой терапии **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/33489463/)
 
@@ -2410,17 +2410,17 @@ Item in Clipboard
 
 OBJECTIVE: Enhanced external counterpulsation (EECP) and **ranolazine** are approved treatments for patients with chronic stable angina b …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  124
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность **ранолазина** при лечении коронарной микрососудистой дисфункции — систематический обзор и метаанализ рандомизированных исследований.](https://pubmed.ncbi.nlm.nih.gov/33458636/)
 
@@ -2430,17 +2430,17 @@ Item in Clipboard
 
 To evaluate the efficacy of **ranolazine** in CMD, we performed a systematic review and meta-analysis of randomized studies. ...Median fo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  125
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность колумбийанадина, биоактивного производного кумарина, в возмущающем воздействии на транзиторный и стойкий _I_ <sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Na</font></font></sub> .](https://pubmed.ncbi.nlm.nih.gov/33435511/)
 
@@ -2450,17 +2450,17 @@ Item in Clipboard
 
 The peak I(Na) diminished by 10 M CBN was further suppressed by subsequent addition of either sesamin (10 M), **ranolazine** (10 M), or t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  126
 
-Цитировать
 
-Делиться
+
+
 
 [Воздействие на окисление жиров при раке предстательной железы у мышей снижает рост опухоли и стимулирует противораковый иммунитет.](https://pubmed.ncbi.nlm.nih.gov/33352903/)
 
@@ -2470,17 +2470,17 @@ Item in Clipboard
 
 In this study, we examined the pharmacological blockade of lipid oxidation with **ranolazine** in TRAMPC1 PCa models. Oral administration …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  127
 
-Цитировать
 
-Делиться
+
+
 
 [Механизмы предварительного лечения **ранолазином** в профилактике желудочковых тахиаритмий у мышей с диабетом db/db с острым региональным ишемически-реперфузионным повреждением.](https://pubmed.ncbi.nlm.nih.gov/33208777/)
 
@@ -2490,17 +2490,17 @@ Item in Clipboard
 
 We aimed to investigate the antiarrhythmic and molecular mechanisms of **ranolazine** in db/db mouse hearts with acute IR injury. **Rano** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  128
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние пероральных препаратов на функцию коронарных микрососудов у пациентов без значительного стеноза эпикардиальных коронарных артерий: систематический обзор и метаанализ резерва коронарного кровотока.](https://pubmed.ncbi.nlm.nih.gov/33195465/)
 
@@ -2510,17 +2510,17 @@ Item in Clipboard
 
 Six to 12 months of calcium channel blocker (CCB) treatments improved CFR (SMD: 1.04; 95% CI: 0.51-1.58). Beta-blocker (SMD: 0.24; 95% CI: - …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  129
 
-Цитировать
 
-Делиться
+
+
 
 [Антиаритмический эффект **ранолазина** в сочетании с селективным ингибированием NCX в экспериментальной модели мерцательной аритмии.](https://pubmed.ncbi.nlm.nih.gov/33092020/)
 
@@ -2530,17 +2530,17 @@ Item in Clipboard
 
 Thereafter, the hearts were assigned to two groups (n = 9 each group) and additionally perfused with a combination of 10 M **ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  130
 
-Цитировать
 
-Делиться
+
+
 
 [Выявление лекарственно-индуцированной многоканальной блокады и проаритмического риска у людей с использованием профилей эффекта непрерывной скорости вектора T, полученных из поверхностных электрокардиограмм.](https://pubmed.ncbi.nlm.nih.gov/33071822/)
 
@@ -2550,33 +2550,33 @@ Item in Clipboard
 
 Binary classification using a threshold p(zero) = 43% separated predominant hERG channel blocking drugs with potentially higher proarrhythmi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  131
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние эстрогена на внутриклеточную регуляцию Ca <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2+</font></font></sup> и Na <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+</font></font></sup> при сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/33015413/)
 
 Ферт Дж.М., Ян Х.И., Фрэнсис А.Дж., Ислам Н., МакЛауд К.Т. Firth JM, et al. JACC Basic Transl Sci. 2020 2 сентября;5(9):901-912. doi: 10.1016/j.jacbts.2020.06.013. eCollection 2020 сентябрь. JACC Basic Transl Sci. 2020. PMID: 33015413 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  132
 
-Цитировать
 
-Делиться
+
+
 
 [Телмисартан, антагонист рецепторов ангиотензина II, усиливает потенциалзависимые токи Na <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+</font></font></sup> и возбудимость нейронов гиппокампа.](https://pubmed.ncbi.nlm.nih.gov/33013297/)
 
@@ -2586,17 +2586,17 @@ Item in Clipboard
 
 In addition, cell exposure to TEL shifted the steady-state inactivation I (Na) curve to fewer negative potentials with no perturbations of t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  133
 
-Цитировать
 
-Делиться
+
+
 
 [Случай вазоспастической стенокардии. Физиопатология вазоспазма: новая терапевтическая роль **ранолазина** ?](https://pubmed.ncbi.nlm.nih.gov/32885931/)
 
@@ -2606,17 +2606,17 @@ Item in Clipboard
 
 Twenty-four hours monitoring EKG allowed diagnosis of Prinzmetal angina and appropriate therapy was administered. Six months after discharge …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  134
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование потенциалзависимых токов Na <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+</font></font></sup> элеклазином в миоцитах предсердий и желудочков крыс.](https://pubmed.ncbi.nlm.nih.gov/32864638/)
 
@@ -2626,17 +2626,17 @@ Item in Clipboard
 
 Eleclazine (GS-6615) is a putative antiarrhythmic drug with properties similar to the prototypical atrial-selective Na(+) channel blocker …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  135
 
-Цитировать
 
-Делиться
+
+
 
 [Ослабление механоэлектрической обратной связи в монослоях предсердных миоцитов, опосредованное **ранолазином .**](https://pubmed.ncbi.nlm.nih.gov/32848863/)
 
@@ -2650,17 +2650,17 @@ Moreover, under baseline conditions, **ranolazine** slowed and regularized the a
 
 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  136
 
-Цитировать
 
-Делиться
+
+
 
 [Обновления в лечении нейромышечных каналопатий.](https://pubmed.ncbi.nlm.nih.gov/32848354/)
 
@@ -2670,17 +2670,17 @@ Item in Clipboard
 
 A range of alternative antimyotonic treatment options include lamotrigine, carbamazepine and **ranolazine** exist with variable evidence …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  137
 
-Цитировать
 
-Делиться
+
+
 
 [Функциональная модуляция атриовентрикулярной проводимости посредством усиления позднего натриевого тока и кальций-зависимых механизмов у мышей Scn5a1798insD/+.](https://pubmed.ncbi.nlm.nih.gov/32778883/)
 
@@ -2690,17 +2690,17 @@ Item in Clipboard
 
 Langendorff-perfused Scn5a1798insD/+ hearts showed prolonged AV-conduction compared to wild type (WT) without changes in atrial and His-vent …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  138
 
-Цитировать
 
-Делиться
+
+
 
 [Роль **ранолазина** в лечении остаточной стенокардии за пределами чрескожной коронарной реваскуляризации.](https://pubmed.ncbi.nlm.nih.gov/32635532/)
 
@@ -2710,17 +2710,17 @@ Item in Clipboard
 
 RESULTS: The average duration of the exercise was increased after the therapy with **ranolazine** comparing to baseline (RG 9'1'' 2' vers …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  139
 
-Цитировать
 
-Делиться
+
+
 
 [Каналы, активируемые низким напряжением, в кардиомиоцитах легочных вен крысы: сосуществование неселективного катионного канала и кальциевых каналов Т-типа.](https://pubmed.ncbi.nlm.nih.gov/32556635/)
 
@@ -2730,17 +2730,17 @@ FLVA-I(Ca) увеличивался под действием 10 мкМ NE и 30
 
 FLVA-I(Ca) was increased by 10 muM NE and 300 nM BayK8644, decreased by 5 muM nifedipine but not blocked by **ranolazine** (10 muM). NiCl …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  140
 
-Цитировать
 
-Делиться
+
+
 
 [Изогенные модели гипертрофической кардиомиопатии раскрывают дифференциальные фенотипы и терапевтические методы, основанные на механизмах заболевания.](https://pubmed.ncbi.nlm.nih.gov/32531470/)
 
@@ -2750,17 +2750,17 @@ Item in Clipboard
 
 Calcium transient abnormalities were rescued with combination of dantrolene and **ranolazine**, whilst mavacamten reduced the hyper-contr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  141
 
-Цитировать
 
-Делиться
+
+
 
 [Лечение стабильной ишемической болезни сердца: старое и новое.](https://pubmed.ncbi.nlm.nih.gov/32523440/)
 
@@ -2770,17 +2770,17 @@ Item in Clipboard
 
 This symptom can be improved by various classes of compounds, namely beta-blockers (BBs), calcium antagonist, and nitrates. More recently, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  142
 
-Цитировать
 
-Делиться
+
+
 
 [Инотропное и антиаритмическое трансмуральное действие **ранолазина** в клеточной модели синдрома удлиненного интервала QT 3-го типа.](https://pubmed.ncbi.nlm.nih.gov/32491007/)
 
@@ -2790,17 +2790,17 @@ Item in Clipboard
 
 **Ranolazine** (RANO) prevents cardiac arrhythmia by blocking the late sodium current (INaL). ...Based on our results we can conclude tha …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  143
 
-Цитировать
 
-Делиться
+
+
 
 [Метаболическое перепрограммирование скелетных мышц у мышей ALS-SOD1 <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">G93A</font></font></sup> предшествует началу заболевания и является перспективной терапевтической целью.](https://pubmed.ncbi.nlm.nih.gov/32371370/)
 
@@ -2810,17 +2810,17 @@ Item in Clipboard
 
 These changes in muscle physiology were followed by an increase in energy expenditure unrelated to physical activity. Finally, chronic treat …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  144
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние дефицита Sirt1 на регуляцию Ca <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2+</font></font></sup> и Na <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+</font></font></sup> в желудочковых миоцитах мышей.](https://pubmed.ncbi.nlm.nih.gov/32342656/)
 
@@ -2830,17 +2830,17 @@ Item in Clipboard
 
 Sirt1(-/-) mice showed impaired cardiac ejection fraction with increased ventricular spontaneous activity and burst firing compared with tho …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  145
 
-Цитировать
 
-Делиться
+
+
 
 [Рилузол: антиинвазивное действие на клетки рака предстательной железы крыс в нормоксических и гипоксических условиях.](https://pubmed.ncbi.nlm.nih.gov/32304618/)
 
@@ -2850,33 +2850,33 @@ Item in Clipboard
 
 Hypoxia had no effect on cell viability but reduced growth at 48 hours. Riluzole (5 mumol/L) or **ranolazine** (20 mumol/L) had no effect …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  146
 
-Цитировать
 
-Делиться
+
+
 
 [Руководство по клинической картине и лечению недистрофических миотоний.](https://pubmed.ncbi.nlm.nih.gov/32270509/)
 
 Стунненберг BC, ЛоРуссо S, Арнольд WD, Барон RJ, Кэннон SC, Фонтейн B, Григгс RC, Ханна MG, Мэтьюз E, Меола G, Сансоне VA, Триведи JR, ван Энгелен BGM, Викарт S, Статленд JM. Stunnenberg BC, et al. Мышцы и нервы. 2020 октябрь;62(4):430-444. doi: 10.1002/mus.26887. Epub 2020 27 мая. Muscle Nerve. 2020. PMID: 32270509 Бесплатная статья PMC. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  147
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на симптомы и качество жизни у пациентов со стенокардией при отсутствии обструктивной ишемической болезни сердца: исследование случай-контроль.](https://pubmed.ncbi.nlm.nih.gov/32220488/)
 
@@ -2886,17 +2886,17 @@ Item in Clipboard
 
 METHODS: We retrospectively studied 53 patients prescribed with **ranolazine**, matched on sex and age, with 106 patients on standard of …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  148
 
-Цитировать
 
-Делиться
+
+
 
 [Нарушение регуляции сердечного кальция у мышей с хроническим заболеванием почек.](https://pubmed.ncbi.nlm.nih.gov/32064746/)
 
@@ -2906,17 +2906,17 @@ Item in Clipboard
 
 Electrocardiography showed that CKD mice exhibited longer QT interval, corrected QT (QTc) prolongation, faster spontaneous activities, short …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  149
 
-Цитировать
 
-Делиться
+
+
 
 [Антиаритмические свойства **ранолазина** : ингибирование калиевых каналов TASK-1, связанных с фибрилляцией предсердий.](https://pubmed.ncbi.nlm.nih.gov/32038227/)
 
@@ -2926,17 +2926,17 @@ Item in Clipboard
 
 We hypothesized that inhibition TASK-1 contributes to the observed electrophysiological and clinical effects of **ranolazine**. Methods: …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  150
 
-Цитировать
 
-Делиться
+
+
 
 [Метаболические и когнитивные эффекты **ранолазина** при сахарном диабете 2 типа: данные модели in vivo.](https://pubmed.ncbi.nlm.nih.gov/32023991/)
 
@@ -2946,17 +2946,17 @@ Item in Clipboard
 
 Animals were divided into the following groups: HFD/STZ + **Ranolazine**, HFD/STZ + Metformin, HFD/STZ + Vehicle, NCD + Vehicle, NCD + …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  151
 
-Цитировать
 
-Делиться
+
+
 
 [Функциональный анализ молекулярных и фармакологических модуляторов митохондриального окисления жирных кислот.](https://pubmed.ncbi.nlm.nih.gov/31996743/)
 
@@ -2966,17 +2966,17 @@ Item in Clipboard
 
 Surprisingly, many previously proposed FAO inhibitors such as **ranolazine** and trimetazidine lacked FAO-interfering activity. In compar …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  152
 
-Цитировать
 
-Делиться
+
+
 
 [**Брадикардия, почечная недостаточность и гиперкалиемия, вызванные ранолазином** : вариант синдрома BRASH.](https://pubmed.ncbi.nlm.nih.gov/31975993/)
 
@@ -2986,17 +2986,17 @@ Item in Clipboard
 
 **Ranolazine** is a well-known antianginal drug, that was first licensed for use in the United States in 2006. ...She was discharged with …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  153
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка пространственной гетерогенности реполяризации желудочков после применения многоканальных блокаторов у здоровых лиц.](https://pubmed.ncbi.nlm.nih.gov/31935579/)
 
@@ -3006,17 +3006,17 @@ Item in Clipboard
 
 Twenty-two healthy subjects received a pure hERG potassium channel blocker (dofetilide) and 3 other drugs with additional varying degrees of …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  154
 
-Цитировать
 
-Делиться
+
+
 
 [Возможное взаимодействие дабигатрана и **ранолазина** у пациентов с почечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/31905748/)
 
@@ -3026,17 +3026,17 @@ Item in Clipboard
 
 The patient was taking an adequate dosage of dabigatran, thus dabigatran was thought to be overdosed due to its interaction with **ranolazi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  155
 
-Цитировать
 
-Делиться
+
+
 
 [Полезность Bnet, простой линейной метрики для определения рисков желудочковой тахикардии типа «пируэт» в 28 препаратах CiPA.](https://pubmed.ncbi.nlm.nih.gov/31849669/)
 
@@ -3046,17 +3046,17 @@ Item in Clipboard
 
 The TMS was useful to predict low TdP risks of drugs blocking Na(+) (**ranolazine**) and Ca(2+) (verapamil) channels as well as the hERG …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  156
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** может оказывать свое благотворное действие за счет повышения уровня аденозина в миокарде.](https://pubmed.ncbi.nlm.nih.gov/31834840/)
 
@@ -3066,17 +3066,17 @@ Item in Clipboard
 
 Cardiomyocytes were also exposed to dobutamine and dobutamine with **ranolazine**. Modeling was employed to determine whether **ranolazi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  157
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на сердечную функцию у крыс с сердечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/31773713/)
 
@@ -3086,17 +3086,17 @@ Item in Clipboard
 
 Five weeks later, rats in the **ranolazine** group received **ranolazine** (50 mg/kg) daily, whereas those in the CHF group received n …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  158
 
-Цитировать
 
-Делиться
+
+
 
 [Механизмы, посредством которых **ранолазин** прекращает пароксизмальную, но не стойкую мерцательную аритмию.](https://pubmed.ncbi.nlm.nih.gov/31594392/)
 
@@ -3106,17 +3106,17 @@ Item in Clipboard
 
 BACKGROUND: **Ranolazine** inhibits Na(+) current (I(Na)), but whether it can convert atrial fibrillation (AF) to sinus rhythm remains un …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  159
 
-Цитировать
 
-Делиться
+
+
 
 [Скрининг проаритмического потенциала на основе трехмерной модели сердца с помощью _компьютерного_ моделирования потенциала действия и электрокардиограмм.](https://pubmed.ncbi.nlm.nih.gov/31551815/)
 
@@ -3126,17 +3126,17 @@ Item in Clipboard
 
 We tested seven drugs in this study: dofetilide (high proarrhythmic risk), **ranolazine**, verapamil (QT increasing, but safe), bepridil, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  160
 
-Цитировать
 
-Делиться
+
+
 
 [Изменения глобальной электрической гетерогенности, связанные с дофетилидом, хинидином, **ранолазином** и верапамилом.](https://pubmed.ncbi.nlm.nih.gov/31539628/)
 
@@ -3146,17 +3146,17 @@ Item in Clipboard
 
 METHODS: We analyzed double-blind placebo-controlled trial data from healthy volunteers given 1 dose of placebo, dofetilide, quinidine, **r** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  161
 
-Цитировать
 
-Делиться
+
+
 
 [Характеристика нового варианта LQT3 с селективной эффективностью лечения мексилетином.](https://pubmed.ncbi.nlm.nih.gov/31506521/)
 
@@ -3166,17 +3166,17 @@ Item in Clipboard
 
 Patch clamp analysis revealed that A1656D variant exerted gain-of-function effects including hyperpolarizing shift of the voltage-dependence …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  162
 
-Цитировать
 
-Делиться
+
+
 
 [Классификация блокады калиевых каналов hERG, вызванной лекарственными средствами, по электрокардиографическим признакам зубца T с использованием искусственных нейронных сетей.](https://pubmed.ncbi.nlm.nih.gov/31347753/)
 
@@ -3186,17 +3186,17 @@ Item in Clipboard
 
 This study proposes an artificial neural network (ANN) for noninvasive electrocardiography-based classification of the hERG potassium-channe …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  163
 
-Цитировать
 
-Делиться
+
+
 
 [Электрофизиологическая характеристика реакции на лекарственные препараты в кардиомиоцитах, полученных из hSC, с использованием чувствительных к напряжению оптических платформ.](https://pubmed.ncbi.nlm.nih.gov/31319140/)
 
@@ -3206,17 +3206,17 @@ Item in Clipboard
 
 Similarly, four mixed ion channel blockers (flecainide, moxifloxacin, quinidine, and **ranolazine**) had comparable effects in all platfo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  164
 
-Цитировать
 
-Делиться
+
+
 
 [Скорость вектора T: новый биомаркер ЭКГ для определения влияния лекарственных препаратов на реполяризацию желудочков сердца.](https://pubmed.ncbi.nlm.nih.gov/31283756/)
 
@@ -3226,17 +3226,17 @@ Item in Clipboard
 
 For drugs eliciting block of the inward sodium or calcium currents (mexiletine, lidocaine), the TrX effect profiles were consistent with acc …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  165
 
-Цитировать
 
-Делиться
+
+
 
 [Специфическая терапия, основанная на генотипе при злокачественной форме удлиненного интервала QT3, несущей мутацию V411M.](https://pubmed.ncbi.nlm.nih.gov/31257342/)
 
@@ -3246,17 +3246,17 @@ Item in Clipboard
 
 In this type, patients are sensitive to vagal stimuli and episodes tend to occur at rest. Sodium channel blocking compounds, such as **rano** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  166
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность препарата в отношении ингибирования позднего тока Na <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+</font></font></sup> чувствительна к модификатору пропускания и области тока, в которой измерялись эффекты препарата.](https://pubmed.ncbi.nlm.nih.gov/31255744/)
 
@@ -3266,33 +3266,33 @@ Item in Clipboard
 
 METHODS: Whole cell voltage clamp recordings were performed on cells expressing Na(V)1.5 alpha- and beta1-subunits to study: 1) the impact o …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  167
 
-Цитировать
 
-Делиться
+
+
 
 [Деэскалация антиангинальных препаратов после успешного хронического тотального окклюзионного чрескожного коронарного вмешательства: частота и связь с состоянием здоровья.](https://pubmed.ncbi.nlm.nih.gov/31152872/)
 
 Кинтар М., Хираи Т., Арнольд С.В., Шихи Дж., Сапонтис Дж., Джонс П., Танг Й., Ломбарди В., Кармпалиотис Д., Мозес Дж., Паттерсон К., Николсон В.Дж., Коэн Д.Дж., Спертус Дж.А., Грэнтем Дж.А., Солсбери А.С. Qintar M, et al. Am Heart J. 2019 авг.;214:1-8. doi: 10.1016/j.ahj.2019.04.013. Epub 2019 апр. 26. Am Heart J. 2019. PMID: 31152872 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  168
 
-Цитировать
 
-Делиться
+
+
 
 [Машинное обучение в разработке лекарственных препаратов: характеристика влияния 30 лекарственных препаратов на интервал QT с использованием регрессии гауссовского процесса, анализа чувствительности и количественной оценки неопределенности.](https://pubmed.ncbi.nlm.nih.gov/32863454/)
 
@@ -3302,17 +3302,17 @@ Item in Clipboard
 
 In a final validation study, we demonstrate an excellent agreement between our predicted QT interval changes and the changes observed in a r …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  169
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** : многогранная роль за пределами ишемической болезни сердца, современный взгляд.](https://pubmed.ncbi.nlm.nih.gov/31007857/)
 
@@ -3322,17 +3322,17 @@ Item in Clipboard
 
 **Ranolazine** blocks the late Na + current and prevents the rise of cytosolic calcium. ...Pilot studies have shown that **ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  170
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** : влияние на качество жизни пациентов со стабильной стенокардией, результаты наблюдательного исследования в Австрии - исследования ARETHA AT.](https://pubmed.ncbi.nlm.nih.gov/30963332/)
 
@@ -3342,17 +3342,17 @@ Item in Clipboard
 
 OBJECTIVE: Assessment of treatment routine and outcome for **ranolazine** in clinical practice as second-line treatment for stable angina …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  171
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на производные аргинина в плазме и изопростана 8-изо-PGF(2альфа) в моче у пациентов с инфарктом миокарда в рандомизированном исследовании RIMINI.](https://pubmed.ncbi.nlm.nih.gov/30952941/)
 
@@ -3362,49 +3362,49 @@ Item in Clipboard
 
 At the end of the study and compared to baseline, homoarginine levels had increased in the control group. This was not the case in **ranola** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  172
 
-Цитировать
 
-Делиться
+
+
 
 [Стенокардия после неполной реваскуляризации: терапевтические решения.](https://pubmed.ncbi.nlm.nih.gov/30948950/)
 
 Натале Э., Деница Тинти М. Natale E, et al. Eur Heart J Suppl. 2019 Mar;21(Suppl B):B57-B58. doi: 10.1093/eurheartj/suz010. Epub 2019 Mar 29. Eur Heart J Suppl. 2019. PMID: 30948950 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  173
 
-Цитировать
 
-Делиться
+
+
 
 [Физическая активность после чрескожного коронарного вмешательства при хронической тотальной окклюзии и ее связь с состоянием здоровья.](https://pubmed.ncbi.nlm.nih.gov/30922149/)
 
 Пери-Оконни П.А., Спертус Дж.А., Грэнтем Дж.А., Гош К., Киртане А., Сапонтис Дж., Ломбарди В., Кармпалиотис Д., Мозес Дж., Николсон В., Солсбери А.С. Peri-Okonny PA, et al. J Am Heart Assoc. 2 апреля 2019 г.;8(7):e011629. doi: 10.1161/JAHA.118.011629. J Am Heart Assoc. 2019. PMID: 30922149 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  174
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакокинетика однократного приема пероральной дозы **ранолазина** у пациентов, находящихся на поддерживающем гемодиализе.](https://pubmed.ncbi.nlm.nih.gov/30909832/)
 
@@ -3414,17 +3414,17 @@ Item in Clipboard
 
 PURPOSE: **Ranolazine** is a novel anti-angina treatment approved in the United States for chronic stable angina. ...The time to maximum …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  175
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** снижает стенокардию у женщин с ишемической болезнью сердца: результаты открытого многоцентрового исследования.](https://pubmed.ncbi.nlm.nih.gov/30888919/)
 
@@ -3434,17 +3434,17 @@ Item in Clipboard
 
 Background: Persistent angina is prevalent in women, who more often present with atypical angina, and experience less relief from antiangina …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  176
 
-Цитировать
 
-Делиться
+
+
 
 [Эффект противовоспалительной активности **ранолазина** в модели воспаления у крыс.](https://pubmed.ncbi.nlm.nih.gov/30778009/)
 
@@ -3454,17 +3454,17 @@ Item in Clipboard
 
 BACKGROUND & OBJECTIVES: Inflammatory processes are a recognized feature of atherosclerotic lesions. **Ranolazine** inhibits the infl …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  177
 
-Цитировать
 
-Делиться
+
+
 
 [Взаимосвязь между оптимизмом и результатами лечения у пациентов с хронической стенокардией.](https://pubmed.ncbi.nlm.nih.gov/30771861/)
 
@@ -3474,17 +3474,17 @@ Item in Clipboard
 
 We performed a post-hoc analysis on the association between optimism and outcomes in **Ranolazine** in Patients with Incomplete Revascula …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  178
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на уровень гемоглобина A1c у ветеранов.](https://pubmed.ncbi.nlm.nih.gov/30766357/)
 
@@ -3494,17 +3494,17 @@ Item in Clipboard
 
 In this observational study, **ranolazine** was associated with a statistically significant decrease in HbA(1c) among veterans with diabe …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  179
 
-Цитировать
 
-Делиться
+
+
 
 [Платформа для создания камерно-специфических тканей сердца и моделирования заболеваний.](https://pubmed.ncbi.nlm.nih.gov/30686581/)
 
@@ -3514,17 +3514,17 @@ Item in Clipboard
 
 We report, for the first time, engineering of heteropolar cardiac tissues containing distinct atrial and ventricular ends, and we demonstrat …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  180
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние дофетилида и **ранолазина** на частоту мерцательной аритмии в модели лошади с острой индуцированной мерцательной аритмией.](https://pubmed.ncbi.nlm.nih.gov/30661267/)
 
@@ -3534,17 +3534,17 @@ Item in Clipboard
 
 METHODS AND RESULTS: Eight horses were subjected to pacing-induced AF on 4 separate days. Saline (control), dofetilide, **ranolazine**, o …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  181
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** - функционализированные медные наночастицы в качестве колориметрического сенсора для обнаружения следовых количеств As(3).](https://pubmed.ncbi.nlm.nih.gov/30634575/)
 
@@ -3554,17 +3554,17 @@ Item in Clipboard
 
 This study involves environmentally friendly synthesis of copper nanoparticles in aqueous medium without inert gas protection, using **rano** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  182
 
-Цитировать
 
-Делиться
+
+
 
 [Антиангинальный препарат **ранолазин** смягчает неалкогольную жировую болезнь печени, вызванную ожирением, и повышает активность пируватдегидрогеназы печени.](https://pubmed.ncbi.nlm.nih.gov/30626749/)
 
@@ -3574,17 +3574,17 @@ Item in Clipboard
 
 **Ranolazine**'**s** actions on hepatic PDH activity may be directly mediated, as **ranolazine** treatment reduced PDH phosphorylat …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  183
 
-Цитировать
 
-Делиться
+
+
 
 [Сердечно-сосудистые препараты снижают резистентность миокарда к повреждениям, вызванным ишемией и реперфузией, в модели повторяющейся окклюзии у крыс.](https://pubmed.ncbi.nlm.nih.gov/30613411/)
 
@@ -3594,17 +3594,17 @@ Item in Clipboard
 
 Treatment groups underwent RO and additionally received nitroglycerin (NTG), metoprolol, verapamil (VER), **ranolazine** (RAN) or candesa …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  184
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на гликемию у взрослых с диабетом и без него: метаанализ рандомизированных контролируемых исследований.](https://pubmed.ncbi.nlm.nih.gov/30613407/)
 
@@ -3614,17 +3614,17 @@ Item in Clipboard
 
 BACKGROUND: **Ranolazine** is an antianginal drug reported to have hypoglycaemic effects. ...RESULTS: We identified seven trials includin …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  185
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** предотвращает гипертрофию сердца и сердечную недостаточность, вызванные перегрузкой давлением, путем восстановления нарушенного обмена Na(+) и Ca(2+).](https://pubmed.ncbi.nlm.nih.gov/30488495/)
 
@@ -3634,17 +3634,17 @@ Item in Clipboard
 
 In this study, we investigated the effects of **ranolazine** on pressure overload-induced cardiac hypertrophy and heart failure in mice. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  186
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка блокады многоионных каналов в рандомизированном исследовании фазы I: результаты исследования по проверке биомаркеров ЭКГ фазы I CiPA.](https://pubmed.ncbi.nlm.nih.gov/30447156/)
 
@@ -3656,33 +3656,33 @@ Item in Clipboard
 
 This study included three balanced blockers in a 10-subject-per-drug parallel design; lopinavir/ritonavir and verapamil met the primary end …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  187
 
-Цитировать
 
-Делиться
+
+
 
 [Измененный гомеостаз Ca <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2+</font></font></sup> и Na <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+</font></font></sup> при гипертрофической кардиомиопатии человека: значение для аритмогенеза.](https://pubmed.ncbi.nlm.nih.gov/30420810/)
 
 Коппини Р., Феррантини С., Муджелли А., Поггези С., Чербай Э. Coppini R, et al. Front Physiol. 2018 16 октября;9:1391. doi: 10.3389/fphys.2018.01391. eCollection 2018. Front Physiol. 2018. PMID: 30420810 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  188
 
-Цитировать
 
-Делиться
+
+
 
 [Изогенные пары hiPSC-CM с гипертрофической кардиомиопатией/ЛЖНК-ассоциированной мутацией ACTC1 E99K выявляют дифференциальные функциональные дефициты.](https://pubmed.ncbi.nlm.nih.gov/30392975/)
 
@@ -3692,17 +3692,17 @@ Item in Clipboard
 
 Mechanistic insight from Ca(2+) handling expression studies prompted pharmacological rescue experiments, wherein dual dantroline/**ranolazi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  189
 
-Цитировать
 
-Делиться
+
+
 
 [Открытое исследование **ранолазина** для лечения врожденной парамиотонии.](https://pubmed.ncbi.nlm.nih.gov/30390395/)
 
@@ -3712,17 +3712,17 @@ Item in Clipboard
 
 METHODS: We conducted an open-label, single-center trial of **ranolazine** to evaluate efficacy and tolerability in patients with PMC. .. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  190
 
-Цитировать
 
-Делиться
+
+
 
 [Микрососудистая ишемия у пациентов с успешным чрескожным коронарным вмешательством: эффекты **ранолазина** и изосорбида-5-мононитрата.](https://pubmed.ncbi.nlm.nih.gov/30338825/)
 
@@ -3732,17 +3732,17 @@ Item in Clipboard
 
 Clinical assessment, symptom-limited EST, echocardiographic color-Doppler, with tissue-Doppler examination, and coronary microvascular dilat …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  191
 
-Цитировать
 
-Делиться
+
+
 
 [Поздняя блокада натриевых каналов улучшает стенокардию и перфузию миокарда у пациентов с тяжелой коронарной микрососудистой дисфункцией: оценка синдрома ишемии у женщин - дополнительное исследование коронарной сосудистой дисфункции.](https://pubmed.ncbi.nlm.nih.gov/30293664/)
 
@@ -3752,33 +3752,33 @@ Item in Clipboard
 
 METHODS: Symptomatic patients without obstructive CAD and limited MPRI in a randomized, double-blind, crossover trial of **ranolazine** v …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  192
 
-Цитировать
 
-Делиться
+
+
 
 [Низкое диастолическое артериальное давление связано со стенокардией у пациентов с хронической ишемической болезнью сердца.](https://pubmed.ncbi.nlm.nih.gov/30190000/)
 
 Пери-Оконни П.А., Патель К.К., Джонс ПГ, Бридинг Т., Гош КЛ, Спертус ДЖ.А., Арнольд СВ. Peri-Okonny PA, et al. J Am Coll Cardiol. 2018 11 сентября;72(11):1227-1232. doi: 10.1016/j.jacc.2018.05.075. J Am Coll Cardiol. 2018. PMID: 30190000 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  193
 
-Цитировать
 
-Делиться
+
+
 
 [Антиангинальные препараты — убеждения и доказательства: систематический обзор, охватывающий 50 лет медицинского лечения.](https://pubmed.ncbi.nlm.nih.gov/30165445/)
 
@@ -3788,17 +3788,17 @@ Item in Clipboard
 
 Current guidelines recommend pharmacological therapy with drugs classified as being first line (beta blockers, calcium channel blockers, sho …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  194
 
-Цитировать
 
-Делиться
+
+
 
 [Аритмии предшествуют кардиомиопатии и ремоделированию белков, обрабатывающих Ca <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2+,</font></font></sup> в новой модели синдрома удлиненного интервала QT.](https://pubmed.ncbi.nlm.nih.gov/30144447/)
 
@@ -3808,17 +3808,17 @@ Item in Clipboard
 
 In addition, Scn5a(+/deltaQKP) cardiomyocytes showed larger Ca(2+) waves, correlated with the presence of afterdepolarizations during action …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  195
 
-Цитировать
 
-Делиться
+
+
 
 [Повышение уровня креатинкиназы, вызванное **ранолазином , при отсутствии приема статинов.**](https://pubmed.ncbi.nlm.nih.gov/30131925/)
 
@@ -3828,33 +3828,33 @@ Item in Clipboard
 
 **Ranolazine** received Food and Drug Administration (FDA) approval in 2006 for the treatment of chronic angina. ...In the absence of con …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  196
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** у пациентов с имплантированными кардиовертерами-дефибрилляторами: готовы ли к применению?](https://pubmed.ncbi.nlm.nih.gov/30071994/)
 
 Альберт СМ. Albert CM. J Am Coll Cardiol. 2018 7 августа;72(6):646-649. doi: 10.1016/j.jacc.2018.06.008. J Am Coll Cardiol. 2018. PMID: 30071994 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  197
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** у пациентов с высоким риском с имплантированными кардиовертерами-дефибрилляторами: исследование RAID.](https://pubmed.ncbi.nlm.nih.gov/30071993/)
 
@@ -3864,17 +3864,17 @@ Zareba W, Daubert JP, Beck CA, Huang DT, Alexis JD, Brown MW, Pyykkonen K, McNit
 
 The blinded study drug was discontinued in 199 (39.6%) patients receiving placebo and in 253 (49.6%) patients receiving **ranolazine** (p …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  198
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** для профилактики мерцательной аритмии после операции на сердце: систематический обзор.](https://pubmed.ncbi.nlm.nih.gov/30009098/)
 
@@ -3884,17 +3884,17 @@ Item in Clipboard
 
 Мы выявили четыре исследования с участием в общей сложности 754 пациентов, из которых 300 пациентов принимали **ранолазин** ; наблюдалось снижение частоты ФППО на 14% …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  199
 
-Цитировать
 
-Делиться
+
+
 
 [Лечение стенокардии: где мы находимся?](https://pubmed.ncbi.nlm.nih.gov/29874661/)
 
@@ -3904,17 +3904,17 @@ Item in Clipboard
 
 В текущих рекомендациях препараты классифицируются как препараты первого выбора (бета-блокаторы, блокаторы кальциевых каналов и нитраты короткого действия) или …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  200
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** при стенокардии при гипертрофической кардиомиопатии.](https://pubmed.ncbi.nlm.nih.gov/29850265/)
 
@@ -3924,13 +3924,13 @@ Item in Clipboard
 
 **Ранолазин** является антиангинальным средством и действует путем ингибирования позднего натриевого тока (I(NaL)). ...В заключение, **ранолазин** можно рассматривать …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
 
-Цитировать
+
+
+
+
 
 Копировать
 
@@ -3938,10 +3938,10 @@ Item in Clipboard
 
 Формат: АМА АПА MLA НЛМ
 
-Делиться
 
--   
--   
+
+- 
+- 
 
 Постоянная ссылка
 
@@ -3949,25 +3949,25 @@ Item in Clipboard
 
  201
 
-Цитировать
 
-Делиться
+
+
 
 [Карьерные предпочтения и восприятие кардиологии среди стажеров по внутренним болезням в США: факторы, влияющие на выбор карьеры в области кардиологии.](https://pubmed.ncbi.nlm.nih.gov/29847674/)
 
 Дуглас PS, Жешут AK, Бейри Мерц CN, Дювернуа CS, Льюис SJ, Уолш MN, Гиллам L; Целевая группа Американского колледжа кардиологии по вопросам разнообразия и инклюзивности и Совет женщин-кардиологов Американского колледжа кардиологии. Дуглас PS и др. ДЖАМА Кардиол. 1 августа 2018 г.;3(8):682-691. doi: 10.1001/jamacardio.2018.1279. JAMA Cardiol. 2018. PMID: 29847674 Бесплатная статья PMC.
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  202
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** .](https://pubmed.ncbi.nlm.nih.gov/31643267/)
 
@@ -3977,17 +3977,17 @@ Item in Clipboard
 
 **Ранолазин** — уникальный, перорально доступный антиангинальный препарат. Хроническая терапия **ранолазином** не связана с сывороточным ферментом …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  203
 
-Цитировать
 
-Делиться
+
+
 
 [Редактирование CRISPR/Cas9 в плюрипотентных стволовых клетках-кардиомиоцитах человека выявляет аритмии, гипоконтрактильность и истощение энергии как потенциальные терапевтические цели при гипертрофической кардиомиопатии.](https://pubmed.ncbi.nlm.nih.gov/29741611/)
 
@@ -3997,17 +3997,17 @@ Item in Clipboard
 
 Функциональная оценка подтвердила модель истощения энергии из-за более высокой метаболической активности дыхания, сопровождающейся отклонениями в кале…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  204
 
-Цитировать
 
-Делиться
+
+
 
 [Кардиотоксические эффекты новых одобренных анти-ErbB2-агентов и обратные кардиопротекторные эффекты **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/29719406/)
 
@@ -4017,17 +4017,17 @@ Item in Clipboard
 
 Мы впервые исследовали потенциальные кардиотоксические эффекты пертузумаба и TDM1, которые еще полностью не изучены, и мы тестируем…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  205
 
-Цитировать
 
-Делиться
+
+
 
 [Межсайтовая надежность анализов безопасности на основе кардиомиоцитов, полученных из человеческих индуцированных плюрипотентных стволовых клеток, с использованием микроэлектродных матриц: результаты слепого пилотного исследования CiPA.](https://pubmed.ncbi.nlm.nih.gov/29718449/)
 
@@ -4037,17 +4037,17 @@ Item in Clipboard
 
 Препараты были выбраны для определения чувствительности анализа выраженных реполяризующих токов (E-4031 для IKr, JNJ303 для IKs) и деполяризующего тока…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  206
 
-Цитировать
 
-Делиться
+
+
 
 [Стабильная ишемическая болезнь сердца: лечение.](https://pubmed.ncbi.nlm.nih.gov/29671538/)
 
@@ -4057,17 +4057,17 @@ Item in Clipboard
 
 Антиангинальные препараты следует добавлять поэтапно, начиная с бета-блокатора. Блокаторы кальциевых каналов, нитраты и **ран** …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  207
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** : настоящий плюрипотентный сердечно-сосудистый препарат или мастер на все руки, не умеющий ничего делать?](https://pubmed.ncbi.nlm.nih.gov/29666676/)
 
@@ -4077,17 +4077,17 @@ Item in Clipboard
 
 However, commonly used agents such as beta-blockers and calcium channel blockers reduce blood pressure in patients whose resting pressures a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  208
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на желудочковые аритмии — систематический обзор.](https://pubmed.ncbi.nlm.nih.gov/29657587/)
 
@@ -4097,17 +4097,17 @@ Item in Clipboard
 
 **Ranolazine** is a new medication for the treatment of refractory angina. ...The existing data highlight the anti-arrhythmic properties …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  209
 
-Цитировать
 
-Делиться
+
+
 
 [Динамическое восстановление потенциала действия способствует механическому восстановлению в миоцитах правого желудочка у крыс с легочной гипертензией.](https://pubmed.ncbi.nlm.nih.gov/29593564/)
 
@@ -4117,17 +4117,17 @@ Item in Clipboard
 
 APD90 restitution was unchanged by exposure to the late Na(+)-channel blocker (5 muM) **ranolazine** or the intracellular Ca(2+) buffer B …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  210
 
-Цитировать
 
-Делиться
+
+
 
 [Поздние ингибиторы натриевого тока для лечения обструкции, вызванной физической нагрузкой, при гипертрофической кардиомиопатии: исследование in vitro на миокарде человека.](https://pubmed.ncbi.nlm.nih.gov/29579779/)
 
@@ -4137,17 +4137,17 @@ Item in Clipboard
 
 EXPERIMENTAL APPROACH: The electrophysiological and mechanical responses to beta-adrenoceptor stimulation were studied in human myocardium f …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  211
 
-Цитировать
 
-Делиться
+
+
 
 [Обоснование и дизайн исследования **ранолазина** PH-RV: многоцентровое рандомизированное и плацебо-контролируемое исследование **ранолазина** для улучшения функции ПЖ у пациентов с легочной гипертензией, не относящейся к группе 2.](https://pubmed.ncbi.nlm.nih.gov/29531764/)
 
@@ -4157,17 +4157,17 @@ Item in Clipboard
 
 We aim to study the effect of **ranolazine** on RV function using cardiovascular magnetic resonance (CMR) in patients with pulmonary hype …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  212
 
-Цитировать
 
-Делиться
+
+
 
 [Антиоксидантная защита и защита от сердечных аритмий: уроки млекопитающего, впадающего в спячку (сурка).](https://pubmed.ncbi.nlm.nih.gov/29490168/)
 
@@ -4177,17 +4177,17 @@ EADs были устранены путем ингибирования CaMKII (�
 
 The EADs were eliminated by inhibiting CaMKII (with KN-93), l-type Ca current (with nifedipine), or late Na(+) current (with **ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  213
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность **ранолазина** в отношении E1784K изменяется под воздействием температуры и кальция.](https://pubmed.ncbi.nlm.nih.gov/29483621/)
 
@@ -4197,17 +4197,17 @@ Item in Clipboard
 
 Both elevated temperature and cytosolic calcium hampered the capacity of **Ranolazine** to suppress E1784K late I(Na). In-silico action p …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  214
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** ослабляет вызванную трастузумабом сердечную дисфункцию, модулируя выработку активных форм кислорода.](https://pubmed.ncbi.nlm.nih.gov/29467663/)
 
@@ -4217,17 +4217,17 @@ Item in Clipboard
 
 Since ErbB2 can modulate ROS signaling, we tested whether trastuzumab cardiotoxicity could be blunted by **ranolazine** via redox-mediate …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  215
 
-Цитировать
 
-Делиться
+
+
 
 [Ежедневная активность, измеряемая с помощью носимых устройств, как новый способ измерения эффекта лечения у пациентов с коронарной микрососудистой дисфункцией: подисследование рандомизированного контролируемого перекрестного исследования.](https://pubmed.ncbi.nlm.nih.gov/29263019/)
 
@@ -4237,17 +4237,17 @@ Item in Clipboard
 
 METHODS: We conducted a substudy in a randomized, double-blinded, placebo-controlled, crossover trial of participants with angina and corona …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  216
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение двух высокоавтоматизированных алгоритмов ЭКГ для обнаружения блокады ионных каналов сердца, вызванной лекарственными препаратами.](https://pubmed.ncbi.nlm.nih.gov/29127703/)
 
@@ -4257,17 +4257,17 @@ Item in Clipboard
 
 US Food and Drug Administration (FDA) investigators recently demonstrated in a crossover study that early (J-T(peak) c) and late (T(peak) -T …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  217
 
-Цитировать
 
-Делиться
+
+
 
 [Миокардиальный мост: преодоление дифференциальной диагностики.](https://pubmed.ncbi.nlm.nih.gov/29079674/)
 
@@ -4277,17 +4277,17 @@ Item in Clipboard
 
 His chest pain was characterised as 'squeezing', lasting 10 min and typically occurred on awakening. Medications included isosorbide, nitrog …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  218
 
-Цитировать
 
-Делиться
+
+
 
 [Антиаритмические эффекты комбинированного применения дофетилида и **ранолазина** в модели остро индуцированной фибрилляции предсердий у лошадей.](https://pubmed.ncbi.nlm.nih.gov/29068807/)
 
@@ -4297,17 +4297,17 @@ Item in Clipboard
 
 The purpose of this study was to investigate whether the effective doses of dofetilide and **ranolazine** can be reduced if the drugs are …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  219
 
-Цитировать
 
-Делиться
+
+
 
 [Стабильная ишемическая болезнь сердца у женщин: современные перспективы.](https://pubmed.ncbi.nlm.nih.gov/29033611/)
 
@@ -4317,17 +4317,17 @@ Item in Clipboard
 
 Guidelines-directed medical therapy including aspirin, statins, beta-blocker therapy, calcium channel blockers and **ranolazine** should …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  220
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка нескольких алгоритмов измерения интервала JTpeak с поправкой на частоту сердечных сокращений.](https://pubmed.ncbi.nlm.nih.gov/29021091/)
 
@@ -4337,17 +4337,17 @@ Item in Clipboard
 
 We provide a description of the drug-induced placebo-corrected changes from baseline for dofetilide, quinidine, **ranolazine**, and verap …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  221
 
-Цитировать
 
-Делиться
+
+
 
 [Выраженная гетерогенность зубца Т, вызванная физической нагрузкой, у пациентов с симптоматическим диабетом и стенозом коронарных артерий, не ограничивающим кровоток.](https://pubmed.ncbi.nlm.nih.gov/28949056/)
 
@@ -4357,17 +4357,17 @@ Item in Clipboard
 
 METHODS: Cases were all patients (n = 20) with analyzable ECG recordings during both rest and ETT who were enrolled in the Effects of **Ran** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  222
 
-Цитировать
 
-Делиться
+
+
 
 [Нацеливание на метаболическую модуляцию и митохондриальную дисфункцию при лечении сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/28933367/)
 
@@ -4377,17 +4377,17 @@ Item in Clipboard
 
 Therefore, the development of potential metabolic therapeutics has commenced including trimetazidine, **ranolazine** and perhexiline, as …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  223
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование катаболизма липидов повышает чувствительность клеток рака предстательной железы к антиандрогенной блокаде.](https://pubmed.ncbi.nlm.nih.gov/28915573/)
 
@@ -4397,17 +4397,17 @@ Item in Clipboard
 
 To better understand the clinical implications of these findings, we have evaluated fat oxidation inhibitors (etomoxir, **ranolazine** an …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  224
 
-Цитировать
 
-Делиться
+
+
 
 [Остаточная стенокардия после планового чрескожного коронарного вмешательства у пациентов с сахарным диабетом.](https://pubmed.ncbi.nlm.nih.gov/28904076/)
 
@@ -4417,17 +4417,17 @@ Item in Clipboard
 
 Patients with DM were more commonly prescribed calcium channel blockers and long-acting nitrates at discharge (DM versus not: 27.9% versus 2 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  225
 
-Цитировать
 
-Делиться
+
+
 
 [Экспертный консенсусный документ: «Бриллиантовый» подход к персонализированному лечению стенокардии.](https://pubmed.ncbi.nlm.nih.gov/28880025/)
 
@@ -4437,17 +4437,17 @@ Item in Clipboard
 
 In clinical guidelines, drugs for symptomatic angina are classified as being first choice (beta-blockers, calcium-channel blockers, short-ac …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  226
 
-Цитировать
 
-Делиться
+
+
 
 [Подавление постоянных внутренних токов натрия предотвращает миотонию.](https://pubmed.ncbi.nlm.nih.gov/28833464/)
 
@@ -4457,17 +4457,17 @@ Item in Clipboard
 
 Highlighting the significance of this mechanism, we found that **ranolazine** and elevated serum divalent cations eliminate myotonia by i …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  227
 
-Цитировать
 
-Делиться
+
+
 
 [Релаксация и роль кальция в изолированном сокращающемся миокарде у пациентов с гипертонической болезнью сердца и сердечной недостаточностью с сохраненной фракцией выброса.](https://pubmed.ncbi.nlm.nih.gov/28784688/)
 
@@ -4477,17 +4477,17 @@ Item in Clipboard
 
 Quantitative polymerase chain reaction was used to measure expression levels of key ion transport proteins. The lusitropic effect of Na(+)-i …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  228
 
-Цитировать
 
-Делиться
+
+
 
 [Фенотипическая изменчивость кардиомиоцитов, полученных из человеческих индуцированных плюрипотентных стволовых клеток LQT3, и их реакция на антиаритмическую фармакологическую терапию: подход in silico.](https://pubmed.ncbi.nlm.nih.gov/28756098/)
 
@@ -4497,17 +4497,17 @@ Item in Clipboard
 
 Mexiletine stops spontaneous APs in more LQT3 hiPSC-CMs models than **ranolazine** (784/1,401 vs 53/1,401) due to its stronger action on …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  229
 
-Цитировать
 
-Делиться
+
+
 
 [Открытое исследование **ранолазина** для лечения врожденной миотонии.](https://pubmed.ncbi.nlm.nih.gov/28710329/)
 
@@ -4521,17 +4521,17 @@ EMG of the abductor digiti minimi and tibialis anterior showed significantly red
 
 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  230
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** : безопасен и эффективен у пациентов с гипертонической кардиомиопатией и многократными эпизодами грозы.](https://pubmed.ncbi.nlm.nih.gov/28680620/)
 
@@ -4541,17 +4541,17 @@ Item in Clipboard
 
 A relatively novel anti-ischemic drug with also antiarrhythmic properties, **ranolazine**, may effectively suppress ventricular arrhythmi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  231
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** снижает гетерогенность реполяризации у симптоматических пациентов с диабетом и стенозом коронарных артерий, не ограничивающим кровоток.](https://pubmed.ncbi.nlm.nih.gov/28653394/)
 
@@ -4561,17 +4561,17 @@ Item in Clipboard
 
 RESULTS: At baseline, prior to randomization, TWH during rest was 54 7 muV and was not altered following placebo (47 6 muV, p = .47) but was …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  232
 
-Цитировать
 
-Делиться
+
+
 
 [Модуляция энергетики миокарда: важная категория средств в мультимодальном лечении ишемической болезни сердца и сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/28648439/)
 
@@ -4581,17 +4581,17 @@ Item in Clipboard
 
 Metabolic therapy is relatively a new modality, which functions through optimization of cardiac substrate metabolism. Among the metabolic th …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  233
 
-Цитировать
 
-Делиться
+
+
 
 [Различия между предсердиями и желудочками в потенциалзависимых токах Na(+) сердца кролика: основа для селективной предсердной блокады **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/28610990/)
 
@@ -4601,17 +4601,17 @@ Item in Clipboard
 
 **Ranolazine** caused a significantly greater negative shift in voltage of half-maximal inactivation in atrial cells than in ventricular …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  234
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность **ранолазина** в профилактике мерцательной аритмии после операции на сердце: результаты метаанализа.](https://pubmed.ncbi.nlm.nih.gov/28607609/)
 
@@ -4621,17 +4621,17 @@ Item in Clipboard
 
 Recent studies have demonstrated the benefit of **ranolazine** in preventing post-operative AF (POAF) in patients undergoing cardiac surg …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  235
 
-Цитировать
 
-Делиться
+
+
 
 [Эффект **ранолазина** у пациентов с болью в груди и нормальными коронарными сосудами — исследование, проведенное в больнице.](https://pubmed.ncbi.nlm.nih.gov/28571183/)
 
@@ -4641,17 +4641,17 @@ Item in Clipboard
 
 AIM: To evaluate the effect of **ranolazine** in patients with chest pain and normal epicardial coronaries (micro-vascular angina). ...At …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  236
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** способствует прекращению желудочковой тахиаритмии, связанной с острой ишемией миокарда, посредством подавления поздней I(Na)-опосредованной очаговой активности.](https://pubmed.ncbi.nlm.nih.gov/28552884/)
 
@@ -4661,33 +4661,33 @@ Item in Clipboard
 
 Rotors tended to decrease with progression of ischemia and disappeared after **ranolazine** perfusion. During constant pacing, **ranolaz** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  237
 
-Цитировать
 
-Делиться
+
+
 
 [Сложность применения **ранолазина** и фенитоина у младенца с синдромом удлиненного интервала QT 3-го типа.](https://pubmed.ncbi.nlm.nih.gov/28491780/)
 
 Тан РБ, Чакраварти С, Бусовски-МакНил М, Уолш А, Чеккин Ф. Tan RB, et al. Отчет о случае HeartRhythm, 17 октября 2016 г.;3(1):104-108. doi: 10.1016/j.hrcr.2016.10.001. eCollection, январь 2017 г. HeartRhythm Case Rep. 2016. PMID: 28491780 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  238
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** у пациентов с симптоматическим диабетом без обструктивной ишемической болезни сердца: влияние на микрососудистую и диастолическую функцию.](https://pubmed.ncbi.nlm.nih.gov/28473401/)
 
@@ -4697,33 +4697,33 @@ Item in Clipboard
 
 In addition, **ranolazine** was associated with an improvement in E/septal e' (P=0.001) and E/lateral e' (P=0.01). ...Patients with more …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  239
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** у больных диабетом со стабильной ишемической болезнью сердца: наибольшая эффективность связана с наибольшим метаболическим стрессом.](https://pubmed.ncbi.nlm.nih.gov/28473137/)
 
 Стоун Ф.Н. Stone PH. J Am Coll Cardiol. 2017 9 мая;69(18):2314-2316. doi: 10.1016/j.jacc.2017.03.532. J Am Coll Cardiol. 2017. PMID: 28473137 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  240
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** после неполной чрескожной коронарной реваскуляризации у пациентов с сахарным диабетом по сравнению с пациентами без него: исследование RIVER-PCI.](https://pubmed.ncbi.nlm.nih.gov/28473136/)
 
@@ -4733,17 +4733,17 @@ Item in Clipboard
 
 Interaction between baseline HbA(1c) and **ranolazine**'**s** effect on Seattle Angina Questionnaire angina frequency at 6 and 12 mont …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  241
 
-Цитировать
 
-Делиться
+
+
 
 [Антиангинальная эффективность и переносимость **ранолазина** в качестве дополнительного препарата к сопутствующим препаратам, в первую очередь метопрололу, у пациентов с хронической стабильной стенокардией: проспективное открытое исследование.](https://pubmed.ncbi.nlm.nih.gov/28405132/)
 
@@ -4753,17 +4753,17 @@ Item in Clipboard
 
 OBJECTIVE: To evaluate the efficacy and tolerability of **ranolazine** as an add-on drug in chronic stable angina patients and the impact …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  242
 
-Цитировать
 
-Делиться
+
+
 
 [Сердечная недостаточность модулирует электрофармакологические характеристики синоатриальных узлов.](https://pubmed.ncbi.nlm.nih.gov/28352365/)
 
@@ -4773,17 +4773,17 @@ Item in Clipboard
 
 Action potentials (APs) were recorded in isolated SANs from normal rabbits (control) and those with HF (rapid ventricular pacing for 4 weeks …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  243
 
-Цитировать
 
-Делиться
+
+
 
 [Эффекты **ранолазина** в модели диастолической дисфункции левого желудочка, вызванной доксорубицином.](https://pubmed.ncbi.nlm.nih.gov/28320043/)
 
@@ -4793,17 +4793,17 @@ Item in Clipboard
 
 After the assessment of diastolic dysfunction, the animals were treated with **ranolazine** (80 mg.kg(-1) , daily) for the following 4 we …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  244
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** предотвращает развитие фенотипа в мышиной модели гипертрофической кардиомиопатии.](https://pubmed.ncbi.nlm.nih.gov/28255011/)
 
@@ -4813,17 +4813,17 @@ Item in Clipboard
 
 Intact trabeculae from vehicle-treated mutants displayed inotropic insufficiency, increased diastolic tension, and premature contractions; …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  245
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка риска распространенного генетического варианта связана с удлинением интервала QT, вызванным приемом лекарств, и риском желудочковой тахикардии типа «пируэт»: пилотное исследование.](https://pubmed.ncbi.nlm.nih.gov/28213480/)
 
@@ -4833,17 +4833,17 @@ Item in Clipboard
 
 Genetic analysis of 22 subjects was performed in a secondary analysis of a randomized, double-blind, placebo-controlled, crossover trial of …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  246
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** при стабильной стенокардии.](https://pubmed.ncbi.nlm.nih.gov/28178363/)
 
@@ -4853,49 +4853,49 @@ Item in Clipboard
 
 However, the effects of **ranolazine** for people with angina are considered to be modest, with uncertain clinical relevance. ...We found …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  247
 
-Цитировать
 
-Делиться
+
+
 
 [Исправление к статье: **Ранолазин** способствует дифференцировке мышц и снижает окислительный стресс в клетках скелетных мышц C2C12.](https://pubmed.ncbi.nlm.nih.gov/28155172/)
 
 Терруцци И, Монтесано А, Сенези П, Ваканте Ф, Бенедини С, Лузи Л. Terruzzi I, et al. Эндокринология. 2017 октябрь;58(1):46. doi: 10.1007/s12020-017-1243-3. Endocrine. 2017. PMID: 28155172 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  248
 
-Цитировать
 
-Делиться
+
+
 
 [Поправка к статье: Улучшение субъективного благополучия при применении **ранолазина** у пациентов с хронической стенокардией и известной ишемией миокарда (исследование IMWELL).](https://pubmed.ncbi.nlm.nih.gov/28105560/)
 
 Баври А.А., Парк К.Е., Чой С.И., Махмуд А.Н., Вэнь Х, Эльгенди И.Ю. Bavry AA, et al. Cardiol Ther. 2017 июнь;6(1):89. doi: 10.1007/s40119-017-0083-9. Cardiol Ther. 2017. PMID: 28105560 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  249
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** и микрососудистая стенокардия по данным ПЭТ в отделении неотложной помощи: результаты пилотного рандомизированного контролируемого исследования.](https://pubmed.ncbi.nlm.nih.gov/28081848/)
 
@@ -4905,17 +4905,17 @@ Item in Clipboard
 
 Literature is scant regarding effective treatments. We explored the effect of **ranolazine** on coronary flow reserve (CFR) among symptom …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  250
 
-Цитировать
 
-Делиться
+
+
 
 [Улучшение субъективного благополучия при применении **ранолазина** у пациентов с хронической стенокардией и известной ишемией миокарда (исследование IMWELL).](https://pubmed.ncbi.nlm.nih.gov/28044265/)
 
@@ -4925,17 +4925,17 @@ Item in Clipboard
 
 INTRODUCTION: We aimed to assess if **ranolazine** would improve angina symptoms among patients with documented myocardial ischemia. ... …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  251
 
-Цитировать
 
-Делиться
+
+
 
 [Электрокардиографические биомаркеры для выявления поздней блокады натриевого тока, вызванной лекарственными средствами.](https://pubmed.ncbi.nlm.nih.gov/28036334/)
 
@@ -4945,49 +4945,49 @@ Item in Clipboard
 
 BACKGROUND: Drugs that prolong the heart rate corrected QT interval (QTc) on the electrocardiogram (ECG) by blocking the hERG potassium chan …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  252
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** при рефрактерной стенокардии у реципиента трансплантата сердца с васкулопатией аллотрансплантата сердца.](https://pubmed.ncbi.nlm.nih.gov/28035732/)
 
 Йенг ДФ, Тома М, Дэвис МК, Игнашевски А. Yeung DF, et al. Ам Дж Трансплантация. Май 2017 г.;17(5):1427-1428. дои: 10.1111/ajt.14190. Epub, 1 февраля 2017 г. Am J Transplant. 2017. PMID: 28035732 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  253
 
-Цитировать
 
-Делиться
+
+
 
 [Холинергические интернейроны усиливают кортикостриарные синаптические реакции в модели Q175 болезни Хантингтона.](https://pubmed.ncbi.nlm.nih.gov/28018188/)
 
 Танимура А., Лим С.А., Асевес Буэндиа Дж.Дж., Голдберг Дж.А., Сурмайер Дж.Дж. Tanimura A, et al. Front Syst Neurosci. 2016 16 декабря;10:102. doi: 10.3389/fnsys.2016.00102. eCollection 2016. Front Syst Neurosci. 2016. PMID: 28018188 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  254
 
-Цитировать
 
-Делиться
+
+
 
 [Деформация ткани миокарда уменьшается у пациентов с коронарной микрососудистой дисфункцией, но не устраняется лечением **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/28004395/)
 
@@ -4997,17 +4997,17 @@ Item in Clipboard
 
 HYPOTHESIS: We hypothesized that **ranolazine** would beneficially alter diastolic function in CMD. METHODS: To test this hypothesis, we …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  255
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** способствует дифференцировке мышц и снижает окислительный стресс в клетках скелетных мышц C2C12.](https://pubmed.ncbi.nlm.nih.gov/27933435/)
 
@@ -5017,17 +5017,17 @@ Item in Clipboard
 
 **Ranolazine** stimulated calcium signaling (calmodulin-dependent kinases) and reduced reactive oxygen species levels. Furthermore, **Ra** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  256
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** является эффективным и безопасным средством лечения взрослых с симптоматическими преждевременными сокращениями желудочков, вызванными триггерной эктопией.](https://pubmed.ncbi.nlm.nih.gov/27867290/)
 
@@ -5037,17 +5037,17 @@ Item in Clipboard
 
 Early and delayed afterdepolarizations (EAD/DAD) cause triggered ventricular ectopy. Because **ranolazine** (RAN) suppresses EAD/DAD, we …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  257
 
-Цитировать
 
-Делиться
+
+
 
 [Гипертермия влияет на эффекты препаратов, блокирующих натриевые каналы, в кардиомиоцитах, полученных из человеческих плюрипотентных стволовых клеток.](https://pubmed.ncbi.nlm.nih.gov/27829006/)
 
@@ -5057,33 +5057,33 @@ Item in Clipboard
 
 The effects of different concentrations of the antiarrhythmic drugs flecainide, lidocaine, ajmaline and the antianginal drug **ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  258
 
-Цитировать
 
-Делиться
+
+
 
 [Метаболическая поддержка сердца: дополнительная терапия при сердечной недостаточности?](https://pubmed.ncbi.nlm.nih.gov/27813339/)
 
 Хеггермонт ВА, Папагеоргиу АП, Хейманс С, ван Билсен М. Heggermont WA, et al. Eur J Heart Fail. 2016 Декабрь;18(12):1420-1429. doi: 10.1002/ejhf.678. Epub 2016 Ноябрь 4. Eur J Heart Fail. 2016. PMID: 27813339 Бесплатная статья. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  259
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование позднего натриевого тока ослабляет механизм ионной аритмии в желудочковых миоцитах, экспрессирующих мутацию LaminA-N195K.](https://pubmed.ncbi.nlm.nih.gov/27498076/)
 
@@ -5093,33 +5093,33 @@ Item in Clipboard
 
 Similarly, Lmna(N195K/N195K) ventricular myocytes exhibited significant (P <.005) prolongation of APD (time to 50% \[APD(50)\] and 90% \[APD …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  260
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** для лечения стенокардии или одышки у пациентов с гипертрофической кардиомиопатией (RHYME).](https://pubmed.ncbi.nlm.nih.gov/27737749/)
 
 Джентри JL 3-й, Менц RJ, Хердл М, Ван А. Gentry JL 3rd, et al. J Am Coll Cardiol. 2016 18 октября;68(16):1815-1817. doi: 10.1016/j.jacc.2016.07.758. J Am Coll Cardiol. 2016. PMID: 27737749 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  261
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** при врожденном синдроме удлиненного интервала QT типа III: экспериментальные и долгосрочные клинические данные.](https://pubmed.ncbi.nlm.nih.gov/27733495/)
 
@@ -5129,17 +5129,17 @@ Item in Clipboard
 
 METHODS AND RESULTS: We performed an experimental study of **ranolazine** in TSA201 cells expressing the D1790G mutation. We then perform …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  262
 
-Цитировать
 
-Делиться
+
+
 
 [Фактор роста фибробластов 23 нарушает регуляцию позднего тока натрия и гомеостаза кальция, усиливая аритмогенез в кардиомиоцитах легочных вен.](https://pubmed.ncbi.nlm.nih.gov/27713141/)
 
@@ -5149,33 +5149,33 @@ Item in Clipboard
 
 FGF23 (1 ng/mL)-treated PV cardiomyocytes had larger INa-Late, calcium transients, and mitochondrial ROS than controls. However, **ranolazi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  263
 
-Цитировать
 
-Делиться
+
+
 
 [**Обратимые инверсии зубца T с удлинением интервала QTc, вызванные ранолазином** ; Прогрессирующая мультифокальная лейкоэнцефалопатия, связанная с финголимодом; Энтеропатия, подобная спру, вызванная лозартаном; Псориазиформная кожная сыпь, вызванная ниволумабом; Реактивация гепатита B при лечении гепатита C симепревиром и софосбувиром.](https://pubmed.ncbi.nlm.nih.gov/27621502/)
 
 Манкано, Массачусетс. Mancano MA. Хосп Фарм. Ноябрь 2015 г.;50(11):965-8. doi: 10.1310/hpj5011-965. Epub, 24 ноября 2015 г. Hosp Pharm. 2015. PMID: 27621502 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  264
 
-Цитировать
 
-Делиться
+
+
 
 [Использование ратиометрических измерений флуоресценции чувствительного к напряжению красителя Di-4-ANEPPS для изучения характеристик потенциала действия и эффектов лекарственных средств на кардиомиоцитах, полученных из человеческих индуцированных плюрипотентных стволовых клеток.](https://pubmed.ncbi.nlm.nih.gov/27621282/)
 
@@ -5185,17 +5185,17 @@ Item in Clipboard
 
 Both cell types showed a rate dependence analogous to that of adult human cardiac cells. Furthermore, nifedipine, **ranolazine**, and E40 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  265
 
-Цитировать
 
-Делиться
+
+
 
 [**Терапия ранолазином** снижает частоту инфаркта миокарда без подъема сегмента ST и нестабильной стенокардии у пациентов с ишемической болезнью сердца, страдающих стенокардией.](https://pubmed.ncbi.nlm.nih.gov/27574382/)
 
@@ -5205,17 +5205,17 @@ Item in Clipboard
 
 High sympathetic tone and cardiac autonomic neuropathy (CAN) are associated with major adverse cardiac events (MACE). We have shown **ranol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  266
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** ослабил повышенный уровень норадреналина и натрийуретического пептида типа B-45 в плазме, улучшив функцию сердца у крыс с хронической ишемической сердечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/27158417/)
 
@@ -5225,17 +5225,17 @@ Item in Clipboard
 
 **Ranolazine** improves the left ventricular function likely by decreasing heightened NE and BNP-45 induced by CHF. Therefore, our data i …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  267
 
-Цитировать
 
-Делиться
+
+
 
 [Ультразвук модулирует токи ионных каналов.](https://pubmed.ncbi.nlm.nih.gov/27112990/)
 
@@ -5245,33 +5245,33 @@ Item in Clipboard
 
 The effects were reversible upon repeated stimulation and were abolished when a channel blocker (**ranolazine** to block NaV1.5, BaCl2 to …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  268
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакологическое лечение гипертрофической кардиомиопатии: современная практика и новые перспективы.](https://pubmed.ncbi.nlm.nih.gov/27109894/)
 
 Аммирати Э, Контри Р, Коппини Р, Чекки Ф, Фриджерио М, Оливото И. Ammirati E, et al. Eur J Heart Fail. 2016 сен;18(9):1106-18. doi: 10.1002/ejhf.541. Epub 2016 апр. 24. Eur J Heart Fail. 2016. PMID: 27109894 Бесплатная статья. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  269
 
-Цитировать
 
-Делиться
+
+
 
 [Снижение иммунореактивности натрийуретического пептида типа В у крыс с легочной артериальной гипертензией после лечения **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/27051563/)
 
@@ -5281,17 +5281,17 @@ Item in Clipboard
 
 Notably, RV failure and lethal arrhythmias are major contributors to cardiac death in PAH that are not directly addressed by currently avail …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  270
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние электрического ремоделирования, вызванного быстрой стимуляцией, на фармакологическое воздействие на рефрактерность предсердий у кроликов.](https://pubmed.ncbi.nlm.nih.gov/27032905/)
 
@@ -5301,33 +5301,33 @@ Item in Clipboard
 
 On the other hand, prolonging effects of intravenously administered **ranolazine** (10 mg/kg) or tertiapin-Q (0.03 mg/kg) on the AERP in …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  271
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** : современный обзор.](https://pubmed.ncbi.nlm.nih.gov/26979079/)
 
 Рейнер-Хартли Э., Седлак Т. Rayner-Hartley E, et al. J Am Heart Assoc. 2016 15 марта;5(3):e003196. doi: 10.1161/JAHA.116.003196. J Am Heart Assoc. 2016. PMID: 26979079 Бесплатная статья PMC. Обзор. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  272
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на астроциты и нейроны в первичной культуре.](https://pubmed.ncbi.nlm.nih.gov/26950436/)
 
@@ -5337,17 +5337,17 @@ Item in Clipboard
 
 **Ranolazine** (Rn) is an antianginal agent used for the treatment of chronic angina pectoris when angina is not adequately controlled by …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  273
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** и ивабрадин: два разных метода лечения ишемической болезни сердца.](https://pubmed.ncbi.nlm.nih.gov/26944071/)
 
@@ -5357,17 +5357,17 @@ Item in Clipboard
 
 Among the innovative drugs recently introduced for the management of chronic stable angina, **Ranolazine** and ivabradine represent two m …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  274
 
-Цитировать
 
-Делиться
+
+
 
 [Профилирование экспрессии генов выявляет вызванную Нефом дерегуляцию липидного обмена в Т-клетках, инфицированных ВИЧ-1.](https://pubmed.ncbi.nlm.nih.gov/26915805/)
 
@@ -5377,17 +5377,17 @@ Item in Clipboard
 
 Molecular inhibitors of lipid metabolism like Atorvastatin and **Ranolazine** were found to have profound effect on wild type virus as co …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  275
 
-Цитировать
 
-Делиться
+
+
 
 [Негемодинамические антиангинальные препараты в лечении пациентов со стабильной ишемической болезнью сердца и диабетом: обзор доказательств.](https://pubmed.ncbi.nlm.nih.gov/26873904/)
 
@@ -5397,17 +5397,17 @@ Item in Clipboard
 
 Although direct head-to-head comparisons have not been performed, available evidence favours **ranolazine** as an effective anti-anginal …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  276
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние позднего ингибирования натриевого тока на диастолическую дисфункцию, измеряемую с помощью МРТ при аортальном стенозе: пилотное исследование.](https://pubmed.ncbi.nlm.nih.gov/26847571/)
 
@@ -5417,33 +5417,33 @@ Item in Clipboard
 
 BACKGROUND: **Ranolazine** is a new anti-anginal drug that acts via late sodium current inhibition, and has been shown to improve diastol …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  277
 
-Цитировать
 
-Делиться
+
+
 
 [Хемилюминесцентная визуализация супероксидного аниона определяет функцию и массу бета-клеток.](https://pubmed.ncbi.nlm.nih.gov/26752052/)
 
 Бронсарт Л.Л., Стокс К., Контаг Ч. Bronsart LL, et al. PLoS One. 11 января 2016 г.;11(1):e0146601. doi: 10.1371/journal.pone.0146601. eCollection 2016. PLoS One. 2016. PMID: 26752052 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  278
 
-Цитировать
 
-Делиться
+
+
 
 [Уровни калия в сыворотке, сердечные аритмии и смертность после инфаркта миокарда без подъема сегмента ST или нестабильной стенокардии: выводы MERLIN-TIMI 36.](https://pubmed.ncbi.nlm.nih.gov/26714972/)
 
@@ -5453,17 +5453,17 @@ Item in Clipboard
 
 METHODS: Potassium levels were measured in 6515 patients prior to randomization to receive either **ranolazine** or a placebo in the MERL …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  279
 
-Цитировать
 
-Делиться
+
+
 
 [Исследование безопасности **ранолазина** I фазы при легочной артериальной гипертензии.](https://pubmed.ncbi.nlm.nih.gov/26697176/)
 
@@ -5473,17 +5473,17 @@ Item in Clipboard
 
 There were no acute changes in invasive hemodynamics. At 12 weeks **ranolazine** was well tolerated. Only 1 of the 5 patients on **ranol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  280
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** для симптоматического лечения пациентов с хронической стенокардией в Греции: исследование соотношения затрат и полезности.](https://pubmed.ncbi.nlm.nih.gov/26684327/)
 
@@ -5493,17 +5493,17 @@ Item in Clipboard
 
 Patients received **ranolazine** plus SoC and SoC alone gained 0.3155 QALYs and 0.2752 QALYs, respectively. **Ranolazine** plus SoC re …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  281
 
-Цитировать
 
-Делиться
+
+
 
 [Антагонизм к каналам Nav и альфа1-адренорецепторам способствует эффекту **ранолазина** на гладкие мышцы сосудов .](https://pubmed.ncbi.nlm.nih.gov/26655634/)
 
@@ -5513,17 +5513,17 @@ Item in Clipboard
 
 **Ranolazine** is a recently developed drug used for the treatment of patients with chronic stable angina. ...Combined alpha1-adrenergic …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  282
 
-Цитировать
 
-Делиться
+
+
 
 [Рандомизированное плацебо-контролируемое исследование позднего ингибирования тока Na ( **ранолазин** ) при коронарной микрососудистой дисфункции (КМД): влияние на стенокардию и резерв перфузии миокарда.](https://pubmed.ncbi.nlm.nih.gov/26614823/)
 
@@ -5533,17 +5533,17 @@ Item in Clipboard
 
 The aim of this study was to mechanistically test short-term late sodium current inhibition (**ranolazine**) in such subjects on angina, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  283
 
-Цитировать
 
-Делиться
+
+
 
 [Медикаментозно-индуцированная torsades de pointes у городского населения, не получающего должного обслуживания. Метадон: есть ли терапевтическое равновесие?](https://pubmed.ncbi.nlm.nih.gov/26589717/)
 
@@ -5555,17 +5555,17 @@ Item in Clipboard
 
 The medications with statistical significance in the multivariate analysis for TdP development in descending order were as follows: **ranol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  284
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** для лечения хронической стабильной стенокардии: анализ экономической эффективности с точки зрения Великобритании.](https://pubmed.ncbi.nlm.nih.gov/26546142/)
 
@@ -5575,17 +5575,17 @@ Item in Clipboard
 
 The incremental cost-effectiveness ratio was sensitive to **ranolazine** cost; exceeding 20,000/QALY when **ranolazine**'**s** cost …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  285
 
-Цитировать
 
-Делиться
+
+
 
 [Прогнозирование in silico лекарственной терапии при катехоламинергической полиморфной желудочковой тахикардии.](https://pubmed.ncbi.nlm.nih.gov/26515697/)
 
@@ -5595,17 +5595,17 @@ Item in Clipboard
 
 The pure Na(+) channel blocker lidocaine and the antianginal **ranolazine** were additionally tested and also found to be ineffective. .. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  286
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** при сердечной аритмии.](https://pubmed.ncbi.nlm.nih.gov/26459200/)
 
@@ -5615,17 +5615,17 @@ Item in Clipboard
 
 **Ranolazine** utilization in the management of refractory angina has been established by multiple randomized clinical studies. ...In thi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  287
 
-Цитировать
 
-Делиться
+
+
 
 [Различные модели чувствительности к pH 30 ингибиторов натриевых каналов предполагают химически различные пулы вдоль пути доступа.](https://pubmed.ncbi.nlm.nih.gov/26441665/)
 
@@ -5635,17 +5635,17 @@ Item in Clipboard
 
 We investigated drugs of several different indications: carbamazepine, lamotrigine, phenytoin, lidocaine, bupivacaine, mexiletine, flecainid …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  288
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на толерантность к физической нагрузке, правожелудочковые индексы и гемодинамические характеристики при легочной артериальной гипертензии: пилотное исследование.](https://pubmed.ncbi.nlm.nih.gov/26401256/)
 
@@ -5655,17 +5655,17 @@ Item in Clipboard
 
 Therefore, we sought to (1) determine whether **ranolazine** is safe and well tolerated in PAH and (2) explore **ranolazine**'**s** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  289
 
-Цитировать
 
-Делиться
+
+
 
 [Селективное воздействие на предсердия при ранних постдеполяризациях аритмогенной фазы 3 в миоцитах человека.](https://pubmed.ncbi.nlm.nih.gov/26241847/)
 
@@ -5675,33 +5675,33 @@ Item in Clipboard
 
 Here, fast repolarization and enhanced NCX facilitate INa reactivation via the canonical gating mode (i.e., not late INa burst mode), which …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  290
 
-Цитировать
 
-Делиться
+
+
 
 [Фосфорилирование потенциалзависимых натриевых каналов на Ser571 регулирует поздний ток, аритмию и сердечную функцию in vivo.](https://pubmed.ncbi.nlm.nih.gov/26187182/)
 
 Глинн П., Муса Х., Ву Х., Унудурти С.Д., Литтл С., Цянь Л., Райт П.Дж., Радвански П.Б., Дьёрке С., Молер П.Дж., Хунд Т.Дж. Glynn P, et al. Circulation. 2015 18 августа;132(7):567-77. doi: 10.1161/CIRCULATIONAHA.114.015218. Epub 2015 17 июля. Circulation. 2015. PMID: 26187182 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  291
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** ингибирует потенциалзависимые механочувствительные натриевые каналы в кольцевых гладкомышечных клетках толстой кишки человека.](https://pubmed.ncbi.nlm.nih.gov/26185330/)
 
@@ -5711,17 +5711,17 @@ NaV1.5 способствует возбудимости тонкого кише
 
 NaV1.5 contributes to small bowel excitability, and NaV1.5 inhibitor **ranolazine** produces constipation by an unknown mechanism. We aim …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  292
 
-Цитировать
 
-Делиться
+
+
 
 [Поздний натриевый ток в предсердных кардиомиоцитах человека у пациентов с синусовым ритмом и мерцательной аритмией.](https://pubmed.ncbi.nlm.nih.gov/26121051/)
 
@@ -5731,17 +5731,17 @@ Item in Clipboard
 
 With protocol II (holding potential -120 mV, pre-pulse to -80 mV) TTX-sensitive INa,late was always larger than with protocol I. **Ranolazi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  293
 
-Цитировать
 
-Делиться
+
+
 
 [Эффекты **ранолазина** у пациентов с хронической стенокардией у пациентов с чрескожным коронарным вмешательством при остром коронарном синдроме и без него: наблюдения из исследования MERLIN-TIMI 36.](https://pubmed.ncbi.nlm.nih.gov/26059896/)
 
@@ -5751,17 +5751,17 @@ Item in Clipboard
 
 BACKGROUND: **Ranolazine**, a piperazine derivative with anti-ischemic effects, reduces the frequency of angina and improves exercise per …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  294
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние монотерапии **ранолазином** на гликемический контроль у пациентов с диабетом 2 типа.](https://pubmed.ncbi.nlm.nih.gov/26049552/)
 
@@ -5771,17 +5771,17 @@ Item in Clipboard
 
 OBJECTIVE: **Ranolazine** is an antianginal drug that mediates its effects by inhibition of cardiac late sodium current. Although **rano** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  295
 
-Цитировать
 
-Делиться
+
+
 
 [Факты и цифры по эпидемиологии и фармакологическому лечению сердечной недостаточности с сохраненной фракцией выброса.](https://pubmed.ncbi.nlm.nih.gov/27708850/)
 
@@ -5791,17 +5791,17 @@ Item in Clipboard
 
 Recent smaller proof-of-concept or Phase II clinical trials investigating different pathophysiological approaches with substances such as th …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  296
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на диастолическую и систолическую функцию левого желудочка у пациентов с хронической ишемической болезнью сердца и стабильной стенокардией.](https://pubmed.ncbi.nlm.nih.gov/26021246/)
 
@@ -5811,17 +5811,17 @@ Item in Clipboard
 
 METHODS: We studied 40 patients (age 67 9 years; 30 men, 10 women) with chronic coronary artery disease who reported angina symptoms on opti …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  297
 
-Цитировать
 
-Делиться
+
+
 
 [Поздний INa увеличивает диастолическую утечку SR-Ca2+ в миокарде предсердий путем активации PKA и CaMKII.](https://pubmed.ncbi.nlm.nih.gov/25990311/)
 
@@ -5831,17 +5831,17 @@ Item in Clipboard
 
 An inhibition of Ca(2+)/calmodulin-dependent protein kinase II (Autocamide-2-related inhibitory peptide), protein kinase A (H89), or late IN …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  298
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакологические и нефармакологические стратегии в лечении ишемической болезни сердца и хронической болезни почек.](https://pubmed.ncbi.nlm.nih.gov/25981315/)
 
@@ -5851,17 +5851,17 @@ Item in Clipboard
 
 Calcium channel blockers and nitrates do not require dose adjustment, whereas **ranolazine** does. Angiotensin converting enzyme inhibito …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  299
 
-Цитировать
 
-Делиться
+
+
 
 [Потенциалзависимые натриевые каналы способствуют возникновению потенциалов действия и спонтанной сократимости в изолированных лимфатических сосудах человека.](https://pubmed.ncbi.nlm.nih.gov/25969124/)
 
@@ -5871,33 +5871,33 @@ Item in Clipboard
 
 The VGSC blocker TTX inhibited spontaneous contractions in six of 10 spontaneously active vessels, whereas **ranolazine**, which has a na …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  300
 
-Цитировать
 
-Делиться
+
+
 
 [Метаболические нарушения сердца при сахарном диабете II типа.](https://pubmed.ncbi.nlm.nih.gov/25941161/)
 
 Амарал Н., Оконко ДО. Amaral N, et al. Diab Vasc Dis Res. 2015 июль;12(4):239-48. doi: 10.1177/1479164115580936. Epub 2015 4 мая. Diab Vasc Dis Res. 2015. PMID: 25941161 Бесплатная статья. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  301
 
-Цитировать
 
-Делиться
+
+
 
 [Комплексная оценка морфологии зубца T в рандомизированном клиническом исследовании дофетилида, хинидина, **ранолазина** и верапамила.](https://pubmed.ncbi.nlm.nih.gov/25870186/)
 
@@ -5907,17 +5907,17 @@ Item in Clipboard
 
 At equivalent QTc prolongation, multichannel blockers (quinidine and **ranolazine**) caused equal or greater T wave morphology changes co …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  302
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** в сравнении с плацебо у пациентов с ишемической кардиомиопатией и постоянной болью в груди или одышкой, несмотря на оптимальную медикаментозную и реваскуляризационную терапию: рандомизированное двойное слепое перекрестное пилотное исследование.](https://pubmed.ncbi.nlm.nih.gov/25848292/)
 
@@ -5927,17 +5927,17 @@ Item in Clipboard
 
 Change in the RDS and SAQ score from baseline was compared, for **ranolazine** and placebo, using the Wilcoxon signed rank test or paired …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  303
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение влияния **ранолазина** и триметазидина на гликемический статус у пациентов с диабетом и ишемической болезнью сердца — рандомизированное контролируемое исследование.](https://pubmed.ncbi.nlm.nih.gov/25738014/)
 
@@ -5947,17 +5947,17 @@ Item in Clipboard
 
 However the effect of another antianginal drug trimetazidine, on glycemic status is not clear. AIM: To compare the effect of **ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  304
 
-Цитировать
 
-Делиться
+
+
 
 [Протеинкиназа С и Ca(2+)-кальмодулин-зависимая протеинкиназа II опосредуют увеличенный обратный INCX, вызванный усилением позднего натриевого тока в желудочковых миоцитах кролика под действием уабаина.](https://pubmed.ncbi.nlm.nih.gov/25641541/)
 
@@ -5967,17 +5967,17 @@ Item in Clipboard
 
 These effects of ouabain were suppressed by the INaL inhibitors TTX and **ranolazine**, the protein kinase C inhibitor bisindolylmaleimid …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  305
 
-Цитировать
 
-Делиться
+
+
 
 [Потенциалзависимые натриевые каналы как цель для снижения риска метастазирования с помощью перепрофилированных препаратов.](https://pubmed.ncbi.nlm.nih.gov/27408684/)
 
@@ -5987,17 +5987,17 @@ Item in Clipboard
 
 RESULTS: The following pharmaceuticals that fulfill the above mentioned effects, were found: phenytoin, carbamazepine, valproate, lamotrigin …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  306
 
-Цитировать
 
-Делиться
+
+
 
 [Медленная инактивация натриевых каналов как терапевтическая цель при врожденной миотонии.](https://pubmed.ncbi.nlm.nih.gov/25515836/)
 
@@ -6007,33 +6007,33 @@ Item in Clipboard
 
 **Ranolazine** produced fewer side effects and was as effective as mexiletine at a dose that produced none of mexiletine's hypoexcitabili …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  307
 
-Цитировать
 
-Делиться
+
+
 
 [Смешно и поздно: воздействие на токи, регулирующие частоту сердечных сокращений при мерцательной аритмии.](https://pubmed.ncbi.nlm.nih.gov/25511517/)
 
 Дэниелс JD, Хилл JA. Daniels JD, et al. J Cardiovasc Electrophysiol. 2015 март;26(3):336-8. doi: 10.1111/jce.12597. Epub 2015 янв. 15. J Cardiovasc Electrophysiol. 2015. PMID: 25511517 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  308
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** подавляет инвазивность клеток рака молочной железы, опосредованную NaV1.5, и колонизацию легких.](https://pubmed.ncbi.nlm.nih.gov/25496128/)
 
@@ -6043,33 +6043,33 @@ In vivo инъекция **ранолазина** (50 мг/кг/день) зна
 
 In vivo, the injection of **ranolazine** (50 mg/kg/day) significantly reduced lung colonisation by Na(V)1.5-expressing human breast cance …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  309
 
-Цитировать
 
-Делиться
+
+
 
 [Какие токи лежат в основе автоматизма легочных вен?](https://pubmed.ncbi.nlm.nih.gov/25495799/)
 
 Гор-Пантер С.Р., Ван Ваггонер Д.Р. Gore-Panter SR, et al. J Cardiovasc Electrophysiol. 2015 март;26(3):320-1. doi: 10.1111/jce.12595. Epub 2015 янв. 13. J Cardiovasc Electrophysiol. 2015. PMID: 25495799 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  310
 
-Цитировать
 
-Делиться
+
+
 
 [Переход с терапии нитратами на **ранолазин** у пациентов с ишемической болезнью сердца, получающих ингибиторы фосфодиэстеразы 5-го типа по поводу эректильной дисфункции.](https://pubmed.ncbi.nlm.nih.gov/25452706/)
 
@@ -6079,17 +6079,17 @@ Item in Clipboard
 
 Beta-blockers and calcium channel antagonists are considered the mainstays of antianginal therapy, but may not be tolerated by all patients. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  311
 
-Цитировать
 
-Делиться
+
+
 
 [Поздний сердечный натриевый ток можно оценить с помощью автоматизированного метода фиксации потенциала.](https://pubmed.ncbi.nlm.nih.gov/25383189/)
 
@@ -6099,33 +6099,33 @@ Item in Clipboard
 
 Averaged values in different steady-state experimental conditions were further corrected by the subtraction of current average during the ap …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  312
 
-Цитировать
 
-Делиться
+
+
 
 [Экономическая эффективность **ранолазина** при лечении стенокардии в России.](https://pubmed.ncbi.nlm.nih.gov/27201438/)
 
 Горохова СГ, Ряженов ВВ, Горохов ВД, Максимкин СА. Gorokhova SG, et al. Value Health. 2014 Ноябрь;17(7):A487. doi: 10.1016/j.jval.2014.08.1429. Epub 2014 Окт 26. Value Health. 2014. PMID: 27201438 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  313
 
-Цитировать
 
-Делиться
+
+
 
 [Облегчение стенокардии **ранолазином** позволяет выявить ложноотрицательные результаты сканирования перфузии миокарда с помощью ОФЭКТ у пациентов с ишемической болезнью сердца, подтвержденной коронарной ангиографией.](https://pubmed.ncbi.nlm.nih.gov/25317027/)
 
@@ -6135,17 +6135,17 @@ Item in Clipboard
 
 Normal myocardial perfusion imaging (MPI) reduces intermediate- or high-risk pretest probability patients to low- or intermediate-risk postt …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  314
 
-Цитировать
 
-Делиться
+
+
 
 [Разработка нового аналитического метода для некоторых препаратов, содержащих амидную группу, с использованием экстрактов прицветников Bougainvillea spectabilis.](https://pubmed.ncbi.nlm.nih.gov/25312184/)
 
@@ -6155,17 +6155,17 @@ Item in Clipboard
 
 OBJECTIVE: To develop and validate a simple, accurate and precise colorimetric method using Bougainvillea spectabilis (B. spectabilis) bract …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  315
 
-Цитировать
 
-Делиться
+
+
 
 [Редкий изнурительный неврологический побочный эффект **ранолазина,** вызванный лекарственным взаимодействием с кларитромицином.](https://pubmed.ncbi.nlm.nih.gov/25298587/)
 
@@ -6175,17 +6175,17 @@ Item in Clipboard
 
 Medication errors may occur at any point during patient care in the health care system. Drug interaction in known with macrolide antibiotics …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  316
 
-Цитировать
 
-Делиться
+
+
 
 [Неравновесная реактивация тока Na+ запускает раннюю постдеполяризацию в желудочке мыши.](https://pubmed.ncbi.nlm.nih.gov/25236710/)
 
@@ -6195,17 +6195,17 @@ Item in Clipboard
 
 These EADs were abolished by caffeine and tetrodotoxin (but not **ranolazine**), suggesting that sarcoplasmic reticulum Ca(2+) release an …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  317
 
-Цитировать
 
-Делиться
+
+
 
 [Саркоэндоплазматический ретикулум Са(2+) АТФаза. Критическая цель при кардиотоксичности, вызванной вдыханием хлора.](https://pubmed.ncbi.nlm.nih.gov/25188881/)
 
@@ -6215,17 +6215,17 @@ Item in Clipboard
 
 Pretreatment with **ranolazine** or istaroxime, another SERCA activator, prevented chlorine-induced cardiomyocyte death. Further investig …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  318
 
-Цитировать
 
-Делиться
+
+
 
 [Тромбоциты способствуют митохондриальному разобщению и устойчивости к апоптозу в лейкозных клетках: новая парадигма для микросреды костного мозга.](https://pubmed.ncbi.nlm.nih.gov/25112275/)
 
@@ -6235,17 +6235,17 @@ Item in Clipboard
 
 Intriguingly, leukemia cells exposed to platelet components demonstrate a reduction in mitochondrial membrane potential (deltapsiM) and a tr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  319
 
-Цитировать
 
-Делиться
+
+
 
 [Обновление информации о **ранолазине** в лечении стенокардии.](https://pubmed.ncbi.nlm.nih.gov/25028555/)
 
@@ -6255,17 +6255,17 @@ Item in Clipboard
 
 Multiple, randomized, placebo-controlled trials have shown that **ranolazine** improves functional capacity and decreases anginal episode …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  320
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** сохраняет и улучшает фракцию выброса левого желудочка и вегетативные показатели при добавлении к рекомендованной терапии при хронической сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/27004101/)
 
@@ -6275,17 +6275,17 @@ Item in Clipboard
 
 BACKGROUND: **Ranolazine** (RAN) reduces cardiac sodium channel 1.5's late sodium current in congestive heart failure (CHF), reducing myo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  321
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** улучшает вегетативный баланс при сердечной недостаточности при добавлении к терапии, проводимой в соответствии с рекомендациями.](https://pubmed.ncbi.nlm.nih.gov/27004100/)
 
@@ -6295,17 +6295,17 @@ Item in Clipboard
 
 BACKGROUND: The effect of **ranolazine** (RAN) on cardiac autonomic balance in congestive heart failure (CHF) was studied. ...
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  322
 
-Цитировать
 
-Делиться
+
+
 
 [Морфологическая изменчивость ЭКГ в пространстве сокращений для стратификации риска после острого коронарного синдрома.](https://pubmed.ncbi.nlm.nih.gov/24963105/)
 
@@ -6315,17 +6315,17 @@ Item in Clipboard
 
 We tested the ability of these metrics to identify patients at high risk of cardiovascular death (CVD) using 1082 patients (1-year CVD rate, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  323
 
-Цитировать
 
-Делиться
+
+
 
 [Отличительные электрофизиологические характеристики кардиомиоцитов выводного тракта правого желудочка.](https://pubmed.ncbi.nlm.nih.gov/24913286/)
 
@@ -6335,17 +6335,17 @@ Item in Clipboard
 
 Conventional microelectrodes were used to record the electrical activity before and after (KN-93, a Ca(2+) /calmodulin-dependent kinase II i …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  324
 
-Цитировать
 
-Делиться
+
+
 
 [Неантитромботические варианты лечения острых коронарных синдромов: старые препараты и новые возможности на горизонте.](https://pubmed.ncbi.nlm.nih.gov/24902977/)
 
@@ -6355,17 +6355,17 @@ Item in Clipboard
 
 In addition to traditional drugs such as beta-blockers and inhibitors of the renin-angiotensin-aldosterone system, newer agents have expande …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  325
 
-Цитировать
 
-Делиться
+
+
 
 [**Ингибирование ранолазином** калиевых каналов hERG: взаимодействие препарата с порами и снижение эффективности против инактивационных мутантов.](https://pubmed.ncbi.nlm.nih.gov/24877995/)
 
@@ -6375,17 +6375,17 @@ Item in Clipboard
 
 This study investigated the structural basis of hERG block by **ranolazine**, with lidocaine used as a low potency, structurally similar …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  326
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** эффективно подавляет мерцательную аритмию при сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/24874201/)
 
@@ -6395,17 +6395,17 @@ Item in Clipboard
 
 **Ranolazine** did not significantly alter these parameters or promote arrhythmias in the ventricles. ...In the remaining 3 atria, **ran** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  327
 
-Цитировать
 
-Делиться
+
+
 
 [Противоэпилептическая активность селективных ингибиторов постоянного натриевого тока.](https://pubmed.ncbi.nlm.nih.gov/24862204/)
 
@@ -6415,17 +6415,17 @@ Item in Clipboard
 
 METHODS: We examined the antiepileptic activity of two selective persistent sodium current blockers **ranolazine**, a U.S. Food and Drug …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  328
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на тахикардию типа «пируэт» в модели здорового изолированного сердца кролика.](https://pubmed.ncbi.nlm.nih.gov/24785406/)
 
@@ -6435,17 +6435,17 @@ Item in Clipboard
 
 Aim of this study was to evaluate the effects of **ranolazine** in a validated isolated Langendorff-perfused rabbit heart model. ...**Ra** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  329
 
-Цитировать
 
-Делиться
+
+
 
 [Роль позднего I Na в развитии нарушений сердечного ритма.](https://pubmed.ncbi.nlm.nih.gov/24737235/)
 
@@ -6455,17 +6455,17 @@ Item in Clipboard
 
 Many local anesthetic and antiarrhythmic agents have a higher potency to block late I Na as compared with fast I Na. Several novel compounds …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  330
 
-Цитировать
 
-Делиться
+
+
 
 [Новые антиаритмические мишени для контроля внутриклеточного обмена кальция.](https://pubmed.ncbi.nlm.nih.gov/24733689/)
 
@@ -6475,17 +6475,17 @@ Item in Clipboard
 
 In this review, drugs interfering with these targets (SEA-0400, K201, KN-93, W7, **ranolazine**, sophocarpine, and GS-967) are evaluated …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  331
 
-Цитировать
 
-Делиться
+
+
 
 [Нарушение регуляции Na+ в сочетании с поступлением Ca2+ через NCX1 способствует развитию мышечной дистрофии у мышей.](https://pubmed.ncbi.nlm.nih.gov/24662047/)
 
@@ -6495,17 +6495,17 @@ Item in Clipboard
 
 Indeed, Atp1a2(+/-) (encoding Na(+)-K(+) ATPase alpha2) mice, which have reduced Na(+) clearance rates that would favor NCX1 reverse-mode op …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  332
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние частоты стенокардии на показатели полезности здоровья у пациентов с хронической стабильной стенокардией.](https://pubmed.ncbi.nlm.nih.gov/24628859/)
 
@@ -6515,33 +6515,33 @@ Item in Clipboard
 
 METHODS: We used data from stable angina patients reporting 3 attacks/week enrolled in the Efficacy of **Ranolazine** in Chronic Angina ( …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  333
 
-Цитировать
 
-Делиться
+
+
 
 [Оценочная основа для исследований II фазы у пациентов с сердечной недостаточностью и сохраненной фракцией выброса.](https://pubmed.ncbi.nlm.nih.gov/24621837/)
 
 Георгиаде М., Вадуганатан М., Шах С.Дж. Gheorghiade M, et al. JACC Heart Fail. 2013 Апрель;1(2):123-6. doi: 10.1016/j.jchf.2013.01.001. Epub 2013 Апрель 1. JACC Heart Fail. 2013. PMID: 24621837 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  334
 
-Цитировать
 
-Делиться
+
+
 
 [**РаноЛазин** для лечения диастолической сердечной недостаточности у пациентов с сохраненной фракцией выброса: исследование RALI-DHF для подтверждения концепции.](https://pubmed.ncbi.nlm.nih.gov/24621836/)
 
@@ -6551,17 +6551,17 @@ Item in Clipboard
 
 RESULTS: After 30 min of infusion, LVEDP (p = 0.04) and pulmonary capillary wedge pressure (p = 0.04) decreased in the **ranolazine** gro …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  335
 
-Цитировать
 
-Делиться
+
+
 
 [Рефрактерная фибрилляция предсердий эффективно лечится **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/24581108/)
 
@@ -6571,17 +6571,17 @@ Item in Clipboard
 
 In 2 amiodarone-refractory highly symptomatic patients, an innovative approach using **ranolazine**, which selectively acts on Na+ channe …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  336
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на пароксизмальную фибрилляцию предсердий у пациентов с ишемической болезнью сердца: предварительное наблюдательное исследование.](https://pubmed.ncbi.nlm.nih.gov/27957034/)
 
@@ -6591,17 +6591,17 @@ Item in Clipboard
 
 The impact of **ranolazine**, an anti-ishemic agent with antiarrhythmic properties, on paroxysmal atrial fibrillation (PAF) in patients w …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  337
 
-Цитировать
 
-Делиться
+
+
 
 [Лекарственное взаимодействие сиролимуса и **ранолазина** у пациента с трансплантацией почки.](https://pubmed.ncbi.nlm.nih.gov/24575309/)
 
@@ -6611,17 +6611,17 @@ Item in Clipboard
 
 The patient, a 57-year-old Caucasian male kidney transplant recipient, was stable for years on sirolimus as his primary immunosuppressive ag …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  338
 
-Цитировать
 
-Делиться
+
+
 
 [Безопасность и эффективность **ранолазина** при лечении хронической стенокардии.](https://pubmed.ncbi.nlm.nih.gov/24574825/)
 
@@ -6631,17 +6631,17 @@ Item in Clipboard
 
 Recent studies suggest other effects of **ranolazine** that may explain its anti-anginal and anti-arrhythmic effects. ...**Ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  339
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** ослабляет усиленный обратный ток обмена Na+-Ca2+ посредством ингибирования повышенного вследствие гипоксии позднего тока натрия в желудочковых миоцитах.](https://pubmed.ncbi.nlm.nih.gov/24572816/)
 
@@ -6651,17 +6651,17 @@ Item in Clipboard
 
 **Ranolazine** (RAN), a novel antianginal agent, inhibits the increased late sodium current (INa.L) under many pathological conditions. . …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  340
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** для подавления желудочковой аритмии: серия случаев.](https://pubmed.ncbi.nlm.nih.gov/24533675/)
 
@@ -6671,17 +6671,17 @@ Item in Clipboard
 
 This current is enhanced among patients with cardiomyopathy; a promising target population for **ranolazine**. The utility of **ranolazi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  341
 
-Цитировать
 
-Делиться
+
+
 
 [Прогностическая эффективность множественных биомаркеров у пациентов с острым коронарным синдромом без подъема сегмента ST: анализ исследования MERLIN-TIMI 36 (метаболическая эффективность с **ранолазином** для уменьшения ишемии при острых коронарных синдромах без подъема сегмента ST — тромболизис при инфаркте миокарда 36).](https://pubmed.ncbi.nlm.nih.gov/24530676/)
 
@@ -6691,33 +6691,33 @@ Item in Clipboard
 
 METHODS: We measured copeptin, MR-proADM, and MR-proANP concentrations in 4,432 patients with NSTE-ACS who were randomized to treatment with …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  342
 
-Цитировать
 
-Делиться
+
+
 
 [Новые биомаркеры при острых коронарных синдромах: новые молекулы, новые концепции, а как насчет новых стратегий лечения?](https://pubmed.ncbi.nlm.nih.gov/24530662/)
 
 Филиппатос Дж., Фармакис Д., Париссис Дж. Filippatos G, et al. Дж Ам Колл Кардиол. 29 апреля 2014 г.;63(16):1654-6. doi: 10.1016/j.jacc.2013.11.055. Epub, 13 февраля 2014 г. J Am Coll Cardiol. 2014. PMID: 24530662 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  343
 
-Цитировать
 
-Делиться
+
+
 
 [Почечный фосфолипидоз, возможно, вызванный **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/25859354/)
 
@@ -6727,17 +6727,17 @@ Item in Clipboard
 
 The only cationic amphiphilic drug our patient had taken was the anti-anginal **ranolazine**, a compound not yet associated with PL. The …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  344
 
-Цитировать
 
-Делиться
+
+
 
 [Клинические особенности, применение научно обоснованных методов лечения и сердечно-сосудистые исходы у пациентов с хронической болезнью почек после острого коронарного синдрома без подъема сегмента ST.](https://pubmed.ncbi.nlm.nih.gov/24481910/)
 
@@ -6747,17 +6747,17 @@ Item in Clipboard
 
 HYPOTHESIS: Patients with CKD will receive fewer evidence-based therapies and experience high rates of adverse cardiovascular events in both …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  345
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** защищает от окислительного стресса, вызванного доксорубицином, и сердечной дисфункции.](https://pubmed.ncbi.nlm.nih.gov/24464789/)
 
@@ -6767,17 +6767,17 @@ Item in Clipboard
 
 Doxorubicin-induced cardiotoxicity was accompanied instead by elevations in atrial natriuretic peptide (ANP), BNP, connective tissue growth …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  346
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** улучшает диастолическую функцию у крыс со спонтанной гипертензией.](https://pubmed.ncbi.nlm.nih.gov/24464752/)
 
@@ -6787,17 +6787,17 @@ Item in Clipboard
 
 **Ranolazine** reduced the end-diastolic pressure-volume relationship slope and improved diastolic function during dobutamine challenge i …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  347
 
-Цитировать
 
-Делиться
+
+
 
 [Путь бета-окисления жирных кислот важен для децидуализации стромальных клеток эндометрия как у людей, так и у мышей.](https://pubmed.ncbi.nlm.nih.gov/24403548/)
 
@@ -6807,17 +6807,17 @@ Item in Clipboard
 
 As assessed by marker gene expression, decidualization of human primary ESCs was blocked by reducing activity of carnitine calmitoyltransfer …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  348
 
-Цитировать
 
-Делиться
+
+
 
 [Потенциальный вклад **ранолазина** в развитие желудочковой тахикардии типа «пируэт».](https://pubmed.ncbi.nlm.nih.gov/24396259/)
 
@@ -6827,17 +6827,17 @@ Item in Clipboard
 
 **Ranolazine** is a novel anti-anginal agent acting through pharmacologic mechanism of inhibition of the late phase of the inward sodium …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  349
 
-Цитировать
 
-Делиться
+
+
 
 [Улучшение перфузии миокарда после трансмиокардиальной лазерной реваскуляризации у пациента с микроваскулярной ишемической болезнью сердца.](https://pubmed.ncbi.nlm.nih.gov/27489642/)
 
@@ -6847,17 +6847,17 @@ Item in Clipboard
 
 Although her cardiac catheterization revealed microvascular coronary artery disease, her symptoms were refractory to optimal medical managem …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  350
 
-Цитировать
 
-Делиться
+
+
 
 [Большая плотность позднего натриевого тока, а также большая чувствительность к АТХ II и **ранолазину** в миоцитах левого предсердия кролика, чем в миоцитах левого желудочка.](https://pubmed.ncbi.nlm.nih.gov/24322614/)
 
@@ -6867,17 +6867,17 @@ Item in Clipboard
 
 Na(+) channel open probability (but not mean open time) was greater in atrial than in ventricular cells in the absence and presence of ATX I …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  351
 
-Цитировать
 
-Делиться
+
+
 
 [Генотип-специфическая стратификация риска и ведение пациентов с синдромом удлиненного интервала QT.](https://pubmed.ncbi.nlm.nih.gov/24206565/)
 
@@ -6887,17 +6887,17 @@ Item in Clipboard
 
 Sodium channel blockers such as mexiletine, flecainide, and **ranolazine** could be treatment options in LQT3....
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  352
 
-Цитировать
 
-Делиться
+
+
 
 [Обновление данных о лечении **ранолазином** стабильной стенокардии.](https://pubmed.ncbi.nlm.nih.gov/24163124/)
 
@@ -6907,33 +6907,33 @@ Item in Clipboard
 
 Chronic angina represents a major burden for public health systems because of its poor prognosis and its high treatment costs. **Ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  353
 
-Цитировать
 
-Делиться
+
+
 
 [**Положительная** сторона **ранолазина** — улучшение гликемического контроля за счет нового механизма рекрутирования микрососудов скелетных мышц.](https://pubmed.ncbi.nlm.nih.gov/24130322/)
 
 Верье РЛ. Verrier RL. J Physiol. 2013 15 октября;591(20):4961. doi: 10.1113/jphysiol.2013.260687. J Physiol. 2013. PMID: 24130322 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  354
 
-Цитировать
 
-Делиться
+
+
 
 [Электрофизиологические характеристики и фармакологический ответ кардиомиоцитов человека, выделенных от пациента с гипертрофической кардиомиопатией.](https://pubmed.ncbi.nlm.nih.gov/24117780/)
 
@@ -6943,17 +6943,17 @@ Item in Clipboard
 
 A large window current was observed as well. **Ranolazine** (10 muM) shifted steady-state V0.5 of inactivation by -8 mV, reduced late INa …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  355
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** снижает тяжесть и частоту приступов стенокардии, о которых сообщают пациенты, и улучшает качество жизни у отдельных пациентов с хронической стенокардией.](https://pubmed.ncbi.nlm.nih.gov/23990357/)
 
@@ -6963,33 +6963,33 @@ Item in Clipboard
 
 RESULTS: Most respondents were female (64%) and had taken **ranolazine** for 6 months (89%); mean age was 64 years. The majority of respo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  356
 
-Цитировать
 
-Делиться
+
+
 
 [Гепатотоксичность и бессонница вследствие **приема ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/23971665/)
 
 Санчо-дель-Валь Л, Баррио-Андрес Х, Эрранс-Бачиллер МТ, Алькаиде-Суарес Н. Sancho-del-Val L, et al. Rev Esp Enferm Dig. 2013 май-июнь;105(5):304-5. doi: 10.4321/s1130-01082013000500012. Rev Esp Enferm Dig. 2013. PMID: 23971665 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  357
 
-Цитировать
 
-Делиться
+
+
 
 [Редкое неврологическое осложнение **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/23936696/)
 
@@ -6999,17 +6999,17 @@ Item in Clipboard
 
 Her symptoms resolved 2 days after discontinuation of **ranolazine**. **Ranolazine** was resumed after discharge from hospital with re …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  358
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** при врожденных и приобретенных поздних аритмиях, связанных с INa: фармакологический скрининг in silico.](https://pubmed.ncbi.nlm.nih.gov/23897695/)
 
@@ -7019,17 +7019,17 @@ Item in Clipboard
 
 Thus, **ranolazine** is contraindicated for patients with preexisting long-QT and those with repolarization abnormalities. ...We then sim …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  359
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование позднего натриевого тока замедляет разрушение Т-трубочек при прогрессировании гипертонической болезни сердца у крыс.](https://pubmed.ncbi.nlm.nih.gov/23873796/)
 
@@ -7039,17 +7039,17 @@ Item in Clipboard
 
 The goal of this study was to determine if inhibition of the late Na(+) current with **ranolazine** during early hypertensive heart disea …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  360
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакологическая коррекция мутаций, связанных с удлинением интервала QT, в гене KCNH2 (hERG) увеличивает трафик каналов Kv11.1, хранящихся в переходном эндоплазматическом ретикулуме.](https://pubmed.ncbi.nlm.nih.gov/23864605/)
 
@@ -7059,17 +7059,17 @@ Item in Clipboard
 
 Experiments with E-4031 and the protein synthesis inhibitor cycloheximide suggested that pharmacological correction promotes the trafficking …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  361
 
-Цитировать
 
-Делиться
+
+
 
 [Протонзависимое ингибирование сердечного натриевого канала Nav1.5 **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/23801963/)
 
@@ -7079,17 +7079,17 @@ Item in Clipboard
 
 **Ranolazine** is clinically approved for treatment of angina pectoris and is a potential candidate for antiarrhythmic, antiepileptic, an …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  362
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** активирует микрососуды мышц и усиливает действие инсулина у крыс.](https://pubmed.ncbi.nlm.nih.gov/23798495/)
 
@@ -7099,17 +7099,17 @@ Item in Clipboard
 
 **Ranolazine**, an anti-anginal compound, has been shown to significantly improve glycaemic control in large-scale clinical trials, and s …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  363
 
-Цитировать
 
-Делиться
+
+
 
 [Предсердная селективность антиаритмических препаратов.](https://pubmed.ncbi.nlm.nih.gov/23732646/)
 
@@ -7119,17 +7119,17 @@ Item in Clipboard
 
 Novel drugs which have been and are being developed aim at atrial-selective targets. Vernakalant and **ranolazine** which mainly block at …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  364
 
-Цитировать
 
-Делиться
+
+
 
 [Современная и перспективная антиаритмическая лекарственная терапия желудочковой тахикардии.](https://pubmed.ncbi.nlm.nih.gov/25135287/)
 
@@ -7139,17 +7139,17 @@ Item in Clipboard
 
 In addition, dronedarone and dofetilide, agents approved for the treatment of atrial fibrillation, and **ranolazine**, an antianginal age …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  365
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка безопасности лекарственных средств in silico для сердца человека применительно к поздним блокаторам натриевого тока.](https://pubmed.ncbi.nlm.nih.gov/23696033/)
 
@@ -7159,17 +7159,17 @@ Item in Clipboard
 
 The reference biomarkers at baseline changed depending on the "drug" specificity for these two ion channel targets. **Ranolazine** and GS …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  366
 
-Цитировать
 
-Делиться
+
+
 
 [Метаболизм и биоэнергетика в правом желудочке и легочных сосудах при легочной гипертензии.](https://pubmed.ncbi.nlm.nih.gov/23662191/)
 
@@ -7179,17 +7179,17 @@ Item in Clipboard
 
 Reactivation of PDH can be achieved directly by PDK inhibition (using dichloroacetate), or indirectly via activating the Randle cycle, using …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  367
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение эффективности и переносимости ивабрадина и **ранолазина** у пациентов с хронической стабильной стенокардией.](https://pubmed.ncbi.nlm.nih.gov/23662022/)
 
@@ -7199,17 +7199,17 @@ Item in Clipboard
 
 INTRODUCTION: To compare the efficacy and tolerability of Ivabradine (IVA) and **Ranolazine** (RAN) in chronic angina patients. MATERIALS …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  368
 
-Цитировать
 
-Делиться
+
+
 
 [Антиаритмический эффект **ранолазина** в сочетании с препаратами III класса в экспериментальной модели мерцательной аритмии на всем сердце.](https://pubmed.ncbi.nlm.nih.gov/23647657/)
 
@@ -7219,33 +7219,33 @@ Item in Clipboard
 
 BACKGROUND: **Ranolazine** is evaluated for antiarrhythmic therapy of atrial fibrillation (AF). ...CONCLUSION: In this study, **ranolazi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  369
 
-Цитировать
 
-Делиться
+
+
 
 [Ионные каналы и регуляция секреции инсулина в β-клетках человека: анализ вычислительных систем.](https://pubmed.ncbi.nlm.nih.gov/23624892/)
 
 Фридлянд Л.Е., Якобсон Д.А., Филипсон Л.Х. Fridlyand LE, et al. Островки. 2013 Январь-Фев;5(1):1-15. doi: 10.4161/isl.24166. Islets. 2013. PMID: 23624892 Бесплатная статья PMC. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  370
 
-Цитировать
 
-Делиться
+
+
 
 [Роль позднего натриевого тока как потенциального аритмогенного механизма в прогрессировании заболеваний сердца, вызванных давлением.](https://pubmed.ncbi.nlm.nih.gov/23570977/)
 
@@ -7255,17 +7255,17 @@ Toischer K, Hartmann N, Wagner S, Fischer TH, Herting J, Danner BC, Sag CM, Hund
 
 In contrast, after five weeks animals developed heart failure with prolonged APDs and slowed INaL decay time which could be normalized by ad …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  371
 
-Цитировать
 
-Делиться
+
+
 
 [Электрическая пластичность и кардиопротекция при ишемии миокарда — роль селективных блокаторов натриевых каналов.](https://pubmed.ncbi.nlm.nih.gov/23529949/)
 
@@ -7275,17 +7275,17 @@ Item in Clipboard
 
 The electrical plasticity paradigm is, however, a novel concept that depicts the benefits of improved sodium channel blockade with drugs suc …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  372
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность **ранолазина** у пациента с идиопатической дилатационной кардиомиопатией и электрическим штормом.](https://pubmed.ncbi.nlm.nih.gov/23524943/)
 
@@ -7295,17 +7295,17 @@ Item in Clipboard
 
 The idiopathic structural heart disease of the patient is a vulnerable anatomic substrate in itself, for electrical instability and reentry …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  373
 
-Цитировать
 
-Делиться
+
+
 
 [Антиаритмическое действие высокоселективного позднего блокатора натриевых каналов GS-458967.](https://pubmed.ncbi.nlm.nih.gov/23524321/)
 
@@ -7315,49 +7315,49 @@ Item in Clipboard
 
 BACKGROUND: Previous studies have shown that late sodium channel current (INa) blockers such as **ranolazine** can exert antiarrhythmic e …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  374
 
-Цитировать
 
-Делиться
+
+
 
 [Поздний ток Na как терапевтическая мишень: где мы находимся?](https://pubmed.ncbi.nlm.nih.gov/23500390/)
 
 Майер Л.С., Соссала С. Maier LS, et al. J Mol Cell Cardiol. 2013 авг.;61:44-50. doi: 10.1016/j.yjmcc.2013.03.001. Epub 2013 мар. 13. J Mol Cell Cardiol. 2013. PMID: 23500390 Бесплатная статья. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  375
 
-Цитировать
 
-Делиться
+
+
 
 [Диабет и ишемическая болезнь сердца: потребность в новых методах лечения растущего бремени болезней.](https://pubmed.ncbi.nlm.nih.gov/23500323/)
 
 Лью Вайоминг, ДеМария Ань. Lew WY, et al. J Am Coll Cardiol. 21 мая 2013 г.;61(20):2046-7. doi: 10.1016/j.jacc.2013.03.002. Epub 10 марта 2013 г. J Am Coll Cardiol. 2013. PMID: 23500323 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  376
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка **ранолазина** у пациентов с сахарным диабетом 2 типа и хронической стабильной стенокардией: результаты рандомизированного клинического исследования TERISA (Оценка ранолазина **у** пациентов с сахарным диабетом 2 типа и хронической стабильной стенокардией).](https://pubmed.ncbi.nlm.nih.gov/23500237/)
 
@@ -7367,17 +7367,17 @@ Item in Clipboard
 
 We conducted a randomized trial to test the antianginal benefit of **ranolazine** in patients with diabetes and stable angina. METHODS: T …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  377
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние антиангинального препарата **ранолазина** на мозговой натриевый канал Na(V)1.2 и его модуляцию внеклеточными протонами.](https://pubmed.ncbi.nlm.nih.gov/23472826/)
 
@@ -7387,17 +7387,17 @@ Item in Clipboard
 
 In this way, we further explore **ranolazine**'**s** potential as an anticonvulsant and its efficacy in conditions like those during a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  378
 
-Цитировать
 
-Делиться
+
+
 
 [Купирование стенокардии и улучшение резерва коронарного кровотока после лечения **ранолазином** у женщины с изолированным нарушением коронарной микроциркуляции.](https://pubmed.ncbi.nlm.nih.gov/24826280/)
 
@@ -7407,17 +7407,17 @@ Item in Clipboard
 
 The present clinical case underlines therefore how in patients with chronic ischemic heart disease without epicardial coronary stenosis **r** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  379
 
-Цитировать
 
-Делиться
+
+
 
 [Регуляция внутриклеточного Na(+) в норме и патологии: патофизиологические механизмы и значение для лечения.](https://pubmed.ncbi.nlm.nih.gov/24689024/)
 
@@ -7427,17 +7427,17 @@ Item in Clipboard
 
 The possibility of modulating Na(+) inward fluxes and \[Na(+)\]i with specific INaL inhibitors, such as **ranolazine**, has made Na(+)a nov …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  380
 
-Цитировать
 
-Делиться
+
+
 
 [Ресвератрол ослабляет Na(+)-зависимую внутриклеточную перегрузку Ca(2+) путем ингибирования вызванного H(2)O(2) увеличения позднего натриевого тока в желудочковых миоцитах.](https://pubmed.ncbi.nlm.nih.gov/23272101/)
 
@@ -7447,17 +7447,17 @@ Item in Clipboard
 
 RESULTS: Resveratrol (10, 20, 40 and 80 M) decreased I(Na.L) in myocytes both in the absence and presence of H(2)O(2) (300 M) in a concentra …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  381
 
-Цитировать
 
-Делиться
+
+
 
 [Антиангинальный и антиишемический эффекты позднего ингибирования натриевого тока.](https://pubmed.ncbi.nlm.nih.gov/23247666/)
 
@@ -7467,17 +7467,17 @@ Item in Clipboard
 
 When evaluated in patients with acute coronary syndrome, **ranolazine** has been shown to decrease recurrent ischemia, but not significan …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  382
 
-Цитировать
 
-Делиться
+
+
 
 [Медленно инактивирующий компонент тока Na+ в перисоматической области пирамидных нейронов гиппокампа СА1.](https://pubmed.ncbi.nlm.nih.gov/23236005/)
 
@@ -7487,17 +7487,17 @@ Item in Clipboard
 
 The peak amplitude of INaS was proportional to the peak amplitude of INaT but was much smaller in amplitude. Hexanol, riluzole, and **ranol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  383
 
-Цитировать
 
-Делиться
+
+
 
 [Механизмы **двойной** защиты **ранолазина** от фибрилляции предсердий и желудочков.](https://pubmed.ncbi.nlm.nih.gov/23220484/)
 
@@ -7507,17 +7507,17 @@ Item in Clipboard
 
 We review evidence indicating that at therapeutic concentrations, **ranolazine** has potential for dual suppression of these arrhythmias. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  384
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** поддерживал синусовый ритм у пациента с рефрактерной симптоматической фибрилляцией предсердий.](https://pubmed.ncbi.nlm.nih.gov/23205928/)
 
@@ -7527,17 +7527,17 @@ Item in Clipboard
 
 Nevertheless, symptomatic atrial fibrillation always recurred until an off-label use with **ranolazine** was started. We could demonstrat …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  385
 
-Цитировать
 
-Делиться
+
+
 
 [Пациент с хронической ишемической болезнью сердца. Роль **ранолазина** в лечении стабильной стенокардии.](https://pubmed.ncbi.nlm.nih.gov/23161033/)
 
@@ -7547,33 +7547,33 @@ Item in Clipboard
 
 In addition to these agents, also new treatment options are evaluated in patients with stable IHD. **Ranolazine**, in particular, is a in …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  386
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** при мерцательной аритмии: купите один и получите три полезных механизма!](https://pubmed.ncbi.nlm.nih.gov/23112001/)
 
 Майер ЛС. Maier LS. Eur J Heart Fail. 2012 Декабрь;14(12):1313-5. doi: 10.1093/eurjhf/hfs168. Epub 2012 Окт 30. Eur J Heart Fail. 2012. PMID: 23112001 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  387
 
-Цитировать
 
-Делиться
+
+
 
 [Роль поздней блокады натриевых каналов в лечении фибрилляции предсердий.](https://pubmed.ncbi.nlm.nih.gov/23108433/)
 
@@ -7583,17 +7583,17 @@ Item in Clipboard
 
 Selective late I(Na) block does not prolong the effective refractory period (ERP), a feature common to practically all anti-AF agents. Altho …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  388
 
-Цитировать
 
-Делиться
+
+
 
 [Дальнейшее изучение основных электрофизиологических механизмов снижения фибрилляции предсердий **ранолазином** в экспериментальной модели хронической сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/23099358/)
 
@@ -7603,17 +7603,17 @@ Item in Clipboard
 
 AIMS: **Ranolazine** (RAN) was reported to be effective and safe in converting atrial fibrillation (AF) to sinus rhythm by administration …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  389
 
-Цитировать
 
-Делиться
+
+
 
 [Патологическая роль сывороточно- и глюкокортикоидно-регулируемой киназы 1 в неблагоприятном ремоделировании желудочков.](https://pubmed.ncbi.nlm.nih.gov/23019294/)
 
@@ -7623,17 +7623,17 @@ Item in Clipboard
 
 The proarrhythmic effects of SGK1 were linked to biochemical and functional changes in the cardiac sodium channel and could be reversed by t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  390
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** подавляет чувствительность к сдвигу эндогенного тока Na+ и спонтанные потенциалы действия в клетках HL-1.](https://pubmed.ncbi.nlm.nih.gov/23018927/)
 
@@ -7643,17 +7643,17 @@ Item in Clipboard
 
 Recently, **ranolazine** was also shown to be an inhibitor of Na(V)1.5 mechanosensitivity. ...Inhibition of the frequency and decay rate …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  391
 
-Цитировать
 
-Делиться
+
+
 
 [Новые антиаритмические препараты в лечении мерцательной аритмии.](https://pubmed.ncbi.nlm.nih.gov/22920483/)
 
@@ -7663,17 +7663,17 @@ Item in Clipboard
 
 Unfortunately recent trials have raised concerns for the safety of this medication in certain patients. Other agents such as Vernakalant and …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  392
 
-Цитировать
 
-Делиться
+
+
 
 [\[Участие вызванного вератридином увеличения обратного тока обмена Na(+)/Ca(2+) во внутриклеточной перегрузке Ca(2+) и увеличении продолжительности потенциала действия в желудочковых миоцитах кролика\].](https://pubmed.ncbi.nlm.nih.gov/22907304/)
 
@@ -7685,17 +7685,17 @@ Item in Clipboard
 
 After adding 4 mumol/L tetrodotoxin (TTX), current density of I(Na.P) and reverse I(NCX) returned to (-0.07 0.14) and (1.69 0.15) pA/pF (P & …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  393
 
-Цитировать
 
-Делиться
+
+
 
 [Применение **ранолазина** в лечении рецидивирующей фибрилляции предсердий после чрескожной радиочастотной абляции.](https://pubmed.ncbi.nlm.nih.gov/28496762/)
 
@@ -7705,17 +7705,17 @@ Item in Clipboard
 
 Thus, the search for complementary treatment options continues.**Ranolazine** possesses antiarrhythmic effects in atrial myocytes via blo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  394
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на диссинхронию левого желудочка у пациентов с ишемической болезнью сердца.](https://pubmed.ncbi.nlm.nih.gov/22884560/)
 
@@ -7725,17 +7725,17 @@ Item in Clipboard
 
 We previously reported that **ranolazine** improves exercise myocardial perfusion. **Ranolazine** ameliorates myocardial ischemia by a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  395
 
-Цитировать
 
-Делиться
+
+
 
 [Окись углерода вызывает сердечную аритмию посредством индукции позднего тока Na+.](https://pubmed.ncbi.nlm.nih.gov/22822026/)
 
@@ -7745,17 +7745,17 @@ Item in Clipboard
 
 All proarrhythmic effects of CO were abolished by the NO synthase inhibitor l-NAME, and reversed by **ranolazine**, an inhibitor of the l …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  396
 
-Цитировать
 
-Делиться
+
+
 
 [Перспективная оценка связанного с беременностью плазменного белка-а и исходов у пациентов с острыми коронарными синдромами.](https://pubmed.ncbi.nlm.nih.gov/22813612/)
 
@@ -7765,17 +7765,17 @@ Item in Clipboard
 
 METHODS: We measured PAPP-A at baseline in 3,782 patients with non NSTE-ACS randomized to **ranolazine** or placebo in the MERLIN-TIMI 36 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  397
 
-Цитировать
 
-Делиться
+
+
 
 [Новые возможности лечения позднего тока Na, аритмий и диастолической дисфункции.](https://pubmed.ncbi.nlm.nih.gov/22767404/)
 
@@ -7785,17 +7785,17 @@ Item in Clipboard
 
 In addition, **ranolazine** seems to exert beneficial effects on diastolic cardiac function. Moreover, there are experimental and clinica …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  398
 
-Цитировать
 
-Делиться
+
+
 
 [Рецидив стенокардии после коронарной ангиопластики: механизмы, диагностические и терапевтические возможности.](https://pubmed.ncbi.nlm.nih.gov/24062904/)
 
@@ -7805,17 +7805,17 @@ Item in Clipboard
 
 When repeated coronary revascularization is not indicated, therapeutic approaches should aim at targeting the underlying mechanism for the p …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  399
 
-Цитировать
 
-Делиться
+
+
 
 [Местное анестезирующее ингибирование бактериальных натриевых каналов.](https://pubmed.ncbi.nlm.nih.gov/22641643/)
 
@@ -7825,17 +7825,17 @@ Item in Clipboard
 
 However, the neutral derivative benzocaine applied externally inhibited NaChBac channels, suggesting that hydrophobic pathways can also prov …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  400
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** снижает механочувствительность потенциалзависимого натриевого ионного канала Na(v)1.5: новый механизм действия препарата.](https://pubmed.ncbi.nlm.nih.gov/22565935/)
 
@@ -7845,13 +7845,13 @@ Item in Clipboard
 
 Block of Na(V)1.5 mechanosensitivity by **ranolazine** was not due to the known binding site on DIVS6 (F1760). The effect of **ranolazin** …
 
-Cite
 
-Share
 
-Item in Clipboard
 
-Цитировать
+
+
+
+
 
 Копировать
 
@@ -7859,10 +7859,10 @@ Item in Clipboard
 
 Формат: AMA APA MLA NLM
 
-Делиться
 
--   
--   
+
+- 
+- 
 
 Постоянная ссылка
 
@@ -7870,25 +7870,25 @@ Item in Clipboard
 
  401
 
-Цитировать
 
-Делиться
+
+
 
 [Повышенный поздний натриевый ток способствует восприимчивости к аритмиям, связанным с удлинением интервала QT, у самок мышей.](https://pubmed.ncbi.nlm.nih.gov/22562703/)
 
 Лоу Дж. С., Страуд Д. М., Янг Т., Холл Л., Атак ТК., Роден Д. М. Лоу Дж.С. и др. Cardiovasc Res. 2012 1 августа;95(3):300-7. doi: 10.1093/cvr/cvs160. Epub 2012 4 мая. Cardiovasc Res. 2012. PMID: 22562703 Бесплатная статья PMC.
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  402
 
-Цитировать
 
-Делиться
+
+
 
 [Электрофизиологические характеристики препаратов верхней полой вены у собак: эффект **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/22407414/)
 
@@ -7898,33 +7898,33 @@ Item in Clipboard
 
 **Ранолазин** (5-10 мкмоль/л) устранял позднюю фазу 3-й триггерной активности, вызванной EAD и DAD, а также автоматизм, вызванный изопротеренолом …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  403
 
-Цитировать
 
-Делиться
+
+
 
 [Смещенные влево навигационные каналы в поврежденном бислое: основные цели для нейропротекторных антагонистов навигационных каналов?](https://pubmed.ncbi.nlm.nih.gov/22375118/)
 
 Моррис CE, Буше PA, Йос Б. Моррис CE и др. Front Pharmacol. 2012 23 февраля;3:19. doi: 10.3389/fphar.2012.00019. eCollection 2012. Фронт Фармакол. 2012. PMID: 22375118 Бесплатная статья PMC.
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  404
 
-Цитировать
 
-Делиться
+
+
 
 [Остеопротегерин и сердечно-сосудистая смертность у пациентов с острыми коронарными синдромами без подъема сегмента ST.](https://pubmed.ncbi.nlm.nih.gov/22373720/)
 
@@ -7934,17 +7934,17 @@ Item in Clipboard
 
 ОБСТАНОВКА: Подисследование биомаркеров MERLIN-TIMI 36, рандомизированное плацебо-контролируемое исследование **ранолазина** при ОКС без подъема сегмента ST (NSTE). P …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  405
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** улучшает диастолическую дисфункцию сердца посредством модуляции чувствительности миофиламентов к кальцию.](https://pubmed.ncbi.nlm.nih.gov/22343711/)
 
@@ -7954,17 +7954,17 @@ Item in Clipboard
 
 ЦЕЛЬ: Окислительный стресс в модели DOCA-соль может увеличить поздний I(Na), что приводит к диастолической дисфункции, поддающейся лечению с помощью …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  406
 
-Цитировать
 
-Делиться
+
+
 
 [Зависимые от частоты эффекты вернакаланта в изолированном неремоделированном левом предсердии собаки в первую очередь обусловлены блокадой натриевого канала: сравнение с **ранолазином** и dl-соталолом.](https://pubmed.ncbi.nlm.nih.gov/22322366/)
 
@@ -7974,17 +7974,17 @@ Item in Clipboard
 
 Вернакалант и **ранолазин** вызывали зависимое от скорости, тогда как dl-соталол вызывал обратное зависимое от скорости удлинение ERP. Значительное …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  407
 
-Цитировать
 
-Делиться
+
+
 
 [Скрытая ишемия: клиническая значимость.](https://pubmed.ncbi.nlm.nih.gov/22281245/)
 
@@ -7994,33 +7994,33 @@ Item in Clipboard
 
 Кроме того, необходимы будущие исследования для изучения эффекта новых методов лечения, таких как **ранолазин** или избирательное использование реваса…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  408
 
-Цитировать
 
-Делиться
+
+
 
 [Безопасна ли рандомизация с плацебо? Риск в плацебо-контролируемых исследованиях стенокардии: метаанализ риска стенокардии.](https://pubmed.ncbi.nlm.nih.gov/22261892/)
 
 Глассер СП, Уиллард Дж, Дефелис А, Лоуренс Дж, Хунг Дж, Обот Э, Гертон Дж, Таргум С, Трокмортон Д, Мангано Д, Липицки Р.Дж. Глассер С.П. и др. Кардиология. 2011;120(3):174-81. doi: 10.1159/000335522. Epub 2012 янв. 18. Кардиология. 2011. PMID: 22261892 Бесплатная статья PMC.
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  409
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** стабилизирует рианодиновые рецепторы сердца: новый механизм подавления ранней постдеполяризации и желудочковой тахикардии типа «пируэт» при удлинении интервала QT 2-го типа.](https://pubmed.ncbi.nlm.nih.gov/22245792/)
 
@@ -8030,17 +8030,17 @@ Item in Clipboard
 
 ПРЕДЫСТОРИЯ: Известно, что **ранолазин (Ран) ингибирует множество мишеней, включая поздний ток Na(+), быстрый отсроченный выпрямляющий ток K(+)…**
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  410
 
-Цитировать
 
-Делиться
+
+
 
 [Патофизиология позднего тока Na в сердце и его потенциал в качестве мишени для лекарственных препаратов.](https://pubmed.ncbi.nlm.nih.gov/22198344/)
 
@@ -8050,17 +8050,17 @@ Item in Clipboard
 
 С ростом признания того, что многие патологические состояния сердца имеют общие фенотипические проявления повышенной регуляции I(NaL), …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  411
 
-Цитировать
 
-Делиться
+
+
 
 [Повреждение митохондриального комплекса I при ишемии и реперфузии сердца косвенно уменьшается антиангинальным препаратом **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/22178605/)
 
@@ -8070,17 +8070,17 @@ Item in Clipboard
 
 В этом исследовании мы изучили, опосредован ли защитный эффект ранолазина против ишемии/реперфузии сердца ( **ИР** ) **…**
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  412
 
-Цитировать
 
-Делиться
+
+
 
 [Твердые частицы вызывают сердечные аритмии за счет нарушения регуляции чувствительности каротидных телец и сердечных натриевых каналов.](https://pubmed.ncbi.nlm.nih.gov/22108299/)
 
@@ -8090,17 +8090,17 @@ Item in Clipboard
 
 Последующее воздействие ТЧ усилило фосфорилирование тирозина и нитрацию потенциалзависимой сердечной мышцы типа V альфа-субъединицы Na(…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  413
 
-Цитировать
 
-Делиться
+
+
 
 [Роль ST2 при остром коронарном синдроме без подъема сегмента ST в исследовании MERLIN-TIMI 36.](https://pubmed.ncbi.nlm.nih.gov/22096031/)
 
@@ -8110,17 +8110,17 @@ Item in Clipboard
 
 METHODS: We measured ST2 with a high-sensitivity assay in all available baseline samples (N=4426) in patients enrolled in the Metabolic Effi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  414
 
-Цитировать
 
-Делиться
+
+
 
 [Анализ динамики и чувствительности блока высокочастотной проводимости.](https://pubmed.ncbi.nlm.nih.gov/22056338/)
 
@@ -8130,17 +8130,17 @@ Item in Clipboard
 
 Our experimental results support these findings and closely match results from the equivalent modeling scenario: intra-peritoneal administra …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  415
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** в сравнении с амиодароном для профилактики послеоперационной фибрилляции предсердий.](https://pubmed.ncbi.nlm.nih.gov/22050058/)
 
@@ -8150,17 +8150,17 @@ Item in Clipboard
 
 The results of this retrospective nonrandomized single-center study indicate that **ranolazine** may be used to effectively and safely pr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  416
 
-Цитировать
 
-Делиться
+
+
 
 [Обновленная информация о лечении стабильной стенокардии.](https://pubmed.ncbi.nlm.nih.gov/22044707/)
 
@@ -8170,17 +8170,17 @@ Item in Clipboard
 
 The latest antianginal to obtain marketing authorization, **ranolazine**, is not yet available in France. The different levels of evidenc …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  417
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение электрофизиологических и антиаритмических эффектов вернакаланта, **ранолазина** и соталола в препаратах для имплантации легочных вен у собак.](https://pubmed.ncbi.nlm.nih.gov/22019863/)
 
@@ -8190,17 +8190,17 @@ Item in Clipboard
 
 BACKGROUND: Vernakalant (VER) is a relatively atrial-selective antiarrhythmic drug capable of blocking potassium and sodium currents in a fr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  418
 
-Цитировать
 
-Делиться
+
+
 
 [Стратегия селективной блокады натриевых каналов предсердий для подавления фибрилляции предсердий: **ранолазин** против пропафенона.](https://pubmed.ncbi.nlm.nih.gov/22005044/)
 
@@ -8210,17 +8210,17 @@ Item in Clipboard
 
 The present study contrasts the effects of **ranolazine** and those of a clinically used anti-AF class IC agent, propafenone. ...Thus, pr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  419
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** пролонгированного действия : критическая оценка его применения при стабильной стенокардии.](https://pubmed.ncbi.nlm.nih.gov/21915171/)
 
@@ -8230,17 +8230,17 @@ Item in Clipboard
 
 The main goals of treatment of stable angina pectoris are to improve quality of life by reducing the severity and/or frequency of symptoms, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  420
 
-Цитировать
 
-Делиться
+
+
 
 [Приготовление и оценка смеси микрочастиц эудрагита и этилцеллюлозы, нагруженных **ранолазином** для контролируемого высвобождения.](https://pubmed.ncbi.nlm.nih.gov/21897657/)
 
@@ -8250,17 +8250,17 @@ Item in Clipboard
 
 To minimize the unwanted toxic effects of anti-anginal **ranolazine** by kinetic control of drug release, it was entrapped into gastro-re …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  421
 
-Цитировать
 
-Делиться
+
+
 
 [Множественные аритмические синдромы у новорожденного вследствие новой мутации в гене SCN5A.](https://pubmed.ncbi.nlm.nih.gov/21895525/)
 
@@ -8270,17 +8270,17 @@ Item in Clipboard
 
 The tetrodotoxin-sensitive late I(Na) was increased almost 3-fold compared with WT channels. **Ranolazine** reduced late I(Na) in WT and …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  422
 
-Цитировать
 
-Делиться
+
+
 
 [Метаболический антиангинальный препарат **ранолазин** обеспечивает хорошее облегчение симптомов у пациента с неоперабельным тяжелым аортальным стенозом.](https://pubmed.ncbi.nlm.nih.gov/21884008/)
 
@@ -8290,17 +8290,17 @@ Item in Clipboard
 
 Management of symptoms with traditional antianginal agents, which exert hemodynamic changes often may not be possible in such patient groups …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  423
 
-Цитировать
 
-Делиться
+
+
 
 [Терапевтическое ингибирование окисления жирных кислот при гипертрофии правого желудочка: использование цикла Рэндла.](https://pubmed.ncbi.nlm.nih.gov/21874543/)
 
@@ -8310,33 +8310,33 @@ Item in Clipboard
 
 RVH was induced in adult Sprague-Dawley rats by pulmonary artery banding (PAB). pFOXi were administered orally to prevent (trimetazidine, 0. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  424
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** и скрытая ишемия.](https://pubmed.ncbi.nlm.nih.gov/21867850/)
 
 Конти CR. Conti CR. J Am Coll Cardiol. 2011 30 августа;58(10):1083; ответ автора 1083-4. doi: 10.1016/j.jacc.2010.11.084. J Am Coll Cardiol. 2011. PMID: 21867850 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  425
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** для лечения рефрактерной стенокардии у ветеранов.](https://pubmed.ncbi.nlm.nih.gov/21856249/)
 
@@ -8346,17 +8346,17 @@ Item in Clipboard
 
 BACKGROUND: Pivotal **ranolazine** trials did not require optimization of conventional medical therapy including coronary revascularizati …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  426
 
-Цитировать
 
-Делиться
+
+
 
 [Механизмы селективной для предсердий блокады Na+-каналов ранолазином **:** II. Выводы из математической модели.](https://pubmed.ncbi.nlm.nih.gov/21821780/)
 
@@ -8366,17 +8366,17 @@ Item in Clipboard
 
 Block of Na(+) channel conductance by **ranolazine** displays marked atrial selectivity that is an order of magnitude higher that of othe …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  427
 
-Цитировать
 
-Делиться
+
+
 
 [Механизмы атриально-селективной блокады Na+-каналов ранолазином **:** I. Экспериментальный анализ блокады, зависящей от использования.](https://pubmed.ncbi.nlm.nih.gov/21821778/)
 
@@ -8386,17 +8386,17 @@ Item in Clipboard
 
 The present study examined the basis for the atrial-selective actions of **ranolazine**. Whole cell I(Na) was recorded at 15C in canine a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  428
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность и сила действия антиаритмических препаратов I класса для подавления волн Ca2+ в проницаемых миоцитах, лишенных кальсеквестрина.](https://pubmed.ncbi.nlm.nih.gov/21798265/)
 
@@ -8406,17 +8406,17 @@ Item in Clipboard
 
 Category 3 drugs (procainamide, disopyramide, mexiletine, cibenzoline, and **ranolazine**) had no significant effects on Ca(2+) waves at …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  429
 
-Цитировать
 
-Делиться
+
+
 
 [Лечение рефрактерной стенокардии.](https://pubmed.ncbi.nlm.nih.gov/21769814/)
 
@@ -8426,17 +8426,17 @@ Item in Clipboard
 
 Among the multitude of pharmacological and non-invasive therapeutic options for patients with RAP, **ranolazine** is a new drug indicated …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  430
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** снижает перегрузку Ca2+ и окислительный стресс, а также улучшает целостность митохондрий, защищая от ишемического реперфузионного повреждения изолированных сердец.](https://pubmed.ncbi.nlm.nih.gov/21741479/)
 
@@ -8446,17 +8446,17 @@ Item in Clipboard
 
 **Ranolazine** is a clinically approved drug for treating cardiac ventricular dysrhythmias and angina. ...During late ischemia and reperf …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  431
 
-Цитировать
 
-Делиться
+
+
 
 [Повышение уровня липидного обмена в сердце при развитии сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/21711241/)
 
@@ -8466,17 +8466,17 @@ Item in Clipboard
 
 Up-regulation of the cardiac lipid metabolism was related to oxygen and ATP depletion of failing hearts because anti-ischemic treatment with …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  432
 
-Цитировать
 
-Делиться
+
+
 
 [Постоянный приток Na+, зависящий от Nav1.5, активирует CaMKII в желудочковых миоцитах крыс и мышах N1325S.](https://pubmed.ncbi.nlm.nih.gov/21677263/)
 
@@ -8486,17 +8486,17 @@ Item in Clipboard
 
 The effects of both ATX-II and the N(1325)S mutation were reversed by either I(NaL) inhibition (with **ranolazine** or tetrodotoxin) or C …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  433
 
-Цитировать
 
-Делиться
+
+
 
 [Антиадренергические и гемодинамические эффекты **ранолазина** у сознательных собак.](https://pubmed.ncbi.nlm.nih.gov/21633249/)
 
@@ -8506,17 +8506,17 @@ Item in Clipboard
 
 **Ranolazine** (0.4, 1.2, 3.6, and 6 mg/kg, intravenous) alone caused transient (<1 minute) and reversible hemodynamic changes. ... …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  434
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** улучшает течение стенокардии у женщин с признаками ишемии миокарда, но без обструктивной болезни коронарных артерий.](https://pubmed.ncbi.nlm.nih.gov/21565740/)
 
@@ -8526,17 +8526,17 @@ Item in Clipboard
 
 Participants were assigned to **ranolazine** or placebo for 4 weeks separated by a 2-week washout. The Seattle Angina Questionnaire and C …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  435
 
-Цитировать
 
-Делиться
+
+
 
 [Подавление частой желудочковой эктопии у пациента с гипертрофической болезнью сердца с помощью **ранолазина** : описание случая.](https://pubmed.ncbi.nlm.nih.gov/21556158/)
 
@@ -8546,17 +8546,17 @@ Item in Clipboard
 
 **Ranolazine** also inhibits triggered activity in animal studies and has anti-arrhythmic properties in patients with ischemic heart dise …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  436
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** для лечения сердечной недостаточности с сохраненной фракцией выброса: предпосылки, цели и дизайн исследования RALI-DHF.](https://pubmed.ncbi.nlm.nih.gov/21538388/)
 
@@ -8566,17 +8566,17 @@ Item in Clipboard
 
 So far, there has been no specific treatment for impaired left ventricular (LV) relaxation. Data from in vitro and animal studies indicate t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  437
 
-Цитировать
 
-Делиться
+
+
 
 [Поздний натриевый ток способствует обратному зависящему от скорости эффекту ингибирования IKr на реполяризацию желудочков.](https://pubmed.ncbi.nlm.nih.gov/21482963/)
 
@@ -8586,17 +8586,17 @@ Item in Clipboard
 
 Both E-4031 (20 nmol/L) and d-sotalol (10 mumol/L) increased MAPD(90) and BVR at all stimulation rates, and the increase was greater at slow …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  438
 
-Цитировать
 
-Делиться
+
+
 
 [Электрофизиологические основы антиаритмического действия **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/21421082/)
 
@@ -8606,17 +8606,17 @@ Item in Clipboard
 
 **Ranolazine** is a Food and Drug Administration-approved antianginal agent. ...Recent studies have shown that the drug may be effective …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  439
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** может значительно повышать уровень такролимуса в крови.](https://pubmed.ncbi.nlm.nih.gov/25984101/)
 
@@ -8626,17 +8626,17 @@ Item in Clipboard
 
 We report the case of a renal transplant patient on tacrolimus who developed a fully reversible renal failure and a doubling in serum tacrol …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  440
 
-Цитировать
 
-Делиться
+
+
 
 [Подавление реципрокной и мультифокальной фибрилляции желудочков поздним блокатором натриевых токов **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/21232675/)
 
@@ -8646,17 +8646,17 @@ Item in Clipboard
 
 OBJECTIVES: The purpose of this study was to test the hypothesis that the late Na current blocker **ranolazine** suppresses re-entrant an …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  441
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** : новый подход к лечению старой проблемы.](https://pubmed.ncbi.nlm.nih.gov/21224931/)
 
@@ -8666,17 +8666,17 @@ Item in Clipboard
 
 Moreover, many current therapeutic agents cause side effects that can induce substantial morbidity on their own. In major clinical trials, t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  442
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка множественных сердечных биомаркеров при острых коронарных синдромах без подъема сегмента ST: наблюдения из исследования MERLIN-TIMI 36.](https://pubmed.ncbi.nlm.nih.gov/21183500/)
 
@@ -8686,17 +8686,17 @@ Item in Clipboard
 
 METHODS AND RESULTS: We measured cardiac troponin I (cTnI), N-terminal pro B-type natriuretic peptide (NT-proBNP), C-reactive protein, and m …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  443
 
-Цитировать
 
-Делиться
+
+
 
 [Модуляция позднего натриевого тока АТХ-II и **ранолазином** влияет на обратную зависимость от использования и проаритмическую чувствительность блокады IKr.](https://pubmed.ncbi.nlm.nih.gov/21182492/)
 
@@ -8706,17 +8706,17 @@ Item in Clipboard
 
 The effects of Anemonia sulcata toxin (ATX-II) (an I(Na,L) enhancer), d,l-sotalol, clarithromycin and **ranolazine** (an I(Na,L) blocker) …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  444
 
-Цитировать
 
-Делиться
+
+
 
 [Диастолическую дисфункцию и аритмии, вызванные сверхэкспрессией CaMKIIδ(C), можно устранить путем ингибирования позднего тока Na(+).](https://pubmed.ncbi.nlm.nih.gov/21174213/)
 
@@ -8728,17 +8728,17 @@ Item in Clipboard
 
 Premature arrhythmogenic contractions (PACs) in isolated isometrically twitching papillary muscles only occurred in TG preparations (5 vs. 0 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  445
 
-Цитировать
 
-Делиться
+
+
 
 [Y1767C, новая мутация SCN5A, вызывает постоянный ток Na+ и усиливает ингибирование **ранолазином** каналов Nav1.5.](https://pubmed.ncbi.nlm.nih.gov/21076026/)
 
@@ -8748,17 +8748,17 @@ Item in Clipboard
 
 The persistent Na(+) current of the Y1767C channel was blocked by **ranolazine** but not by many class I antiarrhythmic drugs. The incomp …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  446
 
-Цитировать
 
-Делиться
+
+
 
 [Новая клиническая роль **ранолазина** в лечении стенокардии.](https://pubmed.ncbi.nlm.nih.gov/21063462/)
 
@@ -8768,17 +8768,17 @@ Item in Clipboard
 
 These benefits occur without reduction in heart rate and blood pressure or increased mortality. Although **ranolazine** prolongs the QT(c …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  447
 
-Цитировать
 
-Делиться
+
+
 
 [Ангиотензин II вызывает постдеполяризацию посредством сигналов активных форм кислорода и кальмодулинкиназы II.](https://pubmed.ncbi.nlm.nih.gov/21059353/)
 
@@ -8788,33 +8788,33 @@ Item in Clipboard
 
 Nifedipine, a blocker of L-type Ca current (I(Ca)(2+)(,L)), or **ranolazine**, an inhibitor of late Na current (I(Na)(+)), abolished Ang …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  448
 
-Цитировать
 
-Делиться
+
+
 
 [Сила одного: подробный пример случая, основанный на логах, который наглядно демонстрирует эффективное использование **ранолазина** для контроля прогрессирующей фибрилляции предсердий.](https://pubmed.ncbi.nlm.nih.gov/28496672/)
 
 Рейффель JA. Reiffel JA. J Atr Fibrillation. 2010 22 октября;3(3):304. doi: 10.4022/jafib.304. eCollection 2010 октябрь-ноябрь. J Atr Fibrillation. 2010. PMID: 28496672 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  449
 
-Цитировать
 
-Делиться
+
+
 
 [Синергетический эффект комбинации **ранолазина** и дронедарона для подавления мерцательной аритмии.](https://pubmed.ncbi.nlm.nih.gov/20883928/)
 
@@ -8824,17 +8824,17 @@ Item in Clipboard
 
 OBJECTIVES: The aim of this study was to evaluate the effectiveness of a combination of dronedarone and **ranolazine** in suppression of …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  450
 
-Цитировать
 
-Делиться
+
+
 
 [Легочные венозные рукава как фармакологическая модель для изучения мерцательной аритмии.](https://pubmed.ncbi.nlm.nih.gov/24999375/)
 
@@ -8844,17 +8844,17 @@ Item in Clipboard
 
 Acetylcholine (ACh, 1 muM), isoproterenol (1 muM), high calcium (\[Ca2+\]o=5.4mM) or a combination was used to induce early or delayed afterde …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  451
 
-Цитировать
 
-Делиться
+
+
 
 [Последние достижения в лечении хронической стабильной стенокардии II. Противоишемическая терапия, варианты лечения рефрактерной стенокардии, снижение факторов риска и реваскуляризация.](https://pubmed.ncbi.nlm.nih.gov/20859545/)
 
@@ -8864,17 +8864,17 @@ Item in Clipboard
 
 A number of patients have contraindications or remain unrelieved from anginal discomfort with these drugs. Among newer alternatives, **rano** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  452
 
-Цитировать
 
-Делиться
+
+
 
 [Лечение стенокардии и микрососудистой коронарной дисфункции.](https://pubmed.ncbi.nlm.nih.gov/20842559/)
 
@@ -8884,17 +8884,17 @@ Item in Clipboard
 
 Current pharmacotherapy for MCD may include treatment of microvascular endothelial dysfunction (with statins, angiotensin-converting enzyme …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  453
 
-Цитировать
 
-Делиться
+
+
 
 [Роль антиишемических препаратов в лечении острого коронарного синдрома без подъема сегмента ST (NSTE-ACS).](https://pubmed.ncbi.nlm.nih.gov/20840192/)
 
@@ -8904,33 +8904,33 @@ Item in Clipboard
 
 Beta blockers are often the first-line choice with calcium channel blockers and nitrates being used as an alternative when beta blockers are …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  454
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** и его противоишемические эффекты: новый взгляд на старую механистическую парадигму?](https://pubmed.ncbi.nlm.nih.gov/20828646/)
 
 Боден У.Э. Boden WE. J Am Coll Cardiol. 2010 14 сентября;56(12):943-5. doi: 10.1016/j.jacc.2010.07.010. J Am Coll Cardiol. 2010. PMID: 20828646 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  455
 
-Цитировать
 
-Делиться
+
+
 
 [Механизм противоишемического действия **ранолазина** при стабильной ишемической болезни сердца.](https://pubmed.ncbi.nlm.nih.gov/20828645/)
 
@@ -8940,33 +8940,33 @@ Item in Clipboard
 
 OBJECTIVES: The purpose of this explanatory analysis was to investigate the relationship between ST-segment depression and the rate-pressure …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  456
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** эффективен при острой или хронической ишемической дисфункции с сердечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/20797499/)
 
 Нанда С., Мартинес М.В., Дей Т. Nanda S, et al. J Am Coll Cardiol. 2010 31 августа;56(10):822; ответ автора 822. doi: 10.1016/j.jacc.2010.04.039. J Am Coll Cardiol. 2010. PMID: 20797499 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  457
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** селективно блокирует постоянный ток, вызванный мутациями Nanu1.1, связанными с эпилепсией.](https://pubmed.ncbi.nlm.nih.gov/20735403/)
 
@@ -8976,33 +8976,33 @@ Item in Clipboard
 
 EXPERIMENTAL APPROACH: Human wild-type (WT) and mutant Na(V) 1.1 channels were expressed heterologously in human tsA201 cells and whole-cell …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  458
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** при мерцательной аритмии: слишком хорошо, чтобы быть правдой?](https://pubmed.ncbi.nlm.nih.gov/28496664/)
 
 Гард Дж. Дж., Асирватам С. Дж. Gard JJ, et al. J Atr Fibrillation. 2010 23 августа;3(2):297. doi: 10.4022/jafib.297. eCollection 2010 авг.-сент. J Atr Fibrillation. 2010. PMID: 28496664 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  459
 
-Цитировать
 
-Делиться
+
+
 
 [Электрофизиологические изменения предсердий у пациентов с изолированной пароксизмальной фибрилляцией предсердий.](https://pubmed.ncbi.nlm.nih.gov/28496660/)
 
@@ -9012,17 +9012,17 @@ Item in Clipboard
 
 **Ranolazine** is routinely given to patients with SHD. The ability of **Ranolazine** to terminate AF in man has not been described bu …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  460
 
-Цитировать
 
-Делиться
+
+
 
 [Антиангинальное средство **ранолазин** является мощным антиаритмическим средством, которое уменьшает желудочковые аритмии: посредством механизма, способствующего ингибированию поздних натриевых каналов.](https://pubmed.ncbi.nlm.nih.gov/20626400/)
 
@@ -9032,17 +9032,17 @@ Item in Clipboard
 
 BACKGROUND: The antianginal agent **ranolazine** (R) has shown some promise as an antiarrhythmic agent but its mechanism of action is not …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  461
 
-Цитировать
 
-Делиться
+
+
 
 [Аутофагия, вызванная ишемическим прекондиционированием, необходима для кардиопротекции.](https://pubmed.ncbi.nlm.nih.gov/20559777/)
 
@@ -9052,17 +9052,17 @@ Item in Clipboard
 
 To extend the potential significance of autophagy in cardioprotection, we also assessed three structurally unrelated cardioprotective agents …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  462
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на каналы hNav1.7 дикого типа и мутантные каналы, а также на возбудимость нейронов DRG.](https://pubmed.ncbi.nlm.nih.gov/20529343/)
 
@@ -9072,17 +9072,17 @@ Item in Clipboard
 
 **Ranolazine** also blocks wild-type Nav1.7 and Nav1.8 channels in a use-dependent manner. However, **ranolazine**'**s** effects on …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  463
 
-Цитировать
 
-Делиться
+
+
 
 [Поздний ток натрия способствует накоплению Ca2+ в диастолических клетках при хронической сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/20490740/)
 
@@ -9092,33 +9092,33 @@ Item in Clipboard
 
 Failing VM, but not normal VM, exhibited (1) prolonged action potentials and Ca2+ transients at 0.25 Hz, (2) substantial DCa accumulation at …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  464
 
-Цитировать
 
-Делиться
+
+
 
 [Усиление поздних na(+) токов при фибрилляции предсердий — новая мишень для лекарственных препаратов или просто эпифеномен?](https://pubmed.ncbi.nlm.nih.gov/20488305/)
 
 Шоттен У., Верхёле С., Керфант Б.Г., Грейзер М. Schotten U, et al. J Am Coll Cardiol. 2010 25 мая;55(21):2343-5. doi: 10.1016/j.jacc.2010.01.046. J Am Coll Cardiol. 2010. PMID: 20488305 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  465
 
-Цитировать
 
-Делиться
+
+
 
 [Измененные токи Na(+) при мерцательной аритмии. Влияние **ранолазина** на аритмии и сократимость миокарда предсердий человека.](https://pubmed.ncbi.nlm.nih.gov/20488304/)
 
@@ -9128,17 +9128,17 @@ Item in Clipboard
 
 OBJECTIVES: We investigated changes in Na(+) currents (I(Na)) in permanent (or chronic) atrial fibrillation (AF) and the effects of I(Na) in …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  466
 
-Цитировать
 
-Делиться
+
+
 
 [Модель частичной ишемии куриного эмбриона: новый подход к изучению ишемии ex vivo.](https://pubmed.ncbi.nlm.nih.gov/20479865/)
 
@@ -9148,17 +9148,17 @@ Item in Clipboard
 
 Hypoxia inducible factor- 1 alpha (HIF-1alpha), creatine phospho kinase-MB and reactive oxygen species in animal tissues and cells were meas …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  467
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакодинамические эффекты в сердечно-сосудистой системе: взгляд моделиста.](https://pubmed.ncbi.nlm.nih.gov/20470255/)
 
@@ -9168,17 +9168,17 @@ Item in Clipboard
 
 They are now sufficiently detailed to have been of use in the development of new drug compounds like **ranolazine** and ivabradine. With …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  468
 
-Цитировать
 
-Делиться
+
+
 
 [Пути к клиническим испытаниям.](https://pubmed.ncbi.nlm.nih.gov/20448862/)
 
@@ -9188,17 +9188,17 @@ Item in Clipboard
 
 Adefovir dipivoxil, Alemtuzumab, Aliskiren fumarate, AMA1-C1/alhydrogel, Amlodipine besylate/atorvastatin calcium, Aripiprazole, Artesunate/ …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  469
 
-Цитировать
 
-Делиться
+
+
 
 [Перспективная оценка прогностических последствий улучшения результатов анализа с помощью чувствительного анализа на сердечный тропонин I.](https://pubmed.ncbi.nlm.nih.gov/20447535/)
 
@@ -9208,17 +9208,17 @@ Item in Clipboard
 
 METHODS: We measured cTnI using a sensitive assay (TnI-Ultra, Siemens Healthcare Diagnostics, Deerfield, Illinois) at baseline in 4,513 pati …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  470
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на уровень HbA1c и глюкозы у пациентов с гипергликемией и острым коронарным синдромом без подъема сегмента ST.](https://pubmed.ncbi.nlm.nih.gov/20357382/)
 
@@ -9228,33 +9228,33 @@ Item in Clipboard
 
 RESULTS: In patients with diabetes and A1C of >or=8-10% at randomization (n = 171), there was an absolute A1C reduction in the **ranolaz** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  471
 
-Цитировать
 
-Делиться
+
+
 
 [Золотое дно биомаркеров?](https://pubmed.ncbi.nlm.nih.gov/20298925/)
 
 Калифф Р.М., Шах Ш.Х., Ньюби Л.К. Califf RM, et al. J Am Coll Cardiol. 2010 23 марта;55(12):1197-1199. doi: 10.1016/j.jacc.2009.10.051. J Am Coll Cardiol. 2010. PMID: 20298925 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  472
 
-Цитировать
 
-Делиться
+
+
 
 [Натрийуретический пептид типа В и эффект **ранолазина** у пациентов с острыми коронарными синдромами без подъема сегмента ST: наблюдения из исследования MERLIN-TIMI 36 (метаболическая эффективность **ранолазина** для уменьшения ишемии при остром коронарном тромболизе без подъема сегмента ST при инфаркте миокарда 36).](https://pubmed.ncbi.nlm.nih.gov/20298924/)
 
@@ -9264,17 +9264,17 @@ Item in Clipboard
 
 BACKGROUND: **Ranolazine** is believed to exert anti-ischemic effects by reducing myocardial sodium and calcium overload and consequently …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  473
 
-Цитировать
 
-Делиться
+
+
 
 [Селективная блокада натриевых каналов предсердий как новая стратегия лечения фибрилляции предсердий.](https://pubmed.ncbi.nlm.nih.gov/20201889/)
 
@@ -9284,17 +9284,17 @@ Item in Clipboard
 
 Recent experimental studies have demonstrated other important electrophysiologic differences between atrial and ventricular cells, particula …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  474
 
-Цитировать
 
-Делиться
+
+
 
 [Позднее ингибирование na(+) тока **ранолазином** уменьшает желудочковую тахикардию типа «пируэт» в модели хронической атриовентрикулярной блокады у собак.](https://pubmed.ncbi.nlm.nih.gov/20170820/)
 
@@ -9304,17 +9304,17 @@ Item in Clipboard
 
 In single ventricular myocytes, effects of **ranolazine** were studied on I(NaL), action potential duration, and dofetilide-induced BVR a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  475
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакологическое ингибирование окисления жирных кислот повышает чувствительность клеток лейкемии человека к индукции апоптоза.](https://pubmed.ncbi.nlm.nih.gov/20038799/)
 
@@ -9324,17 +9324,17 @@ Item in Clipboard
 
 Here we have demonstrated that pharmacologic inhibition of FAO with etomoxir or **ranolazine** inhibited proliferation and sensitized hum …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  476
 
-Цитировать
 
-Делиться
+
+
 
 [Синергические электрофизиологические и антиаритмические эффекты комбинации **ранолазина** и хронического амиодарона в предсердиях собак.](https://pubmed.ncbi.nlm.nih.gov/19952329/)
 
@@ -9344,33 +9344,33 @@ Item in Clipboard
 
 BACKGROUND: Amiodarone and **ranolazine** have been characterized as inactivated- and activated-state blockers of cardiac sodium channel …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  477
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** и баланс между потребностью и предложением миокарда.](https://pubmed.ncbi.nlm.nih.gov/19909935/)
 
 Клок ФДж. Klocke FJ. JACC Cardiovasc Imaging. 2009 Ноябрь;2(11):1310-2. doi: 10.1016/j.jcmg.2009.09.008. JACC Cardiovasc Imaging. 2009. PMID: 19909935 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  478
 
-Цитировать
 
-Делиться
+
+
 
 [Исследование эффектов **ранолазина** с использованием автоматизированного количественного анализа серийных изображений перфузии миокарда.](https://pubmed.ncbi.nlm.nih.gov/19909934/)
 
@@ -9380,17 +9380,17 @@ Item in Clipboard
 
 OBJECTIVES: This study examined the hypothesis that the improvement in myocardial blood flow (MBF) with **ranolazine** therapy could be d …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  479
 
-Цитировать
 
-Делиться
+
+
 
 [Синтез метаболитов **ранолазина** и их противоишемическая активность.](https://pubmed.ncbi.nlm.nih.gov/19881270/)
 
@@ -9400,17 +9400,17 @@ Item in Clipboard
 
 **Ranolazine** and its five principal metabolites: CVT-2512, CVT-2513, CVT-2514, CVT-2738 and CVT-4786, were synthesized. ...Within all t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  480
 
-Цитировать
 
-Делиться
+
+
 
 [Зависимая от использования блокада сердечного позднего Na(+) тока **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/19879541/)
 
@@ -9420,17 +9420,17 @@ Item in Clipboard
 
 BACKGROUND: **Ranolazine** is an antianginal drug that inhibits the cardiac late Na+ current (INa). ...CONCLUSION: **Ranolazine** slow …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  481
 
-Цитировать
 
-Делиться
+
+
 
 [Неантикоагулянтный гепарин снижает нагрузку миоцитов Na+ и Ca2+ во время имитации ишемии и уменьшает реперфузионное повреждение.](https://pubmed.ncbi.nlm.nih.gov/19855066/)
 
@@ -9440,17 +9440,17 @@ Item in Clipboard
 
 The NCX inhibitor KB-R7943 (10 microM) or the late Na(+) current (I(Na-L)) inhibitor **ranolazine** (10 microM) reduced \[Ca(2+)\](i) durin …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  482
 
-Цитировать
 
-Делиться
+
+
 
 [Адренергическая жирнокислотная нагрузка при сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/19850204/)
 
@@ -9460,17 +9460,17 @@ Item in Clipboard
 
 Our data suggest a major extracardiac site of trimetazidine action. **Ranolazine**, which inhibits the late sodium inward current, requir …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  483
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** ослабляет поведенческие признаки нейропатической боли.](https://pubmed.ncbi.nlm.nih.gov/19773645/)
 
@@ -9480,17 +9480,17 @@ Item in Clipboard
 
 **Ranolazine** also targets neuronal (NaV 1.7, 1.8) isoforms that are implicated in neuropathic pain. ...These data warrant clinical inve …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  484
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** , антиангинальный препарат, заметно снижает желудочковые аритмии, вызванные ишемией и ишемией-реперфузией.](https://pubmed.ncbi.nlm.nih.gov/19767532/)
 
@@ -9500,17 +9500,17 @@ Item in Clipboard
 
 **Ranolazine** significantly reduced the incidence of ventricular fibrillation \[67% in controls vs. 42% (P = 0.414), 30% (P = 0.198) and …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  485
 
-Цитировать
 
-Делиться
+
+
 
 [Использование перорального **ранолазина** для купирования новой или пароксизмальной фибрилляции предсердий: обзор опыта с учетом возможного подхода «таблетка в кармане» к фибрилляции предсердий.](https://pubmed.ncbi.nlm.nih.gov/19763194/)
 
@@ -9520,17 +9520,17 @@ Item in Clipboard
 
 **Ranolazine** is a potent inhibitor of after-depolarizations, which have been implicated in the initiation and propagation of AF. ...We …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  486
 
-Цитировать
 
-Делиться
+
+
 
 [Медленно инактивирующий натриевый ток способствует спонтанной диастолической деполяризации предсердных миоцитов.](https://pubmed.ncbi.nlm.nih.gov/19700626/)
 
@@ -9540,17 +9540,17 @@ Item in Clipboard
 
 The H(2)O(2)-induced activity was suppressed by the late I(Na) inhibitors tetrodotoxin (TTX, 1 micromol/l) and **ranolazine** (5 micromol …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  487
 
-Цитировать
 
-Делиться
+
+
 
 [Селективная блокада натриевых каналов предсердий как новая стратегия лечения фибрилляции предсердий.](https://pubmed.ncbi.nlm.nih.gov/19698954/)
 
@@ -9560,17 +9560,17 @@ Item in Clipboard
 
 Atrial-selective/predominant sodium channel blockers such as **ranolazine** effectively suppress AF in experimental models involving cani …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  488
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** , нового антиангинального препарата, на ионные токи и мембранный потенциал в клетках GH(3) опухоли гипофиза и нейрональных клетках NG108-15.](https://pubmed.ncbi.nlm.nih.gov/19609066/)
 
@@ -9580,17 +9580,17 @@ Item in Clipboard
 
 **Ranolazine**, a piperazine derivative, is currently approved for the treatment of chronic angina. ...**Ranolazine** depressed the tr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  489
 
-Цитировать
 
-Делиться
+
+
 
 [Снижение резерва реполяризации раскрывает проаритмическую роль эндогенного позднего тока Na(+) в сердце.](https://pubmed.ncbi.nlm.nih.gov/19592609/)
 
@@ -9602,17 +9602,17 @@ E-4031 вызывал спонтанную и вызванную паузой п
 
 E-4031 caused spontaneous and pause-triggered polymorphic ventricular tachycardia \[torsade de pointes (TdP)\]. In the presence of 60 nM E-403 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  490
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность **ранолазина** у пациентов с хронической стенокардией по наблюдениям из рандомизированного двойного слепого плацебо-контролируемого исследования MERLIN-TIMI (метаболическая эффективность **ранолазина** для уменьшения ишемии при острых коронарных синдромах без подъема сегмента ST) 36.](https://pubmed.ncbi.nlm.nih.gov/19389561/)
 
@@ -9622,17 +9622,17 @@ Item in Clipboard
 
 Symptomatic documented arrhythmias (2.9% vs. 2.9%, p = 0.92) and total mortality (6.2% vs. 6.4%, p = 0.96) were similar with **ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  491
 
-Цитировать
 
-Делиться
+
+
 
 [Ишемия, обнаруженная при непрерывной электрокардиографии после острого коронарного синдрома: наблюдения из исследования MERLIN-TIMI 36 (Метаболическая эффективность с **ранолазином** для уменьшения ишемии при остром коронарном синдроме без подъема сегмента ST-тромболизис при инфаркте миокарда 36).](https://pubmed.ncbi.nlm.nih.gov/19371824/)
 
@@ -9642,17 +9642,17 @@ Item in Clipboard
 
 METHODS: In all, 6,560 patients hospitalized with non-ST-segment elevation ACS were randomly assigned to **ranolazine** or placebo in the …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  492
 
-Цитировать
 
-Делиться
+
+
 
 [Диастолический транзиторный входящий ток при синдроме удлиненного интервала QT типа 3 вызван перегрузкой Ca2+ и подавляется **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/19371746/)
 
@@ -9662,17 +9662,17 @@ Item in Clipboard
 
 Both spontaneous diastolic I(TI) and underlying Ca(2+) waves are inhibited by **ranolazine** at concentrations that preferentially target …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  493
 
-Цитировать
 
-Делиться
+
+
 
 [Дисфункция синусового узла в мышиной модели синдрома удлиненного интервала QT3, вызванного ATX-II in vitro, и спасательный эффект **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/19351514/)
 
@@ -9682,17 +9682,17 @@ Item in Clipboard
 
 The ATX-II-induced alteration of electrophysiological properties and occurrence of arrhythmic events were significantly attenuated by 10 mic …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  494
 
-Цитировать
 
-Делиться
+
+
 
 [Новый механизм лечения стенокардии, аритмий и диастолической дисфункции: ингибирование позднего I(Na) с помощью **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/19333133/)
 
@@ -9702,17 +9702,17 @@ Item in Clipboard
 
 Inhibition of the persistent or late Na current (INa) using **ranolazine** (Ranexa) represents a novel mechanism of action that was appro …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  495
 
-Цитировать
 
-Делиться
+
+
 
 [Полезность кардиопульмонального нагрузочного тестирования при оценке предполагаемой микрососудистой ишемии.](https://pubmed.ncbi.nlm.nih.gov/19233492/)
 
@@ -9722,17 +9722,17 @@ Item in Clipboard
 
 The following case report describes the CPET abnormalities in a patient with suspected microvascular CAD and the subsequent improvement in L …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  496
 
-Цитировать
 
-Делиться
+
+
 
 [Кардиомиоциты из постинфарктных сердец крыс обладают повышенной толерантностью к ишемии.](https://pubmed.ncbi.nlm.nih.gov/19136604/)
 
@@ -9742,17 +9742,17 @@ Item in Clipboard
 
 CHF cells maintained much lower \[Ca(2+)\](i) than sham cells during hypoxia (423 vs. 1,766 arbitrary units at 4 h of hypoxia), and exchangeab …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  497
 
-Цитировать
 
-Делиться
+
+
 
 [Множественные лекарственные взаимодействия у пациента с трансплантацией почки, приводящие к рабдомиолизу, вызванному симвастатином: отчет о клиническом случае.](https://pubmed.ncbi.nlm.nih.gov/19099014/)
 
@@ -9762,17 +9762,17 @@ Item in Clipboard
 
 He had a renal transplant and has been on a stable dose of cyclosporine for the past year. Recent medication changes were the addition of …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  498
 
-Цитировать
 
-Делиться
+
+
 
 [Блокада тетродотоксин-чувствительных, Na(V)1.7 и тетродотоксин-резистентных, Na(V)1.8, Na+ каналов **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/19077543/)
 
@@ -9782,17 +9782,17 @@ Item in Clipboard
 
 **Ranolazine** reduced hNa(V)1.7 and rNa(V)1.8 I(Na) with IC50 values of 10.3 and 21.5 microM (holding potential = -120 or -100 mV, respe …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  499
 
-Цитировать
 
-Делиться
+
+
 
 [Применение **ранолазина** у пациентов с хронической стабильной стенокардией.](https://pubmed.ncbi.nlm.nih.gov/19065998/)
 
@@ -9802,17 +9802,17 @@ Item in Clipboard
 
 Advances in understanding of myocardial ischemia have prompted evaluation of a number of new antianginal strategies. In this review we discu …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  500
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** в сочетании с эналаприлом или метопрололом предотвращает прогрессирующую дисфункцию и ремоделирование ЛЖ у собак с умеренной сердечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/18820026/)
 
@@ -9822,17 +9822,17 @@ Item in Clipboard
 
 Acute intravenous infusion of **ranolazine** (Ran), an anti-ischemic/antiangina drug, was previously shown to improve left ventricular (L …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  501
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на поддержание синусового ритма у пациентов с резистентной мерцательной аритмией.](https://pubmed.ncbi.nlm.nih.gov/18679523/)
 
@@ -9842,17 +9842,17 @@ Item in Clipboard
 
 This produces an energy sparing effect and stabilizes cardiac membranes. **Ranolazine** is a potent inhibitor of triggered activity. The …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  502
 
-Цитировать
 
-Делиться
+
+
 
 [Механизмы прекращения фибрилляции предсердий быстро расщепляющимися блокаторами Na+-каналов: выводы из математических моделей и экспериментальных коррелятов.](https://pubmed.ncbi.nlm.nih.gov/18676686/)
 
@@ -9862,17 +9862,17 @@ Item in Clipboard
 
 Recent studies have increased interest in fast-unbinding Na(+) channel blockers like vernakalant (RSD1235) and **ranolazine** for AF ther …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  503
 
-Цитировать
 
-Делиться
+
+
 
 [Селективные блокаторы натриевых каналов предсердий: существуют ли они?](https://pubmed.ncbi.nlm.nih.gov/18670368/)
 
@@ -9882,17 +9882,17 @@ Item in Clipboard
 
 Recent experimental studies have demonstrated important atrioventricular differences in biophysical properties of the sodium channel and hav …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  504
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** сокращает время реполяризации у пациентов с устойчивым входящим током натрия из-за синдрома удлиненного интервала QT 3-го типа.](https://pubmed.ncbi.nlm.nih.gov/18662191/)
 
@@ -9902,17 +9902,17 @@ Item in Clipboard
 
 Cardiac ultrasound recordings were obtained before **ranolazine** infusion and just before completion of the 8-hour **ranolazine** inf …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  505
 
-Цитировать
 
-Делиться
+
+
 
 [Расширение понимания лечения хронической стенокардии: подход 21 века - часть II.](https://pubmed.ncbi.nlm.nih.gov/18636470/)
 
@@ -9922,33 +9922,33 @@ Item in Clipboard
 
 Three randomized, clinical trials of the drug **ranolazine** relate to patients with symptomatic myocardial ischemia. ...
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  506
 
-Цитировать
 
-Делиться
+
+
 
 [Погоня за легочными венозными потенциалами с помощью **ранолазина,** пока не стало слишком поздно.](https://pubmed.ncbi.nlm.nih.gov/18598959/)
 
 Карагеузян ХС. Karagueuzian HS. Heart Rhythm. 2008 июль;5(7):1027-8. doi: 10.1016/j.hrthm.2008.03.032. Epub 2008 мар. 27. Heart Rhythm. 2008. PMID: 18598959 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  507
 
-Цитировать
 
-Делиться
+
+
 
 [Антиаритмическое действие **ранолазина** в препаратах для имплантации легочных вен у собак.](https://pubmed.ncbi.nlm.nih.gov/18598958/)
 
@@ -9958,33 +9958,33 @@ Item in Clipboard
 
 Reducing basic cycle length (BCL) from 2000 to 200 ms resulted in a decrease of V(max) from 279 +/- 58 to 146 +/- 23 V/s (47.7%) in control …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  508
 
-Цитировать
 
-Делиться
+
+
 
 [Что нового в клинической фармакологии и терапии.](https://pubmed.ncbi.nlm.nih.gov/18593082/)
 
 Чавла П.С., Кочар М.С. Chawla PS, et al. WMJ. Апрель 2008 г.; 107(2):76-83. WMJ. 2008. PMID: 18593082 Бесплатная статья. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  509
 
-Цитировать
 
-Делиться
+
+
 
 [Вычислительные модели сердца и их использование при оценке действия лекарственных препаратов.](https://pubmed.ncbi.nlm.nih.gov/18566519/)
 
@@ -9994,33 +9994,33 @@ Item in Clipboard
 
 Several examples of such action profiles are presented here, including a recently-developed blocker of persistent sodium current, **ranolaz** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  510
 
-Цитировать
 
-Делиться
+
+
 
 [Расширение понимания лечения хронической стенокардии: подход 21 века — часть 1.](https://pubmed.ncbi.nlm.nih.gov/18543302/)
 
 Конти CR. Conti CR. Клиническая кардиология. 2008 июнь;31(6):239-40. doi: 10.1002/clc.20402. Clin Cardiol. 2008. PMID: 18543302 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  511
 
-Цитировать
 
-Делиться
+
+
 
 [Ключевые клинические соображения для демонстрации полезности доклинических моделей для прогнозирования клинической лекарственной тахикардии типа «пируэт».](https://pubmed.ncbi.nlm.nih.gov/18536754/)
 
@@ -10030,33 +10030,33 @@ Item in Clipboard
 
 In addition to low specificity for predicting arrhythmias, other issues relevant to using QT as a biomarker include (1) an apparent dissocia …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  512
 
-Цитировать
 
-Делиться
+
+
 
 [Является ли **ранолазин** антиаритмическим препаратом?](https://pubmed.ncbi.nlm.nih.gov/18375723/)
 
 Экхардт Л.Л., Тилин Т.К., январь CT. Eckhardt LL, et al. Am J Physiol Heart Circ Physiol. 2008 Май;294(5):H1989-91. doi: 10.1152/ajpheart.00285.2008. Электронная публикация 28 марта 2008 г. Am J Physiol Heart Circ Physiol. 2008. PMID: 18375723 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  513
 
-Цитировать
 
-Делиться
+
+
 
 [Селективная блокада натриевых каналов предсердий как стратегия подавления мерцательной аритмии.](https://pubmed.ncbi.nlm.nih.gov/18375582/)
 
@@ -10066,17 +10066,17 @@ Item in Clipboard
 
 Propafenone, a predominantly open-state sodium channel blocker, produced similar changes of electrophysiological parameters, which were was …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  514
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** : новый антиаритмический препарат для пациентов с острыми коронарными синдромами без подъема сегмента ST?](https://pubmed.ncbi.nlm.nih.gov/18332892/)
 
@@ -10086,17 +10086,17 @@ Item in Clipboard
 
 BACKGROUND: **Ranolazine** is a novel antianginal agent that has also been shown to have electrophysiological properties in laboratory mo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  515
 
-Цитировать
 
-Делиться
+
+
 
 [Увеличение позднего натриевого тока вызывает замедленную постдеполяризацию и устойчивую триггерную активность в предсердных миоцитах.](https://pubmed.ncbi.nlm.nih.gov/18310511/)
 
@@ -10106,17 +10106,17 @@ Anemone toxin II (ATX-II) (5-10 нмоль/л) использовался для
 
 Anemone toxin II (ATX-II) (5-10 nmol/l) was used to enhance late I(Na). **Ranolazine** (10 micromol/l) and TTX (2 micromol/l) were applie …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  516
 
-Цитировать
 
-Делиться
+
+
 
 [Чем селективные к предсердиям препараты отличаются от антиаритмических препаратов, которые в настоящее время используются для лечения мерцательной аритмии?](https://pubmed.ncbi.nlm.nih.gov/21057583/)
 
@@ -10126,17 +10126,17 @@ Item in Clipboard
 
 Recent studies have proposed that an Atrial-selective depression of sodium channel-dependent parameters with agents such as **ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  517
 
-Цитировать
 
-Делиться
+
+
 
 [Блокада потенциалзависимых изоформ Na+-каналов Nav1.4 в мышцах и Nav1.7 в нейронах, зависящая от состояния и использования, **ранолазином** .](https://pubmed.ncbi.nlm.nih.gov/18079277/)
 
@@ -10146,17 +10146,17 @@ Item in Clipboard
 
 **Ranolazine** is an antianginal agent that targets a number of ion channels in the heart, including cardiac voltage-gated Na(+) channels …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  518
 
-Цитировать
 
-Делиться
+
+
 
 [Постоянный ток натрия в сердце: привлекательная терапевтическая цель?](https://pubmed.ncbi.nlm.nih.gov/18071303/)
 
@@ -10166,17 +10166,17 @@ Item in Clipboard
 
 The same approach may be useful in some pathological situations, such as ischaemic arrhythmias or diastolic dysfunction, and newer agents ar …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  519
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование позднего натриевого тока для уменьшения электрической и механической дисфункции ишемического миокарда.](https://pubmed.ncbi.nlm.nih.gov/18071302/)
 
@@ -10186,17 +10186,17 @@ Item in Clipboard
 
 Recent reports from a large clinical outcome trial (MERLIN) of **ranolazine**, a drug known to inhibit late I(Na), indicated that it was …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  520
 
-Цитировать
 
-Делиться
+
+
 
 [Механизм действия нового противоишемического препарата **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/18046526/)
 
@@ -10206,33 +10206,33 @@ Item in Clipboard
 
 In the recent years, increased persistent (late) sodium current was suggested to contribute to disturbed ion homeostasis by elevating intrac …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  521
 
-Цитировать
 
-Делиться
+
+
 
 [Год острого коронарного синдрома без подъема сегмента ST.](https://pubmed.ncbi.nlm.nih.gov/17903640/)
 
 Джулиано РП, Браунвальд Э. Giugliano RP, et al. J Am Coll Cardiol. 2007 2 октября;50(14):1386-95. doi: 10.1016/j.jacc.2007.05.044. Epub 2007 17 сентября. J Am Coll Cardiol. 2007. PMID: 17903640 Бесплатная статья. Обзор. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  522
 
-Цитировать
 
-Делиться
+
+
 
 [Атриумселективная блокада натриевых каналов как стратегия подавления фибрилляции предсердий: различия в инактивации натриевых каналов между предсердиями и желудочками и роль **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/17785620/)
 
@@ -10242,17 +10242,17 @@ Item in Clipboard
 
 Lidocaine also preferentially suppressed these parameters in atria versus ventricles, but to a much lesser extent than **ranolazine**. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  523
 
-Цитировать
 
-Делиться
+
+
 
 [Клеточная основа электрокардиографических и аритмических проявлений синдрома Тимоти: эффекты **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/17467634/)
 
@@ -10262,17 +10262,17 @@ Item in Clipboard
 
 The syndrome has been linked to mutations in Ca(V)1.2 resulting in gain of function of the L-type calcium current (I(Ca,L)). **Ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  524
 
-Цитировать
 
-Делиться
+
+
 
 [Долгосрочная безопасность нового антиангинального средства у пациентов с тяжелой хронической стабильной стенокардией: открытый опыт применения **ранолазина (ROLE).**](https://pubmed.ncbi.nlm.nih.gov/17349881/)
 
@@ -10282,17 +10282,17 @@ Item in Clipboard
 
 OBJECTIVES: This report describes safety and tolerability data from 746 chronic angina patients treated in the ROLE (**Ranolazine** Open …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  525
 
-Цитировать
 
-Делиться
+
+
 
 [Новые терапевтические подходы к лечению хронической стенокардии на фоне хронической ишемической болезни сердца.](https://pubmed.ncbi.nlm.nih.gov/18373327/)
 
@@ -10302,17 +10302,17 @@ Item in Clipboard
 
 Pharmacologic therapy to alleviate symptoms in chronic angina has been enhanced by the recent approval of several novel compounds that compl …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  526
 
-Цитировать
 
-Делиться
+
+
 
 [Испытания и невзгоды, связанные со стенокардией, и традиционные терапевтические подходы.](https://pubmed.ncbi.nlm.nih.gov/18373326/)
 
@@ -10322,17 +10322,17 @@ Deedwania PC, Carbajal EV, Bobba VR. Deedwania PC, et al. Clin Cardiol. 2007 ф�
 
 Anti-anginal drug therapy is based on treatment with nitrates, beta blockers, and calcium channel blockers. A newly approved antianginal dru …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  527
 
-Цитировать
 
-Делиться
+
+
 
 [Переосмысление стенокардии.](https://pubmed.ncbi.nlm.nih.gov/18373324/)
 
@@ -10342,33 +10342,33 @@ Item in Clipboard
 
 When this occurs there is electrical instability and mechanical dysfunction which increases oxygen demand and decreases oxygen supply. The c …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  528
 
-Цитировать
 
-Делиться
+
+
 
 [Наследственный синдром удлиненного интервала QT: фенотип и терапия, которую следует применять и избегать.](https://pubmed.ncbi.nlm.nih.gov/17063944/)
 
 Конти CR. Conti CR. Клиническая кардиология. 2006 октябрь;29(10):429-30. doi: 10.1002/clc.4960291002. Clin Cardiol. 2006. PMID: 17063944 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  529
 
-Цитировать
 
-Делиться
+
+
 
 [Достижения в лечении стабильной стенокардии.](https://pubmed.ncbi.nlm.nih.gov/23577423/)
 
@@ -10378,65 +10378,65 @@ Item in Clipboard
 
 **Ranolazine** is also a P-glycoprotein (P-gp) substrate and inhibitor, and it may interact with other P-gp substrates and inhibitors. .. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  530
 
-Цитировать
 
-Делиться
+
+
 
 [Введение: Лечение пациентов с хронической стенокардией: новые терапевтические возможности для повышения клинической эффективности и результатов.](https://pubmed.ncbi.nlm.nih.gov/23577421/)
 
 Рамсфелд Дж.С. Rumsfeld JS. J Manag Care Pharm. 2006 октябрь;12(8 Suppl):S2-3. doi: 10.18553/jmcp.2006.12.S8-A.s2. J Manag Care Pharm. 2006. PMID: 23577421 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  531
 
-Цитировать
 
-Делиться
+
+
 
 [Новое лечение боли в груди.](https://pubmed.ncbi.nlm.nih.gov/16906653/)
 
 \[Авторы не указаны\] \[No authors listed\] FDA Потреб. 2006 Май-Июнь;40(3):2. FDA Consum. 2006. PMID: 16906653 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  532
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** : расширение антиангинального арсенала.](https://pubmed.ncbi.nlm.nih.gov/16875986/)
 
 Кэрнс JA. Cairns JA. Дж Ам Колл Кардиол. 1 августа 2006 г.; 48(3): 576-8. doi: 10.1016/j.jacc.2006.06.013. Электронная публикация 2006 г., 15 июня. J Am Coll Cardiol. 2006. PMID: 16875986 Бесплатная статья. Обзор. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  533
 
-Цитировать
 
-Делиться
+
+
 
 [Антиангинальная эффективность **ранолазина** при добавлении к лечению амлодипином: исследование ERICA (Эффективность **ранолазина** при хронической стенокардии).](https://pubmed.ncbi.nlm.nih.gov/16875985/)
 
@@ -10446,17 +10446,17 @@ Item in Clipboard
 
 At baseline, angina frequency averaged 5.63 +/- 0.18 episodes/week, and nitroglycerin consumption averaged 4.72 +/- 0.21 tablets/week. Compa …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  534
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование позднего натриевого тока как потенциальный кардиопротекторный принцип: эффекты позднего ингибитора натриевого тока **ранолазина** .](https://pubmed.ncbi.nlm.nih.gov/16775092/)
 
@@ -10466,17 +10466,17 @@ Item in Clipboard
 
 The focus of this review is on the role of the late (sustained/persistent) I(Na) in the ionic disturbances associated with ischaemia/hypoxia …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  535
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** улучшает аномальную реполяризацию и сокращение миоцитов левого желудочка у собак с сердечной недостаточностью путем ингибирования позднего натриевого тока.](https://pubmed.ncbi.nlm.nih.gov/16686675/)
 
@@ -10486,17 +10486,17 @@ Item in Clipboard
 
 **Ranolazine** preferentially blocked I(NaL) relative to I(NaT) in a state-dependent manner, with a approximately 38-fold greater potency …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  536
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование натрийзависимой перегрузки кальцием для лечения ишемии миокарда.](https://pubmed.ncbi.nlm.nih.gov/16649721/)
 
@@ -10506,17 +10506,17 @@ Item in Clipboard
 
 Because intracellular sodium and calcium overload play a key role in both mechanical and electrical dysfunction during myocardial ischemia, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  537
 
-Цитировать
 
-Делиться
+
+
 
 [Молекулярная основа блокады **ранолазином** мутантных натриевых каналов LQT-3: доказательства места действия.](https://pubmed.ncbi.nlm.nih.gov/16520744/)
 
@@ -10526,17 +10526,17 @@ Item in Clipboard
 
 1 We studied the effects of **ranolazine**, an antianginal agent with promise as an antiarrhythmic drug, on wild-type (WT) and long QT sy …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  538
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** и поздний сердечный ток натрия — терапевтическая цель при стенокардии, аритмии и других заболеваниях?](https://pubmed.ncbi.nlm.nih.gov/16520741/)
 
@@ -10546,17 +10546,17 @@ Makielski JC, Вальдивия CR. Makielski JC, et al. Br J Pharmacol. 2006 �
 
 **Ranolazine** is a new antianginal drug approved for clinical use in the United States in January 2006. A study published in this same i …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  539
 
-Цитировать
 
-Делиться
+
+
 
 [Ишемическая болезнь сердца: метаболические подходы к лечению.](https://pubmed.ncbi.nlm.nih.gov/15346837/)
 
@@ -10566,17 +10566,17 @@ Item in Clipboard
 
 This group of agents consists of the partial fatty acid oxidation inhibitors trimetazidine and **ranolazine**, as well as dichloroacetate …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  540
 
-Цитировать
 
-Делиться
+
+
 
 [Электрофизиологические эффекты **ранолазина** , нового антиангинального средства с антиаритмическими свойствами.](https://pubmed.ncbi.nlm.nih.gov/15302796/)
 
@@ -10586,17 +10586,17 @@ Item in Clipboard
 
 At \[K+\]o=4 mmol/L, 10 micromol/L **ranolazine** prolonged QT interval by 20 ms but did not increase TDR. ...CONCLUSIONS: **Ranolazine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  541
 
-Цитировать
 
-Делиться
+
+
 
 [**Ранолазин** : блокирующее ионные каналы действие и электрофизиологические эффекты in vivo.](https://pubmed.ncbi.nlm.nih.gov/15277312/)
 
@@ -10606,17 +10606,17 @@ Item in Clipboard
 
 **Ranolazine** is a novel anti-ischemic drug that prolongs the QT interval. To evaluate the potential mechanisms and consequences, we stu …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  542
 
-Цитировать
 
-Делиться
+
+
 
 [Противоишемические эффекты и долгосрочная выживаемость при монотерапии **ранолазином** у пациентов с хронической тяжелой стенокардией.](https://pubmed.ncbi.nlm.nih.gov/15093870/)
 
@@ -10626,33 +10626,33 @@ Item in Clipboard
 
 OBJECTIVES: The primary objective of the Monotherapy Assessment of **Ranolazine** In Stable Angina (MARISA) trial was to determine the do …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  543
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование частичного окисления жирных кислот (pFOX): новый метод лечения хронической стабильной стенокардии.](https://pubmed.ncbi.nlm.nih.gov/12708620/)
 
 Конти CR. Conti CR. Клиническая кардиология. 2003 апрель;26(4):161-2. doi: 10.1002/clc.4960260402. Clin Cardiol. 2003. PMID: 12708620 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  544
 
-Цитировать
 
-Делиться
+
+
 
 [Инсулинотерапия как дополнение к реперфузии после острой коронарной ишемии: предполагаемый прямой эффект выживания клеток миокарда, независимый от метаболической модуляции.](https://pubmed.ncbi.nlm.nih.gov/12706939/)
 
@@ -10662,33 +10662,33 @@ Item in Clipboard
 
 This concept of metabolic modulation has gained favor in coronary heart disease, and its efficacy currently is being investigated in stable …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  545
 
-Цитировать
 
-Делиться
+
+
 
 [Обновление клинических испытаний: исследование защиты сердца, IONA, CARISA, ENRICHD, ACUTE, ALIVE, MADIT II и REMATCH. Влияние никорандила на стенокардию. Комбинированная оценка ранолазина **при** стабильной стенокардии. Улучшение восстановления у пациентов с ишемической болезнью сердца. Оценка кардиоверсии с использованием чреспищеводной эхокардиографии. Оценка выживаемости после инфаркта с помощью AzimiLide. Рандомизированная оценка механической помощи при лечении хронической сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/11812672/)
 
 Луи А.А., Манусос И.Р., Колетта А.П., Кларк А.Л., Клеланд Дж.Г. Louis AA, et al. Eur J Heart Fail. 2002 Январь;4(1):111-6. doi: 10.1016/s1388-9842(01)00240-9. Eur J Heart Fail. 2002. PMID: 11812672 Бесплатная статья. Обзор. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  546
 
-Цитировать
 
-Делиться
+
+
 
 [Защитное действие **ранолазина** , нового противоишемического препарата, на нарушения, вызванные перекисью водорода в изолированном перфузируемом сердце крысы: сравнение с дихлорацетатом.](https://pubmed.ncbi.nlm.nih.gov/9639058/)
 
@@ -10698,17 +10698,17 @@ Item in Clipboard
 
 **Ranolazine**, however, did not modify the tissue MDA level, which was increased by H2O2. ...These results demonstrate that **ranolazin** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  547
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **ранолазина** на токи кальциевых каналов L-типа в миоцитах одиночных желудочков морских свинок.](https://pubmed.ncbi.nlm.nih.gov/8735623/)
 
@@ -10718,17 +10718,17 @@ Item in Clipboard
 
 **Ranolazine** inhibition of ICa persisted during muscarinic attenuation of beta-adrenoceptor activation. 3. ...**Ranolazine** would a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  548
 
-Цитировать
 
-Делиться
+
+
 
 [Защитные эффекты **ранолазина** в сердцах морских свинок во время ишемии с низким кровотоком и их связь с повышением уровня активной пируватдегидрогеназы.](https://pubmed.ncbi.nlm.nih.gov/8358570/)
 
@@ -10738,17 +10738,17 @@ Item in Clipboard
 
 Neither **ranolazine** nor LFI affected the total amounts of tissue pyruvate dehydrogenase (PDH) activity; however, the significant reduc …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  549
 
-Цитировать
 
-Делиться
+
+
 
 [Предотвращение высвобождения ферментов миокарда **ранолазином** в модели ишемии с реперфузией у приматов.](https://pubmed.ncbi.nlm.nih.gov/2331574/)
 
@@ -10758,17 +10758,17 @@ Item in Clipboard
 
 In a second group of baboons pretreated 10 min prior to ischaemia with **ranolazine** \[(+/-)-N-(2,6-dimethyl-phenyl)-4\[2-hydroxy-3-(2-met …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  550
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние нового антиангинального соединения RS 43285 на проводимость миокарда у анестезированной собаки.](https://pubmed.ncbi.nlm.nih.gov/3359110/)
 
