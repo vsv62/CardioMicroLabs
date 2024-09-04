@@ -10,15 +10,10 @@ Published:
 
 30 August 2024
 
-$(document).ready(function () { $('.article-top-widget').on('click', '.ati-toggle-trigger', function () { $(this).find('.icon-general-add, .icon-minus').toggleClass('icon-minus icon-general-add'); $(this).siblings('.ati-toggle-content').toggleClass('hide'); }); // In Chrome, an anchor tag with target="\_blank" and a "mailto:" href opens a new tab/window as well as the email client // I suspect this behavior will be corrected in the future // Remove the target="\_blank" $('ul.wi-affiliationList').find('a\[href^="mailto:"\]').each(function () { $(this).removeAttr('target'); }); });
-
 -   [![pdf](https://academic.oup.com//oup.silverchair-cdn.com/UI/app/svg/pdf.svg)PDF](https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehae176/58970727/ehae176.pdf)
--   [Split View](javascript:;)
 -   [Cite](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae176/7738779?login=false#)
     
 -   [_Permissions Icon_ Permissions](https://s100.copyright.com/AppDispatchServlet?publisherName=OUP&publication=1522-9645&title=2024%20ESC%20Guidelines%20for%20the%20management%20of%20atrial%20fibrillation%20developed%20in%20collaboration%20with%20the%20European%20Association%20for%20Cardio-Thoracic%20Surgery%20%28EACTS%29%20Developed%20by%20the%20task%20force%20for%20the%20management%20of%20atrial%20fibrillation%20of%20the%20European%20Society%20of%20Cardiology%20%28ESC%29%2C%20with%20the%20special%20contribution%20of%20the%20European%20Heart%20Rhythm%20Association%20%28EHRA%29%20of%20the%20ESC.%20Endorsed%20by%20the%20European%20Stroke%20Organisation%20%28ESO%29&publicationDate=2024-08-30&volumeNum=&issueNum=&author=Van%20Gelder%2C%20Isabelle%20C%3B%20Rienstra%2C%20Michiel&startPage=1&endPage=101&contentId=10.1093%2Feurheartj%2Fehae176&oa=&copyright=%C2%A9%20The%20European%20Society%20of%20Cardiology%202024.%20All%20rights%20reserved.%20For%20permissions%2C%20please%20email%3A%20journals.permissions%40oup.com.&orderBeanReset=True)
-    
--   [_Share Icon_ Share](javascript:;)
 
 [Guidelines](javascript:;), [Atrial fibrillation](javascript:;), [AF-CARE](javascript:;), [Comorbidity](javascript:;), [Risk factors](javascript:;), [Anticoagulation](javascript:;), [Rate control](javascript:;), [Rhythm control](javascript:;), [Cardioversion](javascript:;), [Antiarrhythmic drugs](javascript:;), [Catheter ablation](javascript:;), [AF surgery](javascript:;), [Evaluation](javascript:;), [Stroke](javascript:;), [Thromboembolism](javascript:;)
 
@@ -47,346 +42,346 @@ Topic:
 
 ## Table of contents
 
-- 1\. Preamble 6
+- 1\. Preamble 
 
-- 2\. Introduction 8
+- 2\. Introduction 
 
--  2.1. What is new 9
+-  2.1. What is new 
 
-- 3\. Definitions and clinical impact 13
+- 3\. Definitions and clinical impact 
 
--  3.1. Definition and classification of AF 13
+-  3.1. Definition and classification of AF 
 
--  3.2. Diagnostic criteria for AF 14
+-  3.2. Diagnostic criteria for AF 
 
--  3.3. Symptoms attributable to AF 15
+-  3.3. Symptoms attributable to AF 
 
--  3.4. Diagnostic evaluation of new AF 15
+-  3.4. Diagnostic evaluation of new AF 
 
--  3.5. Adverse events associated with AF 16
+-  3.5. Adverse events associated with AF 
 
--  3.6. Atrial flutter 17
+-  3.6. Atrial flutter 
 
-- 4\. Patient pathways and management of AF 17
+- 4\. Patient pathways and management of AF 
 
--  4.1. Patient-centred, multidisciplinary AF management 17
+-  4.1. Patient-centred, multidisciplinary AF management 
 
--   4.1.1. The patient at the heart of care 17
+-   4.1.1. The patient at the heart of care 
 
--   4.1.2. Education and shared decision-making 18
+-   4.1.2. Education and shared decision-making 
 
--   4.1.3. Education of healthcare professionals 19
+-   4.1.3. Education of healthcare professionals 
 
--   4.1.4. Inclusive management of AF 19
+-   4.1.4. Inclusive management of AF 
 
--  4.2. Principles of AF-CARE 19
+-  4.2. Principles of AF-CARE 
 
-- 5\. \[C\] Comorbidity and risk factor management 25
+- 5\. \[C\] Comorbidity and risk factor management 
 
--  5.1. Hypertension 26
+-  5.1. Hypertension 
 
--  5.2. Heart failure 26
+-  5.2. Heart failure 
 
--  5.3. Type 2 diabetes mellitus 27
+-  5.3. Type 2 diabetes mellitus 
 
--  5.4. Obesity 27
+-  5.4. Obesity 
 
--  5.5. Obstructive sleep apnoea 27
+-  5.5. Obstructive sleep apnoea 
 
--  5.6. Physical inactivity 27
+-  5.6. Physical inactivity 
 
--  5.7. Alcohol excess 28
+-  5.7. Alcohol excess 
 
-- 6\. \[A\] Avoid stroke and thromboembolism 28
+- 6\. \[A\] Avoid stroke and thromboembolism 
 
--  6.1. Initiating oral anticoagulation 28
+-  6.1. Initiating oral anticoagulation 
 
--   6.1.1. Decision support for anticoagulation in AF 28
+-   6.1.1. Decision support for anticoagulation in AF 
 
--  6.2. Oral anticoagulants 30
+-  6.2. Oral anticoagulants 
 
--   6.2.1. Direct oral anticoagulants 31
+-   6.2.1. Direct oral anticoagulants 
 
--   6.2.2. Vitamin K antagonists 32
+-   6.2.2. Vitamin K antagonists 
 
--   6.2.3. Clinical vs. device-detected subclinical AF 32
+-   6.2.3. Clinical vs. device-detected subclinical AF 
 
--  6.3. Antiplatelet drugs and combinations with anticoagulants 33
+-  6.3. Antiplatelet drugs and combinations with anticoagulants 
 
--  6.4. Residual ischaemic stroke risk despite anticoagulation 33
+-  6.4. Residual ischaemic stroke risk despite anticoagulation 
 
--  6.5. Percutaneous left atrial appendage occlusion 33
+-  6.5. Percutaneous left atrial appendage occlusion 
 
--  6.6. Surgical left atrial appendage occlusion 34
+-  6.6. Surgical left atrial appendage occlusion 
 
--  6.7. Bleeding risk 35
+-  6.7. Bleeding risk 
 
--   6.7.1. Assessment of bleeding risk 35
+-   6.7.1. Assessment of bleeding risk 
 
--   6.7.2. Management of bleeding on anticoagulant therapy 35
+-   6.7.2. Management of bleeding on anticoagulant therapy 
 
-- 7\. \[R\] Reduce symptoms by rate and rhythm control 38
+- 7\. \[R\] Reduce symptoms by rate and rhythm control 
 
--  7.1. Management of heart rate in patients with AF 38
+-  7.1. Management of heart rate in patients with AF 
 
--   7.1.1. Indications and target heart rate 39
+-   7.1.1. Indications and target heart rate 
 
--   7.1.2. Heart rate control in the acute setting 39
+-   7.1.2. Heart rate control in the acute setting 
 
--   7.1.3. Long-term heart rate control 39
+-   7.1.3. Long-term heart rate control 
 
--   7.1.4. Atrioventricular node ablation and pacemaker implantation 40
+-   7.1.4. Atrioventricular node ablation and pacemaker implantation 
 
--  7.2. Rhythm control strategies in patients with AF 40
+-  7.2. Rhythm control strategies in patients with AF 
 
--   7.2.1. General principles and anticoagulation 40
+-   7.2.1. General principles and anticoagulation 
 
--   7.2.2. Electrical cardioversion 43
+-   7.2.2. Electrical cardioversion 
 
--   7.2.3. Pharmacological cardioversion 43
+-   7.2.3. Pharmacological cardioversion 
 
--   7.2.4. Antiarrhythmic drugs 44
+-   7.2.4. Antiarrhythmic drugs 
 
--   7.2.5. Catheter ablation 45
+-   7.2.5. Catheter ablation 
 
--   7.2.6. Anticoagulation in patients undergoing catheter ablation 46
+-   7.2.6. Anticoagulation in patients undergoing catheter ablation 
 
--   7.2.7. Endoscopic and hybrid AF ablation 47
+-   7.2.7. Endoscopic and hybrid AF ablation 
 
--   7.2.8. AF ablation during cardiac surgery 48
+-   7.2.8. AF ablation during cardiac surgery 
 
--   7.2.9. Atrial tachycardia after pulmonary vein isolation 48
+-   7.2.9. Atrial tachycardia after pulmonary vein isolation 
 
-- 8\. \[E\] Evaluation and dynamic reassessment 48
+- 8\. \[E\] Evaluation and dynamic reassessment 
 
--  8.1. Implementation of dynamic care 49
+-  8.1. Implementation of dynamic care 
 
--  8.2. Improving treatment adherence 49
+-  8.2. Improving treatment adherence 
 
--  8.3. Cardiac imaging 49
+-  8.3. Cardiac imaging 
 
--  8.4. Patient-reported outcome measures 50
+-  8.4. Patient-reported outcome measures 
 
-- 9\. The AF-CARE pathway in specific clinical settings 51
+- 9\. The AF-CARE pathway in specific clinical settings 
 
--  9.1. AF-CARE in unstable patients 51
+-  9.1. AF-CARE in unstable patients 
 
--  9.2. AF-CARE in acute and chronic coronary syndromes 51
+-  9.2. AF-CARE in acute and chronic coronary syndromes 
 
--  9.3. AF-CARE in vascular disease 53
+-  9.3. AF-CARE in vascular disease 
 
--  9.4. AF-CARE in acute stroke or intracranial haemorrhage 53
+-  9.4. AF-CARE in acute stroke or intracranial haemorrhage 
 
--   9.4.1. Management of acute ischaemic stroke 53
+-   9.4.1. Management of acute ischaemic stroke 
 
--   9.4.2. Introduction or re-introduction of anticoagulation after ischaemic stroke 54
+-   9.4.2. Introduction or re-introduction of anticoagulation after ischaemic stroke 
 
--   9.4.3. Introduction or re-introduction of anticoagulation after haemorrhagic stroke 54
+-   9.4.3. Introduction or re-introduction of anticoagulation after haemorrhagic stroke 
 
--  9.5. AF-CARE for trigger-induced AF 54
+-  9.5. AF-CARE for trigger-induced AF 
 
--  9.6. AF-CARE in post-operative patients 55
+-  9.6. AF-CARE in post-operative patients 
 
--  9.7. AF-CARE in embolic stroke of unknown source 55
+-  9.7. AF-CARE in embolic stroke of unknown source 
 
--  9.8. AF-CARE during pregnancy 56
+-  9.8. AF-CARE during pregnancy 
 
--  9.9. AF-CARE in congenital heart disease 57
+-  9.9. AF-CARE in congenital heart disease 
 
--  9.10. AF-CARE in endocrine disorders 57
+-  9.10. AF-CARE in endocrine disorders 
 
 -  9.11. AF-CARE in inherited cardiomyopathies and primary arrhythmia syndromes 57
 
--  9.12. AF-CARE in cancer 58
+-  9.12. AF-CARE in cancer 
 
--  9.13. AF-CARE in older, multimorbid, or frail patients 58
+-  9.13. AF-CARE in older, multimorbid, or frail patients 
 
--  9.14. AF-CARE in atrial flutter 58
+-  9.14. AF-CARE in atrial flutter 
 
-- 10\. Screening and prevention of AF 58
+- 10\. Screening and prevention of AF 
 
--  10.1. Epidemiology of AF 58
+-  10.1. Epidemiology of AF 
 
--  10.2. Screening tools for AF 59
+-  10.2. Screening tools for AF 
 
--  10.3. Screening strategies for AF 60
+-  10.3. Screening strategies for AF 
 
--   10.3.1. Single timepoint screening ‘snapshot’ 61
+-   10.3.1. Single timepoint screening ‘snapshot’ 
 
--   10.3.2. Prolonged screening 61
+-   10.3.2. Prolonged screening 
 
--  10.4. Factors associated with incident AF 62
+-  10.4. Factors associated with incident AF 
 
--  10.5. Primary prevention of AF 62
+-  10.5. Primary prevention of AF 
 
--   10.5.1. Hypertension 63
+-   10.5.1. Hypertension 
 
--   10.5.2. Heart failure 63
+-   10.5.2. Heart failure 
 
--   10.5.3. Type 2 diabetes mellitus 63
+-   10.5.3. Type 2 diabetes mellitus 
 
--   10.5.4. Obesity 63
+-   10.5.4. Obesity 
 
--   10.5.5. Sleep apnoea syndrome 63
+-   10.5.5. Sleep apnoea syndrome 
 
--   10.5.6. Physical activity 63
+-   10.5.6. Physical activity 
 
--   10.5.7. Alcohol intake 64
+-   10.5.7. Alcohol intake 
 
-- 11\. Key messages 64
+- 11\. Key messages 
 
-- 12\. Gaps in evidence 64
+- 12\. Gaps in evidence 
 
-- 13\. ‘What to do’ and ‘What not to do’ messages from the guidelines 66
+- 13\. ‘What to do’ and ‘What not to do’ messages from the guidelines 
 
-- 14\. Evidence tables 69
+- 14\. Evidence tables 
 
-- 15\. Data availability statement 69
+- 15\. Data availability statement 
 
-- 16\. Author information 69
+- 16\. Author information 
 
-- 17\. Appendix 70
+- 17\. Appendix 
 
-- 18\. References 71
+- 18\. References 
 
 
 ## Tables of Recommendations
 
-- Recommendation Table 1 — Recommendations for the diagnosis of AF (see also Evidence Table 1) 15
+- Recommendation Table 1 — Recommendations for the diagnosis of AF (see also Evidence Table 1) 
 
-- Recommendation Table 2 — Recommendations for symptom evaluation in patients with AF (see also Evidence Table 2) 15
+- Recommendation Table 2 — Recommendations for symptom evaluation in patients with AF (see also Evidence Table 2) 
 
-- Recommendation Table 3 — Recommendations for diagnostic evaluation in patients with new AF (see also Evidence Table 3) 15
+- Recommendation Table 3 — Recommendations for diagnostic evaluation in patients with new AF (see also Evidence Table 3) 
 
-- Recommendation Table 4 — Recommendations for patient-centred care and education (see also Evidence Table 4) 19
+- Recommendation Table 4 — Recommendations for patient-centred care and education (see also Evidence Table 4) 
 
-- Recommendation Table 5 — Recommendations for comorbidity and risk factor management in AF (see also Evidence Table 5) 26
+- Recommendation Table 5 — Recommendations for comorbidity and risk factor management in AF (see also Evidence Table 5) 
 
-- Recommendation Table 6 — Recommendations to assess and manage thromboembolic risk in AF (see also Evidence Table 6) 29
+- Recommendation Table 6 — Recommendations to assess and manage thromboembolic risk in AF (see also Evidence Table 6) 
 
-- Recommendation Table 7 — Recommendations for oral anticoagulation in AF (see also Evidence Table 7) 31
+- Recommendation Table 7 — Recommendations for oral anticoagulation in AF (see also Evidence Table 7) 
 
-- Recommendation Table 8 — Recommendations for combining antiplatelet drugs with anticoagulants for stroke prevention (see also Evidence Table 8) 33
+- Recommendation Table 8 — Recommendations for combining antiplatelet drugs with anticoagulants for stroke prevention (see also Evidence Table 8) 
 
-- Recommendation Table 9 — Recommendations for thromboembolism despite anticoagulation (see also Evidence Table 9) 33
+- Recommendation Table 9 — Recommendations for thromboembolism despite anticoagulation (see also Evidence Table 9) 
 
-- Recommendation Table 10 — Recommendations for percutaneous left atrial appendage occlusion (see also Evidence Table 10) 34
+- Recommendation Table 10 — Recommendations for percutaneous left atrial appendage occlusion (see also Evidence Table 10) 
 
-- Recommendation Table 11 — Recommendations for surgical left atrial appendage occlusion (see also Evidence Table 11) 35
+- Recommendation Table 11 — Recommendations for surgical left atrial appendage occlusion (see also Evidence Table 11) 
 
-- Recommendation Table 12 — Recommendations for assessment of bleeding risk (see also Evidence Table 12) 35
+- Recommendation Table 12 — Recommendations for assessment of bleeding risk (see also Evidence Table 12) 
 
-- Recommendation Table 13 — Recommendations for management of bleeding in anticoagulated patients (see also Evidence Table 13) 38
+- Recommendation Table 13 — Recommendations for management of bleeding in anticoagulated patients (see also Evidence Table 13) 
 
-- Recommendation Table 14 — Recommendations for heart rate control in patients with AF (see also Evidence Table 14) 38
+- Recommendation Table 14 — Recommendations for heart rate control in patients with AF (see also Evidence Table 14) 
 
-- Recommendation Table 15 — Recommendations for general concepts in rhythm control (see also Evidence Table 15) 42
+- Recommendation Table 15 — Recommendations for general concepts in rhythm control (see also Evidence Table 15) 
 
-- Recommendation Table 16 — Recommendations for electrical cardioversion of AF (see also Evidence Table 16) 43
+- Recommendation Table 16 — Recommendations for electrical cardioversion of AF (see also Evidence Table 16) 
 
-- Recommendation Table 17 — Recommendations for pharmacological cardioversion of AF (see also Evidence Table 17) 43
+- Recommendation Table 17 — Recommendations for pharmacological cardioversion of AF (see also Evidence Table 17) 
 
-- Recommendation Table 18 — Recommendations for antiarrhythmic drugs for long-term maintenance of sinus rhythm (see also Evidence Table 18) 45
+- Recommendation Table 18 — Recommendations for antiarrhythmic drugs for long-term maintenance of sinus rhythm (see also Evidence Table 18) 
 
-- Recommendation Table 19 — Recommendations for catheter ablation of AF (see also Evidence Table 19) 46
+- Recommendation Table 19 — Recommendations for catheter ablation of AF (see also Evidence Table 19) 
 
-- Recommendation Table 20 — Recommendations for anticoagulation in patients undergoing catheter ablation (see also Evidence Table 20) 47
+- Recommendation Table 20 — Recommendations for anticoagulation in patients undergoing catheter ablation (see also Evidence Table 20) 
 
-- Recommendation Table 21 — Recommendations for endoscopic and hybrid AF ablation (see also Evidence Table 21) 47
+- Recommendation Table 21 — Recommendations for endoscopic and hybrid AF ablation (see also Evidence Table 21) 
 
-- Recommendation Table 22 — Recommendations for AF ablation during cardiac surgery (see also Evidence Table 22) 48
+- Recommendation Table 22 — Recommendations for AF ablation during cardiac surgery (see also Evidence Table 22) 
 
-- Recommendation Table 23 — Recommendations to improve patient experience (see also Evidence Table 23) 51
+- Recommendation Table 23 — Recommendations to improve patient experience (see also Evidence Table 23) 
 
-- Recommendation Table 24 — Recommendations for patients with acute coronary syndromes or undergoing percutaneous intervention (see also Evidence Table 24) 53
+- Recommendation Table 24 — Recommendations for patients with acute coronary syndromes or undergoing percutaneous intervention (see also Evidence Table 24) 
 
-- Recommendation Table 25 — Recommendations for trigger-induced AF (see also Evidence Table 25) 55
+- Recommendation Table 25 — Recommendations for trigger-induced AF (see also Evidence Table 25) 
 
-- Recommendation Table 26 — Recommendations for management of post-operative AF (see also Evidence Table 26) 55
+- Recommendation Table 26 — Recommendations for management of post-operative AF (see also Evidence Table 26) 
 
-- Recommendation Table 27 — Recommendations for patients with embolic stroke of unknown source (see also Evidence Table 27) 56
+- Recommendation Table 27 — Recommendations for patients with embolic stroke of unknown source (see also Evidence Table 27) 
 
-- Recommendation Table 28 — Recommendations for patients with AF during pregnancy (see also Evidence Table 28) 56
+- Recommendation Table 28 — Recommendations for patients with AF during pregnancy (see also Evidence Table 28) 
 
-- Recommendation Table 29 — Recommendations for patients with AF and congenital heart disease (see also Evidence Table 29) 57
+- Recommendation Table 29 — Recommendations for patients with AF and congenital heart disease (see also Evidence Table 29) 
 
-- Recommendation Table 30 — Recommendations for prevention of thromboembolism in atrial flutter (see also Evidence Table 30) 58
+- Recommendation Table 30 — Recommendations for prevention of thromboembolism in atrial flutter (see also Evidence Table 30) 
 
-- Recommendation Table 31 — Recommendations for screening for AF (see also Evidence Table 31) 61
+- Recommendation Table 31 — Recommendations for screening for AF (see also Evidence Table 31) 
 
-- Recommendation Table 32 — Recommendations for primary prevention of AF (see also Evidence Table 32) 63
+- Recommendation Table 32 — Recommendations for primary prevention of AF (see also Evidence Table 32) 
 
 
 ## List of tables
 
-- Table 1 Classes of recommendations 7
+- Table 1 Classes of recommendations 
 
-- Table 2 Levels of evidence 7
+- Table 2 Levels of evidence 
 
-- Table 3 New recommendations 9
+- Table 3 New recommendations 
 
-- Table 4 Revised recommendations 12
+- Table 4 Revised recommendations 
 
-- Table 5 Definitions and classifications for the temporal pattern of AF 14
+- Table 5 Definitions and classifications for the temporal pattern of AF 
 
-- Table 6 Other clinical concepts relevant to AF 14
+- Table 6 Other clinical concepts relevant to AF 
 
-- Table 7 The modified European Heart Rhythm Association (mEHRA) symptom classification 16
+- Table 7 The modified European Heart Rhythm Association (mEHRA) symptom classification 
 
-- Table 8 Diagnostic work-up for patients with AF 17
+- Table 8 Diagnostic work-up for patients with AF 
 
-- Table 9 Achieving patient-centred AF management 18
+- Table 9 Achieving patient-centred AF management 
 
-- Table 10 Updated definitions for the CHA2DS2-VA score 29
+- Table 10 Updated definitions for the CHA2DS2-VA score 
 
-- Table 11 Recommended doses for direct oral anticoagulant therapy 32
+- Table 11 Recommended doses for direct oral anticoagulant therapy 
 
-- Table 12 Drugs for rate control in AF 39
+- Table 12 Drugs for rate control in AF 
 
-- Table 13 Antiarrhythmic drugs for sinus rhythm restoration 44
+- Table 13 Antiarrhythmic drugs for sinus rhythm restoration 
 
-- Table 14 Non-cardiac conditions associated with trigger-induced AF 54
+- Table 14 Non-cardiac conditions associated with trigger-induced AF 
 
-- Table 15 Tools for AF screening 60
+- Table 15 Tools for AF screening 
 
-- Table 16 Factors associated with incident AF 62
+- Table 16 Factors associated with incident AF 
 
-- Table 17 ‘What to do’ and ‘what not to do’ 66
+- Table 17 ‘What to do’ and ‘what not to do’ 
 
 
 ## List of figures
 
-- Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial fibrillation 16
+- Figure 1 Impacts and outcomes associated with clinical AF. AF, atrial fibrillation 
 
-- Figure 2 Multidisciplinary approach to AF management 18
+- Figure 2 Multidisciplinary approach to AF management 
 
-- Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 4, 5, 6, and 7 for the \[R\] pathways for first-diagnosed, paroxysmal, persistent and permanent AF) 20
+- Figure 3 Central illustration. Patient pathway for AF-CARE (see Figures 4, 5, 6, and 7 for the \[R\] pathways for first-diagnosed, paroxysmal, persistent and permanent AF) 
 
-- Figure 4 \[R\] Pathway for patients with first-diagnosed AF 21
+- Figure 4 \[R\] Pathway for patients with first-diagnosed AF 
 
-- Figure 5 \[R\] Pathway for patients with paroxysmal AF 22
+- Figure 5 \[R\] Pathway for patients with paroxysmal AF 
 
-- Figure 6 \[R\] Pathway for patients with persistent AF 23
+- Figure 6 \[R\] Pathway for patients with persistent AF 
 
-- Figure 7 \[R\] Pathway for patients with permanent AF 24
+- Figure 7 \[R\] Pathway for patients with permanent AF 
 
-- Figure 8 Management of key comorbidities to reduce AF recurrence 25
+- Figure 8 Management of key comorbidities to reduce AF recurrence 
 
-- Figure 9 Common drug interactions with oral anticoagulants 30
+- Figure 9 Common drug interactions with oral anticoagulants 
 
-- Figure 10 Modifying the risk of bleeding associated with OAC 36
+- Figure 10 Modifying the risk of bleeding associated with OAC 
 
-- Figure 11 Management of oral anticoagulant-related bleeding in patients with AF 37
+- Figure 11 Management of oral anticoagulant-related bleeding in patients with AF 
 
-- Figure 12 Approaches for cardioversion in patients with AF 41
+- Figure 12 Approaches for cardioversion in patients with AF 
 
-- Figure 13 Relevance of echocardiography in the AF-CARE pathway 50
+- Figure 13 Relevance of echocardiography in the AF-CARE pathway 
 
-- Figure 14 Antithrombotic therapy in patients with AF and acute or chronic coronary syndromes 52
+- Figure 14 Antithrombotic therapy in patients with AF and acute or chronic coronary syndromes 
 
-- Figure 15 Non-invasive diagnostic methods for AF screening 59
+- Figure 15 Non-invasive diagnostic methods for AF screening 
 
-- Figure 16 Approaches to screening for AF 61
+- Figure 16 Approaches to screening for AF 
 
 
 ## Abbreviations and acronyms
