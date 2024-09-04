@@ -4736,683 +4736,683 @@ Includes Document Reviewers and ESC National Cardiac Societies.
 
 18. References
 1	Alam   M, Bandeali   SJ, Shahzad   SA, Lakkis   N. Real-life global survey evaluating patients with atrial fibrillation (REALISE-AF): results of an international observational registry. Expert Rev Cardiovasc Ther  2012;10:283–91. https://doi.org/10.1586/erc.12.8
-Google ScholarCrossrefPubMedWorldCat 
+  
 2	De With   RR, Erküner   Ö, Rienstra   M, Nguyen   BO, Körver   FWJ, Linz   D, et al.   Temporal patterns and short-term progression of paroxysmal atrial fibrillation: data from RACE V. Europace  2020;22:1162–72. https://doi.org/10.1093/europace/euaa123
-Google ScholarCrossrefPubMedWorldCat 
+  
 3	Packer   DL, Mark   DB, Robb   RA, Monahan   KH, Bahnson   TD, Poole   JE, et al.   Effect of catheter ablation vs antiarrhythmic drug therapy on mortality, stroke, bleeding, and cardiac arrest among patients with atrial fibrillation: the CABANA randomized clinical trial. JAMA  2019;321:1261–74. https://doi.org/10.1001/jama.2019.0693
-Google ScholarCrossrefPubMedWorldCat 
+  
 4	Marrouche   NF, Brachmann   J, Andresen   D, Siebels   J, Boersma   L, Jordaens   L, et al.   Catheter ablation for atrial fibrillation with heart failure. N Engl J Med  2018;378:417–27. https://doi.org/10.1056/NEJMoa1707855
-Google ScholarCrossrefPubMedWorldCat 
+  
 5	Svendsen   JH, Diederichsen   SZ, Højberg   S, Krieger   DW, Graff   C, Kronborg   C, et al.   Implantable loop recorder detection of atrial fibrillation to prevent stroke (The LOOP Study): a randomised controlled trial. Lancet  2021;398:1507–16. https://doi.org/10.1016/S0140-6736(21)01698-6
-Google ScholarCrossrefPubMedWorldCat 
+  
 6	Svennberg   E, Friberg   L, Frykman   V, Al-Khalili   F, Engdahl   J, Rosenqvist   M. Clinical outcomes in systematic screening for atrial fibrillation (STROKESTOP): a multicentre, parallel group, unmasked, randomised controlled trial. Lancet  2021;398:1498–506. https://doi.org/10.1016/S0140-6736(21)01637-8
-Google ScholarCrossrefPubMedWorldCat 
+  
 7	Healey   JS, Connolly   SJ, Gold   MR, Israel   CW, Van Gelder   IC, Capucci   A, et al.   Subclinical atrial fibrillation and the risk of stroke. N Engl J Med  2012;366:120–9. https://doi.org/10.1056/NEJMoa1105575
-Google ScholarCrossrefPubMedWorldCat 
+  
 8	McIntyre   WF, Healey   JS, Bhatnagar   AK, Wang   P, Gordon   JA, Baranchuk   A, et al.   Vernakalant for cardioversion of recent-onset atrial fibrillation: a systematic review and meta-analysis. Europace  2019;21:1159–66. https://doi.org/10.1093/europace/euz175
-Google ScholarCrossrefPubMedWorldCat 
+  
 9	Bager   JE, Martín   A, Carbajosa Dalmau   J, Simon   A, Merino   JL, Ritz   B, et al.   Vernakalant for cardioversion of recent-onset atrial fibrillation in the emergency department: the SPECTRUM study. Cardiology  2022;147:566–77. https://doi.org/10.1159/000526831
-Google ScholarCrossrefPubMedWorldCat 
+  
 10	Pluymaekers   N, Dudink   E, Luermans   J, Meeder   JG, Lenderink   T, Widdershoven   J, et al.   Early or delayed cardioversion in recent-onset atrial fibrillation. N Engl J Med  2019;380:1499–508. https://doi.org/10.1056/NEJMoa1900353
-Google ScholarCrossrefPubMedWorldCat 
+  
 11	Lubitz   SA, Yin   X, Rienstra   M, Schnabel   RB, Walkey   AJ, Magnani   JW, et al.   Long-term outcomes of secondary atrial fibrillation in the community: the Framingham Heart Study. Circulation  2015;131:1648–55. https://doi.org/10.1161/CIRCULATIONAHA.114.014058
-Google ScholarCrossrefPubMedWorldCat 
+  
 12	Wang   EY, Hulme   OL, Khurshid   S, Weng   LC, Choi   SH, Walkey   AJ, et al.   Initial precipitants and recurrence of atrial fibrillation. Circ Arrhythm Electrophysiol  2020;13:e007716. https://doi.org/10.1161/CIRCEP.119.007716
-Google ScholarCrossrefPubMedWorldCat 
+  
 13	Corica   B, Romiti   GF, Basili   S, Proietti   M. Prevalence of new-onset atrial fibrillation and associated outcomes in patients with sepsis: a systematic review and meta-analysis. J Pers Med  2022;12:547. https://doi.org/10.3390/jpm12040547
-Google ScholarCrossrefPubMedWorldCat 
+  
 14	Bedford   JP, Ferrando-Vivas   P, Redfern   O, Rajappan   K, Harrison   DA, Watkinson   PJ, et al.   New-onset atrial fibrillation in intensive care: epidemiology and outcomes. Eur Heart J Acute Cardiovasc Care  2022;11:620–8. https://doi.org/10.1093/ehjacc/zuac080
-Google ScholarCrossrefPubMedWorldCat 
+  
 15	Wazni   OM, Marrouche   NF, Martin   DO, Verma   A, Bhargava   M, Saliba   W, et al.   Radiofrequency ablation vs antiarrhythmic drugs as first-line treatment of symptomatic atrial fibrillation: a randomized trial. JAMA  2005;293:2634–40. https://doi.org/10.1001/jama.293.21.2634
-Google ScholarCrossrefPubMedWorldCat 
+  
 16	Andrade   JG, Wells   GA, Deyell   MW, Bennett   M, Essebag   V, Champagne   J, et al.   Cryoablation or drug therapy for initial treatment of atrial fibrillation. N Engl J Med  2021;384:305–15. https://doi.org/10.1056/NEJMoa2029980
-Google ScholarCrossrefPubMedWorldCat 
+  
 17	Kirchhof   P, Camm   AJ, Goette   A, Brandes   A, Eckardt   L, Elvan   A, et al.   Early rhythm-control therapy in patients with atrial fibrillation. N Engl J Med  2020;383:1305–16. https://doi.org/10.1056/NEJMoa2019422
-Google ScholarCrossrefPubMedWorldCat 
+  
 18	Coats   AJS, Heymans   S, Farmakis   D, Anker   SD, Backs   J, Bauersachs   J, et al.   Atrial disease and heart failure: the common soil hypothesis proposed by the heart failure association of the European Society of Cardiology. Eur Heart J  2022:43:863–7. https://doi.org/10.1093/eurheartj/ehab834
-Google ScholarCrossrefWorldCat 
+  
 19	Schnabel   RB, Marinelli   EA, Arbelo   E, Boriani   G, Boveda   S, Buckley   CM, et al.   Early diagnosis and better rhythm management to improve outcomes in patients with atrial fibrillation: the 8th AFNET/EHRA consensus conference. Europace  2023;25:6–27. https://doi.org/10.1093/europace/euac062
-Google ScholarCrossrefPubMedWorldCat 
+  
 20	Goette   A, Kalman   JM, Aguinaga   L, Akar   J, Cabrera   JA, Chen   SA, et al.   EHRA/HRS/APHRS/SOLAECE expert consensus on atrial cardiomyopathies: definition, characterization, and clinical implication. Europace  2016;18:1455–90. https://doi.org/10.1093/europace/euw161
-Google ScholarCrossrefPubMedWorldCat 
+  
 21	Sagris   D, Georgiopoulos   G, Pateras   K, Perlepe   K, Korompoki   E, Milionis   H, et al.   Atrial high-rate episode duration thresholds and thromboembolic risk: a systematic review and meta-analysis. J Am Heart Assoc  2021;10:e022487. https://doi.org/10.1161/JAHA.121.022487
-Google ScholarCrossrefPubMedWorldCat 
+  
 22	Kaufman   ES, Israel   CW, Nair   GM, Armaganijan   L, Divakaramenon   S, Mairesse   GH, et al.   Positive predictive value of device-detected atrial high-rate episodes at different rates and durations: an analysis from ASSERT. Heart Rhythm  2012;9:1241–6. https://doi.org/10.1016/j.hrthm.2012.03.017
-Google ScholarCrossrefPubMedWorldCat 
+  
 23	Miyazawa   K, Pastori   D, Martin   DT, Choucair   WK, Halperin   JL, Lip   GYH. Characteristics of patients with atrial high rate episodes detected by implanted defibrillator and resynchronization devices. Europace  2022;24:375–83. https://doi.org/10.1093/europace/euab186
-Google ScholarCrossrefPubMedWorldCat 
+  
 24	Vitolo   M, Imberti   JF, Maisano   A, Albini   A, Bonini   N, Valenti   AC, et al.   Device-detected atrial high rate episodes and the risk of stroke/thromboembolism and atrial fibrillation incidence: a systematic review and meta-analysis. Eur J Intern Med  2021;92:100–6. https://doi.org/10.1016/j.ejim.2021.05.038
-Google ScholarCrossrefPubMedWorldCat 
+  
 25	Connolly   SJ, Ezekowitz   MD, Yusuf   S, Eikelboom   J, Oldgren   J, Parekh   A, et al.   Dabigatran versus warfarin in patients with atrial fibrillation. N Engl J Med  2009;361:1139–51. https://doi.org/10.1056/NEJMoa0905561
-Google ScholarCrossrefPubMedWorldCat 
+  
 26	Giugliano   RP, Ruff   CT, Braunwald   E, Murphy   SA, Wiviott   SD, Halperin   JL, et al.   Edoxaban versus warfarin in patients with atrial fibrillation. N Engl J Med  2013;369:2093–104. https://doi.org/10.1056/NEJMoa1310907
-Google ScholarCrossrefPubMedWorldCat 
+  
 27	Granger   CB, Alexander   JH, McMurray   JJ, Lopes   RD, Hylek   EM, Hanna   M, et al.   Apixaban versus warfarin in patients with atrial fibrillation. N Engl J Med  2011;365:981–92. https://doi.org/10.1056/NEJMoa1107039
-Google ScholarCrossrefPubMedWorldCat 
+  
 28	Patel   MR, Mahaffey   KW, Garg   J, Pan   G, Singer   DE, Hacke   W, et al.   Rivaroxaban versus warfarin in nonvalvular atrial fibrillation. N Engl J Med  2011;365:883–91. https://doi.org/10.1056/NEJMoa1009638
-Google ScholarCrossrefPubMedWorldCat 
+  
 29	Stroke prevention in atrial fibrillation study. Final results. Circulation  1991;84:527–39. https://doi.org/10.1161/01.CIR.84.2.527
 CrossrefPubMedWorldCat 
 30	Mannina   C, Jin   Z, Matsumoto   K, Ito   K, Biviano   A, Elkind   MSV, et al.   Frequency of cardiac arrhythmias in older adults: findings from the subclinical atrial fibrillation and risk of ischemic stroke (SAFARIS) study. Int J Cardiol  2021;337:64–70. https://doi.org/10.1016/j.ijcard.2021.05.006
-Google ScholarCrossrefPubMedWorldCat 
+  
 31	Schnabel   RB, Pecen   L, Ojeda   FM, Lucerna   M, Rzayeva   N, Blankenberg   S, et al.   Gender differences in clinical presentation and 1-year outcomes in atrial fibrillation. Heart  2017;103:1024–30. https://doi.org/10.1136/heartjnl-2016-310406
-Google ScholarCrossrefPubMedWorldCat 
+  
 32	Simantirakis   EN, Papakonstantinou   PE, Chlouverakis   GI, Kanoupakis   EM, Mavrakis   HE, Kallergis   EM, et al.   Asymptomatic versus symptomatic episodes in patients with paroxysmal atrial fibrillation via long-term monitoring with implantable loop recorders. Int J Cardiol  2017;231:125–30. https://doi.org/10.1016/j.ijcard.2016.12.025
-Google ScholarCrossrefPubMedWorldCat 
+  
 33	Verma   A, Champagne   J, Sapp   J, Essebag   V, Novak   P, Skanes   A, et al.   Discerning the incidence of symptomatic and asymptomatic episodes of atrial fibrillation before and after catheter ablation (DISCERN AF): a prospective, multicenter study. JAMA Intern Med  2013;173:149–56. https://doi.org/10.1001/jamainternmed.2013.1561
-Google ScholarCrossrefPubMedWorldCat 
+  
 34	Sgreccia   D, Manicardi   M, Malavasi   VL, Vitolo   M, Valenti   AC, Proietti   M, et al.   Comparing outcomes in asymptomatic and symptomatic atrial fibrillation: a systematic review and meta-analysis of 81,462 patients. J Clin Med  2021;10:3979. https://doi.org/10.3390/jcm10173979
-Google ScholarCrossrefPubMedWorldCat 
+  
 35	Holmes   DN, Piccini   JP, Allen   LA, Fonarow   GC, Gersh   BJ, Kowey   PR, et al.   Defining clinically important difference in the atrial fibrillation effect on quality-of-life score. Circ Cardiovasc Qual Outcomes  2019;12:e005358. https://doi.org/10.1161/CIRCOUTCOMES.118.005358
-Google ScholarCrossrefPubMedWorldCat 
+  
 36	Jones   J, Stanbury   M, Haynes   S, Bunting   KV, Lobban   T, Camm   AJ, et al.   Importance and assessment of quality of life in symptomatic permanent atrial fibrillation: patient focus groups from the RATE-AF trial. Cardiology  2020;145:666–75. https://doi.org/10.1159/000511048
-Google ScholarCrossrefPubMedWorldCat 
+  
 37	Abu   HO, Wang   W, Otabil   EM, Saczynski   JS, Mehawej   J, Mishra   A, et al.   Perception of atrial fibrillation symptoms: impact on quality of life and treatment in older adults. J Am Geriatr Soc  2022;70:2805–17. https://doi.org/10.1111/jgs.17954
-Google ScholarCrossrefPubMedWorldCat 
+  
 38	Rienstra   M, Vermond   RA, Crijns   HJ, Tijssen   JG, Van Gelder   IC; RACE Investigators. Asymptomatic persistent atrial fibrillation and outcome: results of the RACE study. Heart Rhythm  2014;11:939–45. https://doi.org/10.1016/j.hrthm.2014.03.016
-Google ScholarCrossrefPubMedWorldCat 
+  
 39	Rienstra   M, Hobbelt   AH, Alings   M, Tijssen   JGP, Smit   MD, Brugemann   J, et al.   Targeted therapy of underlying conditions improves sinus rhythm maintenance in patients with persistent atrial fibrillation: results of the RACE 3 trial. Eur Heart J  2018;39:2987–96. https://doi.org/10.1093/eurheartj/ehx739
-Google ScholarCrossrefPubMedWorldCat 
+  
 40	Mulder   BA, Van Veldhuisen   DJ, Crijns   HJ, Tijssen   JG, Hillege   HL, Alings   M, et al.   Digoxin in patients with permanent atrial fibrillation: data from the RACE II study. Heart Rhythm  2014;11:1543–50. https://doi.org/10.1016/j.hrthm.2014.06.007
-Google ScholarCrossrefPubMedWorldCat 
+  
 41	Kloosterman   M, Crijns   H, Mulder   BA, Groenveld   HF, Van Veldhuisen   DJ, Rienstra   M, et al.   Sex-related differences in risk factors, outcome, and quality of life in patients with permanent atrial fibrillation: results from the RACE II study. Europace  2020;22:1619–27. https://doi.org/10.1093/europace/euz300
-Google ScholarCrossrefPubMedWorldCat 
+  
 42	Park   YJ, Park   JW, Yu   HT, Kim   TH, Uhm   JS, Joung   B, et al.   Sex difference in atrial fibrillation recurrence after catheter ablation and antiarrhythmic drugs. Heart  2023;109:519–26. https://doi.org/10.1136/heartjnl-2021-320601
 Google ScholarPubMedWorldCat 
 43	Kupper   N, van den Broek   KC, Widdershoven   J, Denollet   J. Subjectively reported symptoms in patients with persistent atrial fibrillation and emotional distress. Front Psychol  2013;4:192. https://doi.org/10.3389/fpsyg.2013.00192
-Google ScholarCrossrefPubMedWorldCat 
+  
 44	Schnabel   RB, Michal   M, Wilde   S, Wiltink   J, Wild   PS, Sinning   CR, et al.   Depression in atrial fibrillation in the general population. PLoS One  2013;8:e79109. https://doi.org/10.1371/journal.pone.0079109
-Google ScholarCrossrefPubMedWorldCat 
+  
 45	Gleason   KT, Dennison Himmelfarb   CR, Ford   DE, Lehmann   H, Samuel   L, Han   HR, et al.   Association of sex, age and education level with patient reported outcomes in atrial fibrillation. BMC Cardiovasc Disord  2019;19:85. https://doi.org/10.1186/s12872-019-1059-6
-Google ScholarCrossrefPubMedWorldCat 
+  
 46	Schnabel   RB, Pecen   L, Rzayeva   N, Lucerna   M, Purmah   Y, Ojeda   FM, et al.   Symptom burden of atrial fibrillation and its relation to interventions and outcome in Europe. J Am Heart Assoc  2018;7:e007559. https://doi.org/10.1161/JAHA.117.007559
-Google ScholarCrossrefPubMedWorldCat 
+  
 47	Wynn   GJ, Todd   DM, Webber   M, Bonnett   L, McShane   J, Kirchhof   P, et al.   The European Heart Rhythm Association symptom classification for atrial fibrillation: validation and improvement through a simple modification. Europace  2014;16:965–72. https://doi.org/10.1093/europace/eut395
-Google ScholarCrossrefPubMedWorldCat 
+  
 48	Kotecha   D, Bunting   KV, Gill   SK, Mehta   S, Stanbury   M, Jones   JC, et al.   Effect of digoxin vs bisoprolol for heart rate control in atrial fibrillation on patient-reported quality of life: the RATE-AF randomized clinical trial. JAMA  2020;324:2497–508. https://doi.org/10.1001/jama.2020.23138
-Google ScholarCrossrefPubMedWorldCat 
+  
 49	Kotecha   D, Ahmed   A, Calvert   M, Lencioni   M, Terwee   CB, Lane   DA. Patient-reported outcomes for quality of life assessment in atrial fibrillation: a systematic review of measurement properties. PLoS One  2016;11:e0165790. https://doi.org/10.1371/journal.pone.0165790
-Google ScholarCrossrefPubMedWorldCat 
+  
 50	Mantovan   R, Macle   L, De Martino   G, Chen   J, Morillo   CA, Novak   P, et al.   Relationship of quality of life with procedural success of atrial fibrillation (AF) ablation and postablation AF burden: substudy of the STAR AF randomized trial. Can J Cardiol  2013;29:1211–7. https://doi.org/10.1016/j.cjca.2013.06.006
-Google ScholarCrossrefPubMedWorldCat 
+  
 51	Samuel   M, Khairy   P, Champagne   J, Deyell   MW, Macle   L, Leong-Sit   P, et al.   Association of atrial fibrillation burden with health-related quality of life after atrial fibrillation ablation: substudy of the cryoballoon vs contact-force atrial fibrillation ablation (CIRCA-DOSE) randomized clinical trial. JAMA Cardiol  2021;6:1324–8. https://doi.org/10.1001/jamacardio.2021.3063
-Google ScholarCrossrefPubMedWorldCat 
+  
 52	Sandhu   RK, Smigorowsky   M, Lockwood   E, Savu   A, Kaul   P, McAlister   FA. Impact of electrical cardioversion on quality of life for the treatment of atrial fibrillation. Can J Cardiol  2017;33:450–5. https://doi.org/10.1016/j.cjca.2016.11.013
-Google ScholarCrossrefPubMedWorldCat 
+  
 53	Terricabras   M, Mantovan   R, Jiang   CY, Betts   TR, Chen   J, Deisenhofer   I, et al.   Association between quality of life and procedural outcome after catheter ablation for atrial fibrillation: a secondary analysis of a randomized clinical trial. JAMA Netw Open  2020;3:e2025473. https://doi.org/10.1001/jamanetworkopen.2020.25473
-Google ScholarCrossrefPubMedWorldCat 
+  
 54	Zenger   B, Zhang   M, Lyons   A, Bunch   TJ, Fang   JC, Freedman   RA, et al.   Patient-reported outcomes and subsequent management in atrial fibrillation clinical practice: results from the Utah mEVAL AF program. J Cardiovasc Electrophysiol  2020;31:3187–95. https://doi.org/10.1111/jce.14795
-Google ScholarCrossrefPubMedWorldCat 
+  
 55	Arbelo   E, Aktaa   S, Bollmann   A, D’Avila   A, Drossart   I, Dwight   J, et al.   Quality indicators for the care and outcomes of adults with atrial fibrillation. Europace  2021;23:494–5. https://doi.org/10.1093/europace/euaa253
-Google ScholarCrossrefPubMedWorldCat 
+  
 56	Kvist   LM, Vinter   N, Urbonaviciene   G, Lindholt   JS, Diederichsen   ACP, Frost   L. Diagnostic accuracies of screening for atrial fibrillation by cardiac nurses versus radiographers. Open Heart  2019;6:e000942. https://doi.org/10.1136/openhrt-2018-000942
-Google ScholarCrossrefPubMedWorldCat 
+  
 57	Hijazi   Z, Oldgren   J, Siegbahn   A, Granger   CB, Wallentin   L. Biomarkers in atrial fibrillation: a clinical review. Eur Heart J  2013;34:1475–80. https://doi.org/10.1093/eurheartj/eht024
-Google ScholarCrossrefPubMedWorldCat 
+  
 58	Berg   DD, Ruff   CT, Morrow   DA. Biomarkers for risk assessment in atrial fibrillation. Clin Chem  2021;67:87–95. https://doi.org/10.1093/clinchem/hvaa298
-Google ScholarCrossrefPubMedWorldCat 
+  
 59	Tops   LF, Schalij   MJ, Bax   JJ. Imaging and atrial fibrillation: the role of multimodality imaging in patient evaluation and management of atrial fibrillation. Eur Heart J  2010;31:542–51. https://doi.org/10.1093/eurheartj/ehq005
-Google ScholarCrossrefPubMedWorldCat 
+  
 60	Obeng-Gyimah   E, Nazarian   S. Advancements in imaging for atrial fibrillation ablation: is there a potential to improve procedural outcomes?  J Innov Card Rhythm Manag  2020;11:4172–8. https://doi.org/10.19102/icrm.2020.110701
-Google ScholarCrossrefPubMedWorldCat 
+  
 61	Romero   J, Husain   SA, Kelesidis   I, Sanz   J, Medina   HM, Garcia   MJ. Detection of left atrial appendage thrombus by cardiac computed tomography in patients with atrial fibrillation: a meta-analysis. Circ Cardiovasc Imaging  2013;6:185–94. https://doi.org/10.1161/CIRCIMAGING.112.000153
-Google ScholarCrossrefPubMedWorldCat 
+  
 62	Bisbal   F, Benito   E, Teis   A, Alarcón   F, Sarrias   A, Caixal   G, et al.   Magnetic resonance imaging-guided fibrosis ablation for the treatment of atrial fibrillation: the ALICIA trial. Circ Arrhythm Electrophysiol  2020;13:e008707. https://doi.org/10.1161/CIRCEP.120.008707
-Google ScholarCrossrefPubMedWorldCat 
+  
 63	Khurram   IM, Habibi   M, Gucuk Ipek   E, Chrispin   J, Yang   E, Fukumoto   K, et al.   Left atrial LGE and arrhythmia recurrence following pulmonary vein isolation for paroxysmal and persistent AF. JACC Cardiovasc Imaging  2016;9:142–8. https://doi.org/10.1016/j.jcmg.2015.10.015
-Google ScholarCrossrefPubMedWorldCat 
+  
 64	Marrouche   NF, Wilber   D, Hindricks   G, Jais   P, Akoum   N, Marchlinski   F, et al.   Association of atrial tissue fibrosis identified by delayed enhancement MRI and atrial fibrillation catheter ablation: the DECAAF study. JAMA  2014;311:498–506. https://doi.org/10.1001/jama.2014.3
-Google ScholarCrossrefPubMedWorldCat 
+  
 65	Roney   CH, Sillett   C, Whitaker   J, Lemus   JAS, Sim   I, Kotadia   I, et al.   Applications of multimodality imaging for left atrial catheter ablation. Eur Heart J Cardiovasc Imaging  2021;23:31–41. https://doi.org/10.1093/ehjci/jeab205
-Google ScholarCrossrefPubMedWorldCat 
+  
 66	Potter   A, Augustine   DX, Ingram   TE. Referring for echocardiography: when not to test. Br J Gen Pract  2021;71:333–4. https://doi.org/10.3399/bjgp21X716441
-Google ScholarCrossrefPubMedWorldCat 
+  
 67	Troughton   RW, Asher   CR, Klein   AL. The role of echocardiography in atrial fibrillation and cardioversion. Heart  2003;89:1447–54. https://doi.org/10.1136/heart.89.12.1447
-Google ScholarCrossrefPubMedWorldCat 
+  
 68	Odutayo   A, Wong   CX, Hsiao   AJ, Hopewell   S, Altman   DG, Emdin   CA. Atrial fibrillation and risks of cardiovascular disease, renal disease, and death: systematic review and meta-analysis. BMJ  2016;354:i4482. https://doi.org/10.1136/bmj.i4482
 Google ScholarPubMedWorldCat 
 69	Ruddox   V, Sandven   I, Munkhaugen   J, Skattebu   J, Edvardsen   T, Otterstad   JE. Atrial fibrillation and the risk for myocardial infarction, all-cause mortality and heart failure: a systematic review and meta-analysis. Eur J Prev Cardiol  2017;24:1555–66. https://doi.org/10.1177/2047487317715769
-Google ScholarCrossrefPubMedWorldCat 
+  
 70	Bassand   JP, Accetta   G, Al Mahmeed   W, Corbalan   R, Eikelboom   J, Fitzmaurice   DA, et al.   Risk factors for death, stroke, and bleeding in 28,628 patients from the GARFIELD-AF registry: rationale for comprehensive management of atrial fibrillation. PLoS One  2018;13:e0191592. https://doi.org/10.1371/journal.pone.0191592
-Google ScholarCrossrefPubMedWorldCat 
+  
 71	Bassand   JP, Accetta   G, Camm   AJ, Cools   F, Fitzmaurice   DA, Fox   KA, et al.   Two-year outcomes of patients with newly diagnosed atrial fibrillation: results from GARFIELD-AF. Eur Heart J  2016;37:2882–9. https://doi.org/10.1093/eurheartj/ehw233
-Google ScholarCrossrefPubMedWorldCat 
+  
 72	Hornestam   B, Adiels   M, Wai Giang   K, Hansson   PO, Björck   L, Rosengren   A. Atrial fibrillation and risk of venous thromboembolism: a Swedish nationwide registry study. Europace  2021;23:1913–21. https://doi.org/10.1093/europace/euab180
-Google ScholarCrossrefPubMedWorldCat 
+  
 73	Lutsey   PL, Norby   FL, Alonso   A, Cushman   M, Chen   LY, Michos   ED, et al.   Atrial fibrillation and venous thromboembolism: evidence of bidirectionality in the atherosclerosis risk in communities study. J Thromb Haemost  2018;16:670–9. https://doi.org/10.1111/jth.13974
-Google ScholarCrossrefPubMedWorldCat 
+  
 74	Koh   YH, Lew   LZW, Franke   KB, Elliott   AD, Lau   DH, Thiyagarajah   A, et al.   Predictive role of atrial fibrillation in cognitive decline: a systematic review and meta-analysis of 2.8 million individuals. Europace  2022;24:1229–39. https://doi.org/10.1093/europace/euac003
-Google ScholarCrossrefPubMedWorldCat 
+  
 75	Papanastasiou   CA, Theochari   CA, Zareifopoulos   N, Arfaras-Melainis   A, Giannakoulas   G, Karamitsos   TD, et al.   Atrial fibrillation is associated with cognitive impairment, all-cause dementia, vascular dementia, and Alzheimer’s disease: a systematic review and meta-analysis. J Gen Intern Med  2021;36:3122–35. https://doi.org/10.1007/s11606-021-06954-8
-Google ScholarCrossrefPubMedWorldCat 
+  
 76	Giannone   ME, Filippini   T, Whelton   PK, Chiari   A, Vitolo   M, Boriani   G, et al.   Atrial fibrillation and the risk of early-onset dementia: a systematic review and meta-analysis. J Am Heart Assoc  2022;11:e025653. https://doi.org/10.1161/JAHA.122.025653
-Google ScholarCrossrefPubMedWorldCat 
+  
 77	Zuin   M, Roncon   L, Passaro   A, Bosi   C, Cervellati   C, Zuliani   G. Risk of dementia in patients with atrial fibrillation: short versus long follow-up. A systematic review and meta-analysis. Int J Geriatr Psychiatry  2021;36:1488–500. https://doi.org/10.1002/gps.5582
-Google ScholarCrossrefPubMedWorldCat 
+  
 78	Mobley   AR, Subramanian   A, Champsi   A, Wang   X, Myles   P, McGreavy   P, et al.  Thromboembolic events and vascular dementia in patients with atrial fibrillation and low apparent stroke risk. Nat Med 2024. https://doi.org/10.1038/s41591-024-03049-9.
 79	Wijtvliet   E, Tieleman   RG, van Gelder   IC, Pluymaekers   N, Rienstra   M, Folkeringa   RJ, et al.   Nurse-led vs. usual-care for atrial fibrillation. Eur Heart J  2020;41:634–41. https://doi.org/10.1093/eurheartj/ehz666
-Google ScholarCrossrefPubMedWorldCat 
+  
 80	Wong   CX, Brooks   AG, Lau   DH, Leong   DP, Sun   MT, Sullivan   T, et al.   Factors associated with the epidemic of hospitalizations due to atrial fibrillation. Am J Cardiol  2012;110:1496–9. https://doi.org/10.1016/j.amjcard.2012.07.011
-Google ScholarCrossrefPubMedWorldCat 
+  
 81	Dai   H, Zhang   Q, Much   AA, Maor   E, Segev   A, Beinart   R, et al.   Global, regional, and national prevalence, incidence, mortality, and risk factors for atrial fibrillation, 1990–2017: results from the Global Burden of Disease Study 2017. Eur Heart J Qual Care Clin Outcomes  2021;7:574–82. https://doi.org/10.1093/ehjqcco/qcaa061
-Google ScholarCrossrefPubMedWorldCat 
+  
 82	Țica   O, Țica   O, Bunting   KV, deBono   J, Gkoutos   GV, Popescu   MI, et al.   Post-mortem examination of high mortality in patients with heart failure and atrial fibrillation. BMC Med  2022;20:331. https://doi.org/10.1186/s12916-022-02533-8
-Google ScholarCrossrefPubMedWorldCat 
+  
 83	Bassand   JP, Virdone   S, Badoz   M, Verheugt   FWA, Camm   AJ, Cools   F, et al.   Bleeding and related mortality with NOACs and VKAs in newly diagnosed atrial fibrillation: results from the GARFIELD-AF registry. Blood Adv  2021;5:1081–91. https://doi.org/10.1182/bloodadvances.2020003560
-Google ScholarCrossrefPubMedWorldCat 
+  
 84	Pokorney   SD, Piccini   JP, Stevens   SR, Patel   MR, Pieper   KS, Halperin   JL, et al.   Cause of death and predictors of all-cause mortality in anticoagulated patients with nonvalvular atrial fibrillation: data from ROCKET AF. J Am Heart Assoc  2016;5:e002197. https://doi.org/10.1161/JAHA.115.002197
-Google ScholarCrossrefPubMedWorldCat 
+  
 85	Granada   J, Uribe   W, Chyou   PH, Maassen   K, Vierkant   R, Smith   PN, et al.   Incidence and predictors of atrial flutter in the general population. J Am Coll Cardiol  2000;36:2242–6. https://doi.org/10.1016/S0735-1097(00)00982-7
-Google ScholarCrossrefPubMedWorldCat 
+  
 86	Vadmann   H, Nielsen   PB, Hjortshoj   SP, Riahi   S, Rasmussen   LH, Lip   GY, et al.   Atrial flutter and thromboembolic risk: a systematic review. Heart  2015;101:1446–55. https://doi.org/10.1136/heartjnl-2015-307550
-Google ScholarCrossrefPubMedWorldCat 
+  
 87	Lelorier   P, Humphries   KH, Krahn   A, Connolly   SJ, Talajic   M, Green   M, et al.   Prognostic differences between atrial fibrillation and atrial flutter. Am J Cardiol  2004;93:647–9. https://doi.org/10.1016/j.amjcard.2003.11.042
-Google ScholarCrossrefPubMedWorldCat 
+  
 88	Biblo   LA, Yuan   Z, Quan   KJ, Mackall   JA, Rimm   AA. Risk of stroke in patients with atrial flutter. Am J Cardiol  2001;87:346–9, A9. https://doi.org/10.1016/S0002-9149(00)01374-6
-Google ScholarCrossrefPubMedWorldCat 
+  
 89	Corrado   G, Sgalambro   A, Mantero   A, Gentile   F, Gasparini   M, Bufalino   R, et al.   Thromboembolic risk in atrial flutter. The FLASIEC (FLutter Atriale Società Italiana di Ecografia Cardiovascolare) multicentre study. Eur Heart J  2001;22:1042–51. https://doi.org/10.1053/euhj.2000.2427
-Google ScholarCrossrefPubMedWorldCat 
+  
 90	Lin   YS, Chen   TH, Chi   CC, Lin   MS, Tung   TH, Liu   CH, et al.   Different implications of heart failure, ischemic stroke, and mortality between nonvalvular atrial fibrillation and atrial flutter–a view from a national cohort study. J Am Heart Assoc  2017;6:e006406. https://doi.org/10.1161/JAHA.117.006406
-Google ScholarCrossrefPubMedWorldCat 
+  
 91	Giehm-Reese   M, Johansen   MN, Kronborg   MB, Jensen   HK, Gerdes   C, Kristensen   J, et al.   Discontinuation of oral anticoagulation and risk of stroke and death after ablation for typical atrial flutter: a nation-wide Danish cohort study. Int J Cardiol  2021;333:110–6. https://doi.org/10.1016/j.ijcard.2021.02.057
-Google ScholarCrossrefPubMedWorldCat 
+  
 92	Gallagher   C, Rowett   D, Nyfort-Hansen   K, Simmons   S, Brooks   AG, Moss   JR, et al.   Patient-centered educational resources for atrial fibrillation. JACC Clin Electrophysiol  2019;5:1101–14. https://doi.org/10.1016/j.jacep.2019.08.007
-Google ScholarCrossrefPubMedWorldCat 
+  
 93	Chung   MK, Fagerlin   A, Wang   PJ, Ajayi   TB, Allen   LA, Baykaner   T, et al.   Shared decision making in cardiac electrophysiology procedures and arrhythmia management. Circ Arrhythm Electrophysiol  2021;14:e007958. https://doi.org/10.1161/CIRCEP.121.007958
-Google ScholarCrossrefPubMedWorldCat 
+  
 94	Wang   PJ, Lu   Y, Mahaffey   KW, Lin   A, Morin   DP, Sears   SF, et al.   A randomized clinical trial to evaluate an atrial fibrillation stroke prevention shared decision-making pathway. J Am Heart Assoc  2022;12:e028562. https://doi.org/10.1161/JAHA.122.028562
-Google ScholarCrossrefWorldCat 
+  
 95	Seaburg   L, Hess   EP, Coylewright   M, Ting   HH, McLeod   CJ, Montori   VM. Shared decision making in atrial fibrillation: where we are and where we should be going. Circulation  2014;129:704–10. https://doi.org/10.1161/CIRCULATIONAHA.113.004498
-Google ScholarCrossrefPubMedWorldCat 
+  
 96	Zhang   J, Lenarczyk   R, Marin   F, Malaczynska-Rajpold   K, Kosiuk   J, Doehner   W, et al.   The interpretation of CHA2DS2-VASc score components in clinical practice: a joint survey by the European Heart Rhythm Association (EHRA) scientific initiatives committee, the EHRA young electrophysiologists, the Association of Cardiovascular Nursing and Allied Professionals, and the European Society of Cardiology council on stroke. Europace  2021;23:314–22. https://doi.org/10.1093/europace/euaa358
-Google ScholarCrossrefPubMedWorldCat 
+  
 97	Omoush   A, Aloush   S, Albashtawy   M, Rayan   A, Alkhawaldeh   A, Eshah   N, et al.   Nurses’ knowledge of anticoagulation therapy for atrial fibrillation patients: effectiveness of an educational course. Nurs Forum  2022;57:825–32. https://doi.org/10.1111/nuf.12770
-Google ScholarCrossrefPubMedWorldCat 
+  
 98	Heidbuchel   H, Dagres   N, Antz   M, Kuck   KH, Lazure   P, Murray   S, et al.   Major knowledge gaps and system barriers to guideline implementation among European physicians treating patients with atrial fibrillation: a European Society of Cardiology international educational needs assessment. Europace  2018;20:1919–28. https://doi.org/10.1093/europace/euy039
-Google ScholarCrossrefPubMedWorldCat 
+  
 99	Bunting   KV, Van Gelder   IC, Kotecha   D. STEEER-AF: a cluster-randomized education trial from the ESC. Eur Heart J  2020;41:1952–4. https://doi.org/10.1093/eurheartj/ehaa421
-Google ScholarCrossrefPubMedWorldCat 
+  
 100	Tanner   FC, Brooks   N, Fox   KF, Gonçalves   L, Kearney   P, Michalis   L, et al.   ESC core curriculum for the cardiologist. Eur Heart J  2020;41:3605–92. https://doi.org/10.1093/eurheartj/ehaa641
-Google ScholarCrossrefPubMedWorldCat 
+  
 101	Astin   F, Carroll   D, De Geest   S, Fernandez-Oliver   AL, Holt   J, Hinterbuchner   L, et al.   A core curriculum for the continuing professional development of nurses working in cardiovascular settings: developed by the education committee of the Council on Cardiovascular Nursing and Allied Professions (CCNAP) on behalf of the European Society of Cardiology. Eur J Cardiovasc Nurs  2015;14:S1–17. https://doi.org/10.1177/1474515115580905
-Google ScholarCrossrefPubMedWorldCat 
+  
 102	Sterlinski   M, Bunting   KV, Boriani   G, Boveda   S, Guasch   E, Mont   L, et al.  STEEER-AF Trial Team. Design and deployment of the STEEER-AF trial to evaluate and improve guideline adherence: a cluster-randomised trial by the European Society of Cardiology and European Heart Rhythm Association. Europace 2024:euae178. https://doi.org/10.1093/europace/euae178
 103	Vinereanu   D, Lopes   RD, Bahit   MC, Xavier   D, Jiang   J, Al-Khalidi   HR, et al.   A multifaceted intervention to improve treatment with oral anticoagulants in atrial fibrillation (IMPACT-AF): an international, cluster-randomised trial. Lancet  2017;390:1737–46. https://doi.org/10.1016/S0140-6736(17)32165-7
-Google ScholarCrossrefPubMedWorldCat 
+  
 104	Franchi   C, Antoniazzi   S, Ardoino   I, Proietti   M, Marcucci   M, Santalucia   P, et al.   Simulation-based education for physicians to increase oral anticoagulants in hospitalized elderly patients with atrial fibrillation. Am J Med  2019;132:e634–47. https://doi.org/10.1016/j.amjmed.2019.03.052
-Google ScholarCrossrefPubMedWorldCat 
+  
 105	Baicus   C, Delcea   C, Dima   A, Oprisan   E, Jurcut   C, Dan   GA. Influence of decision aids on oral anticoagulant prescribing among physicians: a randomised trial. Eur J Clin Invest  2017;47:649–58. https://doi.org/10.1111/eci.12786
-Google ScholarCrossrefPubMedWorldCat 
+  
 106	Ono   F, Akiyama   S, Suzuki   A, Ikeda   Y, Takahashi   A, Matsuoka   H, et al.   Impact of care coordination on oral anticoagulant therapy among patients with atrial fibrillation in routine clinical practice in Japan: a prospective, observational study. BMC Cardiovasc Disord  2019;19:235. https://doi.org/10.1186/s12872-019-1216-y
-Google ScholarCrossrefPubMedWorldCat 
+  
 107	Ferguson   C, Hickman   LD, Phillips   J, Newton   PJ, Inglis   SC, Lam   L, et al.   An mHealth intervention to improve nurses’ atrial fibrillation and anticoagulation knowledge and practice: the EVICOAG study. Eur J Cardiovasc Nurs  2019;18:7–15. https://doi.org/10.1177/1474515118793051
-Google ScholarCrossrefPubMedWorldCat 
+  
 108	Lip   GY, Laroche   C, Popescu   MI, Rasmussen   LH, Vitali-Serdoz   L, Dan   GA, et al.   Improved outcomes with European Society of Cardiology guideline-adherent antithrombotic treatment in high-risk patients with atrial fibrillation: a report from the EORP-AF general pilot registry. Europace  2015;17:1777–86. https://doi.org/10.1093/europace/euv269
-Google ScholarCrossrefPubMedWorldCat 
+  
 109	Linde   C, Bongiorni   MG, Birgersdotter-Green   U, Curtis   AB, Deisenhofer   I, Furokawa   T, et al.   Sex differences in cardiac arrhythmia: a consensus document of the European Heart Rhythm Association, endorsed by the Heart Rhythm Society and Asia Pacific Heart Rhythm Society. Europace  2018;20:1565–1565ao. https://doi.org/10.1093/europace/euy067
-Google ScholarCrossrefPubMedWorldCat 
+  
 110	Camm   AJ, Accetta   G, Al Mahmeed   W, Ambrosio   G, Goldhaber   SZ, Haas   S, et al.   Impact of gender on event rates at 1 year in patients with newly diagnosed non-valvular atrial fibrillation: contemporary perspective from the GARFIELD-AF registry. BMJ Open  2017;7:e014579. https://doi.org/10.1136/bmjopen-2016-014579
-Google ScholarCrossrefPubMedWorldCat 
+  
 111	Emdin   CA, Wong   CX, Hsiao   AJ, Altman   DG, Peters   SA, Woodward   M, et al.   Atrial fibrillation as risk factor for cardiovascular disease and death in women compared with men: systematic review and meta-analysis of cohort studies. BMJ  2016;532:h7013. https://doi.org/10.1136/bmj.h7013
 Google ScholarPubMedWorldCat 
 112	Tomasdottir   M, Friberg   L, Hijazi   Z, Lindback   J, Oldgren   J. Risk of ischemic stroke and utility of CHA2 DS2 -VASc score in women and men with atrial fibrillation. Clin Cardiol  2019;42:1003–9. https://doi.org/10.1002/clc.23257
-Google ScholarCrossrefPubMedWorldCat 
+  
 113	Kloosterman   M, Chua   W, Fabritz   L, Al-Khalidi   HR, Schotten   U, Nielsen   JC, et al.   Sex differences in catheter ablation of atrial fibrillation: results from AXAFA-AFNET 5. Europace  2020;22:1026–35. https://doi.org/10.1093/europace/euaa015
-Google ScholarCrossrefPubMedWorldCat 
+  
 114	Benjamin   EJ, Thomas   KL, Go   AS, Desvigne-Nickens   P, Albert   CM, Alonso   A, et al.   Transforming atrial fibrillation research to integrate social determinants of health: a national heart, lung, and blood institute workshop report. JAMA Cardiol  2023;8:182–91. https://doi.org/10.1001/jamacardio.2022.4091
-Google ScholarCrossrefPubMedWorldCat 
+  
 115	Karlsson   LO, Nilsson   S, Bang   M, Nilsson   L, Charitakis   E, Janzon   M. A clinical decision support tool for improving adherence to guidelines on anticoagulant therapy in patients with atrial fibrillation at risk of stroke: a cluster-randomized trial in a Swedish primary care setting (the CDS-AF study). PLoS Med  2018;15:e1002528. https://doi.org/10.1371/journal.pmed.1002528
-Google ScholarCrossrefPubMedWorldCat 
+  
 116	Biersteker   TE, Schalij   MJ, Treskes   RW. Impact of mobile health devices for the detection of atrial fibrillation: systematic review. JMIR Mhealth Uhealth  2021;9:e26161. https://doi.org/10.2196/26161
-Google ScholarCrossrefPubMedWorldCat 
+  
 117	Romiti   GF, Pastori   D, Rivera-Caravaca   JM, Ding   WY, Gue   YX, Menichelli   D, et al.   Adherence to the ‘atrial fibrillation better care’ pathway in patients with atrial fibrillation: impact on clinical outcomes—a systematic review and meta-analysis of 285,000 patients. Thromb Haemost  2022;122:406–14. https://doi.org/10.1055/a-1515-9630
 Google ScholarPubMedWorldCat 
 118	Gallagher   C, Elliott   AD, Wong   CX, Rangnekar   G, Middeldorp   ME, Mahajan   R, et al.   Integrated care in atrial fibrillation: a systematic review and meta-analysis. Heart  2017;103:1947–53. https://doi.org/10.1136/heartjnl-2016-310952
 Google ScholarPubMedWorldCat 
 119	Kirchhof   P, Benussi   S, Kotecha   D, Ahlsson   A, Atar   D, Casadei   B, et al.   2016 ESC Guidelines for the management of atrial fibrillation developed in collaboration with EACTS. Eur Heart J  2016;37:2893–962. https://doi.org/10.1093/eurheartj/ehw210
-Google ScholarCrossrefPubMedWorldCat 
+  
 120	Hindricks   G, Potpara   T, Dagres   N, Arbelo   E, Bax   JJ, Blomström-Lundqvist   C, et al.   2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): the task force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Heart J  2021;42:373–498. https://doi.org/10.1093/eurheartj/ehaa612
-Google ScholarCrossrefPubMedWorldCat 
+  
 121	Qvist   I, Hendriks   JM, Møller   DS, Albertsen   AE, Mogensen   HM, Oddershede   GD, et al.   Effectiveness of structured, hospital-based, nurse-led atrial fibrillation clinics: a comparison between a real-world population and a clinical trial population. Open Heart  2016;3:e000335. https://doi.org/10.1136/openhrt-2015-000335
-Google ScholarCrossrefPubMedWorldCat 
+  
 122	Hendriks   JM, de Wit   R, Crijns   HJ, Vrijhoef   HJ, Prins   MH, Pisters   R, et al.   Nurse-led care vs. usual care for patients with atrial fibrillation: results of a randomized trial of integrated chronic care vs. routine clinical care in ambulatory patients with atrial fibrillation. Eur Heart J  2012;33:2692–9. https://doi.org/10.1093/eurheartj/ehs071
-Google ScholarCrossrefPubMedWorldCat 
+  
 123	Carter   L, Gardner   M, Magee   K, Fearon   A, Morgulis   I, Doucette   S, et al.   An integrated management approach to atrial fibrillation. J Am Heart Assoc  2016;5:e002950. https://doi.org/10.1161/JAHA.115.002950
-Google ScholarCrossrefPubMedWorldCat 
+  
 124	van den Dries   CJ, van Doorn   S, Rutten   FH, Oudega   R, van de Leur   S, Elvan   A, et al.   Integrated management of atrial fibrillation in primary care: results of the ALL-IN cluster randomized trial. Eur Heart J  2020;41:2836–44. https://doi.org/10.1093/eurheartj/ehaa055
-Google ScholarCrossrefPubMedWorldCat 
+  
 125	Abed   HS, Wittert   GA, Leong   DP, Shirazi   MG, Bahrami   B, Middeldorp   ME, et al.   Effect of weight reduction and cardiometabolic risk factor management on symptom burden and severity in patients with atrial fibrillation: a randomized clinical trial. JAMA  2013;310:2050–60. https://doi.org/10.1001/jama.2013.280521
-Google ScholarCrossrefPubMedWorldCat 
+  
 126	Pathak   RK, Middeldorp   ME, Meredith   M, Mehta   AB, Mahajan   R, Wong   CX, et al.   Long-term effect of goal-directed weight management in an atrial fibrillation cohort: a long-term follow-up study (LEGACY). J Am Coll Cardiol  2015;65:2159–69. https://doi.org/10.1016/j.jacc.2015.03.002
-Google ScholarCrossrefPubMedWorldCat 
+  
 127	Middeldorp   ME, Pathak   RK, Meredith   M, Mehta   AB, Elliott   AD, Mahajan   R, et al.   PREVEntion and regReSsive effect of weight-loss and risk factor modification on atrial fibrillation: the REVERSE-AF study. Europace  2018;20:1929–35. https://doi.org/10.1093/europace/euy117
-Google ScholarCrossrefPubMedWorldCat 
+  
 128	Pathak   RK, Middeldorp   ME, Lau   DH, Mehta   AB, Mahajan   R, Twomey   D, et al.   Aggressive risk factor reduction study for atrial fibrillation and implications for the outcome of ablation: the ARREST-AF cohort study. J Am Coll Cardiol  2014;64:2222–31. https://doi.org/10.1016/j.jacc.2014.09.028
-Google ScholarCrossrefPubMedWorldCat 
+  
 129	Pinho-Gomes   AC, Azevedo   L, Copland   E, Canoy   D, Nazarzadeh   M, Ramakrishnan   R, et al.   Blood pressure-lowering treatment for the prevention of cardiovascular events in patients with atrial fibrillation: an individual participant data meta-analysis. PLoS Med  2021;18:e1003599. https://doi.org/10.1371/journal.pmed.1003599
-Google ScholarCrossrefPubMedWorldCat 
+  
 130	Parkash   R, Wells   GA, Sapp   JL, Healey   JS, Tardif   J-C, Greiss   I, et al.   Effect of aggressive blood pressure control on the recurrence of atrial fibrillation after catheter ablation: a randomized, open-label clinical trial (SMAC-AF [Substrate Modification with Aggressive Blood Pressure Control]). Circulation  2017;135:1788–98. https://doi.org/10.1161/CIRCULATIONAHA.116.026230
-Google ScholarCrossrefPubMedWorldCat 
+  
 131	McMurray   JJ, Adamopoulos   S, Anker   SD, Auricchio   A, Bohm   M, Dickstein   K, et al.   ESC guidelines for the diagnosis and treatment of acute and chronic heart failure 2012: the task force for the diagnosis and treatment of acute and chronic heart failure 2012 of the European Society of Cardiology. Developed in collaboration with the Heart Failure Association (HFA) of the ESC. Eur Heart J  2012;33:1787–847. https://doi.org/10.1093/eurheartj/ehs104
 Google ScholarPubMedWorldCat 
 132	Olsson   LG, Swedberg   K, Ducharme   A, Granger   CB, Michelson   EL, McMurray   JJ, et al.   Atrial fibrillation and risk of clinical events in chronic heart failure with and without left ventricular systolic dysfunction: results from the Candesartan in Heart failure-Assessment of Reduction in Mortality and morbidity (CHARM) program. J Am Coll Cardiol  2006;47:1997–2004. https://doi.org/10.1016/j.jacc.2006.01.060
-Google ScholarCrossrefPubMedWorldCat 
+  
 133	Kotecha   D, Holmes   J, Krum   H, Altman   DG, Manzano   L, Cleland   JG, et al.   Efficacy of beta blockers in patients with heart failure plus atrial fibrillation: an individual-patient data meta-analysis. Lancet  2014;384:2235–43. https://doi.org/10.1016/S0140-6736(14)61373-8
-Google ScholarCrossrefPubMedWorldCat 
+  
 134	Zannad   F, McMurray   JJ, Krum   H, van Veldhuisen   DJ, Swedberg   K, Shi   H, et al.   Eplerenone in patients with systolic heart failure and mild symptoms. N Engl J Med  2011;364:11–21. https://doi.org/10.1056/NEJMoa1009492
-Google ScholarCrossrefPubMedWorldCat 
+  
 135	McMurray   JJ, Packer   M, Desai   AS, Gong   J, Lefkowitz   MP, Rizkala   AR, et al.   Angiotensin-neprilysin inhibition versus enalapril in heart failure. N Engl J Med  2014;371:993–1004. https://doi.org/10.1056/NEJMoa1409077
-Google ScholarCrossrefPubMedWorldCat 
+  
 136	Pandey   AK, Okaj   I, Kaur   H, Belley-Cote   EP, Wang   J, Oraii   A, et al.   Sodium-glucose co-transporter inhibitors and atrial fibrillation: a systematic review and meta-analysis of randomized controlled trials. J Am Heart Assoc  2021;10:e022222. https://doi.org/10.1161/JAHA.121.022222
-Google ScholarCrossrefPubMedWorldCat 
+  
 137	McDonagh   TA, Metra   M, Adamo   M, Gardner   RS, Baumbach   A, Bohm   M, et al.   2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J  2021;42:3599–726. https://doi.org/10.1093/eurheartj/ehab368
-Google ScholarCrossrefPubMedWorldCat 
+  
 138	Solomon   SD, McMurray   JJV, Claggett   B, de Boer   RA, DeMets   D, Hernandez   AF, et al.   Dapagliflozin in heart failure with mildly reduced or preserved ejection fraction. N Engl J Med  2022;387:1089–98. https://doi.org/10.1056/NEJMoa2206286
-Google ScholarCrossrefPubMedWorldCat 
+  
 139	Anker   SD, Butler   J, Filippatos   G, Ferreira   JP, Bocchi   E, Böhm   M, et al.   Empagliflozin in heart failure with a preserved ejection fraction. N Engl J Med  2021;385:1451–61. https://doi.org/10.1056/NEJMoa2107038
-Google ScholarCrossrefPubMedWorldCat 
+  
 140	Bhatt   DL, Szarek   M, Steg   PG, Cannon   CP, Leiter   LA, McGuire   DK, et al.   Sotagliflozin in patients with diabetes and recent worsening heart failure. N Engl J Med  2021;384:117–28. https://doi.org/10.1056/NEJMoa2030183
-Google ScholarCrossrefPubMedWorldCat 
+  
 141	Pathak   RK, Elliott   A, Middeldorp   ME, Meredith   M, Mehta   AB, Mahajan   R, et al.   Impact of CARDIOrespiratory FITness on arrhythmia recurrence in obese individuals with atrial fibrillation: the CARDIO-FIT study. J Am Coll Cardiol  2015;66:985–96. https://doi.org/10.1016/j.jacc.2015.06.488
-Google ScholarCrossrefPubMedWorldCat 
+  
 142	Hegbom   F, Stavem   K, Sire   S, Heldal   M, Orning   OM, Gjesdal   K. Effects of short-term exercise training on symptoms and quality of life in patients with chronic atrial fibrillation. Int J Cardiol  2007;116:86–92. https://doi.org/10.1016/j.ijcard.2006.03.034
-Google ScholarCrossrefPubMedWorldCat 
+  
 143	Osbak   PS, Mourier   M, Kjaer   A, Henriksen   JH, Kofoed   KF, Jensen   GB. A randomized study of the effects of exercise training on patients with atrial fibrillation. Am Heart J  2011;162:1080–7. https://doi.org/10.1016/j.ahj.2011.09.013
-Google ScholarCrossrefPubMedWorldCat 
+  
 144	Malmo   V, Nes   BM, Amundsen   BH, Tjonna   AE, Stoylen   A, Rossvoll   O, et al.   Aerobic interval training reduces the burden of atrial fibrillation in the short term: a randomized trial. Circulation  2016;133:466–73. https://doi.org/10.1161/CIRCULATIONAHA.115.018220
-Google ScholarCrossrefPubMedWorldCat 
+  
 145	Oesterle   A, Giancaterino   S, Van Noord   MG, Pellegrini   CN, Fan   D, Srivatsa   UN, et al.   Effects of supervised exercise training on atrial fibrillation: a meta-analysis of randomized controlled trials. J Cardiopulm Rehabil Prev  2022;42:258–65. https://doi.org/10.1097/HCR.0000000000000665
-Google ScholarCrossrefPubMedWorldCat 
+  
 146	Elliott   AD, Verdicchio   CV, Mahajan   R, Middeldorp   ME, Gallagher   C, Mishima   RS, et al.   An exercise and physical activity program in patients with atrial fibrillation: the ACTIVE-AF randomized controlled trial. JACC Clin Electrophysiol  2023;9:455–65. https://doi.org/10.1016/j.jacep.2022.12.002
-Google ScholarCrossrefPubMedWorldCat 
+  
 147	Voskoboinik   A, Kalman   JM, De Silva   A, Nicholls   T, Costello   B, Nanayakkara   S, et al.   Alcohol abstinence in drinkers with atrial fibrillation. N Engl J Med  2020;382:20–8. https://doi.org/10.1056/NEJMoa1817591
-Google ScholarCrossrefPubMedWorldCat 
+  
 148	Holmqvist   F, Guan   N, Zhu   Z, Kowey   PR, Allen   LA, Fonarow   GC, et al.   Impact of obstructive sleep apnea and continuous positive airway pressure therapy on outcomes in patients with atrial fibrillation-results from the Outcomes Registry for Better Informed Treatment of Atrial Fibrillation (ORBIT-AF). Am Heart J  2015;169:647–654.e2. https://doi.org/10.1016/j.ahj.2014.12.024
-Google ScholarCrossrefPubMedWorldCat 
+  
 149	Fein   AS, Shvilkin   A, Shah   D, Haffajee   CI, Das   S, Kumar   K, et al.   Treatment of obstructive sleep apnea reduces the risk of atrial fibrillation recurrence after catheter ablation. J Am Coll Cardiol  2013;62:300–5. https://doi.org/10.1016/j.jacc.2013.03.052
-Google ScholarCrossrefPubMedWorldCat 
+  
 150	Li   L, Wang   ZW, Li   J, Ge   X, Guo   LZ, Wang   Y, et al.   Efficacy of catheter ablation of atrial fibrillation in patients with obstructive sleep apnoea with and without continuous positive airway pressure treatment: a meta-analysis of observational studies. Europace  2014;16:1309–14. https://doi.org/10.1093/europace/euu066
-Google ScholarCrossrefPubMedWorldCat 
+  
 151	Naruse   Y, Tada   H, Satoh   M, Yanagihara   M, Tsuneoka   H, Hirata   Y, et al.   Concomitant obstructive sleep apnea increases the recurrence of atrial fibrillation following radiofrequency catheter ablation of atrial fibrillation: clinical impact of continuous positive airway pressure therapy. Heart Rhythm  2013;10:331–7. https://doi.org/10.1016/j.hrthm.2012.11.015
-Google ScholarCrossrefPubMedWorldCat 
+  
 152	Qureshi   WT, Nasir   UB, Alqalyoobi   S, O’Neal   WT, Mawri   S, Sabbagh   S, et al.   Meta-analysis of continuous positive airway pressure as a therapy of atrial fibrillation in obstructive sleep apnea. Am J Cardiol  2015;116:1767–73. https://doi.org/10.1016/j.amjcard.2015.08.046
-Google ScholarCrossrefPubMedWorldCat 
+  
 153	Shukla   A, Aizer   A, Holmes   D, Fowler   S, Park   DS, Bernstein   S, et al.   Effect of obstructive sleep apnea treatment on atrial fibrillation recurrence: a meta-analysis. JACC Clin Electrophysiol  2015;1:41–51. https://doi.org/10.1016/j.jacep.2015.02.014
-Google ScholarCrossrefPubMedWorldCat 
+  
 154	Nalliah   CJ, Wong   GR, Lee   G, Voskoboinik   A, Kee   K, Goldin   J, et al.   Impact of CPAP on the atrial fibrillation substrate in obstructive sleep apnea: the SLEEP-AF study. JACC Clin Electrophysiol  2022;8:869–77. https://doi.org/10.1016/j.jacep.2022.04.015
-Google ScholarCrossrefPubMedWorldCat 
+  
 155	Kadhim   K, Middeldorp   ME, Elliott   AD, Jones   D, Hendriks   JML, Gallagher   C, et al.   Self-reported daytime sleepiness and sleep-disordered breathing in patients with atrial fibrillation: SNOozE-AF. Can J Cardiol  2019;35:1457–64. https://doi.org/10.1016/j.cjca.2019.07.627
-Google ScholarCrossrefPubMedWorldCat 
+  
 156	Traaen   GM, Overland   B, Aakeroy   L, Hunt   TE, Bendz   C, Sande   L, et al.   Prevalence, risk factors, and type of sleep apnea in patients with paroxysmal atrial fibrillation. Int J Cardiol Heart Vasc  2020;26:100447. https://doi.org/10.1016/j.ijcha.2019.100447
 Google ScholarPubMedWorldCat 
 157	Kadhim   K, Middeldorp   ME, Elliott   AD, Agbaedeng   T, Gallagher   C, Malik   V, et al.   Prevalence and assessment of sleep-disordered breathing in patients with atrial fibrillation: a systematic review and meta-analysis. Can J Cardiol  2021;37:1846–56. https://doi.org/10.1016/j.cjca.2021.09.026
-Google ScholarCrossrefPubMedWorldCat 
+  
 158	Friberg   L, Rosenqvist   M, Lip   GY. Evaluation of risk stratification schemes for ischaemic stroke and bleeding in 182 678 patients with atrial fibrillation: the Swedish atrial fibrillation cohort study. Eur Heart J  2012;33:1500–10. https://doi.org/10.1093/eurheartj/ehr488
-Google ScholarCrossrefPubMedWorldCat 
+  
 159	Lopes   LC, Spencer   FA, Neumann   I, Ventresca   M, Ebrahim   S, Zhou   Q, et al.   Systematic review of observational studies assessing bleeding risk in patients with atrial fibrillation not using anticoagulants. PLoS One  2014;9:e88131. https://doi.org/10.1371/journal.pone.0088131
-Google ScholarCrossrefPubMedWorldCat 
+  
 160	Potpara   TS, Polovina   MM, Licina   MM, Marinkovic   JM, Lip   GY. Predictors and prognostic implications of incident heart failure following the first diagnosis of atrial fibrillation in patients with structurally normal hearts: the Belgrade atrial fibrillation study. Eur J Heart Fail  2013;15:415–24. https://doi.org/10.1093/eurjhf/hft004
-Google ScholarCrossrefPubMedWorldCat 
+  
 161	Noubiap   JJ, Feteh   VF, Middeldorp   ME, Fitzgerald   JL, Thomas   G, Kleinig   T, et al.   A meta-analysis of clinical risk factors for stroke in anticoagulant-naive patients with atrial fibrillation. Europace  2021;23:1528–38. https://doi.org/10.1093/europace/euab087
-Google ScholarCrossrefPubMedWorldCat 
+  
 162	McEvoy JW, Touyz RM, McCarthy CP, Bruno RM, Brouwers S, Canavan MD, et al. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension. Eur Heart J 2024. https://doi.org/10.1093/eurheartj/ehae178
 163	Santoro   F, Di Biase   L, Trivedi   C, Burkhardt   JD, Paoletti Perini   A, Sanchez   J, et al.   Impact of uncontrolled hypertension on atrial fibrillation ablation outcome. JACC Clin Electrophysiol  2015;1:164–73. https://doi.org/10.1016/j.jacep.2015.04.002
-Google ScholarCrossrefPubMedWorldCat 
+  
 164	Trines   SA, Stabile   G, Arbelo   E, Dagres   N, Brugada   J, Kautzner   J, et al.   Influence of risk factors in the ESC-EHRA EORP atrial fibrillation ablation long-term registry. Pacing Clin Electrophysiol  2019;42:1365–73. https://doi.org/10.1111/pace.13763
-Google ScholarCrossrefPubMedWorldCat 
+  
 165	Shah   AN, Mittal   S, Sichrovsky   TC, Cotiga   D, Arshad   A, Maleki   K, et al.   Long-term outcome following successful pulmonary vein isolation: pattern and prediction of very late recurrence. J Cardiovasc Electrophysiol  2008;19:661–7. https://doi.org/10.1111/j.1540-8167.2008.01101.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 166	Berruezo   A, Tamborero   D, Mont   L, Benito   B, Tolosana   JM, Sitges   M, et al.   Pre-procedural predictors of atrial fibrillation recurrence after circumferential pulmonary vein ablation. Eur Heart J  2007;28:836–41. https://doi.org/10.1093/eurheartj/ehm027
-Google ScholarCrossrefPubMedWorldCat 
+  
 167	Themistoclakis   S, Schweikert   RA, Saliba   WI, Bonso   A, Rossillo   A, Bader   G, et al.   Clinical predictors and relationship between early and late atrial tachyarrhythmias after pulmonary vein antrum isolation. Heart Rhythm  2008;5:679–85. https://doi.org/10.1016/j.hrthm.2008.01.031
-Google ScholarCrossrefPubMedWorldCat 
+  
 168	Letsas   KP, Weber   R, Burkle   G, Mihas   CC, Minners   J, Kalusche   D, et al.   Pre-ablative predictors of atrial fibrillation recurrence following pulmonary vein isolation: the potential role of inflammation. Europace  2009;11:158–63. https://doi.org/10.1093/europace/eun309
-Google ScholarCrossrefPubMedWorldCat 
+  
 169	Khaykin   Y, Oosthuizen   R, Zarnett   L, Essebag   V, Parkash   R, Seabrook   C, et al.   Clinical predictors of arrhythmia recurrences following pulmonary vein antrum isolation for atrial fibrillation: predicting arrhythmia recurrence post-PVAI. J Cardiovasc Electrophysiol  2011;22:1206–14. https://doi.org/10.1111/j.1540-8167.2011.02108.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 170	Kamioka   M, Hijioka   N, Matsumoto   Y, Nodera   M, Kaneshiro   T, Suzuki   H, et al.   Uncontrolled blood pressure affects atrial remodeling and adverse clinical outcome in paroxysmal atrial fibrillation. Pacing Clin Electrophysiol  2018;41:402–10. https://doi.org/10.1111/pace.13311
-Google ScholarCrossrefPubMedWorldCat 
+  
 171	Zylla   MM, Hochadel   M, Andresen   D, Brachmann   J, Eckardt   L, Hoffmann   E, et al.   Ablation of atrial fibrillation in patients with hypertension—an analysis from the German ablation registry. J Clin Med  2020;9:1–14. https://doi.org/10.3390/jcm9082402
-Google ScholarCrossrefWorldCat 
+  
 172	Galzerano   D, Di Michele   S, Paolisso   G, Tuccillo   B, Lama   D, Carbotta   S, et al.   A multicentre, randomized study of telmisartan versus carvedilol for prevention of atrial fibrillation recurrence in hypertensive patients. J Renin Angiotensin Aldosterone Syst  2012;13:496–503. https://doi.org/10.1177/1470320312443909
-Google ScholarCrossrefPubMedWorldCat 
+  
 173	Du   H, Fan   J, Ling   Z, Woo   K, Su   L, Chen   S, et al.   Effect of nifedipine versus telmisartan on prevention of atrial fibrillation recurrence in hypertensive patients. Hypertension  2013;61:786–92. https://doi.org/10.1161/HYPERTENSIONAHA.111.202309
-Google ScholarCrossrefPubMedWorldCat 
+  
 174	Giannopoulos   G, Kossyvakis   C, Efremidis   M, Katsivas   A, Panagopoulou   V, Doudoumis   K, et al.   Central sympathetic inhibition to reduce postablation atrial fibrillation recurrences in hypertensive patients: a randomized, controlled study. Circulation  2014;130:1346–52. https://doi.org/10.1161/CIRCULATIONAHA.114.010999
-Google ScholarCrossrefPubMedWorldCat 
+  
 175	Schneider   MP, Hua   TA, Bohm   M, Wachtell   K, Kjeldsen   SE, Schmieder   RE. Prevention of atrial fibrillation by renin-angiotensin system inhibition a meta-analysis. J Am Coll Cardiol  2010;55:2299–307. https://doi.org/10.1016/j.jacc.2010.01.043
-Google ScholarCrossrefPubMedWorldCat 
+  
 176	Blum   S, Aeschbacher   S, Meyre   P, Zwimpfer   L, Reichlin   T, Beer   JH, et al.   Incidence and predictors of atrial fibrillation progression. J Am Heart Assoc  2019;8:e012554. https://doi.org/10.1161/JAHA.119.012554
-Google ScholarCrossrefPubMedWorldCat 
+  
 177	Kotecha   D, Piccini   JP. Atrial fibrillation in heart failure: what should we do?  Eur Heart J  2015;36:3250–7. https://doi.org/10.1093/eurheartj/ehv513
 Google ScholarPubMedWorldCat 
 178	Santhanakrishnan   R, Wang   N, Larson   MG, Magnani   JW, McManus   DD, Lubitz   SA, et al.   Atrial fibrillation begets heart failure and vice versa: temporal associations and differences in preserved versus reduced ejection fraction. Circulation  2016;133:484–92. https://doi.org/10.1161/CIRCULATIONAHA.115.018614
-Google ScholarCrossrefPubMedWorldCat 
+  
 179	Rossello   X, Gil   V, Escoda   R, Jacob   J, Aguirre   A, Martín-Sánchez   FJ, et al.   Editor’s choice – impact of identifying precipitating factors on 30-day mortality in acute heart failure patients. Eur Heart J Acute Cardiovasc Care  2019;8:667–80. https://doi.org/10.1177/2048872619869328
-Google ScholarCrossrefPubMedWorldCat 
+  
 180	Atrial Fibrillation Investigators. Echocardiographic predictors of stroke in patients with atrial fibrillation: a prospective study of 1066 patients from 3 clinical trials. Arch Intern Med  1998;158:1316–20. https://doi.org/10.1001/archinte.158.12.1316
 CrossrefPubMedWorldCat 
 181	Rohla   M, Weiss   TW, Pecen   L, Patti   G, Siller-Matula   JM, Schnabel   RB, et al.   Risk factors for thromboembolic and bleeding events in anticoagulated patients with atrial fibrillation: the prospective, multicentre observational PREvention oF thromboembolic events—European Registry in Atrial Fibrillation (PREFER in AF). BMJ Open  2019;9:e022478. https://doi.org/10.1136/bmjopen-2018-022478
-Google ScholarCrossrefPubMedWorldCat 
+  
 182	Kotecha   D, Chudasama   R, Lane   DA, Kirchhof   P, Lip   GY. Atrial fibrillation and heart failure due to reduced versus preserved ejection fraction: a systematic review and meta-analysis of death and adverse outcomes. Int J Cardiol  2016;203:660–6. https://doi.org/10.1016/j.ijcard.2015.10.220
-Google ScholarCrossrefPubMedWorldCat 
+  
 183	McDonagh   TA, Metra   M, Adamo   M, Gardner   RS, Baumbach   A, Böhm   M, et al.   2023 focused update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J  2023;44:3627–39. https://doi.org/10.1093/eurheartj/ehad195
-Google ScholarCrossrefPubMedWorldCat 
+  
 184	ACTIVE I Investigators; Yusuf   S, Healey   JS, Pogue   J, Chrolavicius   S, Flather   M, et al.   Irbesartan in patients with atrial fibrillation. N Engl J Med  2011;364:928–38. https://doi.org/10.1056/NEJMoa1008816
 Google ScholarPubMedWorldCat 
 185	Ziff   OJ, Lane   DA, Samra   M, Griffith   M, Kirchhof   P, Lip   GY, et al.   Safety and efficacy of digoxin: systematic review and meta-analysis of observational and controlled trial data. BMJ  2015;351:h4451. https://doi.org/10.1136/bmj.h4451
 Google ScholarPubMedWorldCat 
 186	Groenveld   HF, Crijns   HJ, Van den Berg   MP, Van Sonderen   E, Alings   AM, Tijssen   JG, et al.   The effect of rate control on quality of life in patients with permanent atrial fibrillation: data from the RACE II (Rate Control Efficacy in Permanent Atrial Fibrillation II) study. J Am Coll Cardiol  2011;58:1795–803. https://doi.org/10.1016/j.jacc.2011.06.055
-Google ScholarCrossrefPubMedWorldCat 
+  
 187	Glikson   M, Nielsen   JC, Kronborg   MB, Michowitz   Y, Auricchio   A, Barbash   IM, et al.   2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy. Eur Heart J  2021;42:3427–520. https://doi.org/10.1093/eurheartj/ehab364
-Google ScholarCrossrefPubMedWorldCat 
+  
 188	Solomon   SD, Claggett   B, Lewis   EF, Desai   A, Anand   I, Sweitzer   NK, et al.   Influence of ejection fraction on outcomes and efficacy of spironolactone in patients with heart failure with preserved ejection fraction. Eur Heart J  2016;37:455–62. https://doi.org/10.1093/eurheartj/ehv464
-Google ScholarCrossrefPubMedWorldCat 
+  
 189	Lund   LH, Claggett   B, Liu   J, Lam   CS, Jhund   PS, Rosano   GM, et al.   Heart failure with mid-range ejection fraction in CHARM: characteristics, outcomes and effect of candesartan across the entire ejection fraction spectrum. Eur J Heart Fail  2018;20:1230–9. https://doi.org/10.1002/ejhf.1149
-Google ScholarCrossrefPubMedWorldCat 
+  
 190	Cleland   JGF, Bunting   KV, Flather   MD, Altman   DG, Holmes   J, Coats   AJS, et al.   Beta-blockers for heart failure with reduced, mid-range, and preserved ejection fraction: an individual patient-level analysis of double-blind randomized trials. Eur Heart J  2018;39:26–35. https://doi.org/10.1093/eurheartj/ehx564
-Google ScholarCrossrefPubMedWorldCat 
+  
 191	Țica   O, Khamboo   W, Kotecha   D. Breaking the cycle of heart failure with preserved ejection fraction and atrial fibrillation. Card Fail Rev  2022;8:e32. https://doi.org/10.15420/cfr.2022.03
-Google ScholarCrossrefPubMedWorldCat 
+  
 192	Nguyen   BO, Crijns   H, Tijssen   JGP, Geelhoed   B, Hobbelt   AH, Hemels   MEW, et al.   Long-term outcome of targeted therapy of underlying conditions in patients with early persistent atrial fibrillation and heart failure: data of the RACE 3 trial. Europace  2022;24:910–20. https://doi.org/10.1093/europace/euab270
-Google ScholarCrossrefPubMedWorldCat 
+  
 193	Wang   A, Green   JB, Halperin   JL, Piccini   JP, Sr. Atrial fibrillation and diabetes mellitus: JACC review topic of the week. J Am Coll Cardiol  2019;74:1107–15. https://doi.org/10.1016/j.jacc.2019.07.020
-Google ScholarCrossrefPubMedWorldCat 
+  
 194	Alijla   F, Buttia   C, Reichlin   T, Razvi   S, Minder   B, Wilhelm   M, et al.   Association of diabetes with atrial fibrillation types: a systematic review and meta-analysis. Cardiovasc Diabetol  2021;20:230. https://doi.org/10.1186/s12933-021-01423-2
-Google ScholarCrossrefPubMedWorldCat 
+  
 195	Ding   WY, Kotalczyk   A, Boriani   G, Marin   F, Blomstrom-Lundqvist   C, Potpara   TS, et al.   Impact of diabetes on the management and outcomes in atrial fibrillation: an analysis from the ESC-EHRA EORP-AF long-term general registry. Eur J Intern Med  2022;103:41–9. https://doi.org/10.1016/j.ejim.2022.04.026
-Google ScholarCrossrefPubMedWorldCat 
+  
 196	Proietti   M, Romiti   GF, Basili   S. The case of diabetes mellitus and atrial fibrillation: underlining the importance of non-cardiovascular comorbidities. Eur J Intern Med  2022;103:38–40. https://doi.org/10.1016/j.ejim.2022.06.017
-Google ScholarCrossrefPubMedWorldCat 
+  
 197	Karayiannides   S, Norhammar   A, Landstedt-Hallin   L, Friberg   L, Lundman   P. Prognostic impact of type 1 and type 2 diabetes mellitus in atrial fibrillation and the effect of severe hypoglycaemia: a nationwide cohort study. Eur J Prev Cardiol  2022;29:1759–69. https://doi.org/10.1093/eurjpc/zwac093
-Google ScholarCrossrefPubMedWorldCat 
+  
 198	Lip   GY, Nieuwlaat   R, Pisters   R, Lane   DA, Crijns   HJ. Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: the Euro Heart Survey on atrial fibrillation. Chest  2010;137:263–72. https://doi.org/10.1378/chest.09-1584
-Google ScholarCrossrefPubMedWorldCat 
+  
 199	Abdel-Qadir   H, Gunn   M, Lega   IC, Pang   A, Austin   PC, Singh   SM, et al.   Association of diabetes duration and glycemic control with stroke rate in patients with atrial fibrillation and diabetes: a population-based cohort study. J Am Heart Assoc  2022;11:e023643. https://doi.org/10.1161/JAHA.121.023643
-Google ScholarCrossrefPubMedWorldCat 
+  
 200	Donnellan   E, Aagaard   P, Kanj   M, Jaber   W, Elshazly   M, Hoosien   M, et al.   Association between pre-ablation glycemic control and outcomes among patients with diabetes undergoing atrial fibrillation ablation. JACC Clin Electrophysiol  2019;5:897–903. https://doi.org/10.1016/j.jacep.2019.05.018
-Google ScholarCrossrefPubMedWorldCat 
+  
 201	D’Souza   S, Elshazly   MB, Dargham   SR, Donnellan   E, Asaad   N, Hayat   S, et al.   Atrial fibrillation catheter ablation complications in obese and diabetic patients: insights from the US nationwide inpatient sample 2005–2013. Clin Cardiol  2021;44:1151–60. https://doi.org/10.1002/clc.23667
-Google ScholarCrossrefPubMedWorldCat 
+  
 202	Creta   A, Providencia   R, Adragao   P, de Asmundis   C, Chun   J, Chierchia   G, et al.   Impact of type-2 diabetes mellitus on the outcomes of catheter ablation of atrial fibrillation (European Observational Multicentre Study). Am J Cardiol  2020;125:901–6. https://doi.org/10.1016/j.amjcard.2019.12.037
-Google ScholarCrossrefPubMedWorldCat 
+  
 203	Wang   Z, Wang   YJ, Liu   ZY, Li   Q, Kong   YW, Chen   YW, et al.   Effect of insulin resistance on recurrence after radiofrequency catheter ablation in patients with atrial fibrillation. Cardiovasc Drugs Ther  2023;37:705–13. https://doi.org/10.1007/s10557-022-07317-z
-Google ScholarCrossrefPubMedWorldCat 
+  
 204	Papazoglou   AS, Kartas   A, Moysidis   DV, Tsagkaris   C, Papadakos   SP, Bekiaridou   A, et al.   Glycemic control and atrial fibrillation: an intricate relationship, yet under investigation. Cardiovasc Diabetol  2022;21:39. https://doi.org/10.1186/s12933-022-01473-0
-Google ScholarCrossrefPubMedWorldCat 
+  
 205	Zhang   Z, Zhang   X, Korantzopoulos   P, Letsas   KP, Tse   G, Gong   M, et al.   Thiazolidinedione use and atrial fibrillation in diabetic patients: a meta-analysis. BMC Cardiovasc Disord  2017;17:96. https://doi.org/10.1186/s12872-017-0531-4
-Google ScholarCrossrefPubMedWorldCat 
+  
 206	Bell   DSH, Goncalves   E. Atrial fibrillation and type 2 diabetes: prevalence, etiology, pathophysiology and effect of anti-diabetic therapies. Diabetes Obes Metab  2019;21:210–7. https://doi.org/10.1111/dom.13512
-Google ScholarCrossrefPubMedWorldCat 
+  
 207	Marx   N, Federici   M, Schütt   K, Müller-Wieland   D, Ajjan   RA, Antunes   MJ, et al.   2023 ESC Guidelines for the management of cardiovascular disease in patients with diabetes. Eur Heart J  2023;44:4043–140. https://doi.org/10.1093/eurheartj/ehad192
-Google ScholarCrossrefPubMedWorldCat 
+  
 208	Di Benedetto   L, Michels   G, Luben   R, Khaw   KT, Pfister   R. Individual and combined impact of lifestyle factors on atrial fibrillation in apparently healthy men and women: the EPIC-Norfolk prospective population study. Eur J Prev Cardiol  2018;25:1374–83. https://doi.org/10.1177/2047487318782379
-Google ScholarCrossrefPubMedWorldCat 
+  
 209	Grundvold   I, Bodegard   J, Nilsson   PM, Svennblad   B, Johansson   G, Ostgren   CJ, et al.   Body weight and risk of atrial fibrillation in 7,169 patients with newly diagnosed type 2 diabetes; an observational study. Cardiovasc Diabetol  2015;14:5. https://doi.org/10.1186/s12933-014-0170-3
-Google ScholarCrossrefPubMedWorldCat 
+  
 210	Wong   CX, Sullivan   T, Sun   MT, Mahajan   R, Pathak   RK, Middeldorp   M, et al.   Obesity and the risk of incident, post-operative, and post-ablation atrial fibrillation: a meta-analysis of 626,603 individuals in 51 studies. JACC Clin Electrophysiol  2015;1:139–52. https://doi.org/10.1016/j.jacep.2015.04.004
-Google ScholarCrossrefPubMedWorldCat 
+  
 211	Providencia   R, Adragao   P, de Asmundis   C, Chun   J, Chierchia   G, Defaye   P, et al.   Impact of body mass index on the outcomes of catheter ablation of atrial fibrillation: a European observational multicenter study. J Am Heart Assoc  2019;8:e012253. https://doi.org/10.1161/JAHA.119.012253
-Google ScholarCrossrefPubMedWorldCat 
+  
 212	Glover   BM, Hong   KL, Dagres   N, Arbelo   E, Laroche   C, Riahi   S, et al.   Impact of body mass index on the outcome of catheter ablation of atrial fibrillation. Heart  2019;105:244–50. https://doi.org/10.1136/heartjnl-2018-313490
-Google ScholarCrossrefPubMedWorldCat 
+  
 213	Gessler   N, Willems   S, Steven   D, Aberle   J, Akbulak   RO, Gosau   N, et al.   Supervised obesity reduction trial for AF ablation patients: results from the SORT-AF trial. Europace  2021;23:1548–58. https://doi.org/10.1093/europace/euab122
-Google ScholarCrossrefPubMedWorldCat 
+  
 214	Mohanty   S, Mohanty   P, Natale   V, Trivedi   C, Gianni   C, Burkhardt   JD, et al.   Impact of weight loss on ablation outcome in obese patients with longstanding persistent atrial fibrillation. J Cardiovasc Electrophysiol  2018;29:246–53. https://doi.org/10.1111/jce.13394
-Google ScholarCrossrefPubMedWorldCat 
+  
 215	Donnellan   E, Wazni   OM, Kanj   M, Elshazly   M, Hussein   AA, Patel   DR, et al.   Impact of risk-factor modification on arrhythmia recurrence among morbidly obese patients undergoing atrial fibrillation ablation. J Cardiovasc Electrophysiol  2020;31:1979–86. https://doi.org/10.1111/jce.14607
-Google ScholarCrossrefPubMedWorldCat 
+  
 216	Donnellan   E, Wazni   OM, Kanj   M, Baranowski   B, Cremer   P, Harb   S, et al.   Association between pre-ablation bariatric surgery and atrial fibrillation recurrence in morbidly obese patients undergoing atrial fibrillation ablation. Europace  2019;21:1476–83. https://doi.org/10.1093/europace/euz183
-Google ScholarCrossrefPubMedWorldCat 
+  
 217	Donnellan   E, Wazni   O, Kanj   M, Hussein   A, Baranowski   B, Lindsay   B, et al.   Outcomes of atrial fibrillation ablation in morbidly obese patients following bariatric surgery compared with a nonobese cohort. Circ Arrhythm Electrophysiol  2019;12:e007598. https://doi.org/10.1161/CIRCEP.119.007598
-Google ScholarCrossrefPubMedWorldCat 
+  
 218	Moula   AI, Parrini   I, Tetta   C, Lucà   F, Parise   G, Rao   CM, et al.   Obstructive sleep apnea and atrial fibrillation. J Clin Med  2022;11:1242. https://doi.org/10.3390/jcm11051242
-Google ScholarCrossrefPubMedWorldCat 
+  
 219	Kapur   VK, Auckley   DH, Chowdhuri   S, Kuhlmann   DC, Mehra   R, Ramar   K, et al.   Clinical practice guideline for diagnostic testing for adult obstructive sleep apnea: an American academy of sleep medicine clinical practice guideline. J Clin Sleep Med  2017;13:479–504. https://doi.org/10.5664/jcsm.6506
-Google ScholarCrossrefPubMedWorldCat 
+  
 220	Linz   D, Brooks   AG, Elliott   AD, Nalliah   CJ, Hendriks   JML, Middeldorp   ME, et al.   Variability of sleep apnea severity and risk of atrial fibrillation: the VARIOSA-AF study. JACC Clin Electrophysiol  2019;5:692–701. https://doi.org/10.1016/j.jacep.2019.03.005
-Google ScholarCrossrefPubMedWorldCat 
+  
 221	Linz   D, Linz   B, Dobrev   D, Baumert   M, Hendriks   JM, Pepin   JL, et al.   Personalized management of sleep apnea in patients with atrial fibrillation: an interdisciplinary and translational challenge. Int J Cardiol Heart Vasc  2021;35:100843. https://doi.org/10.1016/j.ijcha.2021.100843.
 Google ScholarPubMedWorldCat 
 222	Kanagala   R, Murali   NS, Friedman   PA, Ammash   NM, Gersh   BJ, Ballman   KV, et al.   Obstructive sleep apnea and the recurrence of atrial fibrillation. Circulation  2003;107:2589–94. https://doi.org/10.1161/01.CIR.0000068337.25994.21
-Google ScholarCrossrefPubMedWorldCat 
+  
 223	Abumuamar   AM, Newman   D, Dorian   P, Shapiro   CM. Cardiac effects of CPAP treatment in patients with obstructive sleep apnea and atrial fibrillation. J Interv Card Electrophysiol  2019;54:289–97. https://doi.org/10.1007/s10840-018-0482-4
-Google ScholarCrossrefPubMedWorldCat 
+  
 224	Mittal   S, Golombeck   D, Pimienta   J. Sleep apnoea and AF: where do we stand? Practical advice for clinicians. Arrhythm Electrophysiol Rev  2021;10:140–6. https://doi.org/10.15420/aer.2021.05
-Google ScholarCrossrefPubMedWorldCat 
+  
 225	Hunt   TE, Traaen   GM, Aakeroy   L, Bendz   C, Overland   B, Akre   H, et al.   Effect of continuous positive airway pressure therapy on recurrence of atrial fibrillation after pulmonary vein isolation in patients with obstructive sleep apnea: a randomized controlled trial. Heart Rhythm  2022;19:1433–41. https://doi.org/10.1016/j.hrthm.2022.06.016
-Google ScholarCrossrefPubMedWorldCat 
+  
 226	Caples   SM, Mansukhani   MP, Friedman   PA, Somers   VK. The impact of continuous positive airway pressure treatment on the recurrence of atrial fibrillation post cardioversion: a randomized controlled trial. Int J Cardiol  2019;278:133–6. https://doi.org/10.1016/j.ijcard.2018.11.100
-Google ScholarCrossrefPubMedWorldCat 
+  
 227	Labarca   G, Dreyse   J, Drake   L, Jorquera   J, Barbe   F. Efficacy of continuous positive airway pressure (CPAP) in the prevention of cardiovascular events in patients with obstructive sleep apnea: systematic review and meta-analysis. Sleep Med Rev  2020;52:101312. https://doi.org/10.1016/j.smrv.2020.101312
-Google ScholarCrossrefPubMedWorldCat 
+  
 228	Abuzaid   AS, Al Ashry   HS, Elbadawi   A, Ld   H, Saad   M, Elgendy   IY, et al.   Meta-analysis of cardiovascular outcomes with continuous positive airway pressure therapy in patients with obstructive sleep apnea. Am J Cardiol  2017;120:693–9. https://doi.org/10.1016/j.amjcard.2017.05.042
-Google ScholarCrossrefPubMedWorldCat 
+  
 229	Yu   J, Zhou   Z, McEvoy   RD, Anderson   CS, Rodgers   A, Perkovic   V, et al.   Association of positive airway pressure with cardiovascular events and death in adults with sleep apnea: a systematic review and meta-analysis. JAMA  2017;318:156–66. https://doi.org/10.1001/jama.2017.7967
-Google ScholarCrossrefPubMedWorldCat 
+  
 230	McEvoy   RD, Antic   NA, Heeley   E, Luo   Y, Ou   Q, Zhang   X, et al.   CPAP for prevention of cardiovascular events in obstructive sleep apnea. N Engl J Med  2016;375:919–31. https://doi.org/10.1056/NEJMoa1606599
-Google ScholarCrossrefPubMedWorldCat 
+  
 231	Overvad   TF, Rasmussen   LH, Skjøth   F, Overvad   K, Albertsen   IE, Lane   DA, et al.   Alcohol intake and prognosis of atrial fibrillation. Heart  2013;99:1093–9. https://doi.org/10.1136/heartjnl-2013-304036
-Google ScholarCrossrefPubMedWorldCat 
+  
 232	Lim   C, Kim   T-H, Yu   HT, Lee   S-R, Cha   M-J, Lee   J-M, et al.   Effect of alcohol consumption on the risk of adverse events in atrial fibrillation: from the COmparison study of Drugs for symptom control and complication prEvention of Atrial Fibrillation (CODE-AF) registry. EP Europace  2021;23:548–56. https://doi.org/10.1093/europace/euaa340
-Google ScholarCrossrefPubMedWorldCat 
+  
 233	Lee   SR, Choi   EK, Jung   JH, Han   KD, Oh   S, Lip   GYH. Lower risk of stroke after alcohol abstinence in patients with incident atrial fibrillation: a nationwide population-based cohort study. Eur Heart J  2021;42:4759–68. https://doi.org/10.1093/eurheartj/ehab315
-Google ScholarCrossrefPubMedWorldCat 
+  
 234	Pisters   R, Lane   DA, Nieuwlaat   R, de Vos   CB, Crijns   HJ, Lip   GY. A novel user-friendly score (HAS-BLED) to assess 1-year risk of major bleeding in patients with atrial fibrillation: the Euro Heart Survey. Chest  2010;138:1093–100. https://doi.org/10.1378/chest.10-0134
-Google ScholarCrossrefPubMedWorldCat 
+  
 235	Takahashi   Y, Nitta   J, Kobori   A, Sakamoto   Y, Nagata   Y, Tanimoto   K, et al.   Alcohol consumption reduction and clinical outcomes of catheter ablation for atrial fibrillation. Circ Arrhythm Electrophysiol  2021;14:e009770. https://doi.org/10.1161/CIRCEP.121.009770
-Google ScholarCrossrefPubMedWorldCat 
+  
 236	Friberg   L, Hammar   N, Rosenqvist   M. Stroke in paroxysmal atrial fibrillation: report from the Stockholm cohort of atrial fibrillation. Eur Heart J  2010;31:967–75. https://doi.org/10.1093/eurheartj/ehn599
-Google ScholarCrossrefPubMedWorldCat 
+  
 237	Banerjee   A, Taillandier   S, Olesen   JB, Lane   DA, Lallemand   B, Lip   GY, et al.   Pattern of atrial fibrillation and risk of outcomes: the Loire valley atrial fibrillation project. Int J Cardiol  2013;167:2682–7. https://doi.org/10.1016/j.ijcard.2012.06.118
-Google ScholarCrossrefPubMedWorldCat 
+  
 238	Wolf   PA, Abbott   RD, Kannel   WB. Atrial fibrillation as an independent risk factor for stroke: the Framingham study. Stroke  1991;22:983–8. https://doi.org/10.1161/01.STR.22.8.983
-Google ScholarCrossrefPubMedWorldCat 
+  
 239	Hart   RG, Pearce   LA, Aguilar   MI. Meta-analysis: antithrombotic therapy to prevent stroke in patients who have nonvalvular atrial fibrillation. Ann Intern Med  2007;146:857–67. https://doi.org/10.7326/0003-4819-146-12-200706190-00007
-Google ScholarCrossrefPubMedWorldCat 
+  
 240	Ruff   CT, Giugliano   RP, Braunwald   E, Hoffman   EB, Deenadayalu   N, Ezekowitz   MD, et al.   Comparison of the efficacy and safety of new oral anticoagulants with warfarin in patients with atrial fibrillation: a meta-analysis of randomised trials. Lancet  2014;383:955–62. https://doi.org/10.1016/S0140-6736(13)62343-0
-Google ScholarCrossrefPubMedWorldCat 
+  
 241	Sjalander   S, Sjalander   A, Svensson   PJ, Friberg   L. Atrial fibrillation patients do not benefit from acetylsalicylic acid. Europace  2014;16:631–8. https://doi.org/10.1093/europace/eut333
-Google ScholarCrossrefPubMedWorldCat 
+  
 242	Connolly   SJ, Eikelboom   J, Joyner   C, Diener   HC, Hart   R, Golitsyn   S, et al.   Apixaban in patients with atrial fibrillation. N Engl J Med  2011;364:806–17. https://doi.org/10.1056/NEJMoa1007432
-Google ScholarCrossrefPubMedWorldCat 
+  
 243	van Doorn   S, Rutten   FH, O’Flynn   CM, Oudega   R, Hoes   AW, Moons   KGM, et al.   Effectiveness of CHA2DS2-VASc based decision support on stroke prevention in atrial fibrillation: a cluster randomised trial in general practice. Int J Cardiol  2018;273:123–9. https://doi.org/10.1016/j.ijcard.2018.08.096
-Google ScholarCrossrefPubMedWorldCat 
+  
 244	Borre   ED, Goode   A, Raitz   G, Shah   B, Lowenstern   A, Chatterjee   R, et al.   Predicting thromboembolic and bleeding event risk in patients with non-valvular atrial fibrillation: a systematic review. Thromb Haemost  2018;118:2171–87. https://doi.org/10.1055/s-0038-1675400
 Google ScholarPubMedWorldCat 
 245	van der Endt   VHW, Milders   J, de Vries   BBLP, Trines   SA, Groenwold   RHH, Dekkers   OM, et al.   Comprehensive comparison of stroke risk score performance: a systematic review and meta-analysis among 6 267 728 patients with atrial fibrillation. Europace  2022;24:1739–53. https://doi.org/10.1093/europace/euac096
-Google ScholarCrossrefPubMedWorldCat 
+  
 246	Quinn   GR, Severdija   ON, Chang   Y, Singer   DE. Wide variation in reported rates of stroke across cohorts of patients with atrial fibrillation. Circulation  2017;135:208–19. https://doi.org/10.1161/CIRCULATIONAHA.116.024057
-Google ScholarCrossrefPubMedWorldCat 
+  
 247	Pisters   R, Lane   DA, Marin   F, Camm   AJ, Lip   GY. Stroke and thromboembolism in atrial fibrillation. Circ J  2012;76:2289–304. https://doi.org/10.1253/circj.CJ-12-1036
-Google ScholarCrossrefPubMedWorldCat 
+  
 248	Hohnloser   SH, Hijazi   Z, Thomas   L, Alexander   JH, Amerena   J, Hanna   M, et al.   Efficacy of apixaban when compared with warfarin in relation to renal function in patients with atrial fibrillation: insights from the ARISTOTLE trial. Eur Heart J  2012;33:2821–30. https://doi.org/10.1093/eurheartj/ehs274
-Google ScholarCrossrefPubMedWorldCat 
+  
 249	Fox   KA, Piccini   JP, Wojdyla   D, Becker   RC, Halperin   JL, Nessel   CC, et al.   Prevention of stroke and systemic embolism with rivaroxaban compared with warfarin in patients with non-valvular atrial fibrillation and moderate renal impairment. Eur Heart J  2011;32:2387–94. https://doi.org/10.1093/eurheartj/ehr342
-Google ScholarCrossrefPubMedWorldCat 
+  
 250	Yaghi   S, Henninger   N, Giles   JA, Leon Guerrero   C, Mistry   E, Liberman   AL, et al.   Ischaemic stroke on anticoagulation therapy and early recurrence in acute cardioembolic stroke: the IAC study. J Neurol Neurosurg Psychiatry  2021;92:1062–7. https://doi.org/10.1136/jnnp-2021-326166
-Google ScholarCrossrefPubMedWorldCat 
+  
 251	Ocak   G, Khairoun   M, Khairoun   O, Bos   WJW, Fu   EL, Cramer   MJ, et al.   Chronic kidney disease and atrial fibrillation: a dangerous combination. PLoS One  2022;17:e0266046. https://doi.org/10.1371/journal.pone.0266046
-Google ScholarCrossrefPubMedWorldCat 
+  
 252	Seiffge   DJ, De Marchis   GM, Koga   M, Paciaroni   M, Wilson   D, Cappellari   M, et al.   Ischemic stroke despite oral anticoagulant therapy in patients with atrial fibrillation. Ann Neurol  2020;87:677–87. https://doi.org/10.1002/ana.25700
-Google ScholarCrossrefPubMedWorldCat 
+  
 253	Paciaroni   M, Agnelli   G, Falocci   N, Caso   V, Becattini   C, Marcheselli   S, et al.   Prognostic value of trans-thoracic echocardiography in patients with acute stroke and atrial fibrillation: findings from the RAF study. J Neurol  2016;263:231–7. https://doi.org/10.1007/s00415-015-7957-3
-Google ScholarCrossrefPubMedWorldCat 
+  
 254	Hijazi   Z, Oldgren   J, Siegbahn   A, Wallentin   L. Application of biomarkers for risk stratification in patients with atrial fibrillation. Clin Chem  2017;63:152–64. https://doi.org/10.1373/clinchem.2016.255182
-Google ScholarCrossrefPubMedWorldCat 
+  
 255	Singleton   MJ, Yuan   Y, Dawood   FZ, Howard   G, Judd   SE, Zakai   NA, et al.   Multiple blood biomarkers and stroke risk in atrial fibrillation: the REGARDS study. J Am Heart Assoc  2021;10:e020157. https://doi.org/10.1161/JAHA.120.020157
-Google ScholarCrossrefPubMedWorldCat 
+  
 256	Wu   VC, Wu   M, Aboyans   V, Chang   SH, Chen   SW, Chen   MC, et al.   Female sex as a risk factor for ischaemic stroke varies with age in patients with atrial fibrillation. Heart  2020;106:534–40. https://doi.org/10.1136/heartjnl-2019-315065
-Google ScholarCrossrefPubMedWorldCat 
+  
 257	Mikkelsen   AP, Lindhardsen   J, Lip   GY, Gislason   GH, Torp-Pedersen   C, Olesen   JB. Female sex as a risk factor for stroke in atrial fibrillation: a nationwide cohort study. J Thromb Haemost  2012;10:1745–51. https://doi.org/10.1111/j.1538-7836.2012.04853.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 258	Antonenko   K, Paciaroni   M, Agnelli   G, Falocci   N, Becattini   C, Marcheselli   S, et al.   Sex-related differences in risk factors, type of treatment received and outcomes in patients with atrial fibrillation and acute stroke: results from the RAF study (early recurrence and cerebral bleeding in patients with acute ischemic stroke and atrial fibrillation). Eur Stroke J  2017;2:46–53. https://doi.org/10.1177/2396987316679577
-Google ScholarCrossrefPubMedWorldCat 
+  
 259	Wang   X, Mobley   AR, Tica   O, Okoth   K, Ghosh   RE, Myles   P, et al.   Systematic approach to outcome assessment from coded electronic healthcare records in the DaRe2THINK NHS-embedded randomized trial. Eur Heart J - Dig Health  2022;3:426–36. https://doi.org/10.1093/ehjdh/ztac046
-Google ScholarCrossrefWorldCat 
+  
 260	Rivard   L, Khairy   P, Talajic   M, Tardif   JC, Nattel   S, Bherer   L, et al.   Blinded randomized trial of anticoagulation to prevent ischemic stroke and neurocognitive impairment in atrial fibrillation (BRAIN-AF): methods and design. Can J Cardiol  2019;35:1069–77. https://doi.org/10.1016/j.cjca.2019.04.022
-Google ScholarCrossrefPubMedWorldCat 
+  
 261	Chung   S, Kim   TH, Uhm   JS, Cha   MJ, Lee   JM, Park   J, et al.   Stroke and systemic embolism and other adverse outcomes of heart failure with preserved and reduced ejection fraction in patients with atrial fibrillation (from the COmparison study of Drugs for symptom control and complication prEvention of Atrial Fibrillation [CODE-AF]). Am J Cardiol  2020;125:68–75. https://doi.org/10.1016/j.amjcard.2019.09.035
-Google ScholarCrossrefPubMedWorldCat 
+  
 262	Uhm   JS, Kim   J, Yu   HT, Kim   TH, Lee   SR, Cha   MJ, et al.   Stroke and systemic embolism in patients with atrial fibrillation and heart failure according to heart failure type. ESC Heart Fail  2021;8:1582–9. https://doi.org/10.1002/ehf2.13264
-Google ScholarCrossrefPubMedWorldCat 
+  
 263	McMurray   JJ, Ezekowitz   JA, Lewis   BS, Gersh   BJ, van Diepen   S, Amerena   J, et al.   Left ventricular systolic dysfunction, heart failure, and the risk of stroke and systemic embolism in patients with atrial fibrillation: insights from the ARISTOTLE trial. Circ Heart Fail  2013;6:451–60. https://doi.org/10.1161/CIRCHEARTFAILURE.112.000143
-Google ScholarCrossrefPubMedWorldCat 
+  
 264	Kim   D, Yang   PS, Kim   TH, Jang   E, Shin   H, Kim   HY, et al.   Ideal blood pressure in patients with atrial fibrillation. J Am Coll Cardiol  2018;72:1233–45. https://doi.org/10.1016/j.jacc.2018.05.076
-Google ScholarCrossrefPubMedWorldCat 
+  
 265	Lip   GY, Clementy   N, Pericart   L, Banerjee   A, Fauchier   L. Stroke and major bleeding risk in elderly patients aged ≥75 years with atrial fibrillation: the Loire valley atrial fibrillation project. Stroke  2015;46:143–50. https://doi.org/10.1161/STROKEAHA.114.007199
-Google ScholarCrossrefPubMedWorldCat 
+  
 266	American Diabetes Association Professional Practice Committee. 2. Classification and diagnosis of diabetes: standards of medical care in diabetes—2022. Diabetes Care  2022;45:S17–38. https://doi.org/10.2337/dc22-S002
 CrossrefPubMedWorldCat 
 267	Steensig   K, Olesen   KKW, Thim   T, Nielsen   JC, Jensen   SE, Jensen   LO, et al.   Should the presence or extent of coronary artery disease be quantified in the CHA2DS2-VASc score in atrial fibrillation? A report from the western Denmark heart registry. Thromb Haemost  2018;118:2162–70. https://doi.org/10.1055/s-0038-1675401
 Google ScholarPubMedWorldCat 
 268	Zabalgoitia   M, Halperin   JL, Pearce   LA, Blackshear   JL, Asinger   RW, Hart   RG. Transesophageal echocardiographic correlates of clinical risk of thromboembolism in nonvalvular atrial fibrillation. Stroke prevention in atrial fibrillation III investigators. J Am Coll Cardiol  1998;31:1622–6. https://doi.org/10.1016/S0735-1097(98)00146-6
-Google ScholarCrossrefPubMedWorldCat 
+  
 269	Stroke Prevention in Atrial Fibrillation Investigators Committee on Echocardiography. Transesophageal echocardiography in atrial fibrillation: standards for acquisition and interpretation and assessment of interobserver variability. Stroke prevention in atrial fibrillation investigators committee on echocardiography. J Am Soc Echocardiogr  1996;9:556–66. https://doi.org/10.1016/S0894-7317(96)90127-3
 PubMedWorldCat 
 270	Lozier   MR, Sanchez   AM, Lee   JJ, Donath   EM, Font   VE, Escolar   E. Thromboembolic outcomes of different anticoagulation strategies for patients with atrial fibrillation in the setting of hypertrophic cardiomyopathy: a systematic review. J Atr Fibrillation  2019;12:2207. https://doi.org/10.4022/jafib.2207
-Google ScholarCrossrefPubMedWorldCat 
+  
 271	Guttmann   OP, Rahman   MS, O’Mahony   C, Anastasakis   A, Elliott   PM. Atrial fibrillation and thromboembolism in patients with hypertrophic cardiomyopathy: systematic review. Heart  2014;100:465–72. https://doi.org/10.1136/heartjnl-2013-304276
-Google ScholarCrossrefPubMedWorldCat 
+  
 272	Guttmann   OP, Pavlou   M, O’Mahony   C, Monserrat   L, Anastasakis   A, Rapezzi   C, et al.   Prediction of thromboembolic risk in patients with hypertrophic cardiomyopathy (HCM risk-CVA). Eur J Heart Fail  2015;17:837–45. https://doi.org/10.1002/ejhf.316
-Google ScholarCrossrefPubMedWorldCat 
+  
 273	Vilches   S, Fontana   M, Gonzalez-Lopez   E, Mitrani   L, Saturi   G, Renju   M, et al.   Systemic embolism in amyloid transthyretin cardiomyopathy. Eur J Heart Fail  2022;24:1387–96. https://doi.org/10.1002/ejhf.2566
-Google ScholarCrossrefPubMedWorldCat 
+  
 274	Lee   SE, Park   JK, Uhm   JS, Kim   JY, Pak   HN, Lee   MH, et al.   Impact of atrial fibrillation on the clinical course of apical hypertrophic cardiomyopathy. Heart  2017;103:1496–501. https://doi.org/10.1136/heartjnl-2016-310720
-Google ScholarCrossrefPubMedWorldCat 
+  
 275	Hirota   T, Kubo   T, Baba   Y, Ochi   Y, Takahashi   A, Yamasaki   N, et al.   Clinical profile of thromboembolic events in patients with hypertrophic cardiomyopathy in a regional Japanese cohort–results from Kochi RYOMA study. Circ J  2019;83:1747–54. https://doi.org/10.1253/circj.CJ-19-0186
-Google ScholarCrossrefPubMedWorldCat 
+  
 276	Hsu   JC, Huang   YT, Lin   LY. Stroke risk in hypertrophic cardiomyopathy patients with atrial fibrillation: a nationwide database study. Aging (Albany NY)  2020;12:24219–27. https://doi.org/10.18632/aging.104133
-Google ScholarCrossrefPubMedWorldCat 
+  
 277	Chao   TF, Lip   GYH, Liu   CJ, Lin   YJ, Chang   SL, Lo   LW, et al.   Relationship of aging and incident comorbidities to stroke risk in patients with atrial fibrillation. J Am Coll Cardiol  2018;71:122–32. https://doi.org/10.1016/j.jacc.2017.10.085
-Google ScholarCrossrefPubMedWorldCat 
+  
 278	Weijs   B, Dudink   E, de Vos   CB, Limantoro   I, Tieleman   RG, Pisters   R, et al.   Idiopathic atrial fibrillation patients rapidly outgrow their low thromboembolic risk: a 10-year follow-up study. Neth Heart J  2019;27:487–97. https://doi.org/10.1007/s12471-019-1272-z
-Google ScholarCrossrefPubMedWorldCat 
+  
 279	Bezabhe   WM, Bereznicki   LR, Radford   J, Wimmer   BC, Salahudeen   MS, Garrahy   E, et al.   Stroke risk reassessment and oral anticoagulant initiation in primary care patients with atrial fibrillation: A ten-year follow-up. Eur J Clin Invest  2021;51:e13489. https://doi.org/10.1111/eci.13489
-Google ScholarCrossrefPubMedWorldCat 
+  
 280	Fauchier   L, Bodin   A, Bisson   A, Herbert   J, Spiesser   P, Clementy   N, et al.   Incident comorbidities, aging and the risk of stroke in 608,108 patients with atrial fibrillation: a nationwide analysis. J Clin Med  2020;9:1234. https://doi.org/10.3390/jcm9041234
-Google ScholarCrossrefPubMedWorldCat 
+  
 281	Kirchhof   P, Toennis   T, Goette   A, Camm   AJ, Diener   HC, Becher   N, et al.   Anticoagulation with edoxaban in patients with atrial high-rate episodes. N Engl J Med  2023;389:1167–79. https://doi.org/10.1056/NEJMoa2303062
-Google ScholarCrossrefPubMedWorldCat 
+  
 282	Healey   JS, Lopes   RD, Granger   CB, Alings   M, Rivard   L, McIntyre   WF, et al.   Apixaban for stroke prevention in subclinical atrial fibrillation. N Engl J Med  2024;390:107–17. https://doi.org/10.1056/NEJMoa2310234
-Google ScholarCrossrefPubMedWorldCat 
+  
 283	van Walraven   C, Hart   RG, Singer   DE, Laupacis   A, Connolly   S, Petersen   P, et al.   Oral anticoagulants vs aspirin in nonvalvular atrial fibrillation: an individual patient meta-analysis. JAMA  2002;288:2441–8. https://doi.org/10.1001/jama.288.19.2441
-Google ScholarCrossrefPubMedWorldCat 
+  
 284	Hart   RG, Pearce   LA, Rothbart   RM, McAnulty   JH, Asinger   RW, Halperin   JL. Stroke with intermittent atrial fibrillation: incidence and predictors during aspirin therapy. Stroke prevention in atrial fibrillation investigators. J Am Coll Cardiol  2000;35:183–7. https://doi.org/10.1016/S0735-1097(99)00489-1
-Google ScholarCrossrefPubMedWorldCat 
+  
 285	Nieuwlaat   R, Dinh   T, Olsson   SB, Camm   AJ, Capucci   A, Tieleman   RG, et al.   Should we abandon the common practice of withholding oral anticoagulation in paroxysmal atrial fibrillation?  Eur Heart J  2008;29:915–22. https://doi.org/10.1093/eurheartj/ehn101
-Google ScholarCrossrefPubMedWorldCat 
+  
 286	Ruff CT. AZALEA-TIMI 71 Steering Committee. Abelacimab, a novel factor XI/XIa inhibitor, vs rivaroxaban in patients with atrial fibrillation: primary results of the AZALEA-TIMI 71 randomized trial. Circulation 2024;148:e282–317. https://doi.org/10.1161/CIR.0000000000001200
 287	Piccini   JP, Caso   V, Connolly   SJ, Fox   KAA, Oldgren   J, Jones   WS, et al.   Safety of the oral factor XIa inhibitor asundexian compared with apixaban in patients with atrial fibrillation (PACIFIC-AF): a multicentre, randomised, double-blind, double-dummy, dose-finding phase 2 study. Lancet  2022;399:1383–90. https://doi.org/10.1016/S0140-6736(22)00456-1
-Google ScholarCrossrefPubMedWorldCat 
+  
 288	Tan   CSS, Lee   SWH. Warfarin and food, herbal or dietary supplement interactions: a systematic review. Br J Clin Pharmacol  2021;87:352–74. https://doi.org/10.1111/bcp.14404
-Google ScholarCrossrefPubMedWorldCat 
+  
 289	Holbrook   AM, Pereira   JA, Labiris   R, McDonald   H, Douketis   JD, Crowther   M, et al.   Systematic overview of warfarin and its drug and food interactions. Arch Intern Med  2005;165:1095–106. https://doi.org/10.1001/archinte.165.10.1095
-Google ScholarCrossrefPubMedWorldCat 
+  
 290	Ferri   N, Colombo   E, Tenconi   M, Baldessin   L, Corsini   A. Drug-drug interactions of direct oral anticoagulants (DOACs): from pharmacological to clinical practice. Pharmaceutics  2022;14:1120. https://doi.org/10.3390/pharmaceutics14061120
-Google ScholarCrossrefPubMedWorldCat 
+  
 291	Mar   PL, Gopinathannair   R, Gengler   BE, Chung   MK, Perez   A, Dukes   J, et al.   Drug interactions affecting oral anticoagulant use. Circ Arrhythm Electrophysiol  2022;15:e007956. https://doi.org/10.1161/CIRCEP.121.007956
 Google ScholarPubMedWorldCat 
 292	Carnicelli   AP, Hong   H, Connolly   SJ, Eikelboom   J, Giugliano   RP, Morrow   DA, et al.   Direct oral anticoagulants versus warfarin in patients with atrial fibrillation: patient-level network meta-analyses of randomized clinical trials with interaction testing by age and sex. Circulation  2022;145:242–55. https://doi.org/10.1161/CIRCULATIONAHA.121.056355
-Google ScholarCrossrefPubMedWorldCat 
+  
 293	Kotecha   D, Pollack   CV, Jr, De Caterina   R, Renda   G, Kirchhof   P. Direct oral anticoagulants halve thromboembolic events after cardioversion of AF compared with warfarin. J Am Coll Cardiol  2018;72:1984–6. https://doi.org/10.1016/j.jacc.2018.07.083
-Google ScholarCrossrefPubMedWorldCat 
+  
 294	Connolly   SJ, Karthikeyan   G, Ntsekhe   M, Haileamlak   A, El Sayed   A, El Ghamrawy   A, et al.   Rivaroxaban in rheumatic heart disease-associated atrial fibrillation. N Engl J Med  2022;387:978–88. https://doi.org/10.1056/NEJMoa2209051
-Google ScholarCrossrefPubMedWorldCat 
+  
 295	Halperin JL, Hart RG, Kronmal RA, McBride R. Warfarin versus aspirin for prevention of thromboembolism in atrial fibrillation: stroke prevention in atrial fibrillation II study. Lancet  1994;343:687–91. https://doi.org/10.1016/S0140-6736(94)91577-6
 PubMedWorldCat 
 296	Singer   DE, Hughes   RA, Gress   DR, Sheehan   MA, Oertel   LB, Maraventano   SW, et al.   The effect of low-dose warfarin on the risk of stroke in patients with nonrheumatic atrial fibrillation. N Engl J Med  1990;323:1505–11. https://doi.org/10.1056/NEJM199011293232201
 Google ScholarPubMedWorldCat 
 297	Gulløv   AL, Koefoed   BG, Petersen   P, Pedersen   TS, Andersen   ED, Godtfredsen   J, et al.   Fixed minidose warfarin and aspirin alone and in combination vs adjusted-dose warfarin for stroke prevention in atrial fibrillation: second Copenhagen atrial fibrillation, aspirin, and anticoagulation study. Arch Intern Med  1998;158:1513–21. https://doi.org/10.1001/archinte.158.14.1513
-Google ScholarCrossrefPubMedWorldCat 
+  
 298	Blackshear JL, Halperin JL, Hart RG, Laupacis A. Adjusted-dose warfarin versus low-intensity, fixed-dose warfarin plus aspirin for high-risk patients with atrial fibrillation: stroke prevention in atrial fibrillation III randomised clinical trial. Lancet  1996;348:633–8. https://doi.org/10.1016/S0140-6736(96)03487-3
 CrossrefPubMedWorldCat 
 299	Amin   A, Deitelzweig   S, Jing   Y, Makenbaeva   D, Wiederkehr   D, Lin   J, et al.   Estimation of the impact of warfarin’s time-in-therapeutic range on stroke and major bleeding rates and its influence on the medical cost avoidance associated with novel oral anticoagulant use–learnings from ARISTOTLE, ROCKET-AF, and RE-LY trials. J Thromb Thrombolysis  2014;38:150–9. https://doi.org/10.1007/s11239-013-1048-z
-Google ScholarCrossrefPubMedWorldCat 
+  
 300	Själander   S, Sjögren   V, Renlund   H, Norrving   B, Själander   A. Dabigatran, rivaroxaban and apixaban vs. high TTR warfarin in atrial fibrillation. Thromb Res  2018;167:113–8. https://doi.org/10.1016/j.thromres.2018.05.022
-Google ScholarCrossrefPubMedWorldCat 
+  
 301	van Miert   JHA, Kooistra   HAM, Veeger   N, Westerterp   A, Piersma-Wichers   M, Meijer   K. Choosing between continuing vitamin K antagonists (VKA) or switching to a direct oral anticoagulant in currently well-controlled patients on VKA for atrial fibrillation: a randomised controlled trial (GAInN). Br J Haematol  2019;186:e21–3. https://doi.org/10.1111/bjh.15856
-Google ScholarCrossrefPubMedWorldCat 
+  
 302	Krittayaphong   R, Chantrarat   T, Rojjarekampai   R, Jittham   P, Sairat   P, Lip   GYH. Poor time in therapeutic range control is associated with adverse clinical outcomes in patients with non-valvular atrial fibrillation: a report from the nationwide COOL-AF registry. J Clin Med  2020;9:1698. https://doi.org/10.3390/jcm9061698
-Google ScholarCrossrefPubMedWorldCat 
+  
 303	Szummer   K, Gasparini   A, Eliasson   S, Ärnlöv   J, Qureshi   AR, Bárány   P, et al.   Time in therapeutic range and outcomes after warfarin initiation in newly diagnosed atrial fibrillation patients with renal dysfunction. J Am Heart Assoc  2017;6:e004925. https://doi.org/10.1161/JAHA.116.004925
-Google ScholarCrossrefPubMedWorldCat 
+  
 304	Cardoso   R, Ternes   CMP, Justino   GB, Fernandes   A, Rocha   AV, Knijnik   L, et al.   Non-vitamin K antagonists versus warfarin in patients with atrial fibrillation and bioprosthetic valves: a systematic review and meta-analysis. Am J Med  2022;135:228–234.e1. https://doi.org/10.1016/j.amjmed.2021.08.026
-Google ScholarCrossrefPubMedWorldCat 
+  
 305	Wan   Y, Heneghan   C, Perera   R, Roberts   N, Hollowell   J, Glasziou   P, et al.   Anticoagulation control and prediction of adverse events in patients with atrial fibrillation: a systematic review. Circ Cardiovasc Qual Outcomes  2008;1:84–91. https://doi.org/10.1161/CIRCOUTCOMES.108.796185
-Google ScholarCrossrefPubMedWorldCat 
+  
 306	Vestergaard   AS, Skjøth   F, Larsen   TB, Ehlers   LH. The importance of mean time in therapeutic range for complication rates in warfarin therapy of patients with atrial fibrillation: a systematic review and meta-regression analysis. PLoS One  2017;12:e0188482. https://doi.org/10.1371/journal.pone.0188482
-Google ScholarCrossrefPubMedWorldCat 
+  
 307	Macaluso   GP, Pagani   FD, Slaughter   MS, Milano   CA, Feller   ED, Tatooles   AJ, et al.   Time in therapeutic range significantly impacts survival and adverse events in destination therapy patients. ASAIO J  2022;68:14–20. https://doi.org/10.1097/MAT.0000000000001572
-Google ScholarCrossrefPubMedWorldCat 
+  
 308	Heneghan   C, Ward   A, Perera   R, Bankhead   C, Fuller   A, Stevens   R, et al.   Self-monitoring of oral anticoagulation: systematic review and meta-analysis of individual patient data. Lancet  2012;379:322–34. https://doi.org/10.1016/S0140-6736(11)61294-4
-Google ScholarCrossrefPubMedWorldCat 
+  
 309	Joosten   LPT, van Doorn   S, van de Ven   PM, Köhlen   BTG, Nierman   MC, Koek   HL, et al.   Safety of switching from a vitamin K antagonist to a non-vitamin K antagonist oral anticoagulant in frail older patients with atrial fibrillation: results of the FRAIL-AF randomized controlled trial. Circulation  2024;149:279–89. https://doi.org/10.1161/CIRCULATIONAHA.123.066485
 Google ScholarPubMedWorldCat 
 310	Yao   X, Shah   ND, Sangaralingham   LR, Gersh   BJ, Noseworthy   PA. Non-vitamin K antagonist oral anticoagulant dosing in patients with atrial fibrillation and renal dysfunction. J Am Coll Cardiol  2017;69:2779–90. https://doi.org/10.1016/j.jacc.2017.03.600
-Google ScholarCrossrefPubMedWorldCat 
+  
 311	Steinberg   BA, Shrader   P, Thomas   L, Ansell   J, Fonarow   GC, Gersh   BJ, et al.   Off-label dosing of non-vitamin K antagonist oral anticoagulants and adverse outcomes: the ORBIT-AF II registry. J Am Coll Cardiol  2016;68:2597–604. https://doi.org/10.1016/j.jacc.2016.09.966
-Google ScholarCrossrefPubMedWorldCat 
+  
 312	Alexander   JH, Andersson   U, Lopes   RD, Hijazi   Z, Hohnloser   SH, Ezekowitz   JA, et al.   Apixaban 5 mg twice daily and clinical outcomes in patients with atrial fibrillation and advanced age, low body weight, or high creatinine: a secondary analysis of a randomized clinical trial. JAMA Cardiol  2016;1:673–81. https://doi.org/10.1001/jamacardio.2016.1829
-Google ScholarCrossrefPubMedWorldCat 
+  
 313	Carmo   J, Moscoso Costa   F, Ferreira   J, Mendes   M. Dabigatran in real-world atrial fibrillation. Meta-analysis of observational comparison studies with vitamin K antagonists. Thromb Haemost  2016;116:754–63. https://doi.org/10.1160/TH16-03-0203
 Google ScholarPubMedWorldCat 
 314	Huisman   MV, Rothman   KJ, Paquette   M, Teutsch   C, Diener   HC, Dubner   SJ, et al.   Two-year follow-up of patients treated with dabigatran for stroke prevention in atrial fibrillation: global registry on long-term antithrombotic treatment in patients with atrial fibrillation (GLORIA-AF) registry. Am Heart J  2018;198:55–63. https://doi.org/10.1016/j.ahj.2017.08.018
-Google ScholarCrossrefPubMedWorldCat 
+  
 315	Camm   AJ, Amarenco   P, Haas   S, Hess   S, Kirchhof   P, Kuhls   S, et al.   XANTUS: a real-world, prospective, observational study of patients treated with rivaroxaban for stroke prevention in atrial fibrillation. Eur Heart J  2016;37:1145–53. https://doi.org/10.1093/eurheartj/ehv466
-Google ScholarCrossrefPubMedWorldCat 
+  
 316	Martinez   CAA, Lanas   F, Radaideh   G, Kharabsheh   SM, Lambelet   M, Viaud   MAL, et al.   XANTUS-EL: a real-world, prospective, observational study of patients treated with rivaroxaban for stroke prevention in atrial fibrillation in Eastern Europe, Middle East, Africa and Latin America. Egypt Heart J  2018;70:307–13. https://doi.org/10.1016/j.ehj.2018.09.002
-Google ScholarCrossrefPubMedWorldCat 
+  
 317	Li   XS, Deitelzweig   S, Keshishian   A, Hamilton   M, Horblyuk   R, Gupta   K, et al.   Effectiveness and safety of apixaban versus warfarin in non-valvular atrial fibrillation patients in “real-world” clinical practice. A propensity-matched analysis of 76,940 patients. Thromb Haemost  2017;117:1072–82. https://doi.org/10.1160/TH17-01-0068
 Google ScholarPubMedWorldCat 
 318	Lee   SR, Choi   EK, Han   KD, Jung   JH, Oh   S, Lip   GYH. Edoxaban in Asian patients with atrial fibrillation: effectiveness and safety. J Am Coll Cardiol  2018;72:838–53. https://doi.org/10.1016/j.jacc.2018.05.066
-Google ScholarCrossrefPubMedWorldCat 
+  
 319	Cappato   R, Ezekowitz   MD, Klein   AL, Camm   AJ, Ma   CS, Le Heuzey   JY, et al.   Rivaroxaban vs. vitamin K antagonists for cardioversion in atrial fibrillation. Eur Heart J  2014;35:3346–55. https://doi.org/10.1093/eurheartj/ehu367
-Google ScholarCrossrefPubMedWorldCat 
+  
 320	Goette   A, Merino   JL, Ezekowitz   MD, Zamoryakhin   D, Melino   M, Jin   J, et al.   Edoxaban versus enoxaparin-warfarin in patients undergoing cardioversion of atrial fibrillation (ENSURE-AF): a randomised, open-label, phase 3b trial. Lancet  2016;388:1995–2003. https://doi.org/10.1016/S0140-6736(16)31474-X
-Google ScholarCrossrefPubMedWorldCat 
+  
 321	Ezekowitz   MD, Pollack   CV, Jr, Halperin   JL, England   RD, VanPelt Nguyen   S, Spahr   J, et al.   Apixaban compared to heparin/vitamin K antagonist in patients with atrial fibrillation scheduled for cardioversion: the EMANATE trial. Eur Heart J  2018;39:2959–71. https://doi.org/10.1093/eurheartj/ehy148
-Google ScholarCrossrefPubMedWorldCat 
+  
 322	Savarese   G, Giugliano   RP, Rosano   GM, McMurray   J, Magnani   G, Filippatos   G, et al.   Efficacy and safety of novel oral anticoagulants in patients with atrial fibrillation and heart failure: a meta-analysis. JACC Heart Fail  2016;4:870–80. https://doi.org/10.1016/j.jchf.2016.07.012
-Google ScholarCrossrefPubMedWorldCat 
+  
 323	von Lueder   TG, Atar   D, Agewall   S, Jensen   JK, Hopper   I, Kotecha   D, et al.   All-cause mortality and cardiovascular outcomes with non-vitamin K oral anticoagulants versus warfarin in patients with heart failure in the food and drug administration adverse event reporting system. Am J Ther  2019;26:e671–8. https://doi.org/10.1097/MJT.0000000000000883
-Google ScholarCrossrefPubMedWorldCat 
+  
 324	Harrison   SL, Buckley   BJR, Ritchie   LA, Proietti   R, Underhill   P, Lane   DA, et al.   Oral anticoagulants and outcomes in adults >/=80 years with atrial fibrillation: a global federated health network analysis. J Am Geriatr Soc  2022;70:2386–92. https://doi.org/10.1111/jgs.17884
-Google ScholarCrossrefPubMedWorldCat 
+  
 325	Malhotra   K, Ishfaq   MF, Goyal   N, Katsanos   AH, Parissis   J, Alexandrov   AW, et al.   Oral anticoagulation in patients with chronic kidney disease: a systematic review and meta-analysis. Neurology  2019;92:e2421–31. https://doi.org/10.1212/WNL.0000000000007534
-Google ScholarCrossrefPubMedWorldCat 
+  
 326	Steffel   J, Verhamme   P, Potpara   TS, Albaladejo   P, Antz   M, Desteghe   L, et al.   The 2018 European heart rhythm association practical guide on the use of non-vitamin K antagonist oral anticoagulants in patients with atrial fibrillation. Eur Heart J  2018;39:1330–93. https://doi.org/10.1093/eurheartj/ehy136
-Google ScholarCrossrefPubMedWorldCat 
+  
 327	Rhee   TM, Lee   SR, Choi   EK, Oh   S, Lip   GYH. Efficacy and safety of oral anticoagulants for atrial fibrillation patients with chronic kidney disease: a systematic review and meta-analysis. Front Cardiovasc Med  2022;9:885548. https://doi.org/10.3389/fcvm.2022.885548
-Google ScholarCrossrefPubMedWorldCat 
+  
 328	Reinecke   H, Engelbertz   C, Bauersachs   R, Breithardt   G, Echterhoff   HH, Gerß   J, et al.   A randomized controlled trial comparing apixaban with the vitamin K antagonist phenprocoumon in patients on chronic hemodialysis: the AXADIA-AFNET 8 study. Circulation  2023;147:296–309. https://doi.org/10.1161/CIRCULATIONAHA.122.062779
-Google ScholarCrossrefPubMedWorldCat 
+  
 329	Pokorney   SD, Chertow   GM, Al-Khalidi   HR, Gallup   D, Dignacco   P, Mussina   K, et al.   Apixaban for patients with atrial fibrillation on hemodialysis: a multicenter randomized controlled trial. Circulation  2022;146:1735–45. https://doi.org/10.1161/CIRCULATIONAHA.121.054990
-Google ScholarCrossrefPubMedWorldCat 
+  
 330	De Vriese   AS, Caluwé   R, Van Der Meersch   H, De Boeck   K, De Bacquer   D. Safety and efficacy of vitamin K antagonists versus rivaroxaban in hemodialysis patients with atrial fibrillation: a multicenter randomized controlled trial. J Am Soc Nephrol  2021;32:1474–83. https://doi.org/10.1681/ASN.2020111566
-Google ScholarCrossrefPubMedWorldCat 
+  
 331	Eikelboom   JW, Connolly   SJ, Brueckmann   M, Granger   CB, Kappetein   AP, Mack   MJ, et al.   Dabigatran versus warfarin in patients with mechanical heart valves. N Engl J Med  2013;369:1206–14. https://doi.org/10.1056/NEJMoa1300615
-Google ScholarCrossrefPubMedWorldCat 
+  
 332	Wang   TY, Svensson   LG, Wen   J, Vekstein   A, Gerdisch   M, Rao   VU, et al.   Apixaban or warfarin in patients with an on-X mechanical aortic valve. NEJM Evid  2023;2:EVIDoa2300067. https://doi.org/10.1056/EVIDoa2300067
 Google ScholarWorldCat 
 333	Guimarães   HP, Lopes   RD, de Barros   ESPGM, Liporace   IL, Sampaio   RO, Tarasoutchi   F, et al.   Rivaroxaban in patients with atrial fibrillation and a bioprosthetic mitral valve. N Engl J Med  2020;383:2117–26. https://doi.org/10.1056/NEJMoa2029603
-Google ScholarCrossrefPubMedWorldCat 
+  
 334	Collet   JP, Van Belle   E, Thiele   H, Berti   S, Lhermusier   T, Manigold   T, et al.   Apixaban vs. standard of care after transcatheter aortic valve implantation: the ATLANTIS trial. Eur Heart J  2022;43:2783–97. https://doi.org/10.1093/eurheartj/ehac242
-Google ScholarCrossrefPubMedWorldCat 
+  
 335	Steffel   J, Collins   R, Antz   M, Cornu   P, Desteghe   L, Haeusler   KG, et al.   2021 European heart rhythm association practical guide on the use of non-vitamin K antagonist oral anticoagulants in patients with atrial fibrillation. Europace  2021;23:1612–76. https://doi.org/10.1093/europace/euab065
-Google ScholarCrossrefPubMedWorldCat 
+  
 336	Grymonprez   M, Carnoy   L, Capiau   A, Boussery   K, Mehuys   E, De Backer   TL, et al.   Impact of P-glycoprotein and CYP3A4-interacting drugs on clinical outcomes in patients with atrial fibrillation using non-vitamin K antagonist oral anticoagulants: a nationwide cohort study. Eur Heart J Cardiovasc Pharmacother  2023;9:722–30. https://doi.org/10.1093/ehjcvp/pvad070
-Google ScholarCrossrefPubMedWorldCat 
+  
 337	Testa   S, Legnani   C, Antonucci   E, Paoletti   O, Dellanoce   C, Cosmi   B, et al.   Drug levels and bleeding complications in atrial fibrillation patients treated with direct oral anticoagulants. J Thromb Haemost  2019;17:1064–72. https://doi.org/10.1111/jth.14457
-Google ScholarCrossrefPubMedWorldCat 
+  
 338	Suwa   M, Nohara   Y, Morii   I, Kino   M. Safety and efficacy re-evaluation of edoxaban and rivaroxaban dosing with plasma concentration monitoring in non-valvular atrial fibrillation: with observations of on-label and off-label dosing. Circ Rep  2023;5:80–9. https://doi.org/10.1253/circrep.CR-22-0076
-Google ScholarCrossrefPubMedWorldCat 
+  
 339	Song   D, Zhou   J, Fan   T, Chang   J, Qiu   Y, Zhuang   Z, et al.   Decision aids for shared decision-making and appropriate anticoagulation therapy in patients with atrial fibrillation: a systematic review and meta-analysis. Eur J Cardiovasc Nurs  2022;21:97–106. https://doi.org/10.1093/eurjcn/zvab085
-Google ScholarCrossrefPubMedWorldCat 
+  
 340	Vora   P, Morgan Stewart   H, Russell   B, Asiimwe   A, Brobert   G. Time trends and treatment pathways in prescribing individual oral anticoagulants in patients with nonvalvular atrial fibrillation: an observational study of more than three million patients from Europe and the United States. Int J Clin Pract  2022;2022:6707985. https://doi.org/10.1155/2022/6707985
 Google ScholarPubMedWorldCat 
 341	Grymonprez   M, Simoens   C, Steurbaut   S, De Backer   TL, Lahousse   L. Worldwide trends in oral anticoagulant use in patients with atrial fibrillation from 2010 to 2018: a systematic review and meta-analysis. Europace  2022;24:887–98. https://doi.org/10.1093/europace/euab303
-Google ScholarCrossrefPubMedWorldCat 
+  
 342	De Caterina   R, Husted   S, Wallentin   L, Andreotti   F, Arnesen   H, Bachmann   F, et al.   Vitamin K antagonists in heart disease: current status and perspectives (section III). Position paper of the ESC working group on thrombosis—task force on anticoagulants in heart disease. Thromb Haemost  2013;110:1087–107. https://doi.org/10.1160/TH13-06-0443
 Google ScholarPubMedWorldCat 
 343	Pandey   AK, Xu   K, Zhang   L, Gupta   S, Eikelboom   J, Cook   O, et al.   Lower versus standard INR targets in atrial fibrillation: a systematic review and meta-analysis of randomized controlled trials. Thromb Haemost  2020;120:484–94. https://doi.org/10.1055/s-0039-3401823
@@ -5421,1806 +5421,1806 @@ Google ScholarPubMedWorldCat
 345	ACTIVE Investigators; Connolly   SJ, Pogue   J, Hart   RG, Hohnloser   SH, Pfeffer   Met al.   et al.   Effect of clopidogrel added to aspirin in patients with atrial fibrillation. N Engl J Med  2009;360:2066–78. https://doi.org/10.1056/NEJMoa0901301
 Google ScholarPubMedWorldCat 
 346	Mant   J, Hobbs   FD, Fletcher   K, Roalfe   A, Fitzmaurice   D, Lip   GY, et al.   Warfarin versus aspirin for stroke prevention in an elderly community population with atrial fibrillation (the Birmingham Atrial Fibrillation Treatment of the Aged Study, BAFTA): a randomised controlled trial. Lancet  2007;370:493–503. https://doi.org/10.1016/S0140-6736(07)61233-1
-Google ScholarCrossrefPubMedWorldCat 
+  
 347	Lip   GY. The role of aspirin for stroke prevention in atrial fibrillation. Nat Rev Cardiol  2011;8:602–6. https://doi.org/10.1038/nrcardio.2011.112
-Google ScholarCrossrefPubMedWorldCat 
+  
 348	ACTIVE Writing Group of the ACTIVE Investigators; Connolly   S, Pogue   J, Hart   R, Pfeffer   M, Hohnloser   S, et al.   Clopidogrel plus aspirin versus oral anticoagulation for atrial fibrillation in the Atrial fibrillation Clopidogrel Trial with Irbesartan for prevention of Vascular Events (ACTIVE W): a randomised controlled trial. Lancet  2006;367:1903–12. https://doi.org/10.1016/S0140-6736(06)68845-4
 Google ScholarPubMedWorldCat 
 349	Fox   KAA, Velentgas   P, Camm   AJ, Bassand   JP, Fitzmaurice   DA, Gersh   BJ, et al.   Outcomes associated with oral anticoagulants plus antiplatelets in patients with newly diagnosed atrial fibrillation. JAMA Netw Open  2020;3:e200107. https://doi.org/10.1001/jamanetworkopen.2020.0107
-Google ScholarCrossrefPubMedWorldCat 
+  
 350	Verheugt   FWA, Gao   H, Al Mahmeed   W, Ambrosio   G, Angchaisuksiri   P, Atar   D, et al.   Characteristics of patients with atrial fibrillation prescribed antiplatelet monotherapy compared with those on anticoagulants: insights from the GARFIELD-AF registry. Eur Heart J  2018;39:464–73. https://doi.org/10.1093/eurheartj/ehx730
-Google ScholarCrossrefPubMedWorldCat 
+  
 351	Steffel   J, Eikelboom   JW, Anand   SS, Shestakovska   O, Yusuf   S, Fox   KAA. The COMPASS trial: net clinical benefit of low-dose rivaroxaban plus aspirin as compared with aspirin in patients with chronic vascular disease. Circulation  2020;142:40–8. https://doi.org/10.1161/CIRCULATIONAHA.120.046048
-Google ScholarCrossrefPubMedWorldCat 
+  
 352	Sharma   M, Hart   RG, Connolly   SJ, Bosch   J, Shestakovska   O, Ng   KKH, et al.   Stroke outcomes in the COMPASS trial. Circulation  2019;139:1134–45. https://doi.org/10.1161/CIRCULATIONAHA.118.035864
-Google ScholarCrossrefPubMedWorldCat 
+  
 353	Yasuda   S, Kaikita   K, Akao   M, Ako   J, Matoba   T, Nakamura   M, et al.   Antithrombotic therapy for atrial fibrillation with stable coronary disease. N Engl J Med  2019;381:1103–13. https://doi.org/10.1056/NEJMoa1904143
-Google ScholarCrossrefPubMedWorldCat 
+  
 354	Senoo   K, Lip   GY, Lane   DA, Büller   HR, Kotecha   D. Residual risk of stroke and death in anticoagulated patients according to the type of atrial fibrillation: AMADEUS trial. Stroke  2015;46:2523–8. https://doi.org/10.1161/STROKEAHA.115.009487
-Google ScholarCrossrefPubMedWorldCat 
+  
 355	Meinel   TR, Branca   M, De Marchis   GM, Nedeltchev   K, Kahles   T, Bonati   L, et al.   Prior anticoagulation in patients with ischemic stroke and atrial fibrillation. Ann Neurol  2021;89:42–53. https://doi.org/10.1002/ana.25917
-Google ScholarCrossrefPubMedWorldCat 
+  
 356	Polymeris   AA, Meinel   TR, Oehler   H, Hölscher   K, Zietz   A, Scheitz   JF, et al.   Aetiology, secondary prevention strategies and outcomes of ischaemic stroke despite oral anticoagulant therapy in patients with atrial fibrillation. J Neurol Neurosurg Psychiatry  2022;93:588–98. https://doi.org/10.1136/jnnp-2021-328391
-Google ScholarCrossrefPubMedWorldCat 
+  
 357	Paciaroni   M, Agnelli   G, Caso   V, Silvestrelli   G, Seiffge   DJ, Engelter   S, et al.   Causes and risk factors of cerebral ischemic events in patients with atrial fibrillation treated with non-vitamin K antagonist oral anticoagulants for stroke prevention. Stroke  2019;50:2168–74. https://doi.org/10.1161/STROKEAHA.119.025350
-Google ScholarCrossrefPubMedWorldCat 
+  
 358	Purrucker   JC, Hölscher   K, Kollmer   J, Ringleb   PA. Etiology of ischemic strokes of patients with atrial fibrillation and therapy with anticoagulants. J Clin Med  2020;9:2938. https://doi.org/10.3390/jcm9092938
-Google ScholarCrossrefPubMedWorldCat 
+  
 359	Paciaroni   M, Caso   V, Agnelli   G, Mosconi   MG, Giustozzi   M, Seiffge   DJ, et al.   Recurrent ischemic stroke and bleeding in patients with atrial fibrillation who suffered an acute stroke while on treatment with nonvitamin K antagonist oral anticoagulants: the RENO-EXTEND study. Stroke  2022;53:2620–7. https://doi.org/10.1161/STROKEAHA.121.038239
-Google ScholarCrossrefPubMedWorldCat 
+  
 360	Smits   E, Andreotti   F, Houben   E, Crijns   H, Haas   S, Spentzouris   G, et al.   Adherence and persistence with once-daily vs twice-daily direct oral anticoagulants among patients with atrial fibrillation: real-world analyses from The Netherlands, Italy and Germany. Drugs Real World Outcomes  2022;9:199–209. https://doi.org/10.1007/s40801-021-00289-w
-Google ScholarCrossrefPubMedWorldCat 
+  
 361	Polymeris   AA, Zietz   A, Schaub   F, Meya   L, Traenka   C, Thilemann   S, et al.   Once versus twice daily direct oral anticoagulants in patients with recent stroke and atrial fibrillation. Eur Stroke J  2022;7:221–9. https://doi.org/10.1177/23969873221099477
-Google ScholarCrossrefPubMedWorldCat 
+  
 362	Glikson   M, Wolff   R, Hindricks   G, Mandrola   J, Camm   AJ, Lip   GYH, et al.   EHRA/EAPCI expert consensus statement on catheter-based left atrial appendage occlusion—an update. Europace  2020;22:184. https://doi.org/10.1093/europace/euz258
-Google ScholarCrossrefPubMedWorldCat 
+  
 363	Blackshear   JL, Odell   JA. Appendage obliteration to reduce stroke in cardiac surgical patients with atrial fibrillation. Ann Thorac Surg  1996;61:755–9. https://doi.org/10.1016/0003-4975(95)00887-X
-Google ScholarCrossrefPubMedWorldCat 
+  
 364	Reddy   VY, Doshi   SK, Kar   S, Gibson   DN, Price   MJ, Huber   K, et al.   5-Year outcomes after left atrial appendage closure: from the PREVAIL and PROTECT AF trials. J Am Coll Cardiol  2017;70:2964–75. https://doi.org/10.1016/j.jacc.2017.10.021
-Google ScholarCrossrefPubMedWorldCat 
+  
 365	Lakkireddy   D, Thaler   D, Ellis   CR, Swarup   V, Sondergaard   L, Carroll   J, et al.   Amplatzer amulet left atrial appendage occluder versus watchman device for stroke prophylaxis (amulet IDE): a randomized, controlled trial. Circulation  2021;144:1543–52. https://doi.org/10.1161/CIRCULATIONAHA.121.057063
-Google ScholarCrossrefPubMedWorldCat 
+  
 366	Osmancik   P, Herman   D, Neuzil   P, Hala   P, Taborsky   M, Kala   P, et al.   Left atrial appendage closure versus direct oral anticoagulants in high-risk patients with atrial fibrillation. J Am Coll Cardiol  2020;75:3122–35. https://doi.org/10.1016/j.jacc.2020.04.067
-Google ScholarCrossrefPubMedWorldCat 
+  
 367	Osmancik   P, Herman   D, Neuzil   P, Hala   P, Taborsky   M, Kala   P, et al.   4-Year outcomes after left atrial appendage closure versus nonwarfarin oral anticoagulation for atrial fibrillation. J Am Coll Cardiol  2022;79:1–14. https://doi.org/10.1016/j.jacc.2021.10.023
-Google ScholarCrossrefPubMedWorldCat 
+  
 368	Korsholm   K, Damgaard   D, Valentin   JB, Packer   EJS, Odenstedt   J, Sinisalo   J, et al.   Left atrial appendage occlusion vs novel oral anticoagulation for stroke prevention in atrial fibrillation: rationale and design of the multicenter randomized occlusion-AF trial. Am Heart J  2022;243:28–38. https://doi.org/10.1016/j.ahj.2021.08.020
-Google ScholarCrossrefPubMedWorldCat 
+  
 369	Huijboom   M, Maarse   M, Aarnink   E, van Dijk   V, Swaans   M, van der Heijden   J, et al.   COMPARE LAAO: rationale and design of the randomized controlled trial “COMPARing Effectiveness and safety of Left Atrial Appendage Occlusion to standard of care for atrial fibrillation patients at high stroke risk and ineligible to use oral anticoagulation therapy”. Am Heart J  2022;250:45–56. https://doi.org/10.1016/j.ahj.2022.05.001
-Google ScholarCrossrefPubMedWorldCat 
+  
 370	Freeman   JV, Higgins   AY, Wang   Y, Du   C, Friedman   DJ, Daimee   UA, et al.   Antithrombotic therapy after left atrial appendage occlusion in patients with atrial fibrillation. J Am Coll Cardiol  2022;79:1785–98. https://doi.org/10.1016/j.jacc.2022.02.047
-Google ScholarCrossrefPubMedWorldCat 
+  
 371	Patti   G, Sticchi   A, Verolino   G, Pasceri   V, Vizzi   V, Brscic   E, et al.   Safety and efficacy of single versus dual antiplatelet therapy after left atrial appendage occlusion. Am J Cardiol  2020;134:83–90. https://doi.org/10.1016/j.amjcard.2020.08.013
-Google ScholarCrossrefPubMedWorldCat 
+  
 372	Boersma   LV, Schmidt   B, Betts   TR, Sievert   H, Tamburino   C, Teiger   E, et al.   Implant success and safety of left atrial appendage closure with the WATCHMAN device: peri-procedural outcomes from the EWOLUTION registry. Eur Heart J  2016;37:2465–74. https://doi.org/10.1093/eurheartj/ehv730
-Google ScholarCrossrefPubMedWorldCat 
+  
 373	Garg   J, Shah   S, Shah   K, Turagam   MK, Tzou   W, Natale   A, et al.   Direct oral anticoagulant versus warfarin for watchman left atrial appendage occlusion—systematic review. JACC Clin Electrophysiol  2020;6:1735–7. https://doi.org/10.1016/j.jacep.2020.08.020
-Google ScholarCrossrefPubMedWorldCat 
+  
 374	Osman   M, Busu   T, Osman   K, Khan   SU, Daniels   M, Holmes   DR, et al.   Short-term antiplatelet versus anticoagulant therapy after left atrial appendage occlusion: a systematic review and meta-analysis. JACC Clin Electrophysiol  2020;6:494–506. https://doi.org/10.1016/j.jacep.2019.11.009
-Google ScholarCrossrefPubMedWorldCat 
+  
 375	Hildick-Smith   D, Landmesser   U, Camm   AJ, Diener   HC, Paul   V, Schmidt   B, et al.   Left atrial appendage occlusion with the Amplatzer Amulet device: full results of the prospective global observational study. Eur Heart J  2020;41:2894–901. https://doi.org/10.1093/eurheartj/ehaa169
-Google ScholarCrossrefPubMedWorldCat 
+  
 376	Reddy   VY, Mobius-Winkler   S, Miller   MA, Neuzil   P, Schuler   G, Wiebe   J, et al.   Left atrial appendage closure with the Watchman device in patients with a contraindication for oral anticoagulation: the ASAP study (ASA Plavix Feasibility Study with Watchman Left Atrial Appendage Closure Technology). J Am Coll Cardiol  2013;61:2551–6. https://doi.org/10.1016/j.jacc.2013.03.035
-Google ScholarCrossrefPubMedWorldCat 
+  
 377	Sondergaard   L, Wong   YH, Reddy   VY, Boersma   LVA, Bergmann   MW, Doshi   S, et al.   Propensity-matched comparison of oral anticoagulation versus antiplatelet therapy after left atrial appendage closure with Watchman. JACC Cardiovasc Interv  2019;12:1055–63. https://doi.org/10.1016/j.jcin.2019.04.004
-Google ScholarCrossrefPubMedWorldCat 
+  
 378	Flores-Umanzor   EJ, Cepas-Guillen   PL, Arzamendi   D, Cruz-Gonzalez   I, Regueiro   A, Freixa   X. Rationale and design of a randomized clinical trial to compare two antithrombotic strategies after left atrial appendage occlusion: double antiplatelet therapy vs. apixaban (ADALA study). J Interv Card Electrophysiol  2020;59:471–7. https://doi.org/10.1007/s10840-020-00884-x
-Google ScholarCrossrefPubMedWorldCat 
+  
 379	Aminian   A, Schmidt   B, Mazzone   P, Berti   S, Fischer   S, Montorfano   M, et al.   Incidence, characterization, and clinical impact of device-related thrombus following left atrial appendage occlusion in the prospective global AMPLATZER amulet observational study. JACC Cardiovasc Interv  2019;12:1003–14. https://doi.org/10.1016/j.jcin.2019.02.003
-Google ScholarCrossrefPubMedWorldCat 
+  
 380	Kany   S, Metzner   A, Lubos   E, Kirchhof   P. The atrial fibrillation heart team-guiding therapy in left atrial appendage occlusion with increasingly complex patients and little evidence. Eur Heart J  2022;43:1691–2. https://doi.org/10.1093/eurheartj/ehab744
-Google ScholarCrossrefPubMedWorldCat 
+  
 381	Saw   J, Holmes   DR, Cavalcante   JL, Freeman   JV, Goldsweig   AM, Kavinsky   CJ, et al.   SCAI/HRS expert consensus statement on transcatheter left atrial appendage closure. Heart Rhythm  2023;20:e1–16. https://doi.org/10.1016/j.hrthm.2023.01.007
-Google ScholarCrossrefPubMedWorldCat 
+  
 382	Cruz-González   I, González-Ferreiro   R, Freixa   X, Gafoor   S, Shakir   S, Omran   H, et al.   Left atrial appendage occlusion for stroke despite oral anticoagulation (resistant stroke). Results from the Amplatzer Cardiac Plug registry. Rev Esp Cardiol (Engl Ed)  2020;73:28–34. https://doi.org/10.1016/j.rec.2019.02.013
-Google ScholarCrossrefPubMedWorldCat 
+  
 383	Willits   I, Keltie   K, Linker   N, de Belder   M, Henderson   R, Patrick   H, et al.   Left atrial appendage occlusion in the UK: prospective registry and data linkage to hospital episode statistics. Eur Heart J Qual Care Clin Outcomes  2021;7:468–75. https://doi.org/10.1093/ehjqcco/qcab042
-Google ScholarCrossrefPubMedWorldCat 
+  
 384	Price   MJ, Valderrabano   M, Zimmerman   S, Friedman   DJ, Kar   S, Curtis   JP, et al.   Periprocedural pericardial effusion complicating transcatheter left atrial appendage occlusion: a report from the NCDR LAAO registry. Circ Cardiovasc Interv  2022;15:e011718. https://doi.org/10.1161/CIRCINTERVENTIONS.121.011718
-Google ScholarCrossrefPubMedWorldCat 
+  
 385	Aminian   A, De Backer   O, Nielsen-Kudsk   JE, Mazzone   P, Berti   S, Fischer   S, et al.   Incidence and clinical impact of major bleeding following left atrial appendage occlusion: insights from the amplatzer amulet observational post-market study. EuroIntervention  2021;17:774–82. https://doi.org/10.4244/EIJ-D-20-01309
-Google ScholarCrossrefPubMedWorldCat 
+  
 386	Boersma   LV, Ince   H, Kische   S, Pokushalov   E, Schmitz   T, Schmidt   B, et al.   Evaluating real-world clinical outcomes in atrial fibrillation patients receiving the WATCHMAN left atrial appendage closure technology: final 2–year outcome data of the EWOLUTION trial focusing on history of stroke and hemorrhage. Circ Arrhythm Electrophysiol  2019;12:e006841. https://doi.org/10.1161/CIRCEP.118.006841
-Google ScholarCrossrefPubMedWorldCat 
+  
 387	Tzikas   A, Shakir   S, Gafoor   S, Omran   H, Berti   S, Santoro   G, et al.   Left atrial appendage occlusion for stroke prevention in atrial fibrillation: multicentre experience with the AMPLATZER cardiac plug. EuroIntervention  2016;11:1170–9. https://doi.org/10.4244/EIJY15M01_06
-Google ScholarCrossrefPubMedWorldCat 
+  
 388	Nazir   S, Ahuja   KR, Kolte   D, Isogai   T, Michihata   N, Saad   AM, et al.   Association of hospital procedural volume with outcomes of percutaneous left atrial appendage occlusion. JACC Cardiovasc Interv  2021;14:554–61. https://doi.org/10.1016/j.jcin.2020.11.029
-Google ScholarCrossrefPubMedWorldCat 
+  
 389	Freeman   JV, Varosy   P, Price   MJ, Slotwiner   D, Kusumoto   FM, Rammohan   C, et al.   The NCDR left atrial appendage occlusion registry. J Am Coll Cardiol  2020;75:1503–18. https://doi.org/10.1016/j.jacc.2019.12.040
-Google ScholarCrossrefPubMedWorldCat 
+  
 390	Cruz-Gonzalez   I, Korsholm   K, Trejo-Velasco   B, Thambo   JB, Mazzone   P, Rioufol   G, et al.   Procedural and short-term results with the new watchman FLX left atrial appendage occlusion device. JACC Cardiovasc Interv  2020;13:2732–41. https://doi.org/10.1016/j.jcin.2020.06.056
-Google ScholarCrossrefPubMedWorldCat 
+  
 391	Simard   T, Jung   RG, Lehenbauer   K, Piayda   K, Pracon   R, Jackson   GG, et al.   Predictors of device-related thrombus following percutaneous left atrial appendage occlusion. J Am Coll Cardiol  2021;78:297–313. https://doi.org/10.1016/j.jacc.2021.04.098
-Google ScholarCrossrefPubMedWorldCat 
+  
 392	Simard   TJ, Hibbert   B, Alkhouli   MA, Abraham   NS, Holmes   DR, Jr. Device-related thrombus following left atrial appendage occlusion. EuroIntervention  2022;18:224–32. https://doi.org/10.4244/EIJ-D-21-01010
-Google ScholarCrossrefPubMedWorldCat 
+  
 393	Lempereur   M, Aminian   A, Freixa   X, Gafoor   S, Kefer   J, Tzikas   A, et al.   Device-associated thrombus formation after left atrial appendage occlusion: a systematic review of events reported with the Watchman, the Amplatzer Cardiac Plug and the Amulet. Catheter Cardiovasc Interv  2017;90:E111–21. https://doi.org/10.1002/ccd.26903
-Google ScholarCrossrefPubMedWorldCat 
+  
 394	Saw   J, Tzikas   A, Shakir   S, Gafoor   S, Omran   H, Nielsen-Kudsk   JE, et al.   Incidence and clinical impact of device-associated thrombus and peri-device leak following left atrial appendage closure with the amplatzer cardiac plug. JACC Cardiovasc Interv  2017;10:391–9. https://doi.org/10.1016/j.jcin.2016.11.029
-Google ScholarCrossrefPubMedWorldCat 
+  
 395	Fauchier   L, Cinaud   A, Brigadeau   F, Lepillier   A, Pierre   B, Abbey   S, et al.   Device-related thrombosis after percutaneous left atrial appendage occlusion for atrial fibrillation. J Am Coll Cardiol  2018;71:1528–36. https://doi.org/10.1016/j.jacc.2018.01.076
-Google ScholarCrossrefPubMedWorldCat 
+  
 396	Dukkipati   SR, Kar   S, Holmes   DR, Doshi   SK, Swarup   V, Gibson   DN, et al.   Device-related thrombus after left atrial appendage closure: incidence, predictors, and outcomes. Circulation  2018;138:874–85. https://doi.org/10.1161/CIRCULATIONAHA.118.035090
-Google ScholarCrossrefPubMedWorldCat 
+  
 397	Kar   S, Doshi   SK, Sadhu   A, Horton   R, Osorio   J, Ellis   C, et al.   Primary outcome evaluation of a next-generation left atrial appendage closure device: results from the PINNACLE FLX trial. Circulation  2021;143:1754–62. https://doi.org/10.1161/CIRCULATIONAHA.120.050117
-Google ScholarCrossrefPubMedWorldCat 
+  
 398	Alkhouli   M, Du   C, Killu   A, Simard   T, Noseworthy   PA, Friedman   PA, et al.   Clinical impact of residual leaks following left atrial appendage occlusion: insights from the NCDR LAAO registry. JACC Clin Electrophysiol  2022;8:766–78. https://doi.org/10.1016/j.jacep.2022.03.001
-Google ScholarCrossrefPubMedWorldCat 
+  
 399	Tsai   YC, Phan   K, Munkholm-Larsen   S, Tian   DH, La Meir   M, Yan   TD. Surgical left atrial appendage occlusion during cardiac surgery for patients with atrial fibrillation: a meta-analysis. Eur J Cardiothorac Surg  2015;47:847–54. https://doi.org/10.1093/ejcts/ezu291
-Google ScholarCrossrefPubMedWorldCat 
+  
 400	Whitlock   RP, Vincent   J, Blackall   MH, Hirsh   J, Fremes   S, Novick   R, et al.   Left atrial appendage occlusion study II (LAAOS II). Can J Cardiol  2013;29:1443–7. https://doi.org/10.1016/j.cjca.2013.06.015
-Google ScholarCrossrefPubMedWorldCat 
+  
 401	Whitlock   RP, Belley-Cote   EP, Paparella   D, Healey   JS, Brady   K, Sharma   M, et al.   Left atrial appendage occlusion during cardiac surgery to prevent stroke. N Engl J Med  2021;384:2081–91. https://doi.org/10.1056/NEJMoa2101897
-Google ScholarCrossrefPubMedWorldCat 
+  
 402	Zhang   S, Cui   Y, Li   J, Tian   H, Yun   Y, Zhou   X, et al.   Concomitant transcatheter occlusion versus thoracoscopic surgical clipping for left atrial appendage in patients undergoing ablation for atrial fibrillation: a meta-analysis. Front Cardiovasc Med  2022;9:970847. https://doi.org/10.3389/fcvm.2022.970847
-Google ScholarCrossrefPubMedWorldCat 
+  
 403	van Laar   C, Verberkmoes   NJ, van Es   HW, Lewalter   T, Dunnington   G, Stark   S, et al.   Thoracoscopic left atrial appendage clipping: a multicenter cohort analysis. JACC Clin Electrophysiol  2018;4:893–901. https://doi.org/10.1016/j.jacep.2018.03.009
-Google ScholarCrossrefPubMedWorldCat 
+  
 404	Kiviniemi   T, Bustamante-Munguira   J, Olsson   C, Jeppsson   A, Halfwerk   FR, Hartikainen   J, et al.   A randomized prospective multicenter trial for stroke prevention by prophylactic surgical closure of the left atrial appendage in patients undergoing bioprosthetic aortic valve surgery–LAA-CLOSURE trial protocol. Am Heart J  2021;237:127–34. https://doi.org/10.1016/j.ahj.2021.03.014
-Google ScholarCrossrefPubMedWorldCat 
+  
 405	Cartledge   R, Suwalski   G, Witkowska   A, Gottlieb   G, Cioci   A, Chidiac   G, et al.   Standalone epicardial left atrial appendage exclusion for thromboembolism prevention in atrial fibrillation. Interact Cardiovasc Thorac Surg  2022;34:548–55. https://doi.org/10.1093/icvts/ivab334
-Google ScholarCrossrefPubMedWorldCat 
+  
 406	Branzoli   S, Guarracini   F, Marini   M, D’Onghia   G, Penzo   D, Piffer   S, et al.   Heart team for left atrial appendage occlusion: a patient-tailored approach. J Clin Med  2022;11:176. https://doi.org/10.3390/jcm11010176
-Google ScholarCrossrefWorldCat 
+  
 407	Toale   C, Fitzmaurice   GJ, Eaton   D, Lyne   J, Redmond   KC. Outcomes of left atrial appendage occlusion using the AtriClip device: a systematic review. Interact Cardiovasc Thorac Surg  2019;29:655–62. https://doi.org/10.1093/icvts/ivz156
-Google ScholarCrossrefPubMedWorldCat 
+  
 408	Caliskan   E, Sahin   A, Yilmaz   M, Seifert   B, Hinzpeter   R, Alkadhi   H, et al.   Epicardial left atrial appendage AtriClip occlusion reduces the incidence of stroke in patients with atrial fibrillation undergoing cardiac surgery. Europace  2018;20:e105–14. https://doi.org/10.1093/europace/eux211
-Google ScholarCrossrefPubMedWorldCat 
+  
 409	Nso   N, Nassar   M, Zirkiyeva   M, Lakhdar   S, Shaukat   T, Guzman   L, et al.   Outcomes of cardiac surgery with left atrial appendage occlusion versus no occlusion, direct oral anticoagulants, and vitamin K antagonists: a systematic review with meta-analysis. Int J Cardiol Heart Vasc  2022;40:100998. https://doi.org/10.1016/j.ijcha.2022.100998
 Google ScholarPubMedWorldCat 
 410	Ibrahim   AM, Tandan   N, Koester   C, Al-Akchar   M, Bhandari   B, Botchway   A, et al.   Meta-analysis evaluating outcomes of surgical left atrial appendage occlusion during cardiac surgery. Am J Cardiol  2019;124:1218–25. https://doi.org/10.1016/j.amjcard.2019.07.032
-Google ScholarCrossrefPubMedWorldCat 
+  
 411	Park-Hansen   J, Holme   SJV, Irmukhamedov   A, Carranza   CL, Greve   AM, Al-Farra   G, et al.   Adding left atrial appendage closure to open heart surgery provides protection from ischemic brain injury six years after surgery independently of atrial fibrillation history: the LAACS randomized study. J Cardiothorac Surg  2018;13:53. https://doi.org/10.1186/s13019-018-0740-7
-Google ScholarCrossrefPubMedWorldCat 
+  
 412	Soltesz   EG, Dewan   KC, Anderson   LH, Ferguson   MA, Gillinov   AM. Improved outcomes in CABG patients with atrial fibrillation associated with surgical left atrial appendage exclusion. J Card Surg  2021;36:1201–8. https://doi.org/10.1111/jocs.15335
-Google ScholarCrossrefPubMedWorldCat 
+  
 413	Fu   M, Qin   Z, Zheng   S, Li   Y, Yang   S, Zhao   Y, et al.   Thoracoscopic left atrial appendage occlusion for stroke prevention compared with long-term warfarin therapy in patients with nonvalvular atrial fibrillation. Am J Cardiol  2019;123:50–6. https://doi.org/10.1016/j.amjcard.2018.09.025
-Google ScholarCrossrefPubMedWorldCat 
+  
 414	Peterson   D, Geison   E. Pharmacist interventions to reduce modifiable bleeding risk factors using HAS-BLED in patients taking warfarin. Fed Pract  2017;34:S16–20.
 Google ScholarPubMedWorldCat 
 415	Chao   TF, Lip   GYH, Lin   YJ, Chang   SL, Lo   LW, Hu   YF, et al.   Incident risk factors and major bleeding in patients with atrial fibrillation treated with oral anticoagulants: a comparison of baseline, follow-up and Delta HAS-BLED scores with an approach focused on modifiable bleeding risk factors. Thromb Haemost  2018;47:768–77. https://doi.org/10.1055/s-0038-1636534
-Google ScholarCrossrefWorldCat 
+  
 416	Linkins   LA, Choi   PT, Douketis   JD. Clinical impact of bleeding in patients taking oral anticoagulant therapy for venous thromboembolism: a meta-analysis. Ann Intern Med  2003;139:893–900. https://doi.org/10.7326/0003-4819-139-11-200312020-00007
-Google ScholarCrossrefPubMedWorldCat 
+  
 417	Kirchhof   P, Haas   S, Amarenco   P, Hess   S, Lambelet   M, van Eickels   M, et al.   Impact of modifiable bleeding risk factors on major bleeding in patients with atrial fibrillation anticoagulated with rivaroxaban. J Am Heart Assoc  2020;9:e009530. https://doi.org/10.1161/JAHA.118.009530
-Google ScholarCrossrefPubMedWorldCat 
+  
 418	Guo   Y, Lane   DA, Chen   Y, Lip   GYH; mAF-App II Trial investigators. Regular bleeding risk assessment associated with reduction in bleeding outcomes: the mAFA-II randomized trial. Am J Med  2020;133:1195–1202.e2. https://doi.org/10.1016/j.amjmed.2020.03.019
-Google ScholarCrossrefPubMedWorldCat 
+  
 419	Lane   DA, Lip   GYH. Stroke and bleeding risk stratification in atrial fibrillation: a critical appraisal. Eur Heart J Suppl  2020;22:O14–27. https://doi.org/10.1093/eurheartj/suaa178
-Google ScholarCrossrefPubMedWorldCat 
+  
 420	Lip   GYH, Lane   DA. Bleeding risk assessment in atrial fibrillation: observations on the use and misuse of bleeding risk scores. J Thromb Haemost  2016;14:1711–4. https://doi.org/10.1111/jth.13386
-Google ScholarCrossrefPubMedWorldCat 
+  
 421	Gorog   DA, Gue   YX, Chao   TF, Fauchier   L, Ferreiro   JL, Huber   K, et al.   Assessment and mitigation of bleeding risk in atrial fibrillation and venous thromboembolism: a position paper from the ESC working group on thrombosis, in collaboration with the European Heart Rhythm Association, the Association for Acute CardioVascular Care and the Asia-Pacific Heart Rhythm Society. Europace  2022;24:1844–71. https://doi.org/10.1093/europace/euac020
-Google ScholarCrossrefPubMedWorldCat 
+  
 422	Nelson   WW, Laliberté   F, Patel   AA, Germain   G, Pilon   D, McCormick   N, et al.   Stroke risk reduction outweighed bleeding risk increase from vitamin K antagonist treatment among nonvalvular atrial fibrillation patients with high stroke risk and low bleeding risk. Curr Med Res Opin  2017;33:631–8. https://doi.org/10.1080/03007995.2016.1275936
-Google ScholarCrossrefPubMedWorldCat 
+  
 423	Hijazi   Z, Lindbäck   J, Oldgren   J, Benz   AP, Alexander   JH, Connolly   SJ, et al.   Individual net clinical outcome with oral anticoagulation in atrial fibrillation using the ABC-AF risk scores. Am Heart J  2023;261:55–63. https://doi.org/10.1016/j.ahj.2023.03.012
-Google ScholarCrossrefPubMedWorldCat 
+  
 424	Hijazi   Z, Lindbäck   J, Alexander   JH, Hanna   M, Held   C, Hylek   EM, et al.   The ABC (age, biomarkers, clinical history) stroke risk score: a biomarker-based risk score for predicting stroke in atrial fibrillation. Eur Heart J  2016;37:1582–90. https://doi.org/10.1093/eurheartj/ehw054
-Google ScholarCrossrefPubMedWorldCat 
+  
 425	Gao   X, Cai   X, Yang   Y, Zhou   Y, Zhu   W. Diagnostic accuracy of the HAS-BLED bleeding score in VKA- or DOAC-treated patients with atrial fibrillation: a systematic review and meta-analysis. Front Cardiovasc Med  2021;8:757087. https://doi.org/10.3389/fcvm.2021.757087
-Google ScholarCrossrefPubMedWorldCat 
+  
 426	Zhu   W, He   W, Guo   L, Wang   X, Hong   K. The HAS-BLED score for predicting major bleeding risk in anticoagulated patients with atrial fibrillation: a systematic review and meta-analysis. Clin Cardiol  2015;38:555–61. https://doi.org/10.1002/clc.22435
-Google ScholarCrossrefPubMedWorldCat 
+  
 427	Caldeira   D, Costa   J, Fernandes   RM, Pinto   FJ, Ferreira   JJ. Performance of the HAS-BLED high bleeding-risk category, compared to ATRIA and HEMORR2HAGES in patients with atrial fibrillation: a systematic review and meta-analysis. J Interv Card Electrophysiol  2014;40:277–84. https://doi.org/10.1007/s10840-014-9930-y
-Google ScholarCrossrefPubMedWorldCat 
+  
 428	Zeng   J, Yu   P, Cui   W, Wang   X, Ma   J, Zeng   C. Comparison of HAS-BLED with other risk models for predicting the bleeding risk in anticoagulated patients with atrial fibrillation: a PRISMA-compliant article. Medicine (Baltimore)  2020;99:e20782. https://doi.org/10.1097/MD.0000000000020782
-Google ScholarCrossrefPubMedWorldCat 
+  
 429	Wang   C, Yu   Y, Zhu   W, Yu   J, Lip   GYH, Hong   K. Comparing the ORBIT and HAS-BLED bleeding risk scores in anticoagulated atrial fibrillation patients: a systematic review and meta-analysis. Oncotarget  2017;8:109703–11. https://doi.org/10.18632/oncotarget.19858
-Google ScholarCrossrefPubMedWorldCat 
+  
 430	Loewen   P, Dahri   K. Risk of bleeding with oral anticoagulants: an updated systematic review and performance analysis of clinical prediction rules. Ann Hematol  2011;90:1191–200. https://doi.org/10.1007/s00277-011-1267-3
-Google ScholarCrossrefPubMedWorldCat 
+  
 431	Hilkens   NA, Algra   A, Greving   JP. Predicting major bleeding in ischemic stroke patients with atrial fibrillation. Stroke  2017;48:3142–4. https://doi.org/10.1161/STROKEAHA.117.019183
-Google ScholarCrossrefPubMedWorldCat 
+  
 432	Dalgaard   F, Pieper   K, Verheugt   F, Camm   AJ, Fox   KA, Kakkar   AK, et al.   GARFIELD-AF model for prediction of stroke and major bleeding in atrial fibrillation: a Danish nationwide validation study. BMJ Open  2019;9:e033283. https://doi.org/10.1136/bmjopen-2019-033283
-Google ScholarCrossrefPubMedWorldCat 
+  
 433	Mori   N, Sotomi   Y, Hirata   A, Hirayama   A, Sakata   Y, Higuchi   Y. External validation of the ORBIT bleeding score and the HAS-BLED score in nonvalvular atrial fibrillation patients using direct oral anticoagulants (Asian Data from the DIRECT Registry). Am J Cardiol  2019;124:1044–8. https://doi.org/10.1016/j.amjcard.2019.07.005
-Google ScholarCrossrefPubMedWorldCat 
+  
 434	Yao   X, Gersh   BJ, Sangaralingham   LR, Kent   DM, Shah   ND, Abraham   NS, et al.   Comparison of the CHA2DS2-VASc, CHADS2, HAS-BLED, ORBIT, and ATRIA risk scores in predicting non-vitamin K antagonist oral anticoagulants-associated bleeding in patients with atrial fibrillation. Am J Cardiol  2017;120:1549–56. https://doi.org/10.1016/j.amjcard.2017.07.051
-Google ScholarCrossrefPubMedWorldCat 
+  
 435	Giustozzi   M, Proietti   G, Becattini   C, Roila   F, Agnelli   G, Mandalà   M. ICH in primary or metastatic brain cancer patients with or without anticoagulant treatment: a systematic review and meta-analysis. Blood Adv  2022;6:4873–83. https://doi.org/10.1182/bloodadvances.2022008086
-Google ScholarCrossrefPubMedWorldCat 
+  
 436	Shoamanesh   A. Anticoagulation in patients with cerebral amyloid angiopathy. Lancet  2023;402:1418–9. https://doi.org/10.1016/S0140-6736(23)02025-1
-Google ScholarCrossrefPubMedWorldCat 
+  
 437	Kurlander   JE, Barnes   GD, Fisher   A, Gonzalez   JJ, Helminski   D, Saini   SD, et al.   Association of antisecretory drugs with upper gastrointestinal bleeding in patients using oral anticoagulants: a systematic review and meta-analysis. Am J Med  2022;135:1231–1243.e8. https://doi.org/10.1016/j.amjmed.2022.05.031
-Google ScholarCrossrefPubMedWorldCat 
+  
 438	Moayyedi   P, Eikelboom   JW, Bosch   J, Connolly   SJ, Dyal   L, Shestakovska   O, et al.   Pantoprazole to prevent gastroduodenal events in patients receiving rivaroxaban and/or aspirin in a randomized, double-blind, placebo-controlled trial. Gastroenterology  2019;157:403–412.e5. https://doi.org/10.1053/j.gastro.2019.04.041
-Google ScholarCrossrefPubMedWorldCat 
+  
 439	DiMarco   JP, Flaker   G, Waldo   AL, Corley   SD, Greene   HL, Safford   RE, et al.   Factors affecting bleeding risk during anticoagulant therapy in patients with atrial fibrillation: observations from the Atrial Fibrillation Follow-up Investigation of Rhythm Management (AFFIRM) study. Am Heart J  2005;149:650–6. https://doi.org/10.1016/j.ahj.2004.11.015
-Google ScholarCrossrefPubMedWorldCat 
+  
 440	Harskamp   RE, Lucassen   WAM, Lopes   RD, Himmelreich   JCL, Parati   G, Weert   H. Risk of stroke and bleeding in relation to hypertension in anticoagulated patients with atrial fibrillation: a meta-analysis of randomised controlled trials. Acta Cardiol  2022;77:191–5. https://doi.org/10.1080/00015385.2021.1882111
-Google ScholarCrossrefPubMedWorldCat 
+  
 441	Schulman   S, Beyth   RJ, Kearon   C, Levine   MN. Hemorrhagic complications of anticoagulant and thrombolytic treatment: American College of Chest Physicians evidence-based clinical practice guidelines (8th Edition). Chest  2008;133:257s–98s. https://doi.org/10.1378/chest.08-0674
-Google ScholarCrossrefPubMedWorldCat 
+  
 442	Gallego   P, Roldán   V, Torregrosa   JM, Gálvez   J, Valdés   M, Vicente   V, et al.   Relation of the HAS-BLED bleeding risk score to major bleeding, cardiovascular events, and mortality in anticoagulated patients with atrial fibrillation. Circ Arrhythm Electrophysiol  2012;5:312–8. https://doi.org/10.1161/CIRCEP.111.967000
-Google ScholarCrossrefPubMedWorldCat 
+  
 443	Bouillon   K, Bertrand   M, Boudali   L, Ducimetière   P, Dray-Spira   R, Zureik   M. Short-term risk of bleeding during heparin bridging at initiation of vitamin K antagonist therapy in more than 90 000 patients with nonvalvular atrial fibrillation managed in outpatient care. J Am Heart Assoc  2016;5:e004065. https://doi.org/10.1161/JAHA.116.004065
-Google ScholarCrossrefPubMedWorldCat 
+  
 444	White   HD, Gruber   M, Feyzi   J, Kaatz   S, Tse   HF, Husted   S, et al.   Comparison of outcomes among patients randomized to warfarin therapy according to anticoagulant control: results from SPORTIF III and V. Arch Intern Med  2007;167:239–45. https://doi.org/10.1001/archinte.167.3.239
-Google ScholarCrossrefPubMedWorldCat 
+  
 445	January   CT, Wann   LS, Alpert   JS, Calkins   H, Cigarroa   JE, Cleveland   JC, Jr, et al.   2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on practice guidelines and the Heart Rhythm Society. Circulation  2014;130:2071–104. https://doi.org/10.1161/CIR.0000000000000040
-Google ScholarCrossrefPubMedWorldCat 
+  
 446	Olesen   JB, Lip   GY, Lindhardsen   J, Lane   DA, Ahlehoff   O, Hansen   ML, et al.   Risks of thromboembolism and bleeding with thromboprophylaxis in patients with atrial fibrillation: a net clinical benefit analysis using a ‘real world’ nationwide cohort study. Thromb Haemost  2011;106:739–49. https://doi.org/10.1160/TH11-05-0364
 Google ScholarPubMedWorldCat 
 447	Tomaselli   GF, Mahaffey   KW, Cuker   A, Dobesh   PP, Doherty   JU, Eikelboom   JW, et al.   2020 ACC expert consensus decision pathway on management of bleeding in patients on oral anticoagulants: a report of the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol  2020;76:594–622. https://doi.org/10.1016/j.jacc.2020.04.053
-Google ScholarCrossrefPubMedWorldCat 
+  
 448	Cuker   A. Laboratory measurement of the non-vitamin K antagonist oral anticoagulants: selecting the optimal assay based on drug, assay availability, and clinical indication. J Thromb Thrombolysis  2016;41:241–7. https://doi.org/10.1007/s11239-015-1282-7
-Google ScholarCrossrefPubMedWorldCat 
+  
 449	Douxfils   J, Ageno   W, Samama   CM, Lessire   S, Ten Cate   H, Verhamme   P, et al.   Laboratory testing in patients treated with direct oral anticoagulants: a practical guide for clinicians. J Thromb Haemost  2018;16:209–19. https://doi.org/10.1111/jth.13912
-Google ScholarCrossrefPubMedWorldCat 
+  
 450	Milling   TJ, Jr, Refaai   MA, Sarode   R, Lewis   B, Mangione   A, Durn   BL, et al.   Safety of a four-factor prothrombin complex concentrate versus plasma for vitamin K antagonist reversal: an integrated analysis of two phase IIIb clinical trials. Acad Emerg Med  2016;23:466–75. https://doi.org/10.1111/acem.12911
-Google ScholarCrossrefPubMedWorldCat 
+  
 451	Pollack   CV, Jr, Reilly   PA, van Ryn   J, Eikelboom   JW, Glund   S, Bernstein   RA, et al.   Idarucizumab for dabigatran reversal—full cohort analysis. N Engl J Med  2017;377:431–41. https://doi.org/10.1056/NEJMoa1707278
-Google ScholarCrossrefPubMedWorldCat 
+  
 452	Connolly SJ, Sharma M, Cohen AT, Demchuk AM, Członkowska A, Lindgren AG, et al. ANNEXA–I investigators. Andexanet for factor Xa inhibitor–associated acute intracerebral hemorrhage. N Engl J Med 2024;390:1745–55. https://doi.org/10.1056/NEJMoa2313040
 453	Milioglou   I, Farmakis   I, Neudeker   M, Hussain   Z, Guha   A, Giannakoulas   G, et al.   Prothrombin complex concentrate in major bleeding associated with DOACs; an updated systematic review and meta-analysis. J Thromb Thrombolysis  2021;52:1137–50. https://doi.org/10.1007/s11239-021-02480-w
-Google ScholarCrossrefPubMedWorldCat 
+  
 454	Meyre   PB, Blum   S, Hennings   E, Aeschbacher   S, Reichlin   T, Rodondi   N, et al.   Bleeding and ischaemic events after first bleed in anticoagulated atrial fibrillation patients: risk and timing. Eur Heart J  2022;43:4899–908. https://doi.org/10.1093/eurheartj/ehac587
-Google ScholarCrossrefPubMedWorldCat 
+  
 455	Connolly   SJ, Crowther   M, Eikelboom   JW, Gibson   CM, Curnutte   JT, Lawrence   JH, et al.   Full study report of andexanet alfa for bleeding associated with factor Xa inhibitors. N Engl J Med  2019;380:1326–35. https://doi.org/10.1056/NEJMoa1814051
-Google ScholarCrossrefPubMedWorldCat 
+  
 456	Fanikos   J, Murwin   D, Gruenenfelder   F, Tartakovsky   I, França   LR, Reilly   PA, et al.   Global use of idarucizumab in clinical practice: outcomes of the RE-VECTO surveillance program. Thromb Haemost  2020;120:27–35. https://doi.org/10.1055/s-0039-1695771
 Google ScholarPubMedWorldCat 
 457	Kotecha   D, Calvert   M, Deeks   JJ, Griffith   M, Kirchhof   P, Lip   GY, et al.   A review of rate control in atrial fibrillation, and the rationale and protocol for the RATE-AF trial. BMJ Open  2017;7:e015099. https://doi.org/10.1136/bmjopen-2016-015099
-Google ScholarCrossrefPubMedWorldCat 
+  
 458	Hess   PL, Sheng   S, Matsouaka   R, DeVore   AD, Heidenreich   PA, Yancy   CW, et al.   Strict versus lenient versus poor rate control among patients with atrial fibrillation and heart failure (from the get with the guidelines—heart failure program). Am J Cardiol  2020;125:894–900. https://doi.org/10.1016/j.amjcard.2019.12.025
-Google ScholarCrossrefPubMedWorldCat 
+  
 459	Van Gelder   IC, Groenveld   HF, Crijns   HJ, Tuininga   YS, Tijssen   JG, Alings   AM, et al.   Lenient versus strict rate control in patients with atrial fibrillation. N Engl J Med  2010;362:1363–73. https://doi.org/10.1056/NEJMoa1001337
-Google ScholarCrossrefPubMedWorldCat 
+  
 460	Olshansky   B, Rosenfeld   LE, Warner   AL, Solomon   AJ, O’Neill   G, Sharma   A, et al.   The Atrial Fibrillation Follow-up Investigation of Rhythm Management (AFFIRM) study: approaches to control rate in atrial fibrillation. J Am Coll Cardiol  2004;43:1201–8. https://doi.org/10.1016/j.jacc.2003.11.032
-Google ScholarCrossrefPubMedWorldCat 
+  
 461	Ulimoen   SR, Enger   S, Carlson   J, Platonov   PG, Pripp   AH, Abdelnoor   M, et al.   Comparison of four single-drug regimens on ventricular rate and arrhythmia-related symptoms in patients with permanent atrial fibrillation. Am J Cardiol  2013;111:225–30. https://doi.org/10.1016/j.amjcard.2012.09.020
-Google ScholarCrossrefPubMedWorldCat 
+  
 462	Tisdale   JE, Padhi   ID, Goldberg   AD, Silverman   NA, Webb   CR, Higgins   RS, et al.   A randomized, double-blind comparison of intravenous diltiazem and digoxin for atrial fibrillation after coronary artery bypass surgery. Am Heart J  1998;135:739–47. https://doi.org/10.1016/S0002-8703(98)70031-6
-Google ScholarCrossrefPubMedWorldCat 
+  
 463	Khand   AU, Rankin   AC, Martin   W, Taylor   J, Gemmell   I, Cleland   JG. Carvedilol alone or in combination with digoxin for the management of atrial fibrillation in patients with heart failure?  J Am Coll Cardiol  2003;42:1944–51. https://doi.org/10.1016/j.jacc.2003.07.020
-Google ScholarCrossrefPubMedWorldCat 
+  
 464	Nikolaidou   T, Channer   KS. Chronic atrial fibrillation: a systematic review of medical heart rate control management. Postgrad Med J  2009;85:303–12. https://doi.org/10.1136/pgmj.2008.068908
-Google ScholarCrossrefPubMedWorldCat 
+  
 465	Figulla   HR, Gietzen   F, Zeymer   U, Raiber   M, Hegselmann   J, Soballa   R, et al.   Diltiazem improves cardiac function and exercise capacity in patients with idiopathic dilated cardiomyopathy. Results of the Diltiazem in Dilated Cardiomyopathy Trial. Circulation  1996;94:346–52. https://doi.org/10.1161/01.CIR.94.3.346
-Google ScholarCrossrefPubMedWorldCat 
+  
 466	Andrade   JG, Roy   D, Wyse   DG, Tardif   JC, Talajic   M, Leduc   H, et al.   Heart rate and adverse outcomes in patients with atrial fibrillation: a combined AFFIRM and AF-CHF substudy. Heart Rhythm  2016;13:54–61. https://doi.org/10.1016/j.hrthm.2015.08.028
-Google ScholarCrossrefPubMedWorldCat 
+  
 467	Weerasooriya   R, Davis   M, Powell   A, Szili-Torok   T, Shah   C, Whalley   D, et al.   The Australian Intervention Randomized Control of Rate in Atrial Fibrillation Trial (AIRCRAFT). J Am Coll Cardiol  2003;41:1697–702. https://doi.org/10.1016/S0735-1097(03)00338-3
-Google ScholarCrossrefPubMedWorldCat 
+  
 468	Lim   KT, Davis   MJ, Powell   A, Arnolda   L, Moulden   K, Bulsara   M, et al.   Ablate and pace strategy for atrial fibrillation: long-term outcome of AIRCRAFT trial. Europace  2007;9:498–505. https://doi.org/10.1093/europace/eum091
-Google ScholarCrossrefPubMedWorldCat 
+  
 469	Vijayaraman   P, Subzposh   FA, Naperkowski   A. Atrioventricular node ablation and His bundle pacing. Europace  2017;19:iv10–6. https://doi.org/10.1093/europace/eux263
-Google ScholarCrossrefPubMedWorldCat 
+  
 470	Brignole   M, Pokushalov   E, Pentimalli   F, Palmisano   P, Chieffo   E, Occhetta   E, et al.   A randomized controlled trial of atrioventricular junction ablation and cardiac resynchronization therapy in patients with permanent atrial fibrillation and narrow QRS. Eur Heart J  2018;39:3999–4008. https://doi.org/10.1093/eurheartj/ehy555
-Google ScholarCrossrefPubMedWorldCat 
+  
 471	Brignole   M, Pentimalli   F, Palmisano   P, Landolina   M, Quartieri   F, Occhetta   E, et al.   AV junction ablation and cardiac resynchronization for patients with permanent atrial fibrillation and narrow QRS: the APAF-CRT mortality trial. Eur Heart J  2021;42:4731–9. https://doi.org/10.1093/eurheartj/ehab569
-Google ScholarCrossrefPubMedWorldCat 
+  
 472	Delle Karth   G, Geppert   A, Neunteufl   T, Priglinger   U, Haumer   M, Gschwandtner   M, et al.   Amiodarone versus diltiazem for rate control in critically ill patients with atrial tachyarrhythmias. Crit Care Med  2001;29:1149–53. https://doi.org/10.1097/00003246-200106000-00011
-Google ScholarCrossrefPubMedWorldCat 
+  
 473	Hou   ZY, Chang   MS, Chen   CY, Tu   MS, Lin   SL, Chiang   HT, et al.   Acute treatment of recent-onset atrial fibrillation and flutter with a tailored dosing regimen of intravenous amiodarone. A randomized, digoxin-controlled study. Eur Heart J  1995;16:521–8. https://doi.org/10.1093/oxfordjournals.eurheartj.a060945
-Google ScholarCrossrefPubMedWorldCat 
+  
 474	Van Gelder   IC, Wyse   DG, Chandler   ML, Cooper   HA, Olshansky   B, Hagens   VE, et al.   Does intensity of rate-control influence outcome in atrial fibrillation? An analysis of pooled data from the RACE and AFFIRM studies. Europace  2006;8:935–42. https://doi.org/10.1093/europace/eul106
-Google ScholarCrossrefPubMedWorldCat 
+  
 475	Scheuermeyer   FX, Grafstein   E, Stenstrom   R, Christenson   J, Heslop   C, Heilbron   B, et al.   Safety and efficiency of calcium channel blockers versus beta-blockers for rate control in patients with atrial fibrillation and no acute underlying medical illness. Acad Emerg Med  2013;20:222–30. https://doi.org/10.1111/acem.12091
-Google ScholarCrossrefPubMedWorldCat 
+  
 476	Siu   CW, Lau   CP, Lee   WL, Lam   KF, Tse   HF. Intravenous diltiazem is superior to intravenous amiodarone or digoxin for achieving ventricular rate control in patients with acute uncomplicated atrial fibrillation. Crit Care Med  2009;37:2174–9, quiz 2180. https://doi.org/10.1097/CCM.0b013e3181a02f56
-Google ScholarCrossrefPubMedWorldCat 
+  
 477	Perrett   M, Gohil   N, Tica   O, Bunting   KV, Kotecha   D. Efficacy and safety of intravenous beta-blockers in acute atrial fibrillation and flutter is dependent on beta-1 selectivity: a systematic review and meta-analysis of randomised trials. Clin Res Cardiol  2023;113:831–41. https://doi.org/10.1007/s00392-023-02295-0
 Google ScholarWorldCat 
 478	Darby   AE, Dimarco   JP. Management of atrial fibrillation in patients with structural heart disease. Circulation  2012;125:945–57. https://doi.org/10.1161/CIRCULATIONAHA.111.019935
-Google ScholarCrossrefPubMedWorldCat 
+  
 479	Imamura   T, Kinugawa   K. Novel rate control strategy with landiolol in patients with cardiac dysfunction and atrial fibrillation. ESC Heart Fail  2020;7:2208–13. https://doi.org/10.1002/ehf2.12879
-Google ScholarCrossrefPubMedWorldCat 
+  
 480	Ulimoen   SR, Enger   S, Pripp   AH, Abdelnoor   M, Arnesen   H, Gjesdal   K, et al.   Calcium channel blockers improve exercise capacity and reduce N-terminal Pro-B-type natriuretic peptide levels compared with beta-blockers in patients with permanent atrial fibrillation. Eur Heart J  2014;35:517–24. https://doi.org/10.1093/eurheartj/eht429
-Google ScholarCrossrefPubMedWorldCat 
+  
 481	Connolly   SJ, Camm   AJ, Halperin   JL, Joyner   C, Alings   M, Amerena   J, et al.   Dronedarone in high-risk permanent atrial fibrillation. N Engl J Med  2011;365:2268–76. https://doi.org/10.1056/NEJMoa1109867
-Google ScholarCrossrefPubMedWorldCat 
+  
 482	Karwath A, Bunting KV, Gill SK, Tica O, Pendleton S, Aziz F, et al. Redefining betablocker response in heart failure patients with sinus rhythm and atrial fibrillation: a machine learning cluster analysis. Lancet 2021;398:1427–35. https://doi.org/10.1016/S0140-6736(21)01638-X
 483	Koldenhof   T, Wijtvliet   P, Pluymaekers   N, Rienstra   M, Folkeringa   RJ, Bronzwaer   P, et al.   Rate control drugs differ in the prevention of progression of atrial fibrillation. Europace  2022;24:384–9. https://doi.org/10.1093/europace/euab191
-Google ScholarCrossrefPubMedWorldCat 
+  
 484	Champsi   A, Mitchell   C, Tica   O, Ziff   OJ, Bunting   KV, Mobley   AR, et al.  Digoxin in patients with heart failure and/or atrial fibrillation: a systematic review and meta-analysis of 5.9 million patient years of follow-up. SSRN preprint. 2023. https://doi.org/10.2139/ssrn.4544769.
 485	Andrews   P, Anseeuw   K, Kotecha   D, Lapostolle   F, Thanacoody   R. Diagnosis and practical management of digoxin toxicity: a narrative review and consensus. Eur J Emerg Med  2023;30:395–401. https://doi.org/10.1097/MEJ.0000000000001065
 Google ScholarPubMedWorldCat 
 486	Bavendiek   U, Berliner   D, Dávila   LA, Schwab   J, Maier   L, Philipp   SA, et al.   Rationale and design of the DIGIT-HF trial (DIGitoxin to Improve ouTcomes in patients with advanced chronic Heart Failure): a randomized, double-blind, placebo-controlled study. Eur J Heart Fail  2019;21:676–84. https://doi.org/10.1002/ejhf.1452
-Google ScholarCrossrefPubMedWorldCat 
+  
 487	Clemo   HF, Wood   MA, Gilligan   DM, Ellenbogen   KA. Intravenous amiodarone for acute heart rate control in the critically ill patient with atrial tachyarrhythmias. Am J Cardiol  1998;81:594–8. https://doi.org/10.1016/S0002-9149(97)00962-4
-Google ScholarCrossrefPubMedWorldCat 
+  
 488	Queiroga   A, Marshall   HJ, Clune   M, Gammage   MD. Ablate and pace revisited: long term survival and predictors of permanent atrial fibrillation. Heart  2003;89:1035–8. https://doi.org/10.1136/heart.89.9.1035
-Google ScholarCrossrefPubMedWorldCat 
+  
 489	Geelen   P, Brugada   J, Andries   E, Brugada   P. Ventricular fibrillation and sudden death after radiofrequency catheter ablation of the atrioventricular junction. Pacing Clin Electrophysiol  1997;20:343–8. https://doi.org/10.1111/j.1540-8159.1997.tb06179.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 490	Wang   RX, Lee   HC, Hodge   DO, Cha   YM, Friedman   PA, Rea   RF, et al.   Effect of pacing method on risk of sudden death after atrioventricular node ablation and pacemaker implantation in patients with atrial fibrillation. Heart Rhythm  2013;10:696–701. https://doi.org/10.1016/j.hrthm.2013.01.021
-Google ScholarCrossrefPubMedWorldCat 
+  
 491	Chatterjee   NA, Upadhyay   GA, Ellenbogen   KA, McAlister   FA, Choudhry   NK, Singh   JP. Atrioventricular nodal ablation in atrial fibrillation: a meta-analysis and systematic review. Circ Arrhythm Electrophysiol  2012;5:68–76. https://doi.org/10.1161/CIRCEP.111.967810
-Google ScholarCrossrefPubMedWorldCat 
+  
 492	Bradley   DJ, Shen   WK. Overview of management of atrial fibrillation in symptomatic elderly patients: pharmacologic therapy versus AV node ablation. Clin Pharmacol Ther  2007;81:284–7. https://doi.org/10.1038/sj.clpt.6100062
-Google ScholarCrossrefPubMedWorldCat 
+  
 493	Ozcan   C, Jahangir   A, Friedman   PA, Patel   PJ, Munger   TM, Rea   RF, et al.   Long-term survival after ablation of the atrioventricular node and implantation of a permanent pacemaker in patients with atrial fibrillation. N Engl J Med  2001;344:1043–51. https://doi.org/10.1056/NEJM200104053441403
-Google ScholarCrossrefPubMedWorldCat 
+  
 494	Chatterjee   NA, Upadhyay   GA, Ellenbogen   KA, Hayes   DL, Singh   JP. Atrioventricular nodal ablation in atrial fibrillation: a meta-analysis of biventricular vs. right ventricular pacing mode. Eur J Heart Fail  2012;14:661–7. https://doi.org/10.1093/eurjhf/hfs036
-Google ScholarCrossrefPubMedWorldCat 
+  
 495	Huang   W, Su   L, Wu   S. Pacing treatment of atrial fibrillation patients with heart failure: His bundle pacing combined with atrioventricular node ablation. Card Electrophysiol Clin  2018;10:519–35. https://doi.org/10.1016/j.ccep.2018.05.016
-Google ScholarCrossrefPubMedWorldCat 
+  
 496	Huang   W, Su   L, Wu   S, Xu   L, Xiao   F, Zhou   X, et al.   Benefits of permanent His bundle pacing combined with atrioventricular node ablation in atrial fibrillation patients with heart failure with both preserved and reduced left ventricular ejection fraction. J Am Heart Assoc  2017;6:e005309. https://doi.org/10.1161/JAHA.116.005309
-Google ScholarCrossrefPubMedWorldCat 
+  
 497	Van Gelder   IC, Hagens   VE, Bosker   HA, Kingma   JH, Kamp   O, Kingma   T, et al.   A comparison of rate control and rhythm control in patients with recurrent persistent atrial fibrillation. N Engl J Med  2002;347:1834–40. https://doi.org/10.1056/NEJMoa021375
-Google ScholarCrossrefPubMedWorldCat 
+  
 498	Wyse   DG, Waldo   AL, DiMarco   JP, Domanski   MJ, Rosenberg   Y, Schron   EB, et al.   A comparison of rate control and rhythm control in patients with atrial fibrillation. N Engl J Med  2002;347:1825–33. https://doi.org/10.1056/NEJMoa021328
 Google ScholarPubMedWorldCat 
 499	Hohnloser   SH, Kuck   KH, Lilienthal   J. Rhythm or rate control in atrial fibrillation—pharmacological intervention in atrial fibrillation (PIAF): a randomised trial. Lancet  2000;356:1789–94. https://doi.org/10.1016/S0140-6736(00)03230-X
-Google ScholarCrossrefPubMedWorldCat 
+  
 500	Roy   D, Talajic   M, Nattel   S, Wyse   DG, Dorian   P, Lee   KL, et al.   Rhythm control versus rate control for atrial fibrillation and heart failure. N Engl J Med  2008;358:2667–77. https://doi.org/10.1056/NEJMoa0708789
-Google ScholarCrossrefPubMedWorldCat 
+  
 501	Blomström-Lundqvist   C, Gizurarson   S, Schwieler   J, Jensen   SM, Bergfeldt   L, Kennebäck   G, et al.   Effect of catheter ablation vs antiarrhythmic medication on quality of life in patients with atrial fibrillation: the CAPTAF randomized clinical trial. JAMA  2019;321:1059–68. https://doi.org/10.1001/jama.2019.0335
-Google ScholarCrossrefPubMedWorldCat 
+  
 502	Mark   DB, Anstrom   KJ, Sheng   S, Piccini   JP, Baloch   KN, Monahan   KH, et al.   Effect of catheter ablation vs medical therapy on quality of life among patients with atrial fibrillation: the CABANA randomized clinical trial. JAMA  2019;321:1275–85. https://doi.org/10.1001/jama.2019.0692
-Google ScholarCrossrefPubMedWorldCat 
+  
 503	Wilber   DJ, Pappone   C, Neuzil   P, De Paola   A, Marchlinski   F, Natale   A, et al.   Comparison of antiarrhythmic drug therapy and radiofrequency catheter ablation in patients with paroxysmal atrial fibrillation: a randomized controlled trial. JAMA  2010;303:333–40. https://doi.org/10.1001/jama.2009.2029
-Google ScholarCrossrefPubMedWorldCat 
+  
 504	Calkins   H, Reynolds   MR, Spector   P, Sondhi   M, Xu   Y, Martin   A, et al.   Treatment of atrial fibrillation with antiarrhythmic drugs or radiofrequency ablation: two systematic literature reviews and meta-analyses. Circ Arrhythm Electrophysiol  2009;2:349–61. https://doi.org/10.1161/CIRCEP.108.824789
-Google ScholarCrossrefPubMedWorldCat 
+  
 505	Jais   P, Cauchemez   B, Macle   L, Daoud   E, Khairy   P, Subbiah   R, et al.   Catheter ablation versus antiarrhythmic drugs for atrial fibrillation: the A4 study. Circulation  2008;118:2498–505. https://doi.org/10.1161/CIRCULATIONAHA.108.772582
-Google ScholarCrossrefPubMedWorldCat 
+  
 506	Packer   DL, Kowal   RC, Wheelan   KR, Irwin   JM, Champagne   J, Guerra   PG, et al.   Cryoballoon ablation of pulmonary veins for paroxysmal atrial fibrillation: first results of the North American Arctic Front (STOP AF) pivotal trial. J Am Coll Cardiol  2013;61:1713–23. https://doi.org/10.1016/j.jacc.2012.11.064
-Google ScholarCrossrefPubMedWorldCat 
+  
 507	Poole   JE, Bahnson   TD, Monahan   KH, Johnson   G, Rostami   H, Silverstein   AP, et al.   Recurrence of atrial fibrillation after catheter ablation or antiarrhythmic drug therapy in the CABANA trial. J Am Coll Cardiol  2020;75:3105–18. https://doi.org/10.1016/j.jacc.2020.04.065
-Google ScholarCrossrefPubMedWorldCat 
+  
 508	Mont   L, Bisbal   F, Hernandez-Madrid   A, Perez-Castellano   N, Vinolas   X, Arenal   A, et al.   Catheter ablation vs. antiarrhythmic drug treatment of persistent atrial fibrillation: a multicentre, randomized, controlled trial (SARA study). Eur Heart J  2014;35:501–7. https://doi.org/10.1093/eurheartj/eht457
-Google ScholarCrossrefPubMedWorldCat 
+  
 509	Scherr   D, Khairy   P, Miyazaki   S, Aurillac-Lavignolle   V, Pascale   P, Wilton   SB, et al.   Five-year outcome of catheter ablation of persistent atrial fibrillation using termination of atrial fibrillation as a procedural endpoint. Circ Arrhythm Electrophysiol  2015;8:18–24. https://doi.org/10.1161/CIRCEP.114.001943
-Google ScholarCrossrefPubMedWorldCat 
+  
 510	Lau   DH, Nattel   S, Kalman   JM, Sanders   P. Modifiable risk factors and atrial fibrillation. Circulation  2017;136:583–96. https://doi.org/10.1161/CIRCULATIONAHA.116.023163
-Google ScholarCrossrefPubMedWorldCat 
+  
 511	Sanders   P, Elliott   AD, Linz   D. Upstream targets to treat atrial fibrillation. J Am Coll Cardiol  2017;70:2906–8. https://doi.org/10.1016/j.jacc.2017.10.043
-Google ScholarCrossrefPubMedWorldCat 
+  
 512	Hohnloser   SH, Crijns   HJ, van Eickels   M, Gaudin   C, Page   RL, Torp-Pedersen   C, et al.   Effect of dronedarone on cardiovascular events in atrial fibrillation. N Engl J Med  2009;360:668–78. https://doi.org/10.1056/NEJMoa0803778
-Google ScholarCrossrefPubMedWorldCat 
+  
 513	Sohns   C, Fox   H, Marrouche   NF, Crijns   H, Costard-Jaeckle   A, Bergau   L, et al.   Catheter ablation in end-stage heart failure with atrial fibrillation. N Engl J Med  2023;389:1380–9. https://doi.org/10.1056/NEJMoa2306037
-Google ScholarCrossrefPubMedWorldCat 
+  
 514	Di Biase   L, Mohanty   P, Mohanty   S, Santangeli   P, Trivedi   C, Lakkireddy   D, et al.   Ablation versus amiodarone for treatment of persistent atrial fibrillation in patients with congestive heart failure and an implanted device: results from the AATAC multicenter randomized trial. Circulation  2016;133:1637–44. https://doi.org/10.1161/CIRCULATIONAHA.115.019406
-Google ScholarCrossrefPubMedWorldCat 
+  
 515	Nuotio   I, Hartikainen   JE, Gronberg   T, Biancari   F, Airaksinen   KE. Time to cardioversion for acute atrial fibrillation and thromboembolic complications. JAMA  2014;312:647–9. https://doi.org/10.1001/jama.2014.3824
-Google ScholarCrossrefPubMedWorldCat 
+  
 516	Garg   A, Khunger   M, Seicean   S, Chung   MK, Tchou   PJ. Incidence of thromboembolic complications within 30 days of electrical cardioversion performed within 48 hours of atrial fibrillation onset. JACC Clin Electrophysiol  2016;2:487–94. https://doi.org/10.1016/j.jacep.2016.01.018
-Google ScholarCrossrefPubMedWorldCat 
+  
 517	Tampieri   A, Cipriano   V, Mucci   F, Rusconi   AM, Lenzi   T, Cenni   P. Safety of cardioversion in atrial fibrillation lasting less than 48 h without post-procedural anticoagulation in patients at low cardioembolic risk. Intern Emerg Med  2018;13:87–93. https://doi.org/10.1007/s11739-016-1589-1
-Google ScholarCrossrefPubMedWorldCat 
+  
 518	Airaksinen   KE, Gronberg   T, Nuotio   I, Nikkinen   M, Ylitalo   A, Biancari   F, et al.   Thromboembolic complications after cardioversion of acute atrial fibrillation: the FinCV (Finnish CardioVersion) study. J Am Coll Cardiol  2013;62:1187–92. https://doi.org/10.1016/j.jacc.2013.04.089
-Google ScholarCrossrefPubMedWorldCat 
+  
 519	Hansen   ML, Jepsen   RM, Olesen   JB, Ruwald   MH, Karasoy   D, Gislason   GH, et al.   Thromboembolic risk in 16 274 atrial fibrillation patients undergoing direct current cardioversion with and without oral anticoagulant therapy. Europace  2015;17:18–23. https://doi.org/10.1093/europace/euu189
-Google ScholarCrossrefPubMedWorldCat 
+  
 520	Bonfanti   L, Annovi   A, Sanchis-Gomar   F, Saccenti   C, Meschi   T, Ticinesi   A, et al.   Effectiveness and safety of electrical cardioversion for acute-onset atrial fibrillation in the emergency department: a real-world 10-year single center experience. Clin Exp Emerg Med  2019;6:64–9. https://doi.org/10.15441/ceem.17.286
-Google ScholarCrossrefPubMedWorldCat 
+  
 521	Telles-Garcia   N, Dahal   K, Kocherla   C, Lip   GYH, Reddy   P, Dominic   P. Non-vitamin K antagonists oral anticoagulants are as safe and effective as warfarin for cardioversion of atrial fibrillation: a systematic review and meta-analysis. Int J Cardiol  2018;268:143–8. https://doi.org/10.1016/j.ijcard.2018.04.034
-Google ScholarCrossrefPubMedWorldCat 
+  
 522	Klein   AL, Grimm   RA, Murray   RD, Apperson-Hansen   C, Asinger   RW, Black   IW, et al.   Use of transesophageal echocardiography to guide cardioversion in patients with atrial fibrillation. N Engl J Med  2001;344:1411–20. https://doi.org/10.1056/NEJM200105103441901
-Google ScholarCrossrefPubMedWorldCat 
+  
 523	Brunetti   ND, Tarantino   N, De Gennaro   L, Correale   M, Santoro   F, Di Biase   M. Direct oral anti-coagulants compared to vitamin-K antagonists in cardioversion of atrial fibrillation: an updated meta-analysis. J Thromb Thrombolysis  2018;45:550–6. https://doi.org/10.1007/s11239-018-1622-5
-Google ScholarCrossrefPubMedWorldCat 
+  
 524	Steinberg   JS, Sadaniantz   A, Kron   J, Krahn   A, Denny   DM, Daubert   J, et al.   Analysis of cause-specific mortality in the Atrial Fibrillation Follow-up Investigation of Rhythm Management (AFFIRM) study. Circulation  2004;109:1973–80. https://doi.org/10.1161/01.CIR.0000118472.77237.FA
-Google ScholarCrossrefPubMedWorldCat 
+  
 525	Crijns   HJ, Weijs   B, Fairley   AM, Lewalter   T, Maggioni   AP, Martín   A, et al.   Contemporary real life cardioversion of atrial fibrillation: results from the multinational RHYTHM-AF study. Int J Cardiol  2014;172:588–94. https://doi.org/10.1016/j.ijcard.2014.01.099
-Google ScholarCrossrefPubMedWorldCat 
+  
 526	Kirchhof   P, Andresen   D, Bosch   R, Borggrefe   M, Meinertz   T, Parade   U, et al.   Short-term versus long-term antiarrhythmic drug treatment after cardioversion of atrial fibrillation (Flec-SL): a prospective, randomised, open-label, blinded endpoint assessment trial. Lancet  2012;380:238–46. https://doi.org/10.1016/S0140-6736(12)60570-4
-Google ScholarCrossrefPubMedWorldCat 
+  
 527	Zhu   W, Wu   Z, Dong   Y, Lip   GYH, Liu   C. Effectiveness of early rhythm control in improving clinical outcomes in patients with atrial fibrillation: a systematic review and meta-analysis. BMC Med  2022;20:340. https://doi.org/10.1186/s12916-022-02545-4
-Google ScholarCrossrefPubMedWorldCat 
+  
 528	Stellbrink   C, Nixdorff   U, Hofmann   T, Lehmacher   W, Daniel   WG, Hanrath   P, et al.   Safety and efficacy of enoxaparin compared with unfractionated heparin and oral anticoagulants for prevention of thromboembolic complications in cardioversion of nonvalvular atrial fibrillation: the Anticoagulation in Cardioversion using Enoxaparin (ACE) trial. Circulation  2004;109:997–1003. https://doi.org/10.1161/01.CIR.0000120509.64740.DC
-Google ScholarCrossrefPubMedWorldCat 
+  
 529	Lip   GY, Hammerstingl   C, Marin   F, Cappato   R, Meng   IL, Kirsch   B, et al.   Left atrial thrombus resolution in atrial fibrillation or flutter: results of a prospective study with rivaroxaban (X-TRA) and a retrospective observational registry providing baseline data (CLOT-AF). Am Heart J  2016;178:126–34. https://doi.org/10.1016/j.ahj.2016.05.007
-Google ScholarCrossrefPubMedWorldCat 
+  
 530	Stiell   IG, Eagles   D, Nemnom   MJ, Brown   E, Taljaard   M, Archambault   PM, et al.   Adverse events associated with electrical cardioversion in patients with acute atrial fibrillation and atrial flutter. Can J Cardiol  2021;37:1775–82. https://doi.org/10.1016/j.cjca.2021.08.018
-Google ScholarCrossrefPubMedWorldCat 
+  
 531	Stiell   IG, Archambault   PM, Morris   J, Mercier   E, Eagles   D, Perry   JJ, et al.   RAFF-3 Trial: a stepped-wedge cluster randomised trial to improve care of acute atrial fibrillation and flutter in the emergency department. Can J Cardiol  2021;37:1569–77. https://doi.org/10.1016/j.cjca.2021.06.016
-Google ScholarCrossrefPubMedWorldCat 
+  
 532	Gurevitz   OT, Ammash   NM, Malouf   JF, Chandrasekaran   K, Rosales   AG, Ballman   KV, et al.   Comparative efficacy of monophasic and biphasic waveforms for transthoracic cardioversion of atrial fibrillation and atrial flutter. Am Heart J  2005;149:316–21. https://doi.org/10.1016/j.ahj.2004.07.007
-Google ScholarCrossrefPubMedWorldCat 
+  
 533	Mortensen   K, Risius   T, Schwemer   TF, Aydin   MA, Köster   R, Klemm   HU, et al.   Biphasic versus monophasic shock for external cardioversion of atrial flutter: a prospective, randomized trial. Cardiology  2008;111:57–62. https://doi.org/10.1159/000113429
-Google ScholarCrossrefPubMedWorldCat 
+  
 534	Inácio   JF, da Rosa Mdos   S, Shah   J, Rosário   J, Vissoci   JR, Manica   AL, et al.   Monophasic and biphasic shock for transthoracic conversion of atrial fibrillation: systematic review and network meta-analysis. Resuscitation  2016;100:66–75. https://doi.org/10.1016/j.resuscitation.2015.12.009
-Google ScholarCrossrefPubMedWorldCat 
+  
 535	Eid   M, Abu Jazar   D, Medhekar   A, Khalife   W, Javaid   A, Ahsan   C, et al.   Anterior-posterior versus anterior-lateral electrodes position for electrical cardioversion of atrial fibrillation: a meta-analysis of randomized controlled trials. Int J Cardiol Heart Vasc  2022;43:101129. https://doi.org/10.1016/j.ijcha.2022.101129
 Google ScholarPubMedWorldCat 
 536	Squara   F, Elbaum   C, Garret   G, Liprandi   L, Scarlatti   D, Bun   SS, et al.   Active compression versus standard anterior-posterior defibrillation for external cardioversion of atrial fibrillation: a prospective randomized study. Heart Rhythm  2021;18:360–5. https://doi.org/10.1016/j.hrthm.2020.11.005
-Google ScholarCrossrefPubMedWorldCat 
+  
 537	Schmidt   AS, Lauridsen   KG, Torp   P, Bach   LF, Rickers   H, Løfgren   B. Maximum-fixed energy shocks for cardioverting atrial fibrillation. Eur Heart J  2020;41:626–31. https://doi.org/10.1093/eurheartj/ehz585
-Google ScholarCrossrefPubMedWorldCat 
+  
 538	Müssigbrodt   A, John   S, Kosiuk   J, Richter   S, Hindricks   G, Bollmann   A. Vernakalant-facilitated electrical cardioversion: comparison of intravenous vernakalant and amiodarone for drug-enhanced electrical cardioversion of atrial fibrillation after failed electrical cardioversion. Europace  2016;18:51–6. https://doi.org/10.1093/europace/euv194
-Google ScholarCrossrefPubMedWorldCat 
+  
 539	Climent   VE, Marin   F, Mainar   L, Gomez-Aldaravi   R, Martinez   JG, Chorro   FJ, et al.   Effects of pretreatment with intravenous flecainide on efficacy of external cardioversion of persistent atrial fibrillation. Pacing Clin Electrophysiol  2004;27:368–72. https://doi.org/10.1111/j.1540-8159.2004.00444.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 540	Tieleman   RG, Van Gelder   IC, Bosker   HA, Kingma   T, Wilde   AA, Kirchhof   CJ, et al.   Does flecainide regain its antiarrhythmic activity after electrical cardioversion of persistent atrial fibrillation?  Heart Rhythm  2005;2:223–30. https://doi.org/10.1016/j.hrthm.2004.11.014
-Google ScholarCrossrefPubMedWorldCat 
+  
 541	Oral   H, Souza   JJ, Michaud   GF, Knight   BP, Goyal   R, Strickberger   SA, et al.   Facilitating transthoracic cardioversion of atrial fibrillation with ibutilide pretreatment. N Engl J Med  1999;340:1849–54. https://doi.org/10.1056/NEJM199906173402401
-Google ScholarCrossrefPubMedWorldCat 
+  
 542	Nair   M, George   LK, Koshy   SK. Safety and efficacy of ibutilide in cardioversion of atrial flutter and fibrillation. J Am Board Fam Med  2011;24:86–92. https://doi.org/10.3122/jabfm.2011.01.080096
-Google ScholarCrossrefPubMedWorldCat 
+  
 543	Bianconi   L, Mennuni   M, Lukic   V, Castro   A, Chieffi   M, Santini   M. Effects of oral propafenone administration before electrical cardioversion of chronic atrial fibrillation: a placebo-controlled study. J Am Coll Cardiol  1996;28:700–6. https://doi.org/10.1016/S0735-1097(96)00230-6
-Google ScholarCrossrefPubMedWorldCat 
+  
 544	Channer   KS, Birchall   A, Steeds   RP, Walters   SJ, Yeo   WW, West   JN, et al.   A randomized placebo-controlled trial of pre-treatment and short- or long-term maintenance therapy with amiodarone supporting DC cardioversion for persistent atrial fibrillation. Eur Heart J  2004;25:144–50. https://doi.org/10.1016/j.ehj.2003.10.020
-Google ScholarCrossrefPubMedWorldCat 
+  
 545	Capucci   A, Villani   GQ, Aschieri   D, Rosi   A, Piepoli   MF. Oral amiodarone increases the efficacy of direct-current cardioversion in restoration of sinus rhythm in patients with chronic atrial fibrillation. Eur Heart J  2000;21:66–73. https://doi.org/10.1053/euhj.1999.1734
-Google ScholarCrossrefPubMedWorldCat 
+  
 546	Um   KJ, McIntyre   WF, Healey   JS, Mendoza   PA, Koziarz   A, Amit   G, et al.   Pre- and post-treatment with amiodarone for elective electrical cardioversion of atrial fibrillation: a systematic review and meta-analysis. Europace  2019;21:856–63. https://doi.org/10.1093/europace/euy310
-Google ScholarCrossrefPubMedWorldCat 
+  
 547	Toso   E, Iannaccone   M, Caponi   D, Rotondi   F, Santoro   A, Gallo   C, et al.   Does antiarrhythmic drugs premedication improve electrical cardioversion success in persistent atrial fibrillation?  J Electrocardiol  2017;50:294–300. https://doi.org/10.1016/j.jelectrocard.2016.12.004
-Google ScholarCrossrefPubMedWorldCat 
+  
 548	Ganapathy   AV, Monjazeb   S, Ganapathy   KS, Shanoon   F, Razavi   M. “Asymptomatic” persistent or permanent atrial fibrillation: a misnomer in selected patients. Int J Cardiol  2015;185:112–3. https://doi.org/10.1016/j.ijcard.2015.03.122
-Google ScholarCrossrefPubMedWorldCat 
+  
 549	Voskoboinik   A, Kalman   E, Plunkett   G, Knott   J, Moskovitch   J, Sanders   P, et al.   A comparison of early versus delayed elective electrical cardioversion for recurrent episodes of persistent atrial fibrillation: a multi-center study. Int J Cardiol  2019;284:33–7. https://doi.org/10.1016/j.ijcard.2018.10.068
-Google ScholarCrossrefPubMedWorldCat 
+  
 550	Airaksinen   KEJ. Early versus delayed cardioversion: why should we wait?  Expert Rev Cardiovasc Ther  2020;18:149–54. https://doi.org/10.1080/14779072.2020.1736563
-Google ScholarCrossrefPubMedWorldCat 
+  
 551	Boriani   G, Diemberger   I, Biffi   M, Martignani   C, Branzi   A. Pharmacological cardioversion of atrial fibrillation: current management and treatment options. Drugs  2004;64:2741–62. https://doi.org/10.2165/00003495-200464240-00003
-Google ScholarCrossrefPubMedWorldCat 
+  
 552	Dan   GA, Martinez-Rubio   A, Agewall   S, Boriani   G, Borggrefe   M, Gaita   F, et al.   Antiarrhythmic drugs–clinical use and clinical decision making: a consensus document from the European Heart Rhythm Association (EHRA) and European Society of Cardiology (ESC) Working Group on Cardiovascular Pharmacology, endorsed by the Heart Rhythm Society (HRS), Asia-Pacific Heart Rhythm Society (APHRS) and International Society of Cardiovascular Pharmacotherapy (ISCP). Europace  2018;20:731–732an. https://doi.org/10.1093/europace/eux373
-Google ScholarCrossrefPubMedWorldCat 
+  
 553	Gitt   AK, Smolka   W, Michailov   G, Bernhardt   A, Pittrow   D, Lewalter   T. Types and outcomes of cardioversion in patients admitted to hospital for atrial fibrillation: results of the German RHYTHM-AF study. Clin Res Cardiol  2013;102:713–23. https://doi.org/10.1007/s00392-013-0586-x
-Google ScholarCrossrefPubMedWorldCat 
+  
 554	Calkins   H, Hindricks   G, Cappato   R, Kim   YH, Saad   EB, Aguinaga   L, et al.   2017 HRS/EHRA/ECAS/APHRS/SOLAECE expert consensus statement on catheter and surgical ablation of atrial fibrillation: executive summary. Europace  2018;20:157–208. https://doi.org/10.1093/europace/eux275
-Google ScholarCrossrefPubMedWorldCat 
+  
 555	Danias   PG, Caulfield   TA, Weigner   MJ, Silverman   DI, Manning   WJ. Likelihood of spontaneous conversion of atrial fibrillation to sinus rhythm. J Am Coll Cardiol  1998;31:588–92. https://doi.org/10.1016/S0735-1097(97)00534-2
-Google ScholarCrossrefPubMedWorldCat 
+  
 556	Tsiachris   D, Doundoulakis   I, Pagkalidou   E, Kordalis   A, Deftereos   S, Gatzoulis   KA, et al.   Pharmacologic cardioversion in patients with paroxysmal atrial fibrillation: a network meta-analysis. Cardiovasc Drugs Ther  2021;35:293–308. https://doi.org/10.1007/s10557-020-07127-1
-Google ScholarCrossrefPubMedWorldCat 
+  
 557	Grönberg   T, Nuotio   I, Nikkinen   M, Ylitalo   A, Vasankari   T, Hartikainen   JE, et al.   Arrhythmic complications after electrical cardioversion of acute atrial fibrillation: the FinCV study. Europace  2013;15:1432–5. https://doi.org/10.1093/europace/eut106
-Google ScholarCrossrefPubMedWorldCat 
+  
 558	Brandes   A, Crijns   H, Rienstra   M, Kirchhof   P, Grove   EL, Pedersen   KB, et al.   Cardioversion of atrial fibrillation and atrial flutter revisited: current evidence and practical guidance for a common procedure. Europace  2020;22:1149–61. https://doi.org/10.1093/europace/euaa057
-Google ScholarCrossrefPubMedWorldCat 
+  
 559	Stiell   IG, Sivilotti   MLA, Taljaard   M, Birnie   D, Vadeboncoeur   A, Hohl   CM, et al.   Electrical versus pharmacological cardioversion for emergency department patients with acute atrial fibrillation (RAFF2): a partial factorial randomised trial. Lancet  2020;395:339–49. https://doi.org/10.1016/S0140-6736(19)32994-0
-Google ScholarCrossrefPubMedWorldCat 
+  
 560	Alboni   P, Botto   GL, Baldi   N, Luzi   M, Russo   V, Gianfranchi   L, et al.   Outpatient treatment of recent-onset atrial fibrillation with the “pill-in-the-pocket” approach. N Engl J Med  2004;351:2384–91. https://doi.org/10.1056/NEJMoa041233
-Google ScholarCrossrefPubMedWorldCat 
+  
 561	Brembilla-Perrot   B, Houriez   P, Beurrier   D, Claudon   O, Terrier de la Chaise   A, Louis   P. Predictors of atrial flutter with 1:1 conduction in patients treated with class I antiarrhythmic drugs for atrial tachyarrhythmias. Int J Cardiol  2001;80:7–15. https://doi.org/10.1016/S0167-5273(01)00459-4
-Google ScholarCrossrefPubMedWorldCat 
+  
 562	Conde   D, Costabel   JP, Caro   M, Ferro   A, Lambardi   F, Corrales Barboza   A, et al.   Flecainide versus vernakalant for conversion of recent-onset atrial fibrillation. Int J Cardiol  2013;168:2423–5. https://doi.org/10.1016/j.ijcard.2013.02.006
-Google ScholarCrossrefPubMedWorldCat 
+  
 563	Markey   GC, Salter   N, Ryan   J. Intravenous flecainide for emergency department management of acute atrial fibrillation. J Emerg Med  2018;54:320–7. https://doi.org/10.1016/j.jemermed.2017.11.016
-Google ScholarCrossrefPubMedWorldCat 
+  
 564	Martinez-Marcos   FJ, Garcia-Garmendia   JL, Ortega-Carpio   A, Fernandez-Gomez   JM, Santos   JM, Camacho   C. Comparison of intravenous flecainide, propafenone, and amiodarone for conversion of acute atrial fibrillation to sinus rhythm. Am J Cardiol  2000;86:950–3. https://doi.org/10.1016/S0002-9149(00)01128-0
-Google ScholarCrossrefPubMedWorldCat 
+  
 565	Reisinger   J, Gatterer   E, Lang   W, Vanicek   T, Eisserer   G, Bachleitner   T, et al.   Flecainide versus ibutilide for immediate cardioversion of atrial fibrillation of recent onset. Eur Heart J  2004;25:1318–24. https://doi.org/10.1016/j.ehj.2004.04.030
-Google ScholarCrossrefPubMedWorldCat 
+  
 566	Zhang   N, Guo   JH, Zhang   H, Li   XB, Zhang   P, Xn   Y. Comparison of intravenous ibutilide vs. propafenone for rapid termination of recent onset atrial fibrillation. Int J Clin Pract  2005;59:1395–400. https://doi.org/10.1111/j.1368-5031.2005.00705.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 567	Camm   AJ, Capucci   A, Hohnloser   SH, Torp-Pedersen   C, Van Gelder   IC, Mangal   B, et al.   A randomized active-controlled study comparing the efficacy and safety of vernakalant to amiodarone in recent-onset atrial fibrillation. J Am Coll Cardiol  2011;57:313–21. https://doi.org/10.1016/j.jacc.2010.07.046
-Google ScholarCrossrefPubMedWorldCat 
+  
 568	Roy   D, Pratt   CM, Torp-Pedersen   C, Wyse   DG, Toft   E, Juul-Moller   S, et al.   Vernakalant hydrochloride for rapid conversion of atrial fibrillation: a phase 3, randomized, placebo-controlled trial. Circulation  2008;117:1518–25. https://doi.org/10.1161/CIRCULATIONAHA.107.723866
-Google ScholarCrossrefPubMedWorldCat 
+  
 569	Deedwania   PC, Singh   BN, Ellenbogen   K, Fisher   S, Fletcher   R, Singh   SN. Spontaneous conversion and maintenance of sinus rhythm by amiodarone in patients with heart failure and atrial fibrillation: observations from the veterans affairs congestive heart failure survival trial of antiarrhythmic therapy (CHF-STAT). The Department of Veterans Affairs CHF-STAT Investigators. Circulation  1998;98:2574–9. https://doi.org/10.1161/01.cir.98.23.2574
-Google ScholarCrossrefPubMedWorldCat 
+  
 570	Hofmann   R, Steinwender   C, Kammler   J, Kypta   A, Wimmer   G, Leisch   F. Intravenous amiodarone bolus for treatment of atrial fibrillation in patients with advanced congestive heart failure or cardiogenic shock. Wien Klin Wochenschr  2004;116:744–9. https://doi.org/10.1007/s00508-004-0264-0
-Google ScholarCrossrefPubMedWorldCat 
+  
 571	Alboni   P, Botto   GL, Boriani   G, Russo   G, Pacchioni   F, Iori   M, et al.   Intravenous administration of flecainide or propafenone in patients with recent-onset atrial fibrillation does not predict adverse effects during ‘pill-in-the-pocket’ treatment. Heart  2010;96:546–9. https://doi.org/10.1136/hrt.2009.187963
-Google ScholarCrossrefPubMedWorldCat 
+  
 572	Khan   IA. Single oral loading dose of propafenone for pharmacological cardioversion of recent-onset atrial fibrillation. J Am Coll Cardiol  2001;37:542–7. https://doi.org/10.1016/S0735-1097(00)01116-5
-Google ScholarCrossrefPubMedWorldCat 
+  
 573	Khan   IA. Oral loading single dose flecainide for pharmacological cardioversion of recent-onset atrial fibrillation. Int J Cardiol  2003;87:121–8. https://doi.org/10.1016/S0167-5273(02)00467-9
-Google ScholarCrossrefPubMedWorldCat 
+  
 574	Al-Khatib   SM, Allen LaPointe   NM, Chatterjee   R, Crowley   MJ, Dupre   ME, Kong   DF, et al.   Rate- and rhythm-control therapies in patients with atrial fibrillation: a systematic review. Ann Intern Med  2014;160:760–73. https://doi.org/10.7326/M13-1467
-Google ScholarCrossrefPubMedWorldCat 
+  
 575	Andrade   JG, Aguilar   M, Atzema   C, Bell   A, Cairns   JA, Cheung   CC, et al.   The 2020 Canadian Cardiovascular Society/Canadian Heart Rhythm Society Comprehensive Guidelines for the Management of Atrial Fibrillation. Can J Cardiol  2020;36:1847–948. https://doi.org/10.1016/j.cjca.2020.09.001
-Google ScholarCrossrefPubMedWorldCat 
+  
 576	Lafuente-Lafuente   C, Valembois   L, Bergmann   JF, Belmin   J. Antiarrhythmics for maintaining sinus rhythm after cardioversion of atrial fibrillation. Cochrane Database Syst Rev  2015;3:CD005049. https://doi.org/10.1002/14651858.CD005049.pub4
 Google ScholarWorldCat 
 577	Valembois   L, Audureau   E, Takeda   A, Jarzebowski   W, Belmin   J, Lafuente-Lafuente   C. Antiarrhythmics for maintaining sinus rhythm after cardioversion of atrial fibrillation. Cochrane Database Syst Rev  2019;2019:Cd005049. https://doi.org/10.1002/14651858.CD005049.pub5
 Google ScholarWorldCat 
 578	Crijns   HJ, Van Gelder   IC, Van Gilst   WH, Hillege   H, Gosselink   AM, Lie   KI. Serial antiarrhythmic drug treatment to maintain sinus rhythm after electrical cardioversion for chronic atrial fibrillation or atrial flutter. Am J Cardiol  1991;68:335–41. https://doi.org/10.1016/0002-9149(91)90828-9
-Google ScholarCrossrefPubMedWorldCat 
+  
 579	Chatterjee   S, Sardar   P, Lichstein   E, Mukherjee   D, Aikat   S. Pharmacologic rate versus rhythm-control strategies in atrial fibrillation: an updated comprehensive review and meta-analysis. Pacing Clin Electrophysiol  2013;36:122–33. https://doi.org/10.1111/j.1540-8159.2012.03513.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 580	Kotecha   D, Kirchhof   P. Rate and rhythm control have comparable effects on mortality and stroke in atrial fibrillation but better data are needed. Evid Based Med  2014;19:222–3. https://doi.org/10.1136/ebmed-2014-110062
-Google ScholarCrossrefPubMedWorldCat 
+  
 581	Piccini   JP, Hasselblad   V, Peterson   ED, Washam   JB, Califf   RM, Kong   DF. Comparative efficacy of dronedarone and amiodarone for the maintenance of sinus rhythm in patients with atrial fibrillation. J Am Coll Cardiol  2009;54:1089–95. https://doi.org/10.1016/j.jacc.2009.04.085
-Google ScholarCrossrefPubMedWorldCat 
+  
 582	Eckardt   L, Sehner   S, Suling   A, Borof   K, Breithardt   G, Crijns   H, et al.   Attaining sinus rhythm mediates improved outcome with early rhythm control therapy of atrial fibrillation: the EAST-AFNET 4 trial. Eur Heart J  2022;43:4127–44. https://doi.org/10.1093/eurheartj/ehac471
-Google ScholarCrossrefPubMedWorldCat 
+  
 583	Freemantle   N, Lafuente-Lafuente   C, Mitchell   S, Eckert   L, Reynolds   M. Mixed treatment comparison of dronedarone, amiodarone, sotalol, flecainide, and propafenone, for the management of atrial fibrillation. Europace  2011;13:329–45. https://doi.org/10.1093/europace/euq450
-Google ScholarCrossrefPubMedWorldCat 
+  
 584	Frommeyer   G, Eckardt   L. Drug-induced proarrhythmia: risk factors and electrophysiological mechanisms. Nat Rev Cardiol  2016;13:36–47. https://doi.org/10.1038/nrcardio.2015.110
-Google ScholarCrossrefPubMedWorldCat 
+  
 585	Kochiadakis   GE, Marketou   ME, Igoumenidis   NE, Chrysostomakis   SI, Mavrakis   HE, Kaleboubas   MD, et al.   Amiodarone, sotalol, or propafenone in atrial fibrillation: which is preferred to maintain normal sinus rhythm?  Pacing Clin Electrophysiol  2000;23:1883–7. https://doi.org/10.1111/j.1540-8159.2000.tb07044.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 586	Roy   D, Talajic   M, Dorian   P, Connolly   S, Eisenberg   MJ, Green   M, et al.   Amiodarone to prevent recurrence of atrial fibrillation. Canadian Trial of Atrial Fibrillation Investigators. N Engl J Med  2000;342:913–20. https://doi.org/10.1056/NEJM200003303421302
-Google ScholarCrossrefPubMedWorldCat 
+  
 587	Singh   BN, Singh   SN, Reda   DJ, Tang   XC, Lopez   B, Harris   CL, et al.   Amiodarone versus sotalol for atrial fibrillation. N Engl J Med  2005;352:1861–72. https://doi.org/10.1056/NEJMoa041705
-Google ScholarCrossrefPubMedWorldCat 
+  
 588	Ehrlich   JR, Look   C, Kostev   K, Israel   CW, Goette   A. Impact of dronedarone on the risk of myocardial infarction and stroke in atrial fibrillation patients followed in general practices in Germany. Int J Cardiol  2019;278:126–32. https://doi.org/10.1016/j.ijcard.2018.11.133
-Google ScholarCrossrefPubMedWorldCat 
+  
 589	Singh   BN, Connolly   SJ, Crijns   HJ, Roy   D, Kowey   PR, Capucci   A, et al.   Dronedarone for maintenance of sinus rhythm in atrial fibrillation or flutter. N Engl J Med  2007;357:987–99. https://doi.org/10.1056/NEJMoa054686
-Google ScholarCrossrefPubMedWorldCat 
+  
 590	Stroobandt   R, Stiels   B, Hoebrechts   R. Propafenone for conversion and prophylaxis of atrial fibrillation. Propafenone Atrial Fibrillation Trial Investigators. Am J Cardiol  1997;79:418–23. https://doi.org/10.1016/S0002-9149(96)00779-5
-Google ScholarCrossrefPubMedWorldCat 
+  
 591	Wazni   OM, Dandamudi   G, Sood   N, Hoyt   R, Tyler   J, Durrani   S, et al.   Cryoballoon ablation as initial therapy for atrial fibrillation. N Engl J Med  2021;384:316–24. https://doi.org/10.1056/NEJMoa2029554
-Google ScholarCrossrefPubMedWorldCat 
+  
 592	Cosedis Nielsen   J, Johannessen   A, Raatikainen   P, Hindricks   G, Walfridsson   H, Kongstad   O, et al.   Radiofrequency ablation as initial therapy in paroxysmal atrial fibrillation. N Engl J Med  2012;367:1587–95. https://doi.org/10.1056/NEJMoa1113566
-Google ScholarCrossrefPubMedWorldCat 
+  
 593	Morillo   CA, Verma   A, Connolly   SJ, Kuck   KH, Nair   GM, Champagne   J, et al.   Radiofrequency ablation vs antiarrhythmic drugs as first-line treatment of paroxysmal atrial fibrillation (RAAFT-2): a randomized trial. JAMA  2014;311:692–700. https://doi.org/10.1001/jama.2014.467
-Google ScholarCrossrefPubMedWorldCat 
+  
 594	Kuniss   M, Pavlovic   N, Velagic   V, Hermida   JS, Healey   S, Arena   G, et al.   Cryoballoon ablation vs. antiarrhythmic drugs: first-line therapy for patients with paroxysmal atrial fibrillation. Europace  2021;23:1033–41. https://doi.org/10.1093/europace/euab029
-Google ScholarCrossrefPubMedWorldCat 
+  
 595	Hocini   M, Sanders   P, Deisenhofer   I, Jais   P, Hsu   LF, Scavee   C, et al.   Reverse remodeling of sinus node function after catheter ablation of atrial fibrillation in patients with prolonged sinus pauses. Circulation  2003;108:1172–5. https://doi.org/10.1161/01.CIR.0000090685.13169.07
-Google ScholarCrossrefPubMedWorldCat 
+  
 596	Inada   K, Yamane   T, Tokutake   K, Yokoyama   K, Mishima   T, Hioki   M, et al.   The role of successful catheter ablation in patients with paroxysmal atrial fibrillation and prolonged sinus pauses: outcome during a 5-year follow-up. Europace  2014;16:208–13. https://doi.org/10.1093/europace/eut159
-Google ScholarCrossrefPubMedWorldCat 
+  
 597	Chen   YW, Bai   R, Lin   T, Salim   M, Sang   CH, Long   DY, et al.   Pacing or ablation: which is better for paroxysmal atrial fibrillation-related tachycardia-bradycardia syndrome?  Pacing Clin Electrophysiol  2014;37:403–11. https://doi.org/10.1111/pace.12340
-Google ScholarCrossrefPubMedWorldCat 
+  
 598	Zhang   R, Wang   Y, Yang   M, Yang   Y, Wang   Z, Yin   X, et al.   Risk stratification for atrial fibrillation and outcomes in tachycardia-bradycardia syndrome: ablation vs. pacing. Front Cardiovasc Med  2021;8:674471. https://doi.org/10.3389/fcvm.2021.674471
-Google ScholarCrossrefPubMedWorldCat 
+  
 599	Oral   H, Pappone   C, Chugh   A, Good   E, Bogun   F, Pelosi   F, Jr, et al.   Circumferential pulmonary-vein ablation for chronic atrial fibrillation. N Engl J Med  2006;354:934–41. https://doi.org/10.1056/NEJMoa050955
-Google ScholarCrossrefPubMedWorldCat 
+  
 600	Yan Huo   TG, Schönbauer   R, Wójcik   M, Fiedler   L, Roithinger   FX, Martinek   M, et al.   Low-voltage myocardium-guided ablation trial of persistent atrial fibrillation. NEJM Evid  2022;1:EVIDoa2200141. https://doi.org/10.1056/EVIDoa2200141.
 Google ScholarWorldCat 
 601	Reddy   VY, Gerstenfeld   EP, Natale   A, Whang   W, Cuoco   FA, Patel   C, et al.   Pulsed field or conventional thermal ablation for paroxysmal atrial fibrillation. N Engl J Med  2023;389:1660–71. https://doi.org/10.1056/NEJMoa2307291
-Google ScholarCrossrefPubMedWorldCat 
+  
 602	Kalman   JM, Al-Kaisey   AM, Parameswaran   R, Hawson   J, Anderson   RD, Lim   M, et al.   Impact of early vs. delayed atrial fibrillation catheter ablation on atrial arrhythmia recurrences. Eur Heart J  2023;44:2447–54. https://doi.org/10.1093/eurheartj/ehad247
-Google ScholarCrossrefPubMedWorldCat 
+  
 603	Kalman   JM, Sanders   P, Rosso   R, Calkins   H. Should we perform catheter ablation for asymptomatic atrial fibrillation?  Circulation  2017;136:490–9. https://doi.org/10.1161/CIRCULATIONAHA.116.024926
-Google ScholarCrossrefPubMedWorldCat 
+  
 604	Hunter   RJ, Berriman   TJ, Diab   I, Kamdar   R, Richmond   L, Baker   V, et al.   A randomized controlled trial of catheter ablation versus medical treatment of atrial fibrillation in heart failure (the CAMTAF trial). Circ Arrhythm Electrophysiol  2014;7:31–8. https://doi.org/10.1161/CIRCEP.113.000806
-Google ScholarCrossrefPubMedWorldCat 
+  
 605	Jones   DG, Haldar   SK, Hussain   W, Sharma   R, Francis   DP, Rahman-Haley   SL, et al.   A randomized trial to assess catheter ablation versus rate control in the management of persistent atrial fibrillation in heart failure. J Am Coll Cardiol  2013;61:1894–903. https://doi.org/10.1016/j.jacc.2013.01.069
-Google ScholarCrossrefPubMedWorldCat 
+  
 606	Kuck   KH, Merkely   B, Zahn   R, Arentz   T, Seidl   K, Schluter   M, et al.   Catheter ablation versus best medical therapy in patients with persistent atrial fibrillation and congestive heart failure: the randomized AMICA trial. Circ Arrhythm Electrophysiol  2019;12:e007731. https://doi.org/10.1161/CIRCEP.119.007731
-Google ScholarCrossrefPubMedWorldCat 
+  
 607	MacDonald   MR, Connelly   DT, Hawkins   NM, Steedman   T, Payne   J, Shaw   M, et al.   Radiofrequency ablation for persistent atrial fibrillation in patients with advanced heart failure and severe left ventricular systolic dysfunction: a randomised controlled trial. Heart  2011;97:740–7. https://doi.org/10.1136/hrt.2010.207340
-Google ScholarCrossrefPubMedWorldCat 
+  
 608	Parkash   R, Wells   GA, Rouleau   J, Talajic   M, Essebag   V, Skanes   A, et al.   Randomized ablation-based rhythm-control versus rate-control trial in patients with heart failure and atrial fibrillation: results from the RAFT-AF trial. Circulation  2022;145:1693–704. https://doi.org/10.1161/CIRCULATIONAHA.121.057095
-Google ScholarCrossrefPubMedWorldCat 
+  
 609	Romero   J, Gabr   M, Alviz   I, Briceno   D, Diaz   JC, Rodriguez   D, et al.   Improved survival in patients with atrial fibrillation and heart failure undergoing catheter ablation compared to medical treatment: a systematic review and meta-analysis of randomized controlled trials. J Cardiovasc Electrophysiol  2022;33:2356–66. https://doi.org/10.1111/jce.15622
-Google ScholarCrossrefPubMedWorldCat 
+  
 610	Chen   S, Purerfellner   H, Meyer   C, Acou   WJ, Schratter   A, Ling   Z, et al.   Rhythm control for patients with atrial fibrillation complicated with heart failure in the contemporary era of catheter ablation: a stratified pooled analysis of randomized data. Eur Heart J  2020;41:2863–73. https://doi.org/10.1093/eurheartj/ehz443
-Google ScholarCrossrefPubMedWorldCat 
+  
 611	Prabhu   S, Taylor   AJ, Costello   BT, Kaye   DM, McLellan   AJA, Voskoboinik   A, et al.   Catheter ablation versus medical rate control in atrial fibrillation and systolic dysfunction: the CAMERA-MRI study. J Am Coll Cardiol  2017;70:1949–61. https://doi.org/10.1016/j.jacc.2017.08.041
-Google ScholarCrossrefPubMedWorldCat 
+  
 612	Packer   DL, Piccini   JP, Monahan   KH, Al-Khalidi   HR, Silverstein   AP, Noseworthy   PA, et al.   Ablation versus drug therapy for atrial fibrillation in heart failure: results from the CABANA trial. Circulation  2021;143:1377–90. https://doi.org/10.1161/CIRCULATIONAHA.120.050991
-Google ScholarCrossrefPubMedWorldCat 
+  
 613	Smit   MD, Moes   ML, Maass   AH, Achekar   ID, Van Geel   PP, Hillege   HL, et al.   The importance of whether atrial fibrillation or heart failure develops first. Eur J Heart Fail  2012;14:1030–40. https://doi.org/10.1093/eurjhf/hfs097
-Google ScholarCrossrefPubMedWorldCat 
+  
 614	Sohns   C, Zintl   K, Zhao   Y, Dagher   L, Andresen   D, Siebels   J, et al.   Impact of left ventricular function and heart failure symptoms on outcomes post ablation of atrial fibrillation in heart failure: CASTLE-AF trial. Circ Arrhythm Electrophysiol  2020;13:e008461. https://doi.org/10.1161/CIRCEP.120.008461
-Google ScholarCrossrefPubMedWorldCat 
+  
 615	Sugumar   H, Prabhu   S, Costello   B, Chieng   D, Azzopardi   S, Voskoboinik   A, et al.   Catheter ablation versus medication in atrial fibrillation and systolic dysfunction: late outcomes of CAMERA-MRI study. JACC Clin Electrophysiol  2020;6:1721–31. https://doi.org/10.1016/j.jacep.2020.08.019
-Google ScholarCrossrefPubMedWorldCat 
+  
 616	Kirstein   B, Neudeck   S, Gaspar   T, Piorkowski   J, Wechselberger   S, Kronborg   MB, et al.   Left atrial fibrosis predicts left ventricular ejection fraction response after atrial fibrillation ablation in heart failure patients: the fibrosis-HF study. Europace  2020;22:1812–21. https://doi.org/10.1093/europace/euaa179
-Google ScholarCrossrefPubMedWorldCat 
+  
 617	Ishiguchi   H, Yoshiga   Y, Shimizu   A, Ueyama   T, Fukuda   M, Kato   T, et al.   Long-term events following catheter-ablation for atrial fibrillation in heart failure with preserved ejection fraction. ESC Heart Fail  2022;9:3505–18. https://doi.org/10.1002/ehf2.14079
-Google ScholarCrossrefPubMedWorldCat 
+  
 618	Gu   G, Wu   J, Gao   X, Liu   M, Jin   C, Xu   Y. Catheter ablation of atrial fibrillation in patients with heart failure and preserved ejection fraction: a meta-analysis. Clin Cardiol  2022;45:786–93. https://doi.org/10.1002/clc.23841
-Google ScholarCrossrefPubMedWorldCat 
+  
 619	Yamauchi   R, Morishima   I, Okumura   K, Kanzaki   Y, Morita   Y, Takagi   K, et al.   Catheter ablation for non-paroxysmal atrial fibrillation accompanied by heart failure with preserved ejection fraction: feasibility and benefits in functions and B-type natriuretic peptide. Europace  2021;23:1252–61. https://doi.org/10.1093/europace/euaa420
-Google ScholarCrossrefPubMedWorldCat 
+  
 620	Rordorf   R, Scazzuso   F, Chun   KRJ, Khelae   SK, Kueffer   FJ, Braegelmann   KM, et al.   Cryoballoon ablation for the treatment of atrial fibrillation in patients with concomitant heart failure and either reduced or preserved left ventricular ejection fraction: results from the Cryo AF global registry. J Am Heart Assoc  2021;10:e021323. https://doi.org/10.1161/JAHA.121.021323
-Google ScholarCrossrefPubMedWorldCat 
+  
 621	Cha   YM, Wokhlu   A, Asirvatham   SJ, Shen   WK, Friedman   PA, Munger   TM, et al.   Success of ablation for atrial fibrillation in isolated left ventricular diastolic dysfunction: a comparison to systolic dysfunction and normal ventricular function. Circ Arrhythm Electrophysiol  2011;4:724–32. https://doi.org/10.1161/CIRCEP.110.960690
-Google ScholarCrossrefPubMedWorldCat 
+  
 622	Machino-Ohtsuka   T, Seo   Y, Ishizu   T, Sugano   A, Atsumi   A, Yamamoto   M, et al.   Efficacy, safety, and outcomes of catheter ablation of atrial fibrillation in patients with heart failure with preserved ejection fraction. J Am Coll Cardiol  2013;62:1857–65. https://doi.org/10.1016/j.jacc.2013.07.020
-Google ScholarCrossrefPubMedWorldCat 
+  
 623	Aldaas   OM, Lupercio   F, Darden   D, Mylavarapu   PS, Malladi   CL, Han   FT, et al.   Meta-analysis of the usefulness of catheter ablation of atrial fibrillation in patients with heart failure with preserved ejection fraction. Am J Cardiol  2021;142:66–73. https://doi.org/10.1016/j.amjcard.2020.11.039
-Google ScholarCrossrefPubMedWorldCat 
+  
 624	Black-Maier   E, Ren   X, Steinberg   BA, Green   CL, Barnett   AS, Rosa   NS, et al.   Catheter ablation of atrial fibrillation in patients with heart failure and preserved ejection fraction. Heart Rhythm  2018;15:651–7. https://doi.org/10.1016/j.hrthm.2017.12.001
-Google ScholarCrossrefPubMedWorldCat 
+  
 625	von Olshausen   G, Benson   L, Dahlström   U, Lund   LH, Savarese   G, Braunschweig   F. Catheter ablation for patients with atrial fibrillation and heart failure: insights from the Swedish Heart Failure Registry. Eur J Heart Fail  2022;24:1636–46. https://doi.org/10.1002/ejhf.2604
-Google ScholarCrossrefPubMedWorldCat 
+  
 626	Shiraishi   Y, Kohsaka   S, Ikemura   N, Kimura   T, Katsumata   Y, Tanimoto   K, et al.   Catheter ablation for patients with atrial fibrillation and heart failure with reduced and preserved ejection fraction: insights from the KiCS-AF multicentre cohort study. Europace  2023;25:83–91. https://doi.org/10.1093/europace/euac108
-Google ScholarCrossrefPubMedWorldCat 
+  
 627	Wu   L, Narasimhan   B, Ho   KS, Zheng   Y, Shah   AN, Kantharia   BK. Safety and complications of catheter ablation for atrial fibrillation: predictors of complications from an updated analysis the national inpatient database. J Cardiovasc Electrophysiol  2021;32:1024–34. https://doi.org/10.1111/jce.14979
-Google ScholarCrossrefPubMedWorldCat 
+  
 628	Tripathi   B, Arora   S, Kumar   V, Abdelrahman   M, Lahewala   S, Dave   M, et al.   Temporal trends of in-hospital complications associated with catheter ablation of atrial fibrillation in the United States: an update from nationwide inpatient sample database (2011–2014). J Cardiovasc Electrophysiol  2018;29:715–24. https://doi.org/10.1111/jce.13471
-Google ScholarCrossrefPubMedWorldCat 
+  
 629	Steinbeck   G, Sinner   MF, Lutz   M, Muller-Nurasyid   M, Kaab   S, Reinecke   H. Incidence of complications related to catheter ablation of atrial fibrillation and atrial flutter: a nationwide in-hospital analysis of administrative data for Germany in 2014. Eur Heart J  2018;39:4020–9. https://doi.org/10.1093/eurheartj/ehy452
-Google ScholarCrossrefPubMedWorldCat 
+  
 630	Deshmukh   A, Patel   NJ, Pant   S, Shah   N, Chothani   A, Mehta   K, et al.   In-hospital complications associated with catheter ablation of atrial fibrillation in the United States between 2000 and 2010: analysis of 93 801 procedures. Circulation  2013;128:2104–12. https://doi.org/10.1161/CIRCULATIONAHA.113.003862
-Google ScholarCrossrefPubMedWorldCat 
+  
 631	Cheng   EP, Liu   CF, Yeo   I, Markowitz   SM, Thomas   G, Ip   JE, et al.   Risk of mortality following catheter ablation of atrial fibrillation. J Am Coll Cardiol  2019;74:2254–64. https://doi.org/10.1016/j.jacc.2019.08.1036
-Google ScholarCrossrefPubMedWorldCat 
+  
 632	Gawalko   M, Duncker   D, Manninger   M, van der Velden   RMJ, Hermans   ANL, Verhaert   DVM, et al.   The European TeleCheck-AF project on remote app-based management of atrial fibrillation during the COVID-19 pandemic: centre and patient experiences. Europace  2021;23:1003–15. https://doi.org/10.1093/europace/euab050
-Google ScholarCrossrefPubMedWorldCat 
+  
 633	Rizas   KD, Freyer   L, Sappler   N, von Stülpnagel   L, Spielbichler   P, Krasniqi   A, et al.   Smartphone-based screening for atrial fibrillation: a pragmatic randomized clinical trial. Nat Med  2022;28:1823–30. https://doi.org/10.1038/s41591-022-01979-w
-Google ScholarCrossrefPubMedWorldCat 
+  
 634	Andrade   JG, Champagne   J, Dubuc   M, Deyell   MW, Verma   A, Macle   L, et al.   Cryoballoon or radiofrequency ablation for atrial fibrillation assessed by continuous monitoring: a randomized clinical trial. Circulation  2019;140:1779–88. https://doi.org/10.1161/CIRCULATIONAHA.119.042622
-Google ScholarCrossrefPubMedWorldCat 
+  
 635	Duytschaever   M, Demolder   A, Phlips   T, Sarkozy   A, El Haddad   M, Taghji   P, et al.   PulmOnary vein isolation with vs. without continued antiarrhythmic Drug trEatment in subjects with Recurrent Atrial Fibrillation (POWDER AF): results from a multicentre randomized trial. Eur Heart J  2018;39:1429–37. https://doi.org/10.1093/eurheartj/ehx666
-Google ScholarCrossrefPubMedWorldCat 
+  
 636	Darkner   S, Chen   X, Hansen   J, Pehrson   S, Johannessen   A, Nielsen   JB, et al.   Recurrence of arrhythmia following short-term oral AMIOdarone after CATheter ablation for atrial fibrillation: a double-blind, randomized, placebo-controlled study (AMIO-CAT trial). Eur Heart J  2014;35:3356–64. https://doi.org/10.1093/eurheartj/ehu354
-Google ScholarCrossrefPubMedWorldCat 
+  
 637	Leong-Sit   P, Roux   JF, Zado   E, Callans   DJ, Garcia   F, Lin   D, et al.   Antiarrhythmics after ablation of atrial fibrillation (5A study): six-month follow-up study. Circ Arrhythm Electrophysiol  2011;4:11–4. https://doi.org/10.1161/CIRCEP.110.955393
-Google ScholarCrossrefPubMedWorldCat 
+  
 638	Kaitani   K, Inoue   K, Kobori   A, Nakazawa   Y, Ozawa   T, Kurotobi   T, et al.   Efficacy of antiarrhythmic drugs short-term use after catheter ablation for atrial fibrillation (EAST-AF) trial. Eur Heart J  2016;37:610–8. https://doi.org/10.1093/eurheartj/ehv501
-Google ScholarCrossrefPubMedWorldCat 
+  
 639	Noseworthy   PA, Van Houten   HK, Sangaralingham   LR, Deshmukh   AJ, Kapa   S, Mulpuru   SK, et al.   Effect of antiarrhythmic drug initiation on readmission after catheter ablation for atrial fibrillation. JACC Clin Electrophysiol  2015;1:238–44. https://doi.org/10.1016/j.jacep.2015.04.016
-Google ScholarCrossrefPubMedWorldCat 
+  
 640	Xu   X, Alida   CT, Yu   B. Administration of antiarrhythmic drugs to maintain sinus rhythm after catheter ablation for atrial fibrillation: a meta-analysis. Cardiovasc Ther  2015;33:242–6. https://doi.org/10.1111/1755-5922.12133
-Google ScholarCrossrefPubMedWorldCat 
+  
 641	Chen   W, Liu   H, Ling   Z, Xu   Y, Fan   J, Du   H, et al.   Efficacy of short-term antiarrhythmic drugs use after catheter ablation of atrial fibrillation—a systematic review with meta-analyses and trial sequential analyses of randomized controlled trials. PLoS One  2016;11:e0156121. https://doi.org/10.1371/journal.pone.0156121
-Google ScholarCrossrefPubMedWorldCat 
+  
 642	Schleberger   R, Metzner   A, Kuck   KH, Andresen   D, Willems   S, Hoffmann   E, et al.   Antiarrhythmic drug therapy after catheter ablation for atrial fibrillation–insights from the German Ablation Registry. Pharmacol Res Perspect  2021;9:e00880. https://doi.org/10.1002/prp2.880
-Google ScholarCrossrefPubMedWorldCat 
+  
 643	Zhang   XD, Gu   J, Jiang   WF, Zhao   L, Zhou   L, Wang   YL, et al.   Optimal rhythm-control strategy for recurrent atrial tachycardia after catheter ablation of persistent atrial fibrillation: a randomized clinical trial. Eur Heart J  2014;35:1327–34. https://doi.org/10.1093/eurheartj/ehu017
-Google ScholarCrossrefPubMedWorldCat 
+  
 644	Zhou   L, He   L, Wang   W, Li   C, Li   S, Tang   R, et al.   Effect of repeat catheter ablation vs. antiarrhythmic drug therapy among patients with recurrent atrial tachycardia/atrial fibrillation after atrial fibrillation catheter ablation: data from CHINA-AF registry. Europace  2023;25:382–9. https://doi.org/10.1093/europace/euac169
-Google ScholarCrossrefPubMedWorldCat 
+  
 645	Fink   T, Metzner   A, Willems   S, Eckardt   L, Ince   H, Brachmann   J, et al.   Procedural success, safety and patients satisfaction after second ablation of atrial fibrillation in the elderly: results from the German ablation registry. Clin Res Cardiol  2019;108:1354–63. https://doi.org/10.1007/s00392-019-01471-5
-Google ScholarCrossrefPubMedWorldCat 
+  
 646	Winkle   RA, Mead   RH, Engel   G, Kong   MH, Fleming   W, Salcedo   J, et al.   Impact of obesity on atrial fibrillation ablation: patient characteristics, long-term outcomes, and complications. Heart Rhythm  2017;14:819–27. https://doi.org/10.1016/j.hrthm.2017.02.023
-Google ScholarCrossrefPubMedWorldCat 
+  
 647	Sticherling   C, Marin   F, Birnie   D, Boriani   G, Calkins   H, Dan   G-A, et al.   Antithrombotic management in patients undergoing electrophysiological procedures: a European Heart Rhythm Association (EHRA) position document endorsed by the ESC Working Group Thrombosis, Heart Rhythm Society (HRS), and Asia Pacific Heart Rhythm Society (APHRS). EP Europace  2015;17:1197–214. https://doi.org/10.1093/europace/euv190
-Google ScholarCrossrefWorldCat 
+  
 648	Calkins   H, Kuck   KH, Cappato   R, Brugada   J, Camm   AJ, Chen   SA, et al.   2012 HRS/EHRA/ECAS expert consensus statement on catheter and surgical ablation of atrial fibrillation: recommendations for patient selection, procedural techniques, patient management and follow-up, definitions, endpoints, and research trial design. J Interv Card Electrophysiol  2012;33:171–257. https://doi.org/10.1007/s10840-012-9672-7
-Google ScholarCrossrefPubMedWorldCat 
+  
 649	Noubiap   JJ, Agbaedeng   TA, Ndoadoumgue   AL, Nyaga   UF, Kengne   AP. Atrial thrombus detection on transoesophageal echocardiography in patients with atrial fibrillation undergoing cardioversion or catheter ablation: a pooled analysis of rates and predictors. J Cardiovasc Electrophysiol  2021;32:2179–88. https://doi.org/10.1111/jce.15082
-Google ScholarCrossrefPubMedWorldCat 
+  
 650	Lurie   A, Wang   J, Hinnegan   KJ, McIntyre   WF, Belley-Côté   EP, Amit   G, et al.   Prevalence of left atrial thrombus in anticoagulated patients with atrial fibrillation. J Am Coll Cardiol  2021;77:2875–86. https://doi.org/10.1016/j.jacc.2021.04.036
-Google ScholarCrossrefPubMedWorldCat 
+  
 651	Efremidis   M, Bazoukis   G, Vlachos   K, Prappa   E, Megarisiotou   A, Dragasis   S, et al.   Safety of catheter ablation of atrial fibrillation without pre- or peri-procedural imaging for the detection of left atrial thrombus in the era of uninterrupted anticoagulation. J Arrhythm  2021;37:28–32. https://doi.org/10.1002/joa3.12466
-Google ScholarCrossrefPubMedWorldCat 
+  
 652	Diab   M, Wazni   OM, Saliba   WI, Tarakji   KG, Ballout   JA, Hutt   E, et al.   Ablation of atrial fibrillation without left atrial appendage imaging in patients treated with direct oral anticoagulants. Circ Arrhythm Electrophysiol  2020;13:e008301. https://doi.org/10.1161/CIRCEP.119.008301
-Google ScholarCrossrefPubMedWorldCat 
+  
 653	Patel   K, Natale   A, Yang   R, Trivedi   C, Romero   J, Briceno   D, et al.   Is transesophageal echocardiography necessary in patients undergoing ablation of atrial fibrillation on an uninterrupted direct oral anticoagulant regimen? Results from a prospective multicenter registry. Heart Rhythm  2020;17:2093–9. https://doi.org/10.1016/j.hrthm.2020.07.017
-Google ScholarCrossrefPubMedWorldCat 
+  
 654	Mao   YJ, Wang   H, Huang   PF. Meta-analysis of the safety and efficacy of using minimally interrupted novel oral anticoagulants in patients undergoing catheter ablation for atrial fibrillation. J Interv Card Electrophysiol  2021;60:407–17. https://doi.org/10.1007/s10840-020-00754-6
-Google ScholarCrossrefPubMedWorldCat 
+  
 655	van Vugt   SPG, Westra   SW, Volleberg   R, Hannink   G, Nakamura   R, de Asmundis   C, et al.   Meta-analysis of controlled studies on minimally interrupted vs. continuous use of non-vitamin K antagonist oral anticoagulants in catheter ablation for atrial fibrillation. Europace  2021;23:1961–9. https://doi.org/10.1093/europace/euab175
-Google ScholarCrossrefPubMedWorldCat 
+  
 656	Ge   Z, Faggioni   M, Baber   U, Sartori   S, Sorrentino   S, Farhan   S, et al.   Safety and efficacy of nonvitamin K antagonist oral anticoagulants during catheter ablation of atrial fibrillation: a systematic review and meta-analysis. Cardiovasc Ther  2018;36:e12457. https://doi.org/10.1111/1755-5922.12457
-Google ScholarCrossrefPubMedWorldCat 
+  
 657	Asad   ZUA, Akhtar   KH, Jafry   AH, Khan   MH, Khan   MS, Munir   MB, et al.   Uninterrupted versus interrupted direct oral anticoagulation for catheter ablation of atrial fibrillation: a systematic review and meta-analysis. J Cardiovasc Electrophysiol  2021;32:1995–2004. https://doi.org/10.1111/jce.15043
-Google ScholarCrossrefPubMedWorldCat 
+  
 658	Mao   YJ, Wang   H, Huang   PF. Peri-procedural novel oral anticoagulants dosing strategy during atrial fibrillation ablation: a meta-analysis. Pacing Clin Electrophysiol  2020;43:1104–14. https://doi.org/10.1111/pace.14040
-Google ScholarCrossrefPubMedWorldCat 
+  
 659	Basu-Ray   I, Khanra   D, Kupó   P, Bunch   J, Theus   SA, Mukherjee   A, et al.   Outcomes of uninterrupted vs interrupted periprocedural direct oral anticoagulants in atrial fibrillation ablation: a meta-analysis. J Arrhythm  2021;37:384–93. https://doi.org/10.1002/joa3.12507
-Google ScholarCrossrefPubMedWorldCat 
+  
 660	Romero   J, Cerrud-Rodriguez   RC, Diaz   JC, Rodriguez   D, Arshad   S, Alviz   I, et al.   Oral anticoagulation after catheter ablation of atrial fibrillation and the associated risk of thromboembolic events and intracranial hemorrhage: a systematic review and meta-analysis. J Cardiovasc Electrophysiol  2019;30:1250–7. https://doi.org/10.1111/jce.14052
-Google ScholarCrossrefPubMedWorldCat 
+  
 661	Liu   XH, Xu   Q, Luo   T, Zhang   L, Liu   HJ. Discontinuation of oral anticoagulation therapy after successful atrial fibrillation ablation: a systematic review and meta-analysis of prospective studies. PLoS One  2021;16:e0253709. https://doi.org/10.1371/journal.pone.0253709
-Google ScholarCrossrefPubMedWorldCat 
+  
 662	Proietti   R, AlTurki   A, Di Biase   L, China   P, Forleo   G, Corrado   A, et al.   Anticoagulation after catheter ablation of atrial fibrillation: an unnecessary evil? A systematic review and meta-analysis. J Cardiovasc Electrophysiol  2019;30:468–78. https://doi.org/10.1111/jce.13822
-Google ScholarCrossrefPubMedWorldCat 
+  
 663	Maduray   K, Moneruzzaman   M, Changwe   GJ, Zhong   J. Benefits and risks associated with long-term oral anticoagulation after successful atrial fibrillation catheter ablation: systematic review and meta-analysis. Clin Appl Thromb Hemost  2022;28:10760296221118480. https://doi.org/10.1177/10760296221118480
 Google ScholarWorldCat 
 664	Brockmeyer   M, Lin   Y, Parco   C, Karathanos   A, Krieger   T, Schulze   V, et al.   Uninterrupted anticoagulation during catheter ablation for atrial fibrillation: no difference in major bleeding and stroke between direct oral anticoagulants and vitamin K antagonists in an updated meta-analysis of randomised controlled trials. Acta Cardiol  2021;76:288–95. https://doi.org/10.1080/00015385.2020.1724689
-Google ScholarCrossrefPubMedWorldCat 
+  
 665	Di Monaco   A, Guida   P, Vitulano   N, Quadrini   F, Troisi   F, Langialonga   T, et al.   Catheter ablation of atrial fibrillation with uninterrupted anticoagulation: a meta-analysis of six randomized controlled trials. J Cardiovasc Med (Hagerstown)  2020;21:483–90. https://doi.org/10.2459/JCM.0000000000000939
-Google ScholarCrossrefPubMedWorldCat 
+  
 666	Maesen   B, Luermans   J, Bidar   E, Chaldoupi   SM, Gelsomino   S, Maessen   JG, et al.   A hybrid approach to complex arrhythmias. Europace  2021;23:ii28–33. https://doi.org/10.1093/europace/euab027
-Google ScholarCrossrefPubMedWorldCat 
+  
 667	van der Heijden   CAJ, Vroomen   M, Luermans   JG, Vos   R, Crijns   H, Gelsomino   S, et al.   Hybrid versus catheter ablation in patients with persistent and longstanding persistent atrial fibrillation: a systematic review and meta-analysis. Eur J Cardiothorac Surg  2019;56:433–43. https://doi.org/10.1093/ejcts/ezy475
-Google ScholarCrossrefPubMedWorldCat 
+  
 668	Boersma   LV, Castella   M, van Boven   W, Berruezo   A, Yilmaz   A, Nadal   M, et al.   Atrial fibrillation catheter ablation versus surgical ablation treatment (FAST): a 2-center randomized clinical trial. Circulation  2012;125:23–30. https://doi.org/10.1161/CIRCULATIONAHA.111.074047
-Google ScholarCrossrefPubMedWorldCat 
+  
 669	Castella   M, Kotecha   D, van Laar   C, Wintgens   L, Castillo   Y, Kelder   J, et al.   Thoracoscopic vs. catheter ablation for atrial fibrillation: long-term follow-up of the FAST randomized trial. Europace  2019;21:746–53. https://doi.org/10.1093/europace/euy325
-Google ScholarCrossrefPubMedWorldCat 
+  
 670	van der Heijden   CAJ, Weberndörfer   V, Vroomen   M, Luermans   JG, Chaldoupi   SM, Bidar   E, et al.   Hybrid ablation versus repeated catheter ablation in persistent atrial fibrillation: a randomized controlled trial. JACC Clin Electrophysiol  2023;9:1013–23. https://doi.org/10.1016/j.jacep.2022.12.011
-Google ScholarCrossrefPubMedWorldCat 
+  
 671	DeLurgio   DB, Crossen   KJ, Gill   J, Blauth   C, Oza   SR, Magnano   AR, et al.   Hybrid convergent procedure for the treatment of persistent and long-standing persistent atrial fibrillation: results of CONVERGE clinical trial. Circ Arrhythm Electrophysiol  2020;13:e009288. https://doi.org/10.1161/CIRCEP.120.009288
-Google ScholarCrossrefPubMedWorldCat 
+  
 672	Pokushalov   E, Romanov   A, Elesin   D, Bogachev-Prokophiev   A, Losik   D, Bairamova   S, et al.   Catheter versus surgical ablation of atrial fibrillation after a failed initial pulmonary vein isolation procedure: a randomized controlled trial. J Cardiovasc Electrophysiol  2013;24:1338–43. https://doi.org/10.1111/jce.12245
-Google ScholarCrossrefPubMedWorldCat 
+  
 673	Haldar   S, Khan   HR, Boyalla   V, Kralj-Hans   I, Jones   S, Lord   J, et al.   Catheter ablation vs. thoracoscopic surgical ablation in long-standing persistent atrial fibrillation: CASA-AF randomized controlled trial. Eur Heart J  2020;41:4471–80. https://doi.org/10.1093/eurheartj/ehaa658
-Google ScholarCrossrefPubMedWorldCat 
+  
 674	Doll   N, Weimar   T, Kosior   DA, Bulava   A, Mokracek   A, Mönnig   G, et al.   Efficacy and safety of hybrid epicardial and endocardial ablation versus endocardial ablation in patients with persistent and longstanding persistent atrial fibrillation: a randomised, controlled trial. EClinicalMedicine  2023;61:102052. https://doi.org/10.1016/j.eclinm.2023.102052
-Google ScholarCrossrefPubMedWorldCat 
+  
 675	Malaisrie   SC, McCarthy   PM, Kruse   J, Matsouaka   R, Andrei   AC, Grau-Sepulveda   MV, et al.   Burden of preoperative atrial fibrillation in patients undergoing coronary artery bypass grafting. J Thorac Cardiovasc Surg  2018;155:2358–2367 e1. https://doi.org/10.1016/j.jtcvs.2018.01.069
-Google ScholarCrossrefPubMedWorldCat 
+  
 676	Saxena   A, Dinh   DT, Reid   CM, Smith   JA, Shardey   GC, Newcomb   AE. Does preoperative atrial fibrillation portend a poorer prognosis in patients undergoing isolated aortic valve replacement? A multicentre Australian study. Can J Cardiol  2013;29:697–703. https://doi.org/10.1016/j.cjca.2012.08.016
-Google ScholarCrossrefPubMedWorldCat 
+  
 677	Quader   MA, McCarthy   PM, Gillinov   AM, Alster   JM, Cosgrove   DM, 3rd, Lytle   BW, et al.   Does preoperative atrial fibrillation reduce survival after coronary artery bypass grafting?  Ann Thorac Surg  2004;77:1514–22; discussion 1522–4. https://doi.org/10.1016/j.athoracsur.2003.09.069
-Google ScholarCrossrefPubMedWorldCat 
+  
 678	Damiano   RJ, Jr, Schwartz   FH, Bailey   MS, Maniar   HS, Munfakh   NA, Moon   MR, et al.   The Cox Maze IV procedure: predictors of late recurrence. J Thorac Cardiovasc Surg  2011;141:113–21. https://doi.org/10.1016/j.jtcvs.2010.08.067
-Google ScholarCrossrefPubMedWorldCat 
+  
 679	Cox   JL, Schuessler   RB, Boineau   JP. The development of the Maze procedure for the treatment of atrial fibrillation. Semin Thorac Cardiovasc Surg  2000;12:2–14. https://doi.org/10.1016/S1043-0679(00)70010-4
-Google ScholarCrossrefPubMedWorldCat 
+  
 680	Melby   SJ, Zierer   A, Bailey   MS, Cox   JL, Lawton   JS, Munfakh   N, et al.   A new era in the surgical treatment of atrial fibrillation: the impact of ablation technology and lesion set on procedural efficacy. Ann Surg  2006;244:583–92. https://doi.org/10.1097/01.sla.0000237654.00841.26
 Google ScholarPubMedWorldCat 
 681	Badhwar   V, Rankin   JS, Damiano   RJ, Jr, Gillinov   AM, Bakaeen   FG, Edgerton   JR, et al.   The Society of Thoracic Surgeons 2017 clinical practice guidelines for the surgical treatment of atrial fibrillation. Ann Thorac Surg  2017;103:329–41. https://doi.org/10.1016/j.athoracsur.2016.10.076
-Google ScholarCrossrefPubMedWorldCat 
+  
 682	Ad   N, Henry   L, Hunt   S, Holmes   SD. Impact of clinical presentation and surgeon experience on the decision to perform surgical ablation. Ann Thorac Surg  2013;96:763–8; discussion 768–9. https://doi.org/10.1016/j.athoracsur.2013.03.066
-Google ScholarCrossrefPubMedWorldCat 
+  
 683	Cheng   DC, Ad   N, Martin   J, Berglin   EE, Chang   BC, Doukas   G, et al.   Surgical ablation for atrial fibrillation in cardiac surgery: a meta-analysis and systematic review. Innovations (Phila)  2010;5:84–96. https://doi.org/10.1177/155698451000500204
-Google ScholarCrossrefPubMedWorldCat 
+  
 684	McClure   GR, Belley-Cote   EP, Jaffer   IH, Dvirnik   N, An   KR, Fortin   G, et al.   Surgical ablation of atrial fibrillation: a systematic review and meta-analysis of randomized controlled trials. Europace  2018;20:1442–50. https://doi.org/10.1093/europace/eux336
-Google ScholarCrossrefPubMedWorldCat 
+  
 685	Phan   K, Xie   A, La Meir   M, Black   D, Yan   TD. Surgical ablation for treatment of atrial fibrillation in cardiac surgery: a cumulative meta-analysis of randomised controlled trials. Heart  2014;100:722–30. https://doi.org/10.1136/heartjnl-2013-305351
-Google ScholarCrossrefPubMedWorldCat 
+  
 686	Barnett   SD, Ad   N. Surgical ablation as treatment for the elimination of atrial fibrillation: a meta-analysis. J Thorac Cardiovasc Surg  2006;131:1029–35. https://doi.org/10.1016/j.jtcvs.2005.10.020
-Google ScholarCrossrefPubMedWorldCat 
+  
 687	Gillinov   AM, Gelijns   AC, Parides   MK, DeRose   JJ, Jr, Moskowitz   AJ, Voisine   P, et al.   Surgical ablation of atrial fibrillation during mitral-valve surgery. N Engl J Med  2015;372:1399–409. https://doi.org/10.1056/NEJMoa1500528
-Google ScholarCrossrefPubMedWorldCat 
+  
 688	MacGregor   RM, Bakir   NH, Pedamallu   H, Sinn   LA, Maniar   HS, Melby   SJ, et al.   Late results after stand-alone surgical ablation for atrial fibrillation. J Thorac Cardiovasc Surg  2022;164:1515–1528.e8. https://doi.org/10.1016/j.jtcvs.2021.03.109
-Google ScholarCrossrefPubMedWorldCat 
+  
 689	Musharbash   FN, Schill   MR, Sinn   LA, Schuessler   RB, Maniar   HS, Moon   MR, et al.   Performance of the Cox-Maze IV procedure is associated with improved long-term survival in patients with atrial fibrillation undergoing cardiac surgery. J Thorac Cardiovasc Surg  2018;155:159–70. https://doi.org/10.1016/j.jtcvs.2017.09.095
-Google ScholarCrossrefPubMedWorldCat 
+  
 690	Rankin   JS, Lerner   DJ, Braid-Forbes   MJ, McCrea   MM, Badhwar   V. Surgical ablation of atrial fibrillation concomitant to coronary-artery bypass grafting provides cost-effective mortality reduction. J Thorac Cardiovasc Surg  2020;160:675–686 e13. https://doi.org/10.1016/j.jtcvs.2019.07.131
-Google ScholarCrossrefPubMedWorldCat 
+  
 691	Suwalski   P, Kowalewski   M, Jasinski   M, Staromlynski   J, Zembala   M, Widenka   K, et al.   Survival after surgical ablation for atrial fibrillation in mitral valve surgery: analysis from the Polish National Registry of Cardiac Surgery Procedures (KROK). J Thorac Cardiovasc Surg  2019;157:1007–1018 e4. https://doi.org/10.1016/j.jtcvs.2018.07.099
-Google ScholarCrossrefPubMedWorldCat 
+  
 692	Suwalski   P, Kowalewski   M, Jasinski   M, Staromlynski   J, Zembala   M, Widenka   K, et al.   Surgical ablation for atrial fibrillation during isolated coronary artery bypass surgery. Eur J Cardiothorac Surg  2020;57:691–700. https://doi.org/10.1093/ejcts/ezz298
 Google ScholarPubMedWorldCat 
 693	Wehbe   M, Albert   M, Lewalter   T, Ouarrak   T, Senges   J, Hanke   T, et al.   The German cardiosurgery atrial fibrillation registry: 1-year follow-up outcomes. Thorac Cardiovasc Surg  2023;71:255–63. https://doi.org/10.1055/s-0042-1750311
 Google ScholarPubMedWorldCat 
 694	Kim   HJ, Kim   YJ, Kim   M, Yoo   JS, Kim   DH, Park   DW, et al.   Surgical ablation for atrial fibrillation during aortic and mitral valve surgery: a nationwide population-based cohort study. J Thorac Cardiovasc Surg  2024;167:981–93. https://doi.org/10.1016/j.jtcvs.2022.08.038
-Google ScholarCrossrefPubMedWorldCat 
+  
 695	Ad   N, Henry   L, Hunt   S, Holmes   SD. Do we increase the operative risk by adding the Cox Maze III procedure to aortic valve replacement and coronary artery bypass surgery?  J Thorac Cardiovasc Surg  2012;143:936–44. https://doi.org/10.1016/j.jtcvs.2011.12.018
-Google ScholarCrossrefPubMedWorldCat 
+  
 696	Maesen   B, van der Heijden   CAJ, Bidar   E, Vos   R, Athanasiou   T, Maessen   JG. Patient-reported quality of life after stand-alone and concomitant arrhythmia surgery: a systematic review and meta-analysis. Interact Cardiovasc Thorac Surg  2022;34:339–48. https://doi.org/10.1093/icvts/ivab282
-Google ScholarCrossrefPubMedWorldCat 
+  
 697	Osmancik   P, Budera   P, Talavera   D, Hlavicka   J, Herman   D, Holy   J, et al.   Five-year outcomes in cardiac surgery patients with atrial fibrillation undergoing concomitant surgical ablation versus no ablation. The long-term follow-up of the PRAGUE-12 study. Heart Rhythm  2019;16:1334–40. https://doi.org/10.1016/j.hrthm.2019.05.001
-Google ScholarCrossrefPubMedWorldCat 
+  
 698	Lee   R, Jivan   A, Kruse   J, McGee   EC, Jr, Malaisrie   SC, Bernstein   R, et al.   Late neurologic events after surgery for atrial fibrillation: rare but relevant. Ann Thorac Surg  2013;95:126–31; discussion 131–2. https://doi.org/10.1016/j.athoracsur.2012.08.048
-Google ScholarCrossrefPubMedWorldCat 
+  
 699	Kowalewski   M, Pasierski   M, Kołodziejczak   M, Litwinowicz   R, Kowalówka   A, Wańha   W, et al.   Atrial fibrillation ablation improves late survival after concomitant cardiac surgery. J Thorac Cardiovasc Surg  2023;166:1656–1668.e8. https://doi.org/10.1016/j.jtcvs.2022.04.035
-Google ScholarCrossrefPubMedWorldCat 
+  
 700	Cox   JL, Ad   N, Palazzo   T. Impact of the maze procedure on the stroke rate in patients with atrial fibrillation. J Thorac Cardiovasc Surg  1999;118:833–40. https://doi.org/10.1016/S0022-5223(99)70052-8
-Google ScholarCrossrefPubMedWorldCat 
+  
 701	Huffman   MD, Karmali   KN, Berendsen   MA, Andrei   AC, Kruse   J, McCarthy   PM, et al.   Concomitant atrial fibrillation surgery for people undergoing cardiac surgery. Cochrane Database Syst Rev  2016;8:CD011814. https://doi.org/10.1002/14651858.CD011814.pub2
 Google ScholarWorldCat 
 702	Kowalewski   M, Pasierski   M, Finke   J, Kolodziejczak   M, Staromlynski   J, Litwinowicz   R, et al.   Permanent pacemaker implantation after valve and arrhythmia surgery in patients with preoperative atrial fibrillation. Heart Rhythm  2022;19:1442–9. https://doi.org/10.1016/j.hrthm.2022.04.007
-Google ScholarCrossrefPubMedWorldCat 
+  
 703	Pokushalov   E, Romanov   A, Corbucci   G, Cherniavsky   A, Karaskov   A. Benefit of ablation of first diagnosed paroxysmal atrial fibrillation during coronary artery bypass grafting: a pilot study. Eur J Cardiothorac Surg  2012;41:556–60. https://doi.org/10.1093/ejcts/ezr101
-Google ScholarCrossrefPubMedWorldCat 
+  
 704	Yoo   JS, Kim   JB, Ro   SK, Jung   Y, Jung   SH, Choo   SJ, et al.   Impact of concomitant surgical atrial fibrillation ablation in patients undergoing aortic valve replacement. Circ J  2014;78:1364–71. https://doi.org/10.1253/circj.CJ-13-1533
-Google ScholarCrossrefPubMedWorldCat 
+  
 705	Malaisrie   SC, Lee   R, Kruse   J, Lapin   B, Wang   EC, Bonow   RO, et al.   Atrial fibrillation ablation in patients undergoing aortic valve replacement. J Heart Valve Dis  2012;21:350–7.
 Google ScholarPubMedWorldCat 
 706	Rankin   JS, Lerner   DJ, Braid-Forbes   MJ, Ferguson   MA, Badhwar   V. One-year mortality and costs associated with surgical ablation for atrial fibrillation concomitant to coronary artery bypass grafting. Eur J Cardiothorac Surg  2017;52:471–7. https://doi.org/10.1093/ejcts/ezx126
-Google ScholarCrossrefPubMedWorldCat 
+  
 707	Schill   MR, Musharbash   FN, Hansalia   V, Greenberg   JW, Melby   SJ, Maniar   HS, et al.   Late results of the Cox-Maze IV procedure in patients undergoing coronary artery bypass grafting. J Thorac Cardiovasc Surg  2017;153:1087–94. https://doi.org/10.1016/j.jtcvs.2016.12.034
-Google ScholarCrossrefPubMedWorldCat 
+  
 708	Gupta   D, Ding   WY, Calvert   P, Williams   E, Das   M, Tovmassian   L, et al.   Cryoballoon pulmonary vein isolation as first-line treatment for typical atrial flutter. Heart  2023;109:364–71. https://doi.org/10.1136/heartjnl-2022-321729
 Google ScholarPubMedWorldCat 
 709	Steinberg   C, Champagne   J, Deyell   MW, Dubuc   M, Leong-Sit   P, Calkins   H, et al.   Prevalence and outcome of early recurrence of atrial tachyarrhythmias in the cryoballoon vs irrigated radiofrequency catheter ablation (CIRCA-DOSE) study. Heart Rhythm  2021;18:1463–70. https://doi.org/10.1016/j.hrthm.2021.06.1172
-Google ScholarCrossrefPubMedWorldCat 
+  
 710	Heijman   J, Linz   D, Schotten   U. Dynamics of atrial fibrillation mechanisms and comorbidities. Annu Rev Physiol  2021;83:83–106. https://doi.org/10.1146/annurev-physiol-031720-085307
-Google ScholarCrossrefPubMedWorldCat 
+  
 711	Fabritz   L, Crijns   H, Guasch   E, Goette   A, Hausler   KG, Kotecha   D, et al.   Dynamic risk assessment to improve quality of care in patients with atrial fibrillation: the 7th AFNET/EHRA consensus conference. Europace  2021;23:329–44. https://doi.org/10.1093/europace/euaa279
-Google ScholarCrossrefPubMedWorldCat 
+  
 712	Brandes   A, Smit   MD, Nguyen   BO, Rienstra   M, Van Gelder   IC. Risk factor management in atrial fibrillation. Arrhythm Electrophysiol Rev  2018;7:118–27. https://doi.org/10.15420/aer.2018.18.2
-Google ScholarCrossrefPubMedWorldCat 
+  
 713	Pokorney   SD, Cocoros   N, Al-Khalidi   HR, Haynes   K, Li   S, Al-Khatib   SM, et al.   Effect of mailing educational material to patients with atrial fibrillation and their clinicians on use of oral anticoagulants: a randomized clinical trial. JAMA Netw Open  2022;5:e2214321. https://doi.org/10.1001/jamanetworkopen.2022.14321
-Google ScholarCrossrefPubMedWorldCat 
+  
 714	Ritchie   LA, Penson   PE, Akpan   A, Lip   GYH, Lane   DA. Integrated care for atrial fibrillation management: the role of the pharmacist. Am J Med  2022;135:1410–26. https://doi.org/10.1016/j.amjmed.2022.07.014
-Google ScholarCrossrefPubMedWorldCat 
+  
 715	Guo   Y, Guo   J, Shi   X, Yao   Y, Sun   Y, Xia   Y, et al.   Mobile health technology-supported atrial fibrillation screening and integrated care: a report from the mAFA-II trial long-term extension cohort. Eur J Intern Med  2020;82:105–11. https://doi.org/10.1016/j.ejim.2020.09.024
-Google ScholarCrossrefPubMedWorldCat 
+  
 716	Yan   H, Du   YX, Wu   FQ, Lu   XY, Chen   RM, Zhang   Y. Effects of nurse-led multidisciplinary team management on cardiovascular hospitalization and quality of life in patients with atrial fibrillation: randomized controlled trial. Int J Nurs Stud  2022;127:104159. https://doi.org/10.1016/j.ijnurstu.2021.104159
-Google ScholarCrossrefPubMedWorldCat 
+  
 717	Stewart   S, Ball   J, Horowitz   JD, Marwick   TH, Mahadevan   G, Wong   C, et al.   Standard versus atrial fibrillation-specific management strategy (SAFETY) to reduce recurrent admission and prolong survival: pragmatic, multicentre, randomised controlled trial. Lancet  2015;385:775–84. https://doi.org/10.1016/S0140-6736(14)61992-9
-Google ScholarCrossrefPubMedWorldCat 
+  
 718	Cox   JL, Parkash   R, Foster   GA, Xie   F, MacKillop   JH, Ciaccia   A, et al.   Integrated management program advancing community treatment of atrial fibrillation (IMPACT-AF): a cluster randomized trial of a computerized clinical decision support tool. Am Heart J  2020;224:35–46. https://doi.org/10.1016/j.ahj.2020.02.019
-Google ScholarCrossrefPubMedWorldCat 
+  
 719	Sposato   LA, Stirling   D, Saposnik   G. Therapeutic decisions in atrial fibrillation for stroke prevention: the role of aversion to ambiguity and physicians’ risk preferences. J Stroke Cerebrovasc Dis  2018;27:2088–95. https://doi.org/10.1016/j.jstrokecerebrovasdis.2018.03.005
-Google ScholarCrossrefPubMedWorldCat 
+  
 720	Noseworthy   PA, Brito   JP, Kunneman   M, Hargraves   IG, Zeballos-Palacios   C, Montori   VM, et al.   Shared decision-making in atrial fibrillation: navigating complex issues in partnership with the patient. J Interv Card Electrophysiol  2019;56:159–63. https://doi.org/10.1007/s10840-018-0465-5
-Google ScholarCrossrefPubMedWorldCat 
+  
 721	Poorcheraghi   H, Negarandeh   R, Pashaeypoor   S, Jorian   J. Effect of using a mobile drug management application on medication adherence and hospital readmission among elderly patients with polypharmacy: a randomized controlled trial. BMC Health Serv Res  2023;23:1192. https://doi.org/10.1186/s12913-023-10177-4
-Google ScholarCrossrefPubMedWorldCat 
+  
 722	Kotecha   D, Chua   WWL, Fabritz   L, Hendriks   J, Casadei   B, Schotten   U, et al.   European Society of Cardiology (ESC) Atrial Fibrillation Guidelines Taskforce, the CATCH ME consortium, and the European Heart Rhythm Association (EHRA). European Society of Cardiology smartphone and tablet applications for patients with atrial fibrillation and their health care providers. Europace  2018;20:225–33. https://doi.org/10.1093/europace/eux299
-Google ScholarCrossrefPubMedWorldCat 
+  
 723	Bunting   KV, Gill   SK, Sitch   A, Mehta   S, O’Connor   K, Lip   GY, et al.   Improving the diagnosis of heart failure in patients with atrial fibrillation. Heart  2021;107:902–8. https://doi.org/10.1136/heartjnl-2020-318557
-Google ScholarCrossrefPubMedWorldCat 
+  
 724	Donal   E, Lip   GY, Galderisi   M, Goette   A, Shah   D, Marwan   M, et al.   EACVI/EHRA expert consensus document on the role of multi-modality imaging for the evaluation of patients with atrial fibrillation. Eur Heart J Cardiovasc Imaging  2016;17:355–83. https://doi.org/10.1093/ehjci/jev354
-Google ScholarCrossrefPubMedWorldCat 
+  
 725	Bunting   KV, O’Connor   K, Steeds   RP, Kotecha   D. Cardiac imaging to assess left ventricular systolic function in atrial fibrillation. Am J Cardiol  2021;139:40–9. https://doi.org/10.1016/j.amjcard.2020.10.012
-Google ScholarCrossrefPubMedWorldCat 
+  
 726	Timperley   J, Mitchell   AR, Becher   H. Contrast echocardiography for left ventricular opacification. Heart  2003;89:1394–7. https://doi.org/10.1136/heart.89.12.1394
-Google ScholarCrossrefPubMedWorldCat 
+  
 727	Kotecha   D, Mohamed   M, Shantsila   E, Popescu   BA, Steeds   RP. Is echocardiography valid and reproducible in patients with atrial fibrillation? A systematic review. Europace  2017;19:1427–38. https://doi.org/10.1093/europace/eux027
-Google ScholarCrossrefPubMedWorldCat 
+  
 728	Quintana   RA, Dong   T, Vajapey   R, Reyaldeen   R, Kwon   DH, Harb   S, et al.   Preprocedural multimodality imaging in atrial fibrillation. Circ Cardiovasc Imaging  2022;15:e014386. https://doi.org/10.1161/CIRCIMAGING.122.014386
 Google ScholarPubMedWorldCat 
 729	Laubrock   K, von Loesch   T, Steinmetz   M, Lotz   J, Frahm   J, Uecker   M, et al.   Imaging of arrhythmia: real-time cardiac magnetic resonance imaging in atrial fibrillation. Eur J Radiol Open  2022;9:100404. https://doi.org/10.1016/j.ejro.2022.100404
-Google ScholarCrossrefPubMedWorldCat 
+  
 730	Sciagrà   R, Sotgia   B, Boni   N, Pupi   A. Assessment of the influence of atrial fibrillation on gated SPECT perfusion data by comparison with simultaneously acquired nongated SPECT data. J Nucl Med  2008;49:1283–7. https://doi.org/10.2967/jnumed.108.051797
-Google ScholarCrossrefPubMedWorldCat 
+  
 731	Clayton   B, Roobottom   C, Morgan-Hughes   G. CT coronary angiography in atrial fibrillation: a comparison of radiation dose and diagnostic confidence with retrospective gating vs prospective gating with systolic acquisition. Br J Radiol  2015;88:20150533. https://doi.org/10.1259/bjr.20150533
-Google ScholarCrossrefPubMedWorldCat 
+  
 732	Thrall   G, Lane   D, Carroll   D, Lip   GY. Quality of life in patients with atrial fibrillation: a systematic review. Am J Med  2006;119:448.e1–19. https://doi.org/10.1016/j.amjmed.2005.10.057
-Google ScholarCrossrefPubMedWorldCat 
+  
 733	Steinberg   BA, Dorian   P, Anstrom   KJ, Hess   R, Mark   DB, Noseworthy   PA, et al.   Patient-reported outcomes in atrial fibrillation research: results of a Clinicaltrials.gov analysis. JACC Clin Electrophysiol  2019;5:599–605. https://doi.org/10.1016/j.jacep.2019.03.008
-Google ScholarCrossrefPubMedWorldCat 
+  
 734	Potpara   TS, Mihajlovic   M, Zec   N, Marinkovic   M, Kovacevic   V, Simic   J, et al.   Self-reported treatment burden in patients with atrial fibrillation: quantification, major determinants, and implications for integrated holistic management of the arrhythmia. Europace  2020;22:1788–97. https://doi.org/10.1093/europace/euaa210
-Google ScholarCrossrefPubMedWorldCat 
+  
 735	Moons   P, Norekvål   TM, Arbelo   E, Borregaard   B, Casadei   B, Cosyns   B, et al.   Placing patient-reported outcomes at the centre of cardiovascular clinical practice: implications for quality of care and management. Eur Heart J  2023;44:3405–22. https://doi.org/10.1093/eurheartj/ehad514
-Google ScholarCrossrefPubMedWorldCat 
+  
 736	Allan   KS, Aves   T, Henry   S, Banfield   L, Victor   JC, Dorian   P, et al.   Health-related quality of life in patients with atrial fibrillation treated with catheter ablation or antiarrhythmic drug therapy: a systematic review and meta-analysis. CJC Open  2020;2:286–95. https://doi.org/10.1016/j.cjco.2020.03.013
-Google ScholarCrossrefPubMedWorldCat 
+  
 737	Vanderhout   S, Fergusson   DA, Cook   JA, Taljaard   M. Patient-reported outcomes and target effect sizes in pragmatic randomized trials in ClinicalTrials.gov: a cross-sectional analysis. PLoS Med  2022;19:e1003896. https://doi.org/10.1371/journal.pmed.1003896
-Google ScholarCrossrefPubMedWorldCat 
+  
 738	Steinberg   BA, Piccini   JP, Sr. Tackling patient-reported outcomes in atrial fibrillation and heart failure: identifying disease-specific symptoms?  Cardiol Clin  2019;37:139–46. https://doi.org/10.1016/j.ccl.2019.01.013
-Google ScholarCrossrefPubMedWorldCat 
+  
 739	Härdén   M, Nyström   B, Bengtson   A, Medin   J, Frison   L, Edvardsson   N. Responsiveness of AF6, a new, short, validated, atrial fibrillation-specific questionnaire—symptomatic benefit of direct current cardioversion. J Interv Card Electrophysiol  2010;28:185–91. https://doi.org/10.1007/s10840-010-9487-3
-Google ScholarCrossrefPubMedWorldCat 
+  
 740	Tailachidis   P, Tsimtsiou   Z, Galanis   P, Theodorou   M, Kouvelas   D, Athanasakis   K. The atrial fibrillation effect on QualiTy-of-Life (AFEQT) questionnaire: cultural adaptation and validation of the Greek version. Hippokratia  2016;20:264–7.
 Google ScholarPubMedWorldCat 
 741	Moreira   RS, Bassolli   L, Coutinho   E, Ferrer   P, Bragança   ÉO, Carvalho   AC, et al.   Reproducibility and reliability of the quality of life questionnaire in patients with atrial fibrillation. Arq Bras Cardiol  2016;106:171–81. https://doi.org/10.5935/abc.20160026
 Google ScholarPubMedWorldCat 
 742	Arribas   F, Ormaetxe   JM, Peinado   R, Perulero   N, Ramírez   P, Badia   X. Validation of the AF-QoL, a disease-specific quality of life questionnaire for patients with atrial fibrillation. Europace  2010;12:364–70. https://doi.org/10.1093/europace/eup421
-Google ScholarCrossrefPubMedWorldCat 
+  
 743	Braganca   EO, Filho   BL, Maria   VH, Levy   D, de Paola   AA. Validating a new quality of life questionnaire for atrial fibrillation patients. Int J Cardiol  2010;143:391–8. https://doi.org/10.1016/j.ijcard.2009.03.087
-Google ScholarCrossrefPubMedWorldCat 
+  
 744	International Consortium for Health Outcomes Measurement. Atrial fibrillation data collection reference guide Version 5.0.1. https://connect.ichom.org/wp-content/uploads/2023/02/03-Atrial-Fibrillation-Reference-Guide-2023.5.0.1.pdf.
 745	Dan   GA, Dan   AR, Ivanescu   A, Buzea   AC. Acute rate control in atrial fibrillation: an urgent need for the clinician. Eur Heart J Suppl  2022;24:D3–D10. https://doi.org/10.1093/eurheartjsupp/suac022
-Google ScholarCrossrefPubMedWorldCat 
+  
 746	Shima   N, Miyamoto   K, Kato   S, Yoshida   T, Uchino   S; AFTER-ICU study group. Primary success of electrical cardioversion for new-onset atrial fibrillation and its association with clinical course in non-cardiac critically ill patients: sub-analysis of a multicenter observational study. J Intensive Care  2021;9:46. https://doi.org/10.1186/s40560-021-00562-8
-Google ScholarCrossrefPubMedWorldCat 
+  
 747	Betthauser   KD, Gibson   GA, Piche   SL, Pope   HE. Evaluation of amiodarone use for new-onset atrial fibrillation in critically ill patients with septic shock. Hosp Pharm  2021;56:116–23. https://doi.org/10.1177/0018578719868405
-Google ScholarCrossrefPubMedWorldCat 
+  
 748	Drikite   L, Bedford   JP, O’Bryan   L, Petrinic   T, Rajappan   K, Doidge   J, et al.   Treatment strategies for new onset atrial fibrillation in patients treated on an intensive care unit: a systematic scoping review. Crit Care  2021;25:257. https://doi.org/10.1186/s13054-021-03684-5
-Google ScholarCrossrefPubMedWorldCat 
+  
 749	Bedford   JP, Johnson   A, Redfern   O, Gerry   S, Doidge   J, Harrison   D, et al.   Comparative effectiveness of common treatments for new-onset atrial fibrillation within the ICU: accounting for physiological status. J Crit Care  2022;67:149–56. https://doi.org/10.1016/j.jcrc.2021.11.005
-Google ScholarCrossrefPubMedWorldCat 
+  
 750	Iwahashi   N, Takahashi   H, Abe   T, Okada   K, Akiyama   E, Matsuzawa   Y, et al.   Urgent control of rapid atrial fibrillation by landiolol in patients with acute decompensated heart failure with severely reduced ejection fraction. Circ Rep  2019;1:422–30. https://doi.org/10.1253/circrep.CR-19-0076
-Google ScholarCrossrefPubMedWorldCat 
+  
 751	Unger   M, Morelli   A, Singer   M, Radermacher   P, Rehberg   S, Trimmel   H, et al.   Landiolol in patients with septic shock resident in an intensive care unit (LANDI-SEP): study protocol for a randomized controlled trial. Trials  2018;19:637. https://doi.org/10.1186/s13063-018-3024-6
-Google ScholarCrossrefPubMedWorldCat 
+  
 752	Gonzalez-Pacheco   H, Marquez   MF, Arias-Mendoza   A, Alvarez-Sangabriel   A, Eid-Lidt   G, Gonzalez-Hermosillo   A, et al.   Clinical features and in-hospital mortality associated with different types of atrial fibrillation in patients with acute coronary syndrome with and without ST elevation. J Cardiol  2015;66:148–54. https://doi.org/10.1016/j.jjcc.2014.11.001
-Google ScholarCrossrefPubMedWorldCat 
+  
 753	Krijthe   BP, Leening   MJ, Heeringa   J, Kors   JA, Hofman   A, Franco   OH, et al.   Unrecognized myocardial infarction and risk of atrial fibrillation: the Rotterdam Study. Int J Cardiol  2013;168:1453–7. https://doi.org/10.1016/j.ijcard.2012.12.057
-Google ScholarCrossrefPubMedWorldCat 
+  
 754	Soliman   EZ, Safford   MM, Muntner   P, Khodneva   Y, Dawood   FZ, Zakai   NA, et al.   Atrial fibrillation and the risk of myocardial infarction. JAMA Intern Med  2014;174:107–14. https://doi.org/10.1001/jamainternmed.2013.11912
-Google ScholarCrossrefPubMedWorldCat 
+  
 755	Kralev   S, Schneider   K, Lang   S, Suselbeck   T, Borggrefe   M. Incidence and severity of coronary artery disease in patients with atrial fibrillation undergoing first-time coronary angiography. PLoS One  2011;6:e24964. https://doi.org/10.1371/journal.pone.0024964
-Google ScholarCrossrefPubMedWorldCat 
+  
 756	Coscia   T, Nestelberger   T, Boeddinghaus   J, Lopez-Ayala   P, Koechlin   L, Miró   Ò, et al.   Characteristics and outcomes of type 2 myocardial infarction. JAMA Cardiol  2022;7:427–34. https://doi.org/10.1001/jamacardio.2022.0043
-Google ScholarCrossrefPubMedWorldCat 
+  
 757	Guimaraes   PO, Zakroysky   P, Goyal   A, Lopes   RD, Kaltenbach   LA, Wang   TY. Usefulness of antithrombotic therapy in patients with atrial fibrillation and acute myocardial infarction. Am J Cardiol  2019;123:12–8. https://doi.org/10.1016/j.amjcard.2018.09.031
-Google ScholarCrossrefPubMedWorldCat 
+  
 758	Erez   A, Goldenberg   I, Sabbag   A, Nof   E, Zahger   D, Atar   S, et al.   Temporal trends and outcomes associated with atrial fibrillation observed during acute coronary syndrome: real-world data from the Acute Coronary Syndrome Israeli Survey (ACSIS), 2000–2013. Clin Cardiol  2017;40:275–80. https://doi.org/10.1002/clc.22654
-Google ScholarCrossrefPubMedWorldCat 
+  
 759	Vrints C, Andreotti F, Koskinas K, Rossell X, Adamo M, Ainslie J, et al. 2024 ESC Guidelines for the management of chronic coronary syndromes. Eur Heart J 2024. https://doi.org/10.1093/eurheartj/ehae177
 760	Byrne   RA, Rossello   X, Coughlan   JJ, Barbato   E, Berry   C, Chieffo   A, et al.   2023 ESC Guidelines for the management of acute coronary syndromes. Eur Heart J  2023;44:3720–826. https://doi.org/10.1093/eurheartj/ehad191
-Google ScholarCrossrefPubMedWorldCat 
+  
 761	Park   DY, Wang   P, An   S, Grimshaw   AA, Frampton   J, Ohman   EM, et al.   Shortening the duration of dual antiplatelet therapy after percutaneous coronary intervention for acute coronary syndrome: a systematic review and meta-analysis. Am Heart J  2022;251:101–14. https://doi.org/10.1016/j.ahj.2022.05.019
-Google ScholarCrossrefPubMedWorldCat 
+  
 762	Gargiulo   G, Goette   A, Tijssen   J, Eckardt   L, Lewalter   T, Vranckx   P, et al.   Safety and efficacy outcomes of double vs. triple antithrombotic therapy in patients with atrial fibrillation following percutaneous coronary intervention: a systematic review and meta-analysis of non-vitamin K antagonist oral anticoagulant-based randomized clinical trials. Eur Heart J  2019;40:3757–67. https://doi.org/10.1093/eurheartj/ehz732
-Google ScholarCrossrefPubMedWorldCat 
+  
 763	Dewilde   WJ, Oirbans   T, Verheugt   FW, Kelder   JC, De Smet   BJ, Herrman   JP, et al.   Use of clopidogrel with or without aspirin in patients taking oral anticoagulant therapy and undergoing percutaneous coronary intervention: an open-label, randomised, controlled trial. Lancet  2013;381:1107–15. https://doi.org/10.1016/S0140-6736(12)62177-1
-Google ScholarCrossrefPubMedWorldCat 
+  
 764	Lopes   RD, Heizer   G, Aronson   R, Vora   AN, Massaro   T, Mehran   R, et al.   Antithrombotic therapy after acute coronary syndrome or PCI in atrial fibrillation. N Engl J Med  2019;380:1509–24. https://doi.org/10.1056/NEJMoa1817083
-Google ScholarCrossrefPubMedWorldCat 
+  
 765	Gibson   CM, Mehran   R, Bode   C, Halperin   J, Verheugt   FW, Wildgoose   P, et al.   Prevention of bleeding in patients with atrial fibrillation undergoing PCI. N Engl J Med  2016;375:2423–34. https://doi.org/10.1056/NEJMoa1611594
-Google ScholarCrossrefPubMedWorldCat 
+  
 766	Cannon   CP, Bhatt   DL, Oldgren   J, Lip   GYH, Ellis   SG, Kimura   T, et al.   Dual antithrombotic therapy with dabigatran after PCI in atrial fibrillation. N Engl J Med  2017;377:1513–24. https://doi.org/10.1056/NEJMoa1708454
-Google ScholarCrossrefPubMedWorldCat 
+  
 767	Vranckx   P, Valgimigli   M, Eckardt   L, Tijssen   J, Lewalter   T, Gargiulo   G, et al.   Edoxaban-based versus vitamin K antagonist-based antithrombotic regimen after successful coronary stenting in patients with atrial fibrillation (ENTRUST-AF PCI): a randomised, open-label, phase 3b trial. Lancet  2019;394:1335–43. https://doi.org/10.1016/S0140-6736(19)31872-0
-Google ScholarCrossrefPubMedWorldCat 
+  
 768	Lopes   RD, Hong   H, Harskamp   RE, Bhatt   DL, Mehran   R, Cannon   CP, et al.   Safety and efficacy of antithrombotic strategies in patients with atrial fibrillation undergoing percutaneous coronary intervention: a network meta-analysis of randomized controlled trials. JAMA Cardiol  2019;4:747–55. https://doi.org/10.1001/jamacardio.2019.1880
-Google ScholarCrossrefPubMedWorldCat 
+  
 769	Oldgren   J, Steg   PG, Hohnloser   SH, Lip   GYH, Kimura   T, Nordaby   M, et al.   Dabigatran dual therapy with ticagrelor or clopidogrel after percutaneous coronary intervention in atrial fibrillation patients with or without acute coronary syndrome: a subgroup analysis from the RE-DUAL PCI trial. Eur Heart J  2019;40:1553–62. https://doi.org/10.1093/eurheartj/ehz059
-Google ScholarCrossrefPubMedWorldCat 
+  
 770	Potpara   TS, Mujovic   N, Proietti   M, Dagres   N, Hindricks   G, Collet   JP, et al.   Revisiting the effects of omitting aspirin in combined antithrombotic therapies for atrial fibrillation and acute coronary syndromes or percutaneous coronary interventions: meta-analysis of pooled data from the PIONEER AF-PCI, RE-DUAL PCI, and AUGUSTUS trials. Europace  2020;22:33–46. https://doi.org/10.1093/europace/euz259
-Google ScholarCrossrefPubMedWorldCat 
+  
 771	Haller   PM, Sulzgruber   P, Kaufmann   C, Geelhoed   B, Tamargo   J, Wassmann   S, et al.   Bleeding and ischaemic outcomes in patients treated with dual or triple antithrombotic therapy: systematic review and meta-analysis. Eur Heart J Cardiovasc Pharmacother  2019;5:226–36. https://doi.org/10.1093/ehjcvp/pvz021
-Google ScholarCrossrefPubMedWorldCat 
+  
 772	Lopes   RD, Hong   H, Harskamp   RE, Bhatt   DL, Mehran   R, Cannon   CP, et al.   Optimal antithrombotic regimens for patients with atrial fibrillation undergoing percutaneous coronary intervention: an updated network meta-analysis. JAMA Cardiol  2020;5:582–9. https://doi.org/10.1001/jamacardio.2019.6175
-Google ScholarCrossrefPubMedWorldCat 
+  
 773	Lopes   RD, Vora   AN, Liaw   D, Granger   CB, Darius   H, Goodman   SG, et al.   An open-label, 2 × 2 factorial, randomized controlled trial to evaluate the safety of apixaban vs. vitamin K antagonist and aspirin vs. placebo in patients with atrial fibrillation and acute coronary syndrome and/or percutaneous coronary intervention: rationale and design of the AUGUSTUS trial. Am Heart J  2018;200:17–23. https://doi.org/10.1016/j.ahj.2018.03.001
-Google ScholarCrossrefPubMedWorldCat 
+  
 774	Windecker   S, Lopes   RD, Massaro   T, Jones-Burton   C, Granger   CB, Aronson   R, et al.   Antithrombotic therapy in patients with atrial fibrillation and acute coronary syndrome treated medically or with percutaneous coronary intervention or undergoing elective percutaneous coronary intervention: insights from the AUGUSTUS trial. Circulation  2019;140:1921–32. https://doi.org/10.1161/CIRCULATIONAHA.119.043308
-Google ScholarCrossrefPubMedWorldCat 
+  
 775	Harskamp   RE, Fanaroff   AC, Lopes   RD, Wojdyla   DM, Goodman   SG, Thomas   LE, et al.   Antithrombotic therapy in patients with atrial fibrillation after acute coronary syndromes or percutaneous intervention. J Am Coll Cardiol  2022;79:417–27. https://doi.org/10.1016/j.jacc.2021.11.035
-Google ScholarCrossrefPubMedWorldCat 
+  
 776	Alexander   JH, Wojdyla   D, Vora   AN, Thomas   L, Granger   CB, Goodman   SG, et al.   Risk/benefit tradeoff of antithrombotic therapy in patients with atrial fibrillation early and late after an acute coronary syndrome or percutaneous coronary intervention: insights from AUGUSTUS. Circulation  2020;141:1618–27. https://doi.org/10.1161/CIRCULATIONAHA.120.046534
-Google ScholarCrossrefPubMedWorldCat 
+  
 777	Moayyedi   P, Eikelboom   JW, Bosch   J, Connolly   SJ, Dyal   L, Shestakovska   O, et al.   Safety of proton pump inhibitors based on a large, multi-year, randomized trial of patients receiving rivaroxaban or aspirin. Gastroenterology  2019;157:682–691.e2. https://doi.org/10.1053/j.gastro.2019.05.056
-Google ScholarCrossrefPubMedWorldCat 
+  
 778	Jeridi   D, Pellat   A, Ginestet   C, Assaf   A, Hallit   R, Corre   F, et al.   The safety of long-term proton pump inhibitor use on cardiovascular health: a meta-analysis. J Clin Med  2022;11:4096. https://doi.org/10.3390/jcm11144096
-Google ScholarCrossrefPubMedWorldCat 
+  
 779	Scally   B, Emberson   JR, Spata   E, Reith   C, Davies   K, Halls   H, et al.   Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials. Lancet Gastroenterol Hepatol  2018;3:231–41. https://doi.org/10.1016/S2468-1253(18)30037-2
-Google ScholarCrossrefPubMedWorldCat 
+  
 780	Fiedler   KA, Maeng   M, Mehilli   J, Schulz-Schupke   S, Byrne   RA, Sibbing   D, et al.   Duration of triple therapy in patients requiring oral anticoagulation after drug-eluting stent implantation: the ISAR-TRIPLE trial. J Am Coll Cardiol  2015;65:1619–29. https://doi.org/10.1016/j.jacc.2015.02.050
-Google ScholarCrossrefPubMedWorldCat 
+  
 781	Matsumura-Nakano   Y, Shizuta   S, Komasa   A, Morimoto   T, Masuda   H, Shiomi   H, et al.   Open-label randomized trial comparing oral anticoagulation with and without single antiplatelet therapy in patients with atrial fibrillation and stable coronary artery disease beyond 1 year after coronary stent implantation. Circulation  2019;139:604–16. https://doi.org/10.1161/CIRCULATIONAHA.118.036768
-Google ScholarCrossrefPubMedWorldCat 
+  
 782	Jensen   T, Thrane   PG, Olesen   KKW, Würtz   M, Mortensen   MB, Gyldenkerne   C, et al.   Antithrombotic treatment beyond 1 year after percutaneous coronary intervention in patients with atrial fibrillation. Eur Heart J Cardiovasc Pharmacother  2023;9:208–19. https://doi.org/10.1093/ehjcvp/pvac058
-Google ScholarCrossrefPubMedWorldCat 
+  
 783	Vitalis   A, Shantsila   A, Proietti   M, Vohra   RK, Kay   M, Olshansky   B, et al.   Peripheral arterial disease in patients with atrial fibrillation: the AFFIRM study. Am J Med  2021;134:514–8. https://doi.org/10.1016/j.amjmed.2020.08.026
-Google ScholarCrossrefPubMedWorldCat 
+  
 784	Wasmer   K, Unrath   M, Köbe   J, Malyar   NM, Freisinger   E, Meyborg   M, et al.   Atrial fibrillation is a risk marker for worse in-hospital and long-term outcome in patients with peripheral artery disease. Int J Cardiol  2015;199:223–8. https://doi.org/10.1016/j.ijcard.2015.06.094
-Google ScholarCrossrefPubMedWorldCat 
+  
 785	Griffin   WF, Salahuddin   T, O’Neal   WT, Soliman   EZ. Peripheral arterial disease is associated with an increased risk of atrial fibrillation in the elderly. Europace  2016;18:794–8. https://doi.org/10.1093/europace/euv369
-Google ScholarCrossrefPubMedWorldCat 
+  
 786	Lin   LY, Lee   CH, Yu   CC, Tsai   CT, Lai   LP, Hwang   JJ, et al.   Risk factors and incidence of ischemic stroke in Taiwanese with nonvalvular atrial fibrillation—a nation wide database analysis. Atherosclerosis  2011;217:292–5. https://doi.org/10.1016/j.atherosclerosis.2011.03.033
-Google ScholarCrossrefPubMedWorldCat 
+  
 787	Su   MI, Cheng   YC, Huang   YC, Liu   CW. The impact of atrial fibrillation on one-year mortality in patients with severe lower extremity arterial disease. J Clin Med  2022;11:1936. https://doi.org/10.3390/jcm11071936
-Google ScholarCrossrefPubMedWorldCat 
+  
 788	Winkel   TA, Hoeks   SE, Schouten   O, Zeymer   U, Limbourg   T, Baumgartner   I, et al.   Prognosis of atrial fibrillation in patients with symptomatic peripheral arterial disease: data from the REduction of Atherothrombosis for Continued Health (REACH) Registry. Eur J Vasc Endovasc Surg  2010;40:9–16. https://doi.org/10.1016/j.ejvs.2010.03.003
-Google ScholarCrossrefPubMedWorldCat 
+  
 789	Nejim   B, Mathlouthi   A, Weaver   L, Faateh   M, Arhuidese   I, Malas   MB. Safety of carotid artery revascularization procedures in patients with atrial fibrillation. J Vasc Surg  2020;72:2069–2078.e4. https://doi.org/10.1016/j.jvs.2020.01.074
-Google ScholarCrossrefPubMedWorldCat 
+  
 790	Jones   WS, Hellkamp   AS, Halperin   J, Piccini   JP, Breithardt   G, Singer   DE, et al.   Efficacy and safety of rivaroxaban compared with warfarin in patients with peripheral artery disease and non-valvular atrial fibrillation: insights from ROCKET AF. Eur Heart J  2014;35:242–9. https://doi.org/10.1093/eurheartj/eht492
-Google ScholarCrossrefPubMedWorldCat 
+  
 791	Aboyans   V, Ricco   JB, Bartelink   MEL, Björck   M, Brodmann   M, Cohnert   T, et al.   2017 ESC Guidelines on the diagnosis and treatment of peripheral arterial diseases, in collaboration with the European Society for Vascular Surgery (ESVS): document covering atherosclerotic disease of extracranial carotid and vertebral, mesenteric, renal, upper and lower extremity arteries. Endorsed by: the European Stroke Organization (ESO) The Task Force for the Diagnosis and Treatment of Peripheral Arterial Diseases of the European Society of Cardiology (ESC) and of the European Society for Vascular Surgery (ESVS). Eur Heart J  2018;39:763–816. https://doi.org/10.1093/eurheartj/ehx095
-Google ScholarCrossrefPubMedWorldCat 
+  
 792	Schirmer   CM, Bulsara   KR, Al-Mufti   F, Haranhalli   N, Thibault   L, Hetts   SW. Antiplatelets and antithrombotics in neurointerventional procedures: guideline update. J Neurointerv Surg  2023;15:1155–62. https://doi.org/10.1136/jnis-2022-019844
-Google ScholarCrossrefPubMedWorldCat 
+  
 793	Berge   E, Whiteley   W, Audebert   H, De Marchis   GM, Fonseca   AC, Padiglioni   C, et al.   European Stroke Organisation (ESO) guidelines on intravenous thrombolysis for acute ischaemic stroke. Eur Stroke J  2021;6:I–LXII. https://doi.org/10.1177/2396987321989865
-Google ScholarCrossrefPubMedWorldCat 
+  
 794	Caso   V, Masuhr   F. A narrative review of nonvitamin K antagonist oral anticoagulant use in secondary stroke prevention. J Stroke Cerebrovasc Dis  2019;28:2363–75. https://doi.org/10.1016/j.jstrokecerebrovasdis.2019.05.017
-Google ScholarCrossrefPubMedWorldCat 
+  
 795	Fischer   U, Koga   M, Strbian   D, Branca   M, Abend   S, Trelle   S, et al.   Early versus later anticoagulation for stroke with atrial fibrillation. N Engl J Med  2023;388:2411–21. https://doi.org/10.1056/NEJMoa2303048
-Google ScholarCrossrefPubMedWorldCat 
+  
 796	Oldgren   J, Åsberg   S, Hijazi   Z, Wester   P, Bertilsson   M, Norrving   B. Early versus delayed non-vitamin K antagonist oral anticoagulant therapy after acute ischemic stroke in atrial fibrillation (TIMING): a registry-based randomized controlled noninferiority study. Circulation  2022;146:1056–66. https://doi.org/10.1161/CIRCULATIONAHA.122.060666
-Google ScholarCrossrefPubMedWorldCat 
+  
 797	Schreuder   F, van Nieuwenhuizen   KM, Hofmeijer   J, Vermeer   SE, Kerkhoff   H, Zock   E, et al.   Apixaban versus no anticoagulation after anticoagulation-associated intracerebral haemorrhage in patients with atrial fibrillation in The Netherlands (APACHE-AF): a randomised, open-label, phase 2 trial. Lancet Neurol  2021;20:907–16. https://doi.org/10.1016/S1474-4422(21)00298-2
-Google ScholarCrossrefPubMedWorldCat 
+  
 798	SoSTART Collaboration. Effects of oral anticoagulation for atrial fibrillation after spontaneous intracranial haemorrhage in the UK: a randomised, open-label, assessor-masked, pilot-phase, non-inferiority trial. Lancet Neurol  2021;20:842–53. https://doi.org/10.1016/S1474-4422(21)00264-7
 CrossrefPubMedWorldCat 
 799	Klein Klouwenberg   PM, Frencken   JF, Kuipers   S, Ong   DS, Peelen   LM, van Vught   LA, et al.   Incidence, predictors, and outcomes of new-onset atrial fibrillation in critically ill patients with sepsis. A cohort study. Am J Respir Crit Care Med  2017;195:205–11. https://doi.org/10.1164/rccm.201603-0618OC
-Google ScholarCrossrefPubMedWorldCat 
+  
 800	Gundlund   A, Olesen   JB, Butt   JH, Christensen   MA, Gislason   GH, Torp-Pedersen   C, et al.   One-year outcomes in atrial fibrillation presenting during infections: a nationwide registry-based study. Eur Heart J  2020;41:1112–9. https://doi.org/10.1093/eurheartj/ehz873
-Google ScholarCrossrefPubMedWorldCat 
+  
 801	Induruwa   I, Hennebry   E, Hennebry   J, Thakur   M, Warburton   EA, Khadjooi   K. Sepsis-driven atrial fibrillation and ischaemic stroke. Is there enough evidence to recommend anticoagulation?  Eur J Intern Med  2022;98:32–6. https://doi.org/10.1016/j.ejim.2021.10.022
-Google ScholarCrossrefPubMedWorldCat 
+  
 802	Ko   D, Saleeba   C, Sadiq   H, Crawford   S, Paul   T, Shi   Q, et al.   Secondary precipitants of atrial fibrillation and anticoagulation therapy. J Am Heart Assoc  2021;10:e021746. https://doi.org/10.1161/JAHA.121.021746
-Google ScholarCrossrefPubMedWorldCat 
+  
 803	Li   YG, Borgi   M, Lip   GY. Atrial fibrillation occurring initially during acute medical illness: the heterogeneous nature of disease, outcomes and management strategies. Eur Heart J Acute Cardiovasc Care  2018;10:2048872618801763. https://doi.org/10.1177/2048872618801763
 Google ScholarWorldCat 
 804	Lowres   N, Hillis   GS, Gladman   MA, Kol   M, Rogers   J, Chow   V, et al.   Self-monitoring for recurrence of secondary atrial fibrillation following non-cardiac surgery or acute illness: a pilot study. Int J Cardiol Heart Vasc  2020;29:100566. https://doi.org/10.1016/j.ijcha.2020.100566
 Google ScholarPubMedWorldCat 
 805	Søgaard   M, Skjøth   F, Nielsen   PB, Smit   J, Dalager-Pedersen   M, Larsen   TB, et al.   Thromboembolic risk in patients with pneumonia and new-onset atrial fibrillation not receiving anticoagulation therapy. JAMA Netw Open  2022;5:e2213945. https://doi.org/10.1001/jamanetworkopen.2022.13945
-Google ScholarCrossrefPubMedWorldCat 
+  
 806	Walkey   AJ, Hammill   BG, Curtis   LH, Benjamin   EJ. Long-term outcomes following development of new-onset atrial fibrillation during sepsis. Chest  2014;146:1187–95. https://doi.org/10.1378/chest.14-0003
-Google ScholarCrossrefPubMedWorldCat 
+  
 807	McIntyre   WF, Um   KJ, Cheung   CC, Belley-Côté   EP, Dingwall   O, Devereaux   PJ, et al.   Atrial fibrillation detected initially during acute medical illness: a systematic review. Eur Heart J Acute Cardiovasc Care  2019;8:130–41. https://doi.org/10.1177/2048872618799748
-Google ScholarCrossrefPubMedWorldCat 
+  
 808	Marcus   GM, Vittinghoff   E, Whitman   IR, Joyce   S, Yang   V, Nah   G, et al.   Acute consumption of alcohol and discrete atrial fibrillation events. Ann Intern Med  2021;174:1503–9. https://doi.org/10.7326/M21-0228
-Google ScholarCrossrefPubMedWorldCat 
+  
 809	Marcus   GM, Modrow   MF, Schmid   CH, Sigona   K, Nah   G, Yang   J, et al.   Individualized studies of triggers of paroxysmal atrial fibrillation: the I-STOP-AFib randomized clinical trial. JAMA Cardiol  2022;7:167–74. https://doi.org/10.1001/jamacardio.2021.5010
-Google ScholarCrossrefPubMedWorldCat 
+  
 810	Lin   AL, Nah   G, Tang   JJ, Vittinghoff   E, Dewland   TA, Marcus   GM. Cannabis, cocaine, methamphetamine, and opiates increase the risk of incident atrial fibrillation. Eur Heart J  2022;43:4933–42. https://doi.org/10.1093/eurheartj/ehac558
-Google ScholarCrossrefPubMedWorldCat 
+  
 811	Butt   JH, Olesen   JB, Havers-Borgersen   E, Gundlund   A, Andersson   C, Gislason   GH, et al.   Risk of thromboembolism associated with atrial fibrillation following noncardiac surgery. J Am Coll Cardiol  2018;72:2027–36. https://doi.org/10.1016/j.jacc.2018.07.088
-Google ScholarCrossrefPubMedWorldCat 
+  
 812	Gundlund   A, Kümler   T, Bonde   AN, Butt   JH, Gislason   GH, Torp-Pedersen   C, et al.   Comparative thromboembolic risk in atrial fibrillation with and without a secondary precipitant–Danish nationwide cohort study. BMJ Open  2019;9:e028468. https://doi.org/10.1136/bmjopen-2018-028468
-Google ScholarCrossrefPubMedWorldCat 
+  
 813	Walkey   AJ, Quinn   EK, Winter   MR, McManus   DD, Benjamin   EJ. Practice patterns and outcomes associated with use of anticoagulation among patients with atrial fibrillation during sepsis. JAMA Cardiol  2016;1:682–90. https://doi.org/10.1001/jamacardio.2016.2181
-Google ScholarCrossrefPubMedWorldCat 
+  
 814	Darwish   OS, Strube   S, Nguyen   HM, Tanios   MA. Challenges of anticoagulation for atrial fibrillation in patients with severe sepsis. Ann Pharmacother  2013;47:1266–71. https://doi.org/10.1177/1060028013500938
-Google ScholarCrossrefPubMedWorldCat 
+  
 815	Quon   MJ, Behlouli   H, Pilote   L. Anticoagulant use and risk of ischemic stroke and bleeding in patients with secondary atrial fibrillation associated with acute coronary syndromes, acute pulmonary disease, or sepsis. JACC Clin Electrophysiol  2018;4:386–93. https://doi.org/10.1016/j.jacep.2017.08.003
-Google ScholarCrossrefPubMedWorldCat 
+  
 816	Echahidi   N, Pibarot   P, O’Hara   G, Mathieu   P. Mechanisms, prevention, and treatment of atrial fibrillation after cardiac surgery. J Am Coll Cardiol  2008;51:793–801. https://doi.org/10.1016/j.jacc.2007.10.043
-Google ScholarCrossrefPubMedWorldCat 
+  
 817	Gillinov   AM, Bagiella   E, Moskowitz   AJ, Raiten   JM, Groh   MA, Bowdish   ME, et al.   Rate control versus rhythm control for atrial fibrillation after cardiac surgery. N Engl J Med  2016;374:1911–21. https://doi.org/10.1056/NEJMoa1602002
-Google ScholarCrossrefPubMedWorldCat 
+  
 818	Gaudino   M, Di Franco   A, Rong   LQ, Piccini   J, Mack   M. Postoperative atrial fibrillation: from mechanisms to treatment. Eur Heart J  2023;44:1020–39. https://doi.org/10.1093/eurheartj/ehad019
-Google ScholarCrossrefPubMedWorldCat 
+  
 819	Kotecha   D, Castella   M. Is it time to treat post-operative atrial fibrillation just like regular atrial fibrillation?  Eur Heart J  2020;41:652–654a. https://doi.org/10.1093/eurheartj/ehz412
-Google ScholarCrossrefPubMedWorldCat 
+  
 820	Konstantino   Y, Zelnik Yovel   D, Friger   MD, Sahar   G, Knyazer   B, Amit   G. Postoperative atrial fibrillation following coronary artery bypass graft surgery predicts long-term atrial fibrillation and stroke. Isr Med Assoc J  2016;18:744–8.
 Google ScholarPubMedWorldCat 
 821	Lee   SH, Kang   DR, Uhm   JS, Shim   J, Sung   JH, Kim   JY, et al.   New-onset atrial fibrillation predicts long-term newly developed atrial fibrillation after coronary artery bypass graft. Am Heart J  2014;167:593–600.e1. https://doi.org/10.1016/j.ahj.2013.12.010
-Google ScholarCrossrefPubMedWorldCat 
+  
 822	Lin   MH, Kamel   H, Singer   DE, Wu   YL, Lee   M, Ovbiagele   B. Perioperative/postoperative atrial fibrillation and risk of subsequent stroke and/or mortality. Stroke  2019;50:1364–71. https://doi.org/10.1161/STROKEAHA.118.023921
-Google ScholarCrossrefPubMedWorldCat 
+  
 823	AlTurki   A, Marafi   M, Proietti   R, Cardinale   D, Blackwell   R, Dorian   P, et al.   Major adverse cardiovascular events associated with postoperative atrial fibrillation after noncardiac surgery: a systematic review and meta-analysis. Circ Arrhythm Electrophysiol  2020;13:e007437. https://doi.org/10.1161/CIRCEP.119.007437
-Google ScholarCrossrefPubMedWorldCat 
+  
 824	Goyal   P, Kim   M, Krishnan   U, McCullough   SA, Cheung   JW, Kim   LK, et al.   Post-operative atrial fibrillation and risk of heart failure hospitalization. Eur Heart J  2022;43:2971–80. https://doi.org/10.1093/eurheartj/ehac285
-Google ScholarCrossrefPubMedWorldCat 
+  
 825	Eikelboom   R, Sanjanwala   R, Le   ML, Yamashita   MH, Arora   RC. Postoperative atrial fibrillation after cardiac surgery: a systematic review and meta-analysis. Ann Thorac Surg  2021;111:544–54. https://doi.org/10.1016/j.athoracsur.2020.05.104
-Google ScholarCrossrefPubMedWorldCat 
+  
 826	Benedetto   U, Gaudino   MF, Dimagli   A, Gerry   S, Gray   A, Lees   B, et al.   Postoperative atrial fibrillation and long-term risk of stroke after isolated coronary artery bypass graft surgery. Circulation  2020;142:1320–9. https://doi.org/10.1161/CIRCULATIONAHA.120.046940
-Google ScholarCrossrefPubMedWorldCat 
+  
 827	Taha   A, Nielsen   SJ, Bergfeldt   L, Ahlsson   A, Friberg   L, Björck   S, et al.   New-onset atrial fibrillation after coronary artery bypass grafting and long-term outcome: a population-based nationwide study from the SWEDEHEART registry. J Am Heart Assoc  2021;10:e017966. https://doi.org/10.1161/JAHA.120.017966
-Google ScholarCrossrefPubMedWorldCat 
+  
 828	Dobrev   D, Aguilar   M, Heijman   J, Guichard   JB, Nattel   S. Postoperative atrial fibrillation: mechanisms, manifestations and management. Nat Rev Cardiol  2019;16:417–36. https://doi.org/10.1038/s41569-019-0166-5
-Google ScholarCrossrefPubMedWorldCat 
+  
 829	Mathew   JP, Fontes   ML, Tudor   IC, Ramsay   J, Duke   P, Mazer   CD, et al.   A multicenter risk index for atrial fibrillation after cardiac surgery. JAMA  2004;291:1720–9. https://doi.org/10.1001/jama.291.14.1720
-Google ScholarCrossrefPubMedWorldCat 
+  
 830	Villareal   RP, Hariharan   R, Liu   BC, Kar   B, Lee   VV, Elayda   M, et al.   Postoperative atrial fibrillation and mortality after coronary artery bypass surgery. J Am Coll Cardiol  2004;43:742–8. https://doi.org/10.1016/j.jacc.2003.11.023
-Google ScholarCrossrefPubMedWorldCat 
+  
 831	Cardinale   D, Sandri   MT, Colombo   A, Salvatici   M, Tedeschi   I, Bacchiani   G, et al.   Prevention of atrial fibrillation in high-risk patients undergoing lung cancer surgery: the PRESAGE trial. Ann Surg  2016;264:244–51. https://doi.org/10.1097/SLA.0000000000001626
-Google ScholarCrossrefPubMedWorldCat 
+  
 832	Ojima   T, Nakamori   M, Nakamura   M, Katsuda   M, Hayata   K, Kato   T, et al.   Randomized clinical trial of landiolol hydrochloride for the prevention of atrial fibrillation and postoperative complications after oesophagectomy for cancer. Br J Surg  2017;104:1003–9. https://doi.org/10.1002/bjs.10548
-Google ScholarCrossrefPubMedWorldCat 
+  
 833	Arsenault   KA, Yusuf   AM, Crystal   E, Healey   JS, Morillo   CA, Nair   GM, et al.   Interventions for preventing post-operative atrial fibrillation in patients undergoing heart surgery. Cochrane Database Syst Rev  2013;1:CD003611. https://doi.org/10.1002/14651858.CD003611.pub3
 Google ScholarWorldCat 
 834	Ozaydin   M, Icli   A, Yucel   H, Akcay   S, Peker   O, Erdogan   D, et al.   Metoprolol vs. carvedilol or carvedilol plus N-acetyl cysteine on post-operative atrial fibrillation: a randomized, double-blind, placebo-controlled study. Eur Heart J  2013;34:597–604. https://doi.org/10.1093/eurheartj/ehs423
-Google ScholarCrossrefPubMedWorldCat 
+  
 835	O’Neal   JB, Billings   F, Liu   X, Shotwell   MS, Liang   Y, Shah   AS, et al.   Effect of preoperative beta-blocker use on outcomes following cardiac surgery. Am J Cardiol  2017;120:1293–7. https://doi.org/10.1016/j.amjcard.2017.07.012
-Google ScholarCrossrefPubMedWorldCat 
+  
 836	Ziff   OJ, Samra   M, Howard   JP, Bromage   DI, Ruschitzka   F, Francis   DP, et al.   Beta-blocker efficacy across different cardiovascular indications: an umbrella review and meta-analytic assessment. BMC Med  2020;18:103. https://doi.org/10.1186/s12916-020-01564-3
-Google ScholarCrossrefPubMedWorldCat 
+  
 837	Tisdale   JE, Wroblewski   HA, Wall   DS, Rieger   KM, Hammoud   ZT, Young   JV, et al.   A randomized trial evaluating amiodarone for prevention of atrial fibrillation after pulmonary resection. Ann Thorac Surg  2009;88:886–93; discussion 894–5. https://doi.org/10.1016/j.athoracsur.2009.04.074
-Google ScholarCrossrefPubMedWorldCat 
+  
 838	Auer   J, Weber   T, Berent   R, Puschmann   R, Hartl   P, Ng   CK, et al.   A comparison between oral antiarrhythmic drugs in the prevention of atrial fibrillation after cardiac surgery: the pilot Study of Prevention of Postoperative Atrial Fibrillation (SPPAF), a randomized, placebo-controlled trial. Am Heart J  2004;147:636–43. https://doi.org/10.1016/j.ahj.2003.10.041
-Google ScholarCrossrefPubMedWorldCat 
+  
 839	Buckley   MS, Nolan   PE, Jr, Slack   MK, Tisdale   JE, Hilleman   DE, Copeland   JG. Amiodarone prophylaxis for atrial fibrillation after cardiac surgery: meta-analysis of dose response and timing of initiation. Pharmacotherapy  2007;27:360–8. https://doi.org/10.1592/phco.27.3.360
-Google ScholarCrossrefPubMedWorldCat 
+  
 840	Riber   LP, Christensen   TD, Jensen   HK, Hoejsgaard   A, Pilegaard   HK. Amiodarone significantly decreases atrial fibrillation in patients undergoing surgery for lung cancer. Ann Thorac Surg  2012;94:339–44; discussion 345–6. https://doi.org/10.1016/j.athoracsur.2011.12.096
-Google ScholarCrossrefPubMedWorldCat 
+  
 841	Couffignal   C, Amour   J, Ait-Hamou   N, Cholley   B, Fellahi   JL, Duval   X, et al.   Timing of β-blocker reintroduction and the occurrence of postoperative atrial fibrillation after cardiac surgery: a prospective cohort study. Anesthesiology  2020;132:267–79. https://doi.org/10.1097/ALN.0000000000003064
-Google ScholarCrossrefPubMedWorldCat 
+  
 842	Piccini   JP, Ahlsson   A, Dorian   P, Gillinov   MA, Kowey   PR, Mack   MJ, et al.   Design and rationale of a phase 2 study of NeurOtoxin (Botulinum Toxin Type A) for the PreVention of post-operative atrial fibrillation—the NOVA study. Am Heart J  2022;245:51–9. https://doi.org/10.1016/j.ahj.2021.10.114
-Google ScholarCrossrefPubMedWorldCat 
+  
 843	O’Brien   B, Burrage   PS, Ngai   JY, Prutkin   JM, Huang   CC, Xu   X, et al.   Society of Cardiovascular Anesthesiologists/European Association of Cardiothoracic Anaesthetists Practice Advisory for the management of perioperative atrial fibrillation in patients undergoing cardiac surgery. J Cardiothorac Vasc Anesth  2019;33:12–26. https://doi.org/10.1053/j.jvca.2018.09.039
-Google ScholarCrossrefPubMedWorldCat 
+  
 844	Gaudino   M, Sanna   T, Ballman   KV, Robinson   NB, Hameed   I, Audisio   K, et al.   Posterior left pericardiotomy for the prevention of atrial fibrillation after cardiac surgery: an adaptive, single-centre, single-blind, randomised, controlled trial. Lancet  2021;398:2075–83. https://doi.org/10.1016/S0140-6736(21)02490-9
-Google ScholarCrossrefPubMedWorldCat 
+  
 845	Abdelaziz   A, Hafez   AH, Elaraby   A, Roshdy   MR, Abdelaziz   M, Eltobgy   MA, et al.   Posterior pericardiotomy for the prevention of atrial fibrillation after cardiac surgery: a systematic review and meta-analysis of 25 randomised controlled trials. EuroIntervention  2023;19:e305–17. https://doi.org/10.4244/EIJ-D-22-00948
-Google ScholarCrossrefPubMedWorldCat 
+  
 846	Soletti   GJ, Perezgrovas-Olaria   R, Harik   L, Rahouma   M, Dimagli   A, Alzghari   T, et al.   Effect of posterior pericardiotomy in cardiac surgery: a systematic review and meta-analysis of randomized controlled trials. Front Cardiovasc Med  2022;9:1090102. https://doi.org/10.3389/fcvm.2022.1090102
-Google ScholarCrossrefPubMedWorldCat 
+  
 847	Conen   D, Ke Wang   M, Popova   E, Chan   MTV, Landoni   G, Cata   JP, et al.   Effect of colchicine on perioperative atrial fibrillation and myocardial injury after non-cardiac surgery in patients undergoing major thoracic surgery (COP-AF): an international randomised trial. Lancet  2023;402:1627–35. https://doi.org/10.1016/S0140-6736(23)01689-6
-Google ScholarCrossrefPubMedWorldCat 
+  
 848	Fragão-Marques   M, Teixeira   F, Mancio   J, Seixas   N, Rocha-Neves   J, Falcão-Pires   I, et al.   Impact of oral anticoagulation therapy on postoperative atrial fibrillation outcomes: a systematic review and meta-analysis. Thromb J  2021;19:89. https://doi.org/10.1186/s12959-021-00342-2
-Google ScholarCrossrefPubMedWorldCat 
+  
 849	Neves   IA, Magalhães   A, Lima da Silva   G, Almeida   AG, Borges   M, Costa   J, et al.   Anticoagulation therapy in patients with post-operative atrial fibrillation: systematic review with meta-analysis. Vascul Pharmacol  2022;142:106929. https://doi.org/10.1016/j.vph.2021.106929
-Google ScholarCrossrefPubMedWorldCat 
+  
 850	Daoud   EG, Strickberger   SA, Man   KC, Goyal   R, Deeb   GM, Bolling   SF, et al.   Preoperative amiodarone as prophylaxis against atrial fibrillation after heart surgery. N Engl J Med  1997;337:1785–91. https://doi.org/10.1056/NEJM199712183372501
-Google ScholarCrossrefPubMedWorldCat 
+  
 851	Yagdi   T, Nalbantgil   S, Ayik   F, Apaydin   A, Islamoglu   F, Posacioglu   H, et al.   Amiodarone reduces the incidence of atrial fibrillation after coronary artery bypass grafting. J Thorac Cardiovasc Surg  2003;125:1420–5. https://doi.org/10.1016/S0022-5223(02)73292-3
-Google ScholarCrossrefPubMedWorldCat 
+  
 852	Butt   JH, Xian   Y, Peterson   ED, Olsen   PS, Rorth   R, Gundlund   A, et al.   Long-term thromboembolic risk in patients with postoperative atrial fibrillation after coronary artery bypass graft surgery and patients with nonvalvular atrial fibrillation. JAMA Cardiol  2018;3:417–24. https://doi.org/10.1001/jamacardio.2018.0405
-Google ScholarCrossrefPubMedWorldCat 
+  
 853	Gialdini   G, Nearing   K, Bhave   PD, Bonuccelli   U, Iadecola   C, Healey   JS, et al.   Perioperative atrial fibrillation and the long-term risk of ischemic stroke. JAMA  2014;312:616–22. https://doi.org/10.1001/jama.2014.9143
-Google ScholarCrossrefPubMedWorldCat 
+  
 854	Horwich   P, Buth   KJ, Legare   JF. New onset postoperative atrial fibrillation is associated with a long-term risk for stroke and death following cardiac surgery. J Card Surg  2013;28:8–13. https://doi.org/10.1111/jocs.12033
-Google ScholarCrossrefPubMedWorldCat 
+  
 855	Devereaux   PJ, Yang   H, Yusuf   S, Guyatt   G, Leslie   K, et al.   Effects of extended-release metoprolol succinate in patients undergoing non-cardiac surgery (POISE trial): a randomised controlled trial. Lancet  2008;371:1839–47. https://doi.org/10.1016/S0140-6736(08)60601-7
 Google ScholarPubMedWorldCat 
 856	Hart   RG, Diener   HC, Coutts   SB, Easton   JD, Granger   CB, O’Donnell   MJ, et al.   Embolic strokes of undetermined source: the case for a new clinical construct. Lancet Neurol  2014;13:429–38. https://doi.org/10.1016/S1474-4422(13)70310-7
-Google ScholarCrossrefPubMedWorldCat 
+  
 857	Sanna   T, Diener   HC, Passman   RS, Di Lazzaro   V, Bernstein   RA, Morillo   CA, et al.   Cryptogenic stroke and underlying atrial fibrillation. N Engl J Med  2014;370:2478–86. https://doi.org/10.1056/NEJMoa1313600
-Google ScholarCrossrefPubMedWorldCat 
+  
 858	Rubiera   M, Aires   A, Antonenko   K, Lémeret   S, Nolte   CH, Putaala   J, et al.   European Stroke Organisation (ESO) guideline on screening for subclinical atrial fibrillation after stroke or transient ischaemic attack of undetermined origin. Eur Stroke J  2022;7:VI. https://doi.org/10.1177/23969873221099478
-Google ScholarCrossrefPubMedWorldCat 
+  
 859	von Falkenhausen   AS, Feil   K, Sinner   MF, Schönecker   S, Müller   J, Wischmann   J, et al.   Atrial fibrillation risk assessment after embolic stroke of undetermined source. Ann Neurol  2023;93:479–88. https://doi.org/10.1002/ana.26545
-Google ScholarCrossrefPubMedWorldCat 
+  
 860	Gladstone   DJ, Spring   M, Dorian   P, Panzov   V, Thorpe   KE, Hall   J, et al.   Atrial fibrillation in patients with cryptogenic stroke. N Engl J Med  2014;370:2467–77. https://doi.org/10.1056/NEJMoa1311376
-Google ScholarCrossrefPubMedWorldCat 
+  
 861	Wachter   R, Gröschel   K, Gelbrich   G, Hamann   GF, Kermer   P, Liman   J, et al.   Holter-electrocardiogram-monitoring in patients with acute ischaemic stroke (Find-AF(RANDOMISED)): an open-label randomised controlled trial. Lancet Neurol  2017;16:282–90. https://doi.org/10.1016/S1474-4422(17)30002-9
-Google ScholarCrossrefPubMedWorldCat 
+  
 862	Buck   BH, Hill   MD, Quinn   FR, Butcher   KS, Menon   BK, Gulamhusein   S, et al.   Effect of implantable vs prolonged external electrocardiographic monitoring on atrial fibrillation detection in patients with ischemic stroke: the PER DIEM randomized clinical trial. JAMA  2021;325:2160–8. https://doi.org/10.1001/jama.2021.6128
-Google ScholarCrossrefPubMedWorldCat 
+  
 863	Bernstein   RA, Kamel   H, Granger   CB, Piccini   JP, Sethi   PP, Katz   JM, et al.   Effect of long-term continuous cardiac monitoring vs usual care on detection of atrial fibrillation in patients with stroke attributed to large- or small-vessel disease: the STROKE-AF randomized clinical trial. JAMA  2021;325:2169–77. https://doi.org/10.1001/jama.2021.6470
-Google ScholarCrossrefPubMedWorldCat 
+  
 864	Tsivgoulis   G, Katsanos   AH, Köhrmann   M, Caso   V, Perren   F, Palaiodimou   L, et al.   Duration of implantable cardiac monitoring and detection of atrial fibrillation in ischemic stroke patients: a systematic review and meta-analysis. J Stroke  2019;21:302–11. https://doi.org/10.5853/jos.2019.01067
-Google ScholarCrossrefPubMedWorldCat 
+  
 865	Sagris   D, Harrison   SL, Buckley   BJR, Ntaios   G, Lip   GYH. Long-term cardiac monitoring after embolic stroke of undetermined source: search longer, look harder. Am J Med  2022;135:e311–7. https://doi.org/10.1016/j.amjmed.2022.04.030
-Google ScholarCrossrefPubMedWorldCat 
+  
 866	Liantinioti   C, Palaiodimou   L, Tympas   K, Parissis   J, Theodorou   A, Ikonomidis   I, et al.   Potential utility of neurosonology in paroxysmal atrial fibrillation detection in patients with cryptogenic stroke. J Clin Med  2019;8:2002. https://doi.org/10.3390/jcm8112002
-Google ScholarCrossrefPubMedWorldCat 
+  
 867	Tsivgoulis   G, Katsanos   AH, Grory   BM, Köhrmann   M, Ricci   BA, Tsioufis   K, et al.   Prolonged cardiac rhythm monitoring and secondary stroke prevention in patients with cryptogenic cerebral ischemia. Stroke  2019;50:2175–80. https://doi.org/10.1161/STROKEAHA.119.025169
-Google ScholarCrossrefPubMedWorldCat 
+  
 868	Favilla   CG, Ingala   E, Jara   J, Fessler   E, Cucchiara   B, Messé   SR, et al.   Predictors of finding occult atrial fibrillation after cryptogenic stroke. Stroke  2015;46:1210–5. https://doi.org/10.1161/STROKEAHA.114.007763
-Google ScholarCrossrefPubMedWorldCat 
+  
 869	Lip   GY, Nielsen   PB. Should patients with atrial fibrillation and 1 stroke risk factor (CHA2DS2-VASc score 1 in men, 2 in women) be anticoagulated? Yes: even 1 stroke risk factor confers a real risk of stroke. Circulation  2016;133:1498–503; discussion 1503. https://doi.org/10.1161/CIRCULATIONAHA.115.016713
-Google ScholarCrossrefPubMedWorldCat 
+  
 870	Ricci   B, Chang   AD, Hemendinger   M, Dakay   K, Cutting   S, Burton   T, et al.   A simple score that predicts paroxysmal atrial fibrillation on outpatient cardiac monitoring after embolic stroke of unknown source. J Stroke Cerebrovasc Dis  2018;27:1692–6. https://doi.org/10.1016/j.jstrokecerebrovasdis.2018.01.028
-Google ScholarCrossrefPubMedWorldCat 
+  
 871	Kwong   C, Ling   AY, Crawford   MH, Zhao   SX, Shah   NH. A clinical score for predicting atrial fibrillation in patients with cryptogenic stroke or transient ischemic attack. Cardiology  2017;138:133–40. https://doi.org/10.1159/000476030
-Google ScholarCrossrefPubMedWorldCat 
+  
 872	Li   YG, Bisson   A, Bodin   A, Herbert   J, Grammatico-Guillon   L, Joung   B, et al.   C(2) HEST score and prediction of incident atrial fibrillation in poststroke patients: a French nationwide study. J Am Heart Assoc  2019;8:e012546. https://doi.org/10.1161/JAHA.119.012546
-Google ScholarCrossrefPubMedWorldCat 
+  
 873	Haeusler   KG, Gröschel   K, Köhrmann   M, Anker   SD, Brachmann   J, Böhm   M, et al.   Expert opinion paper on atrial fibrillation detection after ischemic stroke. Clin Res Cardiol  2018;107:871–80. https://doi.org/10.1007/s00392-018-1256-9
-Google ScholarCrossrefPubMedWorldCat 
+  
 874	Dilaveris   PE, Antoniou   CK, Caiani   EG, Casado-Arroyo   R, Climent   A, Cluitmans   M, et al.   ESC working group on e-cardiology position paper: accuracy and reliability of electrocardiogram monitoring in the detection of atrial fibrillation in cryptogenic stroke patients: in collaboration with the Council on Stroke, the European Heart Rhythm Association, and the Digital Health Committee. Eur Heart J Digit Health  2022;3:341–58. https://doi.org/10.1093/ehjdh/ztac026
-Google ScholarCrossrefPubMedWorldCat 
+  
 875	Diener   HC, Sacco   RL, Easton   JD, Granger   CB, Bernstein   RA, Uchiyama   S, et al.   Dabigatran for prevention of stroke after embolic stroke of undetermined source. N Engl J Med  2019;380:1906–17. https://doi.org/10.1056/NEJMoa1813959
-Google ScholarCrossrefPubMedWorldCat 
+  
 876	Hart   RG, Sharma   M, Mundl   H, Kasner   SE, Bangdiwala   SI, Berkowitz   SD, et al.   Rivaroxaban for stroke prevention after embolic stroke of undetermined source. N Engl J Med  2018;378:2191–201. https://doi.org/10.1056/NEJMoa1802686
-Google ScholarCrossrefPubMedWorldCat 
+  
 877	Poli   S, Meissner   C, Baezner   HJ, Kraft   A, Hillenbrand   F, Hobohm   C, et al.   Apixaban for treatment of embolic stroke of undetermined source (ATTICUS) randomized trial—update of patient characteristics and study timeline after interim analysis. Eur Heart J  2021;42:ehab724.2070. https://doi.org/10.1093/eurheartj/ehab724.2070
-Google ScholarCrossrefWorldCat 
+  
 878	Vaidya   VR, Arora   S, Patel   N, Badheka   AO, Patel   N, Agnihotri   K, et al.   Burden of arrhythmia in pregnancy. Circulation  2017;135:619–21. https://doi.org/10.1161/CIRCULATIONAHA.116.026681
-Google ScholarCrossrefPubMedWorldCat 
+  
 879	Lee   MS, Chen   W, Zhang   Z, Duan   L, Ng   A, Spencer   HT, et al.   Atrial fibrillation and atrial flutter in pregnant women—a population-based study. J Am Heart Assoc  2016;5:e003182. https://doi.org/10.1161/JAHA.115.003182
-Google ScholarCrossrefPubMedWorldCat 
+  
 880	Tamirisa   KP, Elkayam   U, Briller   JE, Mason   PK, Pillarisetti   J, Merchant   FM, et al.   Arrhythmias in pregnancy. JACC Clin Electrophysiol  2022;8:120–35. https://doi.org/10.1016/j.jacep.2021.10.004
-Google ScholarCrossrefPubMedWorldCat 
+  
 881	Salam   AM, Ertekin   E, van Hagen   IM, Al Suwaidi   J, Ruys   TPE, Johnson   MR, et al.   Atrial fibrillation or flutter during pregnancy in patients with structural heart disease: data from the ROPAC (Registry on Pregnancy and Cardiac Disease). JACC Clin Electrophysiol  2015;1:284–92. https://doi.org/10.1016/j.jacep.2015.04.013
-Google ScholarCrossrefPubMedWorldCat 
+  
 882	Chokesuwattanaskul   R, Thongprayoon   C, Bathini   T, O’Corragain   OA, Sharma   K, Prechawat   S, et al.   Incidence of atrial fibrillation in pregnancy and clinical significance: a meta-analysis. Adv Med Sci  2019;64:415–22. https://doi.org/10.1016/j.advms.2019.07.003
-Google ScholarCrossrefPubMedWorldCat 
+  
 883	Tamirisa   KP, Dye   C, Bond   RM, Hollier   LM, Marinescu   K, Vaseghi   M, et al.   Arrhythmias and heart failure in pregnancy: a dialogue on multidisciplinary collaboration. J Cardiovasc Dev Dis  2022;9:199. https://doi.org/10.3390/jcdd9070199
 Google ScholarPubMedWorldCat 
 884	Al Bahhawi   T, Aqeeli   A, Harrison   SL, Lane   DA, Skjøth   F, Buchan   I, et al.   Pregnancy-related complications and incidence of atrial fibrillation: a systematic review. J Clin Med  2023;12:1316. https://doi.org/10.3390/jcm12041316
-Google ScholarCrossrefPubMedWorldCat 
+  
 885	Regitz-Zagrosek   V, Roos-Hesselink   JW, Bauersachs   J, Blomstrom-Lundqvist   C, Cifkova   R, De Bonis   M, et al.   2018 ESC Guidelines for the management of cardiovascular diseases during pregnancy. Eur Heart J  2018;39:3165–241. https://doi.org/10.1093/eurheartj/ehy340
-Google ScholarCrossrefPubMedWorldCat 
+  
 886	Areia   AL, Mota-Pinto   A. Experience with direct oral anticoagulants in pregnancy—a systematic review. J Perinat Med  2022;50:457–61. https://doi.org/10.1515/jpm-2021-0457
-Google ScholarCrossrefPubMedWorldCat 
+  
 887	Ueberham   L, Hindricks   G. Anticoagulation in special patient populations with atrial fibrillation. Herz  2021;46:323–8. https://doi.org/10.1007/s00059-021-05042-1
-Google ScholarCrossrefPubMedWorldCat 
+  
 888	Bateman   BT, Heide-Jørgensen   U, Einarsdóttir   K, Engeland   A, Furu   K, Gissler   M, et al.   β-Blocker use in pregnancy and the risk for congenital malformations: an international cohort study. Ann Intern Med  2018;169:665–73. https://doi.org/10.7326/M18-0338
-Google ScholarCrossrefPubMedWorldCat 
+  
 889	Butters   L, Kennedy   S, Rubin   PC. Atenolol in essential hypertension during pregnancy. BMJ  1990;301:587–9. https://doi.org/10.1136/bmj.301.6752.587
-Google ScholarCrossrefPubMedWorldCat 
+  
 890	Ramlakhan   KP, Kauling   RM, Schenkelaars   N, Segers   D, Yap   SC, Post   MC, et al.   Supraventricular arrhythmia in pregnancy. Heart  2022;108:1674–81. https://doi.org/10.1136/heartjnl-2021-320451
-Google ScholarCrossrefPubMedWorldCat 
+  
 891	Katritsis   DG, Boriani   G, Cosio   FG, Hindricks   G, Jais   P, Josephson   ME, et al.   European Heart Rhythm Association (EHRA) consensus document on the management of supraventricular arrhythmias, endorsed by Heart Rhythm Society (HRS), Asia-Pacific Heart Rhythm Society (APHRS), and Sociedad Latinoamericana de Estimulacion Cardiaca y Electrofisiologia (SOLAECE). Eur Heart J  2017;19:465–511. https://doi.org/10.1093/europace/euw301
 Google ScholarWorldCat 
 892	Moore   JS, Teefey   P, Rao   K, Berlowitz   MS, Chae   SH, Yankowitz   J. Maternal arrhythmia: a case report and review of the literature. Obstet Gynecol Surv  2012;67:298–312. https://doi.org/10.1097/OGX.0b013e318253a76e
-Google ScholarCrossrefPubMedWorldCat 
+  
 893	Wang   YC, Chen   CH, Su   HY, Yu   MH. The impact of maternal cardioversion on fetal haemodynamics. Eur J Obstet Gynecol Reprod Biol  2006;126:268–9. https://doi.org/10.1016/j.ejogrb.2005.11.021
-Google ScholarCrossrefPubMedWorldCat 
+  
 894	European Heart Rhythm Association; European Association for Cardio-Thoracic Surgery; Camm   AJ, Kirchhof   P, Lip   GY, Schotten   U, et al.   Guidelines for the management of atrial fibrillation: the Task Force for the Management of Atrial Fibrillation of the European Society of Cardiology (ESC). Eur Heart J  2010;31:2369–429. https://doi.org/10.1093/eurheartj/ehq278
 Google ScholarPubMedWorldCat 
 895	Kockova   R, Kocka   V, Kiernan   T, Fahy   GJ. Ibutilide-induced cardioversion of atrial fibrillation during pregnancy. J Cardiovasc Electrophysiol  2007;18:545–7. https://doi.org/10.1111/j.1540-8167.2006.00752.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 896	Georgiopoulos   G, Tsiachris   D, Kordalis   A, Kontogiannis   C, Spartalis   M, Pietri   P, et al.   Pharmacotherapeutic strategies for atrial fibrillation in pregnancy. Expert Opin Pharmacother  2019;20:1625–36. https://doi.org/10.1080/14656566.2019.1621290
-Google ScholarCrossrefPubMedWorldCat 
+  
 897	Jensen   AS, Idorn   L, Nørager   B, Vejlstrup   N, Sondergaard   L. Anticoagulation in adults with congenital heart disease: the who, the when and the how?  Heart  2015;101:424–9. https://doi.org/10.1136/heartjnl-2014-305576
-Google ScholarCrossrefPubMedWorldCat 
+  
 898	Pujol   C, Niesert   AC, Engelhardt   A, Schoen   P, Kusmenkov   E, Pittrow   D, et al.   Usefulness of direct oral anticoagulants in adult congenital heart disease. Am J Cardiol  2016;117:450–5. https://doi.org/10.1016/j.amjcard.2015.10.062
-Google ScholarCrossrefPubMedWorldCat 
+  
 899	Yang   H, Bouma   BJ, Dimopoulos   K, Khairy   P, Ladouceur   M, Niwa   K, et al.   Non-vitamin K antagonist oral anticoagulants (NOACs) for thromboembolic prevention, are they safe in congenital heart disease? Results of a worldwide study. Int J Cardiol  2020;299:123–30. https://doi.org/10.1016/j.ijcard.2019.06.014
-Google ScholarCrossrefPubMedWorldCat 
+  
 900	Renda   G, Ricci   F, Giugliano   RP, De Caterina   R. Non-vitamin K antagonist oral anticoagulants in patients with atrial fibrillation and valvular heart disease. J Am Coll Cardiol  2017;69:1363–71. https://doi.org/10.1016/j.jacc.2016.12.038
-Google ScholarCrossrefPubMedWorldCat 
+  
 901	Caldeira   D, David   C, Costa   J, Ferreira   JJ, Pinto   FJ. Non-vitamin K antagonist oral anticoagulants in patients with atrial fibrillation and valvular heart disease: systematic review and meta-analysis. Eur Heart J Cardiovasc Pharmacother  2018;4:111–8. https://doi.org/10.1093/ehjcvp/pvx028
-Google ScholarCrossrefPubMedWorldCat 
+  
 902	Ammash   NM, Phillips   SD, Hodge   DO, Connolly   HM, Grogan   MA, Friedman   PA, et al.   Outcome of direct current cardioversion for atrial arrhythmias in adults with congenital heart disease. Int J Cardiol  2012;154:270–4. https://doi.org/10.1016/j.ijcard.2010.09.028
-Google ScholarCrossrefPubMedWorldCat 
+  
 903	Feltes   TF, Friedman   RA. Transesophageal echocardiographic detection of atrial thrombi in patients with nonfibrillation atrial tachyarrhythmias and congenital heart disease. J Am Coll Cardiol  1994;24:1365–70. https://doi.org/10.1016/0735-1097(94)90121-X
-Google ScholarCrossrefPubMedWorldCat 
+  
 904	Roos-Hesselink   JW, Meijboom   FJ, Spitaels   SE, van Domburg   R, van Rijen   EH, Utens   EM, et al.   Excellent survival and low incidence of arrhythmias, stroke and heart failure long-term after surgical ASD closure at young age. A prospective follow-up study of 21–33 years. Eur Heart J  2003;24:190–7. https://doi.org/10.1016/S0195-668X(02)00383-4
-Google ScholarCrossrefPubMedWorldCat 
+  
 905	Mas   JL, Derumeaux   G, Guillon   B, Massardier   E, Hosseini   H, Mechtouff   L, et al.   Patent foramen ovale closure or anticoagulation vs. antiplatelets after stroke. N Engl J Med  2017;377:1011–21. https://doi.org/10.1056/NEJMoa1705915
-Google ScholarCrossrefPubMedWorldCat 
+  
 906	Gutierrez   SD, Earing   MG, Singh   AK, Tweddell   JS, Bartz   PJ. Atrial tachyarrhythmias and the Cox-Maze procedure in congenital heart disease. Congenit Heart Dis  2013;8:434–9. https://doi.org/10.1111/chd.12031
 Google ScholarPubMedWorldCat 
 907	Kobayashi   J, Yamamoto   F, Nakano   K, Sasako   Y, Kitamura   S, Kosakai   Y. Maze procedure for atrial fibrillation associated with atrial septal defect. Circulation  1998;98:II399–402.
-Google ScholarCrossrefPubMedWorldCat 
+  
 908	Shim   H, Yang   JH, Park   PW, Jeong   DS, Jun   TG. Efficacy of the Maze procedure for atrial fibrillation associated with atrial septal defect. Korean J Thorac Cardiovasc Surg  2013;46:98–103. https://doi.org/10.5090/kjtcs.2013.46.2.98
-Google ScholarCrossrefPubMedWorldCat 
+  
 909	Sherwin   ED, Triedman   JK, Walsh   EP. Update on interventional electrophysiology in congenital heart disease: evolving solutions for complex hearts. Circ Arrhythm Electrophysiol  2013;6:1032–40. https://doi.org/10.1161/CIRCEP.113.000313
-Google ScholarCrossrefPubMedWorldCat 
+  
 910	Chiha   M, Samarasinghe   S, Kabaker   AS. Thyroid storm: an updated review. J Intensive Care Med  2015;30:131–40. https://doi.org/10.1177/0885066613498053
-Google ScholarCrossrefPubMedWorldCat 
+  
 911	Y-Hassan   S, Falhammar   H. Cardiovascular manifestations and complications of pheochromocytomas and paragangliomas. J Clin Med  2020;9:2435. https://doi.org/10.3390/jcm9082435
-Google ScholarCrossrefPubMedWorldCat 
+  
 912	Baumgartner   C, da Costa   BR, Collet   TH, Feller   M, Floriani   C, Bauer   DC, et al.   Thyroid function within the normal range, subclinical hypothyroidism, and the risk of atrial fibrillation. Circulation  2017;136:2100–16. https://doi.org/10.1161/CIRCULATIONAHA.117.028753
-Google ScholarCrossrefPubMedWorldCat 
+  
 913	Huang   M, Yang   S, Ge   G, Zhi   H, Wang   L. Effects of thyroid dysfunction and the thyroid-stimulating hormone levels on the risk of atrial fibrillation: a systematic review and dose-response meta-analysis from cohort studies. Endocr Pract  2022;28:822–31. https://doi.org/10.1016/j.eprac.2022.05.008
-Google ScholarCrossrefPubMedWorldCat 
+  
 914	Shin   DG, Kang   MK, Han   D, Choi   S, Cho   JR, Lee   N. Enlarged left atrium and decreased left atrial strain are associated with atrial fibrillation in patients with hyperthyroidism irrespective of conventional risk factors. Int J Cardiovasc Imaging  2022;38:613–20. https://doi.org/10.1007/s10554-021-02450-6
-Google ScholarCrossrefPubMedWorldCat 
+  
 915	Sawin   CT, Geller   A, Wolf   PA, Belanger   AJ, Baker   E, Bacharach   P, et al.   Low serum thyrotropin concentrations as a risk factor for atrial fibrillation in older persons. N Engl J Med  1994;331:1249–52. https://doi.org/10.1056/NEJM199411103311901
-Google ScholarCrossrefPubMedWorldCat 
+  
 916	Lyon   AR, López-Fernández   T, Couch   LS, Asteggiano   R, Aznar   MC, Bergler-Klein   J, et al.   2022 ESC Guidelines on cardio-oncology developed in collaboration with the European Hematology Association (EHA), the European Society for Therapeutic Radiology and Oncology (ESTRO) and the International Cardio-Oncology Society (IC-OS). Eur Heart J  2022;43:4229–361. https://doi.org/10.1093/eurheartj/ehac244
-Google ScholarCrossrefPubMedWorldCat 
+  
 917	El Sabbagh   R, Azar   NS, Eid   AA, Azar   ST. Thyroid dysfunctions due to immune checkpoint inhibitors: a review. Int J Gen Med  2020;13:1003–9. https://doi.org/10.2147/IJGM.S261433
-Google ScholarCrossrefPubMedWorldCat 
+  
 918	Gammage   MD, Parle   JV, Holder   RL, Roberts   LM, Hobbs   FD, Wilson   S, et al.   Association between serum free thyroxine concentration and atrial fibrillation. Arch Intern Med  2007;167:928–34. https://doi.org/10.1001/archinte.167.9.928
-Google ScholarCrossrefPubMedWorldCat 
+  
 919	Selmer   C, Olesen   JB, Hansen   ML, Lindhardsen   J, Olsen   AM, Madsen   JC, et al.   The spectrum of thyroid disease and risk of new onset atrial fibrillation: a large population cohort study. BMJ  2012;345:e7895. https://doi.org/10.1136/bmj.e7895
-Google ScholarCrossrefPubMedWorldCat 
+  
 920	Kim   K, Yang   PS, Jang   E, Yu   HT, Kim   TH, Uhm   JS, et al.   Increased risk of ischemic stroke and systemic embolism in hyperthyroidism-related atrial fibrillation: a nationwide cohort study. Am Heart J  2021;242:123–31. https://doi.org/10.1016/j.ahj.2021.08.018
-Google ScholarCrossrefPubMedWorldCat 
+  
 921	Zhang   J, Bisson   A, Fauchier   G, Bodin   A, Herbert   J, Ducluzeau   PH, et al.   Yearly incidence of stroke and bleeding in atrial fibrillation with concomitant hyperthyroidism: a national discharge database study. J Clin Med  2022;11:1342. https://doi.org/10.3390/jcm11051342
-Google ScholarCrossrefPubMedWorldCat 
+  
 922	Bartalena   L, Bogazzi   F, Chiovato   L, Hubalewska-Dydejczyk   A, Links   TP, Vanderpump   M. 2018 European Thyroid Association (ETA) guidelines for the management of amiodarone-associated thyroid dysfunction. Eur Thyroid J  2018;7:55–66. https://doi.org/10.1159/000486957
-Google ScholarCrossrefPubMedWorldCat 
+  
 923	Cappellani   D, Papini   P, Di Certo   AM, Morganti   R, Urbani   C, Manetti   L, et al.   Duration of exposure to thyrotoxicosis increases mortality of compromised AIT patients: the role of early thyroidectomy. J Clin Endocrinol Metab  2020;105:dgaa464. https://doi.org/10.1210/clinem/dgaa464
-Google ScholarCrossrefPubMedWorldCat 
+  
 924	Trevisan   C, Piovesan   F, Lucato   P, Zanforlini   BM, De Rui   M, Maggi   S, et al.   Parathormone, vitamin D and the risk of atrial fibrillation in older adults: a prospective study. Nutr Metab Cardiovasc Dis  2019;29:939–45. https://doi.org/10.1016/j.numecd.2019.05.064
-Google ScholarCrossrefPubMedWorldCat 
+  
 925	Pepe   J, Cipriani   C, Curione   M, Biamonte   F, Colangelo   L, Danese   V, et al.   Reduction of arrhythmias in primary hyperparathyroidism, by parathyroidectomy, evaluated with 24-h ECG monitoring. Eur J Endocrinol  2018;179:117–24. https://doi.org/10.1530/EJE-17-0948
-Google ScholarCrossrefPubMedWorldCat 
+  
 926	Pepe   J, Cipriani   C, Sonato   C, Raimo   O, Biamonte   F, Minisola   S. Cardiovascular manifestations of primary hyperparathyroidism: a narrative review. Eur J Endocrinol  2017;177:R297–308. https://doi.org/10.1530/EJE-17-0485
-Google ScholarCrossrefPubMedWorldCat 
+  
 927	Monticone   S, D’Ascenzo   F, Moretti   C, Williams   TA, Veglio   F, Gaita   F, et al.   Cardiovascular events and target organ damage in primary aldosteronism compared with essential hypertension: a systematic review and meta-analysis. Lancet Diabetes Endocrinol  2018;6:41–50. https://doi.org/10.1016/S2213-8587(17)30319-4
-Google ScholarCrossrefPubMedWorldCat 
+  
 928	Bollati   M, Lopez   C, Bioletto   F, Ponzetto   F, Ghigo   E, Maccario   M, et al.   Atrial fibrillation and aortic ectasia as complications of primary aldosteronism: focus on pathophysiological aspects. Int J Mol Sci  2022;23:2111. https://doi.org/10.3390/ijms23042111
-Google ScholarCrossrefPubMedWorldCat 
+  
 929	Kim   KJ, Hong   N, Yu   MH, Lee   H, Lee   S, Lim   JS, et al.   Time-dependent risk of atrial fibrillation in patients with primary aldosteronism after medical or surgical treatment initiation. Hypertension  2021;77:1964–73. https://doi.org/10.1161/HYPERTENSIONAHA.120.16909
-Google ScholarCrossrefPubMedWorldCat 
+  
 930	Larsson   SC, Lee   WH, Burgess   S, Allara   E. Plasma cortisol and risk of atrial fibrillation: a Mendelian randomization study. J Clin Endocrinol Metab  2021;106:e2521–6. https://doi.org/10.1210/clinem/dgab219
-Google ScholarCrossrefPubMedWorldCat 
+  
 931	Di Dalmazi   G, Vicennati   V, Pizzi   C, Mosconi   C, Tucci   L, Balacchi   C, et al.   Prevalence and incidence of atrial fibrillation in a large cohort of adrenal incidentalomas: a long-term study. J Clin Endocrinol Metab  2020;105:dgaa270. https://doi.org/10.1210/clinem/dgaa270
 Google ScholarWorldCat 
 932	Hong   S, Kim   KS, Han   K, Park   CY. Acromegaly and cardiovascular outcomes: a cohort study. Eur Heart J  2022;43:1491–9. https://doi.org/10.1093/eurheartj/ehab822
-Google ScholarCrossrefPubMedWorldCat 
+  
 933	Polina   I, Jansen   HJ, Li   T, Moghtadaei   M, Bohne   LJ, Liu   Y, et al.   Loss of insulin signaling may contribute to atrial fibrillation and atrial electrical remodeling in type 1 diabetes. Proc Natl Acad Sci USA  2020;117:7990–8000. https://doi.org/10.1073/pnas.1914853117
-Google ScholarCrossrefPubMedWorldCat 
+  
 934	Lee   YB, Han   K, Kim   B, Lee   SE, Jun   JE, Ahn   J, et al.   Risk of early mortality and cardiovascular disease in type 1 diabetes: a comparison with type 2 diabetes, a nationwide study. Cardiovasc Diabetol  2019;18:157. https://doi.org/10.1186/s12933-019-0953-7
-Google ScholarCrossrefPubMedWorldCat 
+  
 935	Bisson   A, Bodin   A, Fauchier   G, Herbert   J, Angoulvant   D, Ducluzeau   PH, et al.   Sex, age, type of diabetes and incidence of atrial fibrillation in patients with diabetes mellitus: a nationwide analysis. Cardiovasc Diabetol  2021;20:24. https://doi.org/10.1186/s12933-021-01216-7
-Google ScholarCrossrefPubMedWorldCat 
+  
 936	Dahlqvist   S, Rosengren   A, Gudbjörnsdottir   S, Pivodic   A, Wedel   H, Kosiborod   M, et al.   Risk of atrial fibrillation in people with type 1 diabetes compared with matched controls from the general population: a prospective case-control study. Lancet Diabetes Endocrinol  2017;5:799–807. https://doi.org/10.1016/S2213-8587(17)30262-0
-Google ScholarCrossrefPubMedWorldCat 
+  
 937	Cai   X, Li   J, Cai   W, Chen   C, Ma   J, Xie   Z, et al.   Meta-analysis of type 1 diabetes mellitus and risk of cardiovascular disease. J Diabetes Complications  2021;35:107833. https://doi.org/10.1016/j.jdiacomp.2020.107833
-Google ScholarCrossrefPubMedWorldCat 
+  
 938	Zellerhoff   S, Pistulli   R, Monnig   G, Hinterseer   M, Beckmann   BM, Kobe   J, et al.   Atrial arrhythmias in long-QT syndrome under daily life conditions: a nested case control study. J Cardiovasc Electrophysiol  2009;20:401–7. https://doi.org/10.1111/j.1540-8167.2008.01339.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 939	Johnson   JN, Tester   DJ, Perry   J, Salisbury   BA, Reed   CR, Ackerman   MJ. Prevalence of early-onset atrial fibrillation in congenital long QT syndrome. Heart Rhythm  2008;5:704–9. https://doi.org/10.1016/j.hrthm.2008.02.007
-Google ScholarCrossrefPubMedWorldCat 
+  
 940	Gaita   F, Giustetto   C, Bianchi   F, Wolpert   C, Schimpf   R, Riccardi   R, et al.   Short QT syndrome: a familial cause of sudden death. Circulation  2003;108:965–70. https://doi.org/10.1161/01.CIR.0000085071.28695.C4
-Google ScholarCrossrefPubMedWorldCat 
+  
 941	Borggrefe   M, Wolpert   C, Antzelevitch   C, Veltmann   C, Giustetto   C, Gaita   F, et al.   Short QT syndrome genotype-phenotype correlations. J Electrocardiol  2005;38:75–80. https://doi.org/10.1016/j.jelectrocard.2005.06.009
-Google ScholarCrossrefPubMedWorldCat 
+  
 942	Giustetto   C, Di Monte   F, Wolpert   C, Borggrefe   M, Schimpf   R, Sbragia   P, et al.   Short QT syndrome: clinical findings and diagnostic-therapeutic implications. Eur Heart J  2006;27:2440–7. https://doi.org/10.1093/eurheartj/ehl185
-Google ScholarCrossrefPubMedWorldCat 
+  
 943	Bordachar   P, Reuter   S, Garrigue   S, Cai   X, Hocini   M, Jais   P, et al.   Incidence, clinical implications and prognosis of atrial arrhythmias in Brugada syndrome. Eur Heart J  2004;25:879–84. https://doi.org/10.1016/j.ehj.2004.01.004
-Google ScholarCrossrefPubMedWorldCat 
+  
 944	Francis   J, Antzelevitch   C. Atrial fibrillation and Brugada syndrome. J Am Coll Cardiol  2008;51:1149–53. https://doi.org/10.1016/j.jacc.2007.10.062
-Google ScholarCrossrefPubMedWorldCat 
+  
 945	Giustetto   C, Schimpf   R, Mazzanti   A, Scrocco   C, Maury   P, Anttonen   O, et al.   Long-term follow-up of patients with short QT syndrome. J Am Coll Cardiol  2011;58:587–95. https://doi.org/10.1016/j.jacc.2011.03.038
-Google ScholarCrossrefPubMedWorldCat 
+  
 946	Gollob   MH, Redpath   CJ, Roberts   JD. The short QT syndrome: proposed diagnostic criteria. J Am Coll Cardiol  2011;57:802–12. https://doi.org/10.1016/j.jacc.2010.09.048
-Google ScholarCrossrefPubMedWorldCat 
+  
 947	Kusano   KF, Taniyama   M, Nakamura   K, Miura   D, Banba   K, Nagase   S, et al.   Atrial fibrillation in patients with Brugada syndrome relationships of gene mutation, electrophysiology, and clinical backgrounds. J Am Coll Cardiol  2008;51:1169–75. https://doi.org/10.1016/j.jacc.2007.10.060
-Google ScholarCrossrefPubMedWorldCat 
+  
 948	Rodriguez-Manero   M, Namdar   M, Sarkozy   A, Casado-Arroyo   R, Ricciardi   D, de Asmundis   C, et al.   Prevalence, clinical characteristics and management of atrial fibrillation in patients with Brugada syndrome. Am J Cardiol  2013;111:362–7. https://doi.org/10.1016/j.amjcard.2012.10.012
-Google ScholarCrossrefPubMedWorldCat 
+  
 949	Choi   YJ, Choi   EK, Han   KD, Jung   JH, Park   J, Lee   E, et al.   Temporal trends of the prevalence and incidence of atrial fibrillation and stroke among Asian patients with hypertrophic cardiomyopathy: a nationwide population-based study. Int J Cardiol  2018;273:130–5. https://doi.org/10.1016/j.ijcard.2018.08.038
-Google ScholarCrossrefPubMedWorldCat 
+  
 950	Hernandez-Ojeda   J, Arbelo   E, Borras   R, Berne   P, Tolosana   JM, Gomez-Juanatey   A, et al.   Patients with Brugada syndrome and implanted cardioverter-defibrillators: long-term follow-up. J Am Coll Cardiol  2017;70:1991–2002. https://doi.org/10.1016/j.jacc.2017.08.029
-Google ScholarCrossrefPubMedWorldCat 
+  
 951	Klopotowski   M, Kwapiszewska   A, Kukula   K, Jamiolkowski   J, Dabrowski   M, Derejko   P, et al.   Clinical and echocardiographic parameters as risk factors for atrial fibrillation in patients with hypertrophic cardiomyopathy. Clin Cardiol  2018;41:1336–40. https://doi.org/10.1002/clc.23050
-Google ScholarCrossrefPubMedWorldCat 
+  
 952	Rowin   EJ, Orfanos   A, Estes   NAM, Wang   W, Link   MS, Maron   MS, et al.   Occurrence and natural history of clinically silent episodes of atrial fibrillation in hypertrophic cardiomyopathy. Am J Cardiol  2017;119:1862–5. https://doi.org/10.1016/j.amjcard.2017.02.040
-Google ScholarCrossrefPubMedWorldCat 
+  
 953	Sacher   F, Probst   V, Maury   P, Babuty   D, Mansourati   J, Komatsu   Y, et al.   Outcome after implantation of a cardioverter-defibrillator in patients with Brugada syndrome: a multicenter study-part 2. Circulation  2013;128:1739–47. https://doi.org/10.1161/CIRCULATIONAHA.113.001941
-Google ScholarCrossrefPubMedWorldCat 
+  
 954	Siontis   KC, Geske   JB, Ong   K, Nishimura   RA, Ommen   SR, Gersh   BJ. Atrial fibrillation in hypertrophic cardiomyopathy: prevalence, clinical correlations, and mortality in a large high-risk population. J Am Heart Assoc  2014;3:e001002. https://doi.org/10.1161/JAHA.114.001002
-Google ScholarCrossrefPubMedWorldCat 
+  
 955	Sumitomo   N, Sakurada   H, Taniguchi   K, Matsumura   M, Abe   O, Miyashita   M, et al.   Association of atrial arrhythmia and sinus node dysfunction in patients with catecholaminergic polymorphic ventricular tachycardia. Circ J  2007;71:1606–9. https://doi.org/10.1253/circj.71.1606
-Google ScholarCrossrefPubMedWorldCat 
+  
 956	Sy   RW, Gollob   MH, Klein   GJ, Yee   R, Skanes   AC, Gula   LJ, et al.   Arrhythmia characterization and long-term outcomes in catecholaminergic polymorphic ventricular tachycardia. Heart Rhythm  2011;8:864–71. https://doi.org/10.1016/j.hrthm.2011.01.048
-Google ScholarCrossrefPubMedWorldCat 
+  
 957	van Velzen   HG, Theuns   DA, Yap   SC, Michels   M, Schinkel   AF. Incidence of device-detected atrial fibrillation and long-term outcomes in patients with hypertrophic cardiomyopathy. Am J Cardiol  2017;119:100–5. https://doi.org/10.1016/j.amjcard.2016.08.092
-Google ScholarCrossrefPubMedWorldCat 
+  
 958	Bourfiss   M, Te Riele   AS, Mast   TP, Cramer   MJ, Van Der Heijden   J, Van Veen   TAB, et al.   Influence of genotype on structural atrial abnormalities and atrial fibrillation or flutter in arrhythmogenic right ventricular dysplasia/cardiomyopathy. J Cardiovasc Electrophysiol  2016;27:1420–8. https://doi.org/10.1111/jce.13094
-Google ScholarCrossrefPubMedWorldCat 
+  
 959	Camm   CF, James   CA, Tichnell   C, Murray   B, Bhonsale   A, te Riele   AS, et al.   Prevalence of atrial arrhythmias in arrhythmogenic right ventricular dysplasia/cardiomyopathy. Heart Rhythm  2013;10:1661–8. https://doi.org/10.1016/j.hrthm.2013.08.032
-Google ScholarCrossrefPubMedWorldCat 
+  
 960	Chu   AF, Zado   E, Marchlinski   FE. Atrial arrhythmias in patients with arrhythmogenic right ventricular cardiomyopathy/dysplasia and ventricular tachycardia. Am J Cardiol  2010;106:720–2. https://doi.org/10.1016/j.amjcard.2010.04.031
-Google ScholarCrossrefPubMedWorldCat 
+  
 961	Hasselberg   NE, Haland   TF, Saberniak   J, Brekke   PH, Berge   KE, Leren   TP, et al.   Lamin A/C cardiomyopathy: young onset, high penetrance, and frequent need for heart transplantation. Eur Heart J  2018;39:853–60. https://doi.org/10.1093/eurheartj/ehx596
-Google ScholarCrossrefPubMedWorldCat 
+  
 962	Kumar   S, Baldinger   SH, Gandjbakhch   E, Maury   P, Sellal   JM, Androulakis   AF, et al.   Long-term arrhythmic and nonarrhythmic outcomes of lamin A/C mutation carriers. J Am Coll Cardiol  2016;68:2299–307. https://doi.org/10.1016/j.jacc.2016.08.058
-Google ScholarCrossrefPubMedWorldCat 
+  
 963	Mussigbrodt   A, Knopp   H, Efimova   E, Weber   A, Bertagnolli   L, Hilbert   S, et al.   Supraventricular arrhythmias in patients with arrhythmogenic right ventricular dysplasia/cardiomyopathy associate with long-term outcome after catheter ablation of ventricular tachycardias. Europace  2018;20:1182–7. https://doi.org/10.1093/europace/eux179
-Google ScholarCrossrefPubMedWorldCat 
+  
 964	Pasotti   M, Klersy   C, Pilotto   A, Marziliano   N, Rapezzi   C, Serio   A, et al.   Long-term outcome and risk stratification in dilated cardiolaminopathies. J Am Coll Cardiol  2008;52:1250–60. https://doi.org/10.1016/j.jacc.2008.06.044
-Google ScholarCrossrefPubMedWorldCat 
+  
 965	Saguner   AM, Ganahl   S, Kraus   A, Baldinger   SH, Medeiros-Domingo   A, Saguner   AR, et al.   Clinical role of atrial arrhythmias in patients with arrhythmogenic right ventricular dysplasia. Circ J  2014;78:2854–61. https://doi.org/10.1253/circj.CJ-14-0474
-Google ScholarCrossrefPubMedWorldCat 
+  
 966	Tonet   JL, Castro-Miranda   R, Iwa   T, Poulain   F, Frank   R, Fontaine   GH. Frequency of supraventricular tachyarrhythmias in arrhythmogenic right ventricular dysplasia. Am J Cardiol  1991;67:1153. https://doi.org/10.1016/0002-9149(91)90886-P
-Google ScholarCrossrefPubMedWorldCat 
+  
 967	van Rijsingen   IA, Nannenberg   EA, Arbustini   E, Elliott   PM, Mogensen   J, Hermans-van Ast   JF, et al.   Gender-specific differences in major cardiac events and mortality in lamin A/C mutation carriers. Eur J Heart Fail  2013;15:376–84. https://doi.org/10.1093/eurjhf/hfs191
-Google ScholarCrossrefPubMedWorldCat 
+  
 968	Aras   D, Tufekcioglu   O, Ergun   K, Ozeke   O, Yildiz   A, Topaloglu   S, et al.   Clinical features of isolated ventricular noncompaction in adults long-term clinical course, echocardiographic properties, and predictors of left ventricular failure. J Card Fail  2006;12:726–33. https://doi.org/10.1016/j.cardfail.2006.08.002
-Google ScholarCrossrefPubMedWorldCat 
+  
 969	Li   S, Zhang   C, Liu   N, Bai   H, Hou   C, Wang   J, et al.   Genotype-positive status is associated with poor prognoses in patients with left ventricular noncompaction cardiomyopathy. J Am Heart Assoc  2018;7:e009910. https://doi.org/10.1161/JAHA.118.009910
-Google ScholarCrossrefPubMedWorldCat 
+  
 970	Stollberger   C, Blazek   G, Winkler-Dworak   M, Finsterer   J. Atrial fibrillation in left ventricular noncompaction with and without neuromuscular disorders is associated with a poor prognosis. Int J Cardiol  2009;133:41–5. https://doi.org/10.1016/j.ijcard.2007.11.099
-Google ScholarCrossrefPubMedWorldCat 
+  
 971	Fatkin   D, MacRae   C, Sasaki   T, Wolff   MR, Porcu   M, Frenneaux   M, et al.   Missense mutations in the rod domain of the lamin A/C gene as causes of dilated cardiomyopathy and conduction-system disease. N Engl J Med  1999;341:1715–24. https://doi.org/10.1056/NEJM199912023412302
-Google ScholarCrossrefPubMedWorldCat 
+  
 972	Hong   K, Bjerregaard   P, Gussak   I, Brugada   R. Short QT syndrome and atrial fibrillation caused by mutation in KCNH2. J Cardiovasc Electrophysiol  2005;16:394–6. https://doi.org/10.1046/j.1540-8167.2005.40621.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 973	Olesen   MS, Yuan   L, Liang   B, Holst   AG, Nielsen   N, Nielsen   JB, et al.   High prevalence of long QT syndrome-associated SCN5A variants in patients with early-onset lone atrial fibrillation. Circ Cardiovasc Genet  2012;5:450–9. https://doi.org/10.1161/CIRCGENETICS.111.962597
-Google ScholarCrossrefPubMedWorldCat 
+  
 974	Pappone   C, Radinovic   A, Manguso   F, Vicedomini   G, Sala   S, Sacco   FM, et al.   New-onset atrial fibrillation as first clinical manifestation of latent Brugada syndrome: prevalence and clinical significance. Eur Heart J  2009;30:2985–92. https://doi.org/10.1093/eurheartj/ehp326
-Google ScholarCrossrefPubMedWorldCat 
+  
 975	Peters   S. Atrial arrhythmias in arrhythmogenic cardiomyopathy: at the beginning or at the end of the disease story?  Circ J  2015;79:446. https://doi.org/10.1253/circj.CJ-14-1193
-Google ScholarCrossrefPubMedWorldCat 
+  
 976	Rowin   EJ, Hausvater   A, Link   MS, Abt   P, Gionfriddo   W, Wang   W, et al.   Clinical profile and consequences of atrial fibrillation in hypertrophic cardiomyopathy. Circulation  2017;136:2420–36. https://doi.org/10.1161/CIRCULATIONAHA.117.029267
-Google ScholarCrossrefPubMedWorldCat 
+  
 977	Mazzanti   A, Ng   K, Faragli   A, Maragna   R, Chiodaroli   E, Orphanou   N, et al.   Arrhythmogenic right ventricular cardiomyopathy: clinical course and predictors of arrhythmic risk. J Am Coll Cardiol  2016;68:2540–50. https://doi.org/10.1016/j.jacc.2016.09.951
-Google ScholarCrossrefPubMedWorldCat 
+  
 978	Giustetto   C, Cerrato   N, Gribaudo   E, Scrocco   C, Castagno   D, Richiardi   E, et al.   Atrial fibrillation in a large population with Brugada electrocardiographic pattern: prevalence, management, and correlation with prognosis. Heart Rhythm  2014;11:259–65. https://doi.org/10.1016/j.hrthm.2013.10.043
-Google ScholarCrossrefPubMedWorldCat 
+  
 979	Beckmann   BM, Holinski-Feder   E, Walter   MC, Haserück   N, Reithmann   C, Hinterseer   M, et al.   Laminopathy presenting as familial atrial fibrillation. Int J Cardiol  2010;145:394–6. https://doi.org/10.1016/j.ijcard.2010.04.024
-Google ScholarCrossrefPubMedWorldCat 
+  
 980	Pizzale   S, Gollob   MH, Gow   R, Birnie   DH. Sudden death in a young man with catecholaminergic polymorphic ventricular tachycardia and paroxysmal atrial fibrillation. J Cardiovasc Electrophysiol  2008;19:1319–21. https://doi.org/10.1111/j.1540-8167.2008.01211.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 981	Sugiyasu   A, Oginosawa   Y, Nogami   A, Hata   Y. A case with catecholaminergic polymorphic ventricular tachycardia unmasked after successful ablation of atrial tachycardias from pulmonary veins. Pacing Clin Electrophysiol  2009;32:e21–4. https://doi.org/10.1111/j.1540-8159.2009.02519.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 982	Veltmann   C, Kuschyk   J, Schimpf   R, Streitner   F, Schoene   N, Borggrefe   M, et al.   Prevention of inappropriate ICD shocks in patients with Brugada syndrome. Clin Res Cardiol  2010;99:37–44. https://doi.org/10.1007/s00392-009-0075-4
-Google ScholarCrossrefPubMedWorldCat 
+  
 983	Brugada   J, Katritsis   DG, Arbelo   E, Arribas   F, Bax   JJ, Blomstrom-Lundqvist   C, et al.   2019 ESC Guidelines for the management of patients with supraventricular tachycardia. The Task Force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC). Eur Heart J  2020;41:655–720. https://doi.org/10.1093/eurheartj/ehz467
-Google ScholarCrossrefPubMedWorldCat 
+  
 984	Klein   GJ, Bashore   TM, Sellers   TD, Pritchett   EL, Smith   WM, Gallagher   JJ. Ventricular fibrillation in the Wolff–Parkinson–White syndrome. N Engl J Med  1979;301:1080–5. https://doi.org/10.1056/NEJM197911153012003
-Google ScholarCrossrefPubMedWorldCat 
+  
 985	Morady   F, DiCarlo   LA, Jr, Baerman   JM, De Buitleir   M. Effect of propranolol on ventricular rate during atrial fibrillation in the Wolff–Parkinson–White syndrome. Pacing Clin Electrophysiol  1987;10:492–6. https://doi.org/10.1111/j.1540-8159.1987.tb04511.x
-Google ScholarCrossrefPubMedWorldCat 
+  
 986	Sellers   TD, Jr, Bashore   TM, Gallagher   JJ. Digitalis in the pre-excitation syndrome. Analysis during atrial fibrillation. Circulation  1977;56:260–7. https://doi.org/10.1161/01.CIR.56.2.260
-Google ScholarCrossrefPubMedWorldCat 
+  
 987	Glatter   KA, Dorostkar   PC, Yang   Y, Lee   RJ, Van Hare   GF, Keung   E, et al.   Electrophysiological effects of ibutilide in patients with accessory pathways. Circulation  2001;104:1933–9. https://doi.org/10.1161/hc4101.097538
-Google ScholarCrossrefPubMedWorldCat 
+  
 988	Ludmer   PL, McGowan   NE, Antman   EM, Friedman   PL. Efficacy of propafenone in Wolff–Parkinson–White syndrome: electrophysiologic findings and long-term follow-up. J Am Coll Cardiol  1987;9:1357–63. https://doi.org/10.1016/S0735-1097(87)80478-3
-Google ScholarCrossrefPubMedWorldCat 
+  
 989	Simonian   SM, Lotfipour   S, Wall   C, Langdorf   MI. Challenging the superiority of amiodarone for rate control in Wolff–Parkinson–White and atrial fibrillation. Intern Emerg Med  2010;5:421–6. https://doi.org/10.1007/s11739-010-0385-6
-Google ScholarCrossrefPubMedWorldCat 
+  
 990	Arbelo   E, Protonotarios   A, Gimeno   JR, Arbustini   E, Barriales-Villa   R, Basso   C, et al.   2023 ESC Guidelines for the management of cardiomyopathies. Eur Heart J  2023;44:3503–626. https://doi.org/10.1093/eurheartj/ehad194
-Google ScholarCrossrefPubMedWorldCat 
+  
 991	Hu   YF, Liu   CJ, Chang   PM, Tsao   HM, Lin   YJ, Chang   SL, et al.   Incident thromboembolism and heart failure associated with new-onset atrial fibrillation in cancer patients. Int J Cardiol  2013;165:355–7. https://doi.org/10.1016/j.ijcard.2012.08.036
-Google ScholarCrossrefPubMedWorldCat 
+  
 992	Mosarla   RC, Vaduganathan   M, Qamar   A, Moslehi   J, Piazza   G, Giugliano   RP. Anticoagulation strategies in patients with cancer: JACC review topic of the week. J Am Coll Cardiol  2019;73:1336–49. https://doi.org/10.1016/j.jacc.2019.01.017
-Google ScholarCrossrefPubMedWorldCat 
+  
 993	Malavasi   VL, Fantecchi   E, Gianolio   L, Pesce   F, Longo   G, Marietta   M, et al.   Atrial fibrillation in patients with active malignancy and use of anticoagulants: under-prescription but no adverse impact on all-cause mortality. Eur J Intern Med  2019;59:27–33. https://doi.org/10.1016/j.ejim.2018.10.012
-Google ScholarCrossrefPubMedWorldCat 
+  
 994	Farmakis   D, Parissis   J, Filippatos   G. Insights into onco-cardiology: atrial fibrillation in cancer. J Am Coll Cardiol  2014;63:945–53. https://doi.org/10.1016/j.jacc.2013.11.026
-Google ScholarCrossrefPubMedWorldCat 
+  
 995	Yun   JP, Choi   EK, Han   KD, Park   SH, Jung   JH, Ahn   HJ, et al.   Risk of atrial fibrillation according to cancer type: a nationwide population-based study. JACC CardioOncol  2021;3:221–32. https://doi.org/10.1016/j.jaccao.2021.03.006
-Google ScholarCrossrefPubMedWorldCat 
+  
 996	Alexandre   J, Salem   JE, Moslehi   J, Sassier   M, Ropert   C, Cautela   J, et al.   Identification of anticancer drugs associated with atrial fibrillation: analysis of the WHO pharmacovigilance database. Eur Heart J Cardiovasc Pharmacother  2021;7:312–20. https://doi.org/10.1093/ehjcvp/pvaa037
-Google ScholarCrossrefPubMedWorldCat 
+  
 997	Guha   A, Fradley   MG, Dent   SF, Weintraub   NL, Lustberg   MB, Alonso   A, et al.   Incidence, risk factors, and mortality of atrial fibrillation in breast cancer: a SEER-medicare analysis. Eur Heart J  2022;43:300–12. https://doi.org/10.1093/eurheartj/ehab745
-Google ScholarCrossrefPubMedWorldCat 
+  
 998	Pastori   D, Marang   A, Bisson   A, Menichelli   D, Herbert   J, Lip   GYH, et al.   Thromboembolism, mortality, and bleeding in 2,435,541 atrial fibrillation patients with and without cancer: a nationwide cohort study. Cancer  2021;127:2122–9. https://doi.org/10.1002/cncr.33470
-Google ScholarCrossrefPubMedWorldCat 
+  
 999	Aspberg   S, Yu   L, Gigante   B, Smedby   KE, Singer   DE. Risk of ischemic stroke and major bleeding in patients with atrial fibrillation and cancer. J Stroke Cerebrovasc Dis  2020;29:104560. https://doi.org/10.1016/j.jstrokecerebrovasdis.2019.104560
-Google ScholarCrossrefPubMedWorldCat 
+  
 1000	D’Souza   M, Carlson   N, Fosbøl   E, Lamberts   M, Smedegaard   L, Nielsen   D, et al.   CHA(2)DS(2)-VASc score and risk of thromboembolism and bleeding in patients with atrial fibrillation and recent cancer. Eur J Prev Cardiol  2018;25:651–8. https://doi.org/10.1177/2047487318759858
-Google ScholarCrossrefPubMedWorldCat 
+  
 1001	Chen   ST, Hellkamp   AS, Becker   RC, Berkowitz   SD, Breithardt   G, Fox   KAA, et al.   Efficacy and safety of rivaroxaban vs. warfarin in patients with non-valvular atrial fibrillation and a history of cancer: observations from ROCKET AF. Eur Heart J Qual Care Clin Outcomes  2019;5:145–52. https://doi.org/10.1093/ehjqcco/qcy040
-Google ScholarCrossrefPubMedWorldCat 
+  
 1002	Melloni   C, Dunning   A, Granger   CB, Thomas   L, Khouri   MG, Garcia   DA, et al.   Efficacy and safety of apixaban versus warfarin in patients with atrial fibrillation and a history of cancer: insights from the ARISTOTLE trial. Am J Med  2017;130:1440–8.e1. https://doi.org/10.1016/j.amjmed.2017.06.026
-Google ScholarCrossrefPubMedWorldCat 
+  
 1003	Fanola   CL, Ruff   CT, Murphy   SA, Jin   J, Duggal   A, Babilonia   NA, et al.   Efficacy and safety of edoxaban in patients with active malignancy and atrial fibrillation: analysis of the ENGAGE AF-TIMI 48 trial. J Am Heart Assoc  2018;7:e008987. https://doi.org/10.1161/JAHA.118.008987
-Google ScholarCrossrefPubMedWorldCat 
+  
 1004	Sawant   AC, Kumar   A, McCray   W, Tetewsky   S, Parone   L, Sridhara   S, et al.   Superior safety of direct oral anticoagulants compared to warfarin in patients with atrial fibrillation and underlying cancer: a national veterans affairs database study. J Geriatr Cardiol  2019;16:706–9. https://doi.org/10.11909/j.issn.1671-5411.2019.09.006
 Google ScholarPubMedWorldCat 
 1005	Shah   S, Norby   FL, Datta   YH, Lutsey   PL, MacLehose   RF, Chen   LY, et al.   Comparative effectiveness of direct oral anticoagulants and warfarin in patients with cancer and atrial fibrillation. Blood Adv  2018;2:200–9. https://doi.org/10.1182/bloodadvances.2017010694
-Google ScholarCrossrefPubMedWorldCat 
+  
 1006	Mariani   MV, Magnocavallo   M, Straito   M, Piro   A, Severino   P, Iannucci   G, et al.   Direct oral anticoagulants versus vitamin K antagonists in patients with atrial fibrillation and cancer a meta-analysis. J Thromb Thrombolysis  2021;51:419–29. https://doi.org/10.1007/s11239-020-02304-3
-Google ScholarCrossrefPubMedWorldCat 
+  
 1007	Deitelzweig   S, Keshishian   AV, Zhang   Y, Kang   A, Dhamane   AD, Luo   X, et al.   Effectiveness and safety of oral anticoagulants among nonvalvular atrial fibrillation patients with active cancer. JACC CardioOncol  2021;3:411–24. https://doi.org/10.1016/j.jaccao.2021.06.004
-Google ScholarCrossrefPubMedWorldCat 
+  
 1008	Lin   YS, Kuan   FC, Chao   TF, Wu   M, Chen   SW, Chen   MC, et al.   Mortality associated with the use of non-vitamin K antagonist oral anticoagulants in cancer patients: dabigatran versus rivaroxaban. Cancer Med  2021;10:7079–88. https://doi.org/10.1002/cam4.4241
-Google ScholarCrossrefPubMedWorldCat 
+  
 1009	Atterman   A, Asplund   K, Friberg   L, Engdahl   J. Use of oral anticoagulants after ischaemic stroke in patients with atrial fibrillation and cancer. J Intern Med  2020;288:457–68. https://doi.org/10.1111/joim.13092
-Google ScholarCrossrefPubMedWorldCat 
+  
 1010	Atterman   A, Friberg   L, Asplund   K, Engdahl   J. Net benefit of oral anticoagulants in patients with atrial fibrillation and active cancer: a nationwide cohort study. Europace  2020;22:58–65. https://doi.org/10.1093/europace/euz306
 Google ScholarPubMedWorldCat 
 1011	Falanga   A, Leader   A, Ambaglio   C, Bagoly   Z, Castaman   G, Elalamy   I, et al.   EHA guidelines on management of antithrombotic treatments in thrombocytopenic patients with cancer. Hemasphere  2022;6:e750. https://doi.org/10.1097/HS9.0000000000000750
-Google ScholarCrossrefPubMedWorldCat 
+  
 1012	Lancellotti   P, Suter   TM, López-Fernández   T, Galderisi   M, Lyon   AR, Van der Meer   P, et al.   Cardio-oncology services: rationale, organization, and implementation. Eur Heart J  2019;40:1756–63. https://doi.org/10.1093/eurheartj/ehy453
-Google ScholarCrossrefPubMedWorldCat 
+  
 1013	Richter   D, Guasti   L, Walker   D, Lambrinou   E, Lionis   C, Abreu   A, et al.   Frailty in cardiology: definition, assessment and clinical implications for general cardiology. A consensus document of the Council for Cardiology Practice (CCP), Association for Acute Cardio Vascular Care (ACVC), Association of Cardiovascular Nursing and Allied Professions (ACNAP), European Association of Preventive Cardiology (EAPC), European Heart Rhythm Association (EHRA), Council on Valvular Heart Diseases (VHD), Council on Hypertension (CHT), Council of Cardio-Oncology (CCO), Working Group (WG) aorta and peripheral vascular diseases, WG e-cardiology, WG thrombosis, of the European Society of Cardiology, European Primary Care Cardiology Society (EPCCS). Eur J Prev Cardiol  2022;29:216–27. https://doi.org/10.1093/eurjpc/zwaa167
-Google ScholarCrossrefPubMedWorldCat 
+  
 1014	Proietti   M, Vitolo   M, Harrison   SL, Lane   DA, Fauchier   L, Marin   F, et al.   Impact of clinical phenotypes on management and outcomes in European atrial fibrillation patients: a report from the ESC-EHRA EURObservational Research Programme in AF (EORP-AF) general long-term registry. BMC Med  2021;19:256. https://doi.org/10.1186/s12916-021-02120-3
-Google ScholarCrossrefPubMedWorldCat 
+  
 1015	Proietti   M, Romiti   GF, Vitolo   M, Harrison   SL, Lane   DA, Fauchier   L, et al.   Epidemiology and impact of frailty in patients with atrial fibrillation in Europe. Age Ageing  2022;51:afac192. https://doi.org/10.1093/ageing/afac192
-Google ScholarCrossrefPubMedWorldCat 
+  
 1016	Savelieva   I, Fumagalli   S, Kenny   RA, Anker   S, Benetos   A, Boriani   G, et al.   EHRA expert consensus document on the management of arrhythmias in frailty syndrome, endorsed by the Heart Rhythm Society (HRS), Asia Pacific Heart Rhythm Society (APHRS), Latin America Heart Rhythm Society (LAHRS), and Cardiac Arrhythmia Society of Southern Africa (CASSA). Europace  2023;25:1249–76. https://doi.org/10.1093/europace/euac123
-Google ScholarCrossrefPubMedWorldCat 
+  
 1017	Clegg   A, Young   J, Iliffe   S, Rikkert   MO, Rockwood   K. Frailty in elderly people. Lancet  2013;381:752–62. https://doi.org/10.1016/S0140-6736(12)62167-9
-Google ScholarCrossrefPubMedWorldCat 
+  
 1018	Villani   ER, Tummolo   AM, Palmer   K, Gravina   EM, Vetrano   DL, Bernabei   R, et al.   Frailty and atrial fibrillation: a systematic review. Eur J Intern Med  2018;56:33–8. https://doi.org/10.1016/j.ejim.2018.04.018
-Google ScholarCrossrefPubMedWorldCat 
+  
 1019	Hang   F, Chen   J, Wang   Z, Yan   J, Wu   Y. Association between the frailty and new-onset atrial fibrillation/flutter among elderly hypertensive patients. Front Cardiovasc Med  2022;9:881946. https://doi.org/10.3389/fcvm.2022.881946
-Google ScholarCrossrefPubMedWorldCat 
+  
 1020	Steinberg   BA, Holmes   DN, Ezekowitz   MD, Fonarow   GC, Kowey   PR, Mahaffey   KW, et al.   Rate versus rhythm control for management of atrial fibrillation in clinical practice: results from the Outcomes Registry for Better Informed Treatment of Atrial Fibrillation (ORBIT-AF) registry. Am Heart J  2013;165:622–9. https://doi.org/10.1016/j.ahj.2012.12.019
-Google ScholarCrossrefPubMedWorldCat 
+  
 1021	Ko   D, Lin   KJ, Bessette   LG, Lee   SB, Walkey   AJ, Cheng   S, et al.   Trends in use of oral anticoagulants in older adults with newly diagnosed atrial fibrillation, 2010–2020. JAMA Netw Open  2022;5:e2242964. https://doi.org/10.1001/jamanetworkopen.2022.42964
-Google ScholarCrossrefPubMedWorldCat 
+  
 1022	Bul   M, Shaikh   F, McDonagh   J, Ferguson   C. Frailty and oral anticoagulant prescription in adults with atrial fibrillation: a systematic review. Aging Med (Milton)  2023;6:195–206. https://doi.org/10.1002/agm2.12214
-Google ScholarCrossrefWorldCat 
+  
 1023	Hu   J, Zhou   Y, Cai   Z. Outcome of novel oral anticoagulant versus warfarin in frail elderly patients with atrial fibrillation: a systematic review and meta-analysis of retrospective studies. Acta Clin Belg  2023;78:367–77. https://doi.org/10.1080/17843286.2023.2179908
-Google ScholarCrossrefWorldCat 
+  
 1024	Zeng   S, Zheng   Y, Jiang   J, Ma   J, Zhu   W, Cai   X. Effectiveness and safety of DOACs vs. warfarin in patients with atrial fibrillation and frailty: a systematic review and meta-analysis. Front Cardiovasc Med  2022;9:907197. https://doi.org/10.3389/fcvm.2022.907197
-Google ScholarCrossrefWorldCat 
+  
 1025	Grymonprez   M, Petrovic   M, De Backer   TL, Steurbaut   S, Lahousse   L. Impact of frailty on the effectiveness and safety of non-vitamin K antagonist oral anticoagulants (NOACs) in patients with atrial fibrillation: a nationwide cohort study. Eur Heart J Qual Care Clin Outcomes  2024;10:55–65. https://doi.org/10.1093/ehjqcco/qcad019
-Google ScholarCrossrefWorldCat 
+  
 1026	Kim   D, Yang   PS, Sung   JH, Jang   E, Yu   HT, Kim   TH, et al.   Effectiveness and safety of anticoagulation therapy in frail patients with atrial fibrillation. Stroke  2022;53:1873–82. https://doi.org/10.1161/STROKEAHA.121.036757
-Google ScholarCrossrefWorldCat 
+  
 1027	Chao   TF, Liu   CJ, Lin   YJ, Chang   SL, Lo   LW, Hu   YF, et al.   Oral anticoagulation in very elderly patients with atrial fibrillation: a nationwide cohort study. Circulation  2018;138:37–47. https://doi.org/10.1161/CIRCULATIONAHA.117.031658
-Google ScholarCrossrefWorldCat 
+  
 1028	Da Costa   A, Thévenin   J, Roche   F, Romeyer-Bouchard   C, Abdellaoui   L, Messier   M, et al.   Results from the Loire-Ardèche-Drôme-Isère-Puy-de-Dôme (LADIP) trial on atrial flutter, a multicentric prospective randomized study comparing amiodarone and radiofrequency ablation after the first episode of symptomatic atrial flutter. Circulation  2006;114:1676–81. https://doi.org/10.1161/CIRCULATIONAHA.106.638395
-Google ScholarCrossrefWorldCat 
+  
 1029	Natale   A, Newby   KH, Pisano   E, Leonelli   F, Fanelli   R, Potenza   D, et al.   Prospective randomized comparison of antiarrhythmic therapy versus first-line radiofrequency ablation in patients with atrial flutter. J Am Coll Cardiol  2000;35:1898–904. https://doi.org/10.1016/S0735-1097(00)00635-5
-Google ScholarCrossrefWorldCat 
+  
 1030	Chinitz   JS, Gerstenfeld   EP, Marchlinski   FE, Callans   DJ. Atrial fibrillation is common after ablation of isolated atrial flutter during long-term follow-up. Heart Rhythm  2007;4:1029–33. https://doi.org/10.1016/j.hrthm.2007.04.002
-Google ScholarCrossrefWorldCat 
+  
 1031	De Bortoli   A, Shi   LB, Ohm   OJ, Hoff   PI, Schuster   P, Solheim   E, et al.   Incidence and clinical predictors of subsequent atrial fibrillation requiring additional ablation after cavotricuspid isthmus ablation for typical atrial flutter. Scand Cardiovasc J  2017;51:123–8. https://doi.org/10.1080/14017431.2017.1304570
-Google ScholarCrossrefWorldCat 
+  
 1032	Rahman   F, Wang   N, Yin   X, Ellinor   PT, Lubitz   SA, LeLorier   PA, et al.   Atrial flutter: clinical risk factors and adverse outcomes in the Framingham Heart Study. Heart Rhythm  2016;13:233–40. https://doi.org/10.1016/j.hrthm.2015.07.031
-Google ScholarCrossrefWorldCat 
+  
 1033	Roth   GA, Mensah   GA, Johnson   CO, Addolorato   G, Ammirati   E, Baddour   LM, et al.   Global burden of cardiovascular diseases and risk factors, 1990–2019: update from the GBD 2019 study. J Am Coll Cardiol  2020;76:2982–3021. https://doi.org/10.1016/j.jacc.2020.11.010
-Google ScholarCrossrefWorldCat 
+  
 1034	Lippi   G, Sanchis-Gomar   F, Cervellin   G. Global epidemiology of atrial fibrillation: an increasing epidemic and public health challenge. Int J Stroke  2021;16:217–21. https://doi.org/10.1177/1747493019897870
-Google ScholarCrossrefWorldCat 
+  
 1035	Alonso   A, Alam   AB, Kamel   H, Subbian   V, Qian   J, Boerwinkle   E, et al.   Epidemiology of atrial fibrillation in the all of US research program. PLoS One  2022;17:e0265498. https://doi.org/10.1371/journal.pone.0265498
-Google ScholarCrossrefWorldCat 
+  
 1036	Ghelani   KP, Chen   LY, Norby   FL, Soliman   EZ, Koton   S, Alonso   A. Thirty-year trends in the incidence of atrial fibrillation: the ARIC study. J Am Heart Assoc  2022;11:e023583. https://doi.org/10.1161/JAHA.121.023583
-Google ScholarCrossrefWorldCat 
+  
 1037	Williams   BA, Chamberlain   AM, Blankenship   JC, Hylek   EM, Voyce   S. Trends in atrial fibrillation incidence rates within an integrated health care delivery system, 2006 to 2018. JAMA Netw Open  2020;3:e2014874. https://doi.org/10.1001/jamanetworkopen.2020.14874
-Google ScholarCrossrefWorldCat 
+  
 1038	Magnussen   C, Niiranen   TJ, Ojeda   FM, Gianfagna   F, Blankenberg   S, Njølstad   I, et al.   Sex differences and similarities in atrial fibrillation epidemiology, risk factors, and mortality in community cohorts: results from the BiomarCaRE consortium (Biomarker for Cardiovascular Risk Assessment in Europe). Circulation  2017;136:1588–97. https://doi.org/10.1161/CIRCULATIONAHA.117.028981
-Google ScholarCrossrefWorldCat 
+  
 1039	Rodriguez   CJ, Soliman   EZ, Alonso   A, Swett   K, Okin   PM, Goff   DC, Jr, et al.   Atrial fibrillation incidence and risk factors in relation to race-ethnicity and the population attributable fraction of atrial fibrillation risk factors: the multi-ethnic study of atherosclerosis. Ann Epidemiol  2015;25:71–6, 76.e1. https://doi.org/10.1016/j.annepidem.2014.11.024
-Google ScholarCrossrefWorldCat 
+  
 1040	Ugowe   FE, Jackson   LR, 2nd, Thomas   KL. Racial and ethnic differences in the prevalence, management, and outcomes in patients with atrial fibrillation: a systematic review. Heart Rhythm  2018;15:1337–45. https://doi.org/10.1016/j.hrthm.2018.05.019
-Google ScholarCrossrefWorldCat 
+  
 1041	Volgman   AS, Bairey Merz   CN, Benjamin   EJ, Curtis   AB, Fang   MC, Lindley   KJ, et al.   Sex and race/ethnicity differences in atrial fibrillation. J Am Coll Cardiol  2019;74:2812–5. https://doi.org/10.1016/j.jacc.2019.09.045
-Google ScholarCrossrefWorldCat 
+  
 1042	Chung   SC, Sofat   R, Acosta-Mena   D, Taylor   JA, Lambiase   PD, Casas   JP, et al.   Atrial fibrillation epidemiology, disparity and healthcare contacts: a population-wide study of 5.6 million individuals. Lancet Reg Health Eur  2021;7:100157. https://doi.org/10.1016/j.lanepe.2021.100157
-Google ScholarCrossrefWorldCat 
+  
 1043	Svennberg   E, Tjong   F, Goette   A, Akoum   N, Di Biase   L, Bordachar   P, et al.   How to use digital devices to detect and manage arrhythmias: an EHRA practical guide. Europace  2022;24:979–1005. https://doi.org/10.1093/europace/euac038
-Google ScholarCrossrefWorldCat 
+  
 1044	Spatz   ES, Ginsburg   GS, Rumsfeld   JS, Turakhia   MP. Wearable digital health technologies for monitoring in cardiovascular medicine. N Engl J Med  2024;390:346–56. https://doi.org/10.1056/NEJMra2301903
-Google ScholarCrossrefWorldCat 
+  
 1045	Cooke   G, Doust   J, Sanders   S. Is pulse palpation helpful in detecting atrial fibrillation? A systematic review. J Fam Pract  2006;55:130–4.
 Google ScholarWorldCat 
 1046	Attia   ZI, Noseworthy   PA, Lopez-Jimenez   F, Asirvatham   SJ, Deshmukh   AJ, Gersh   BJ, et al.   An artificial intelligence-enabled ECG algorithm for the identification of patients with atrial fibrillation during sinus rhythm: a retrospective analysis of outcome prediction. Lancet  2019;394:861–7. https://doi.org/10.1016/S0140-6736(19)31721-0
-Google ScholarCrossrefWorldCat 
+  
 1047	Hobbs   FD, Fitzmaurice   DA, Mant   J, Murray   E, Jowett   S, Bryan   S, et al.   A randomised controlled trial and cost-effectiveness study of systematic screening (targeted and total population screening) versus routine practice for the detection of atrial fibrillation in people aged 65 and over. The SAFE study. Health Technol Assess  2005;9:iii–iv, ix-x, 1–74. https://doi.org/10.3310/hta9400
-Google ScholarCrossrefWorldCat 
+  
 1048	Grond   M, Jauss   M, Hamann   G, Stark   E, Veltkamp   R, Nabavi   D, et al.   Improved detection of silent atrial fibrillation using 72-hour Holter ECG in patients with ischemic stroke: a prospective multicenter cohort study. Stroke  2013;44:3357–64. https://doi.org/10.1161/STROKEAHA.113.001884
-Google ScholarCrossrefWorldCat 
+  
 1049	Rizos   T, Guntner   J, Jenetzky   E, Marquardt   L, Reichardt   C, Becker   R, et al.   Continuous stroke unit electrocardiographic monitoring versus 24-hour Holter electrocardiography for detection of paroxysmal atrial fibrillation after stroke. Stroke  2012;43:2689–94. https://doi.org/10.1161/STROKEAHA.112.654954
-Google ScholarCrossrefWorldCat 
+  
 1050	Doliwa   PS, Frykman   V, Rosenqvist   M. Short-term ECG for out of hospital detection of silent atrial fibrillation episodes. Scand Cardiovasc J  2009;43:163–8. https://doi.org/10.1080/14017430802593435
-Google ScholarCrossrefWorldCat 
+  
 1051	Tieleman   RG, Plantinga   Y, Rinkes   D, Bartels   GL, Posma   JL, Cator   R, et al.   Validation and clinical use of a novel diagnostic device for screening of atrial fibrillation. Europace  2014;16:1291–5. https://doi.org/10.1093/europace/euu057
-Google ScholarCrossrefWorldCat 
+  
 1052	Kearley   K, Selwood   M, Van den Bruel   A, Thompson   M, Mant   D, Hobbs   FR, et al.   Triage tests for identifying atrial fibrillation in primary care: a diagnostic accuracy study comparing single-lead ECG and modified BP monitors. BMJ Open  2014;4:e004565. https://doi.org/10.1136/bmjopen-2013-004565
-Google ScholarCrossrefWorldCat 
+  
 1053	Barrett   PM, Komatireddy   R, Haaser   S, Topol   S, Sheard   J, Encinas   J, et al.   Comparison of 24-hour Holter monitoring with 14-day novel adhesive patch electrocardiographic monitoring. Am J Med  2014;127:95.e11–7. https://doi.org/10.1016/j.amjmed.2013.10.003
-Google ScholarCrossrefWorldCat 
+  
 1054	Turakhia   MP, Hoang   DD, Zimetbaum   P, Miller   JD, Froelicher   VF, Kumar   UN, et al.   Diagnostic utility of a novel leadless arrhythmia monitoring device. Am J Cardiol  2013;112:520–4. https://doi.org/10.1016/j.amjcard.2013.04.017
-Google ScholarCrossrefWorldCat 
+  
 1055	Rosenberg   MA, Samuel   M, Thosani   A, Zimetbaum   PJ. Use of a noninvasive continuous monitoring device in the management of atrial fibrillation: a pilot study. Pacing Clin Electrophysiol  2013;36:328–33. https://doi.org/10.1111/pace.12053
-Google ScholarCrossrefWorldCat 
+  
 1056	Turakhia   MP, Ullal   AJ, Hoang   DD, Than   CT, Miller   JD, Friday   KJ, et al.   Feasibility of extended ambulatory electrocardiogram monitoring to identify silent atrial fibrillation in high-risk patients: the Screening Study for Undiagnosed Atrial Fibrillation (STUDY-AF). Clin Cardiol  2015;38:285–92. https://doi.org/10.1002/clc.22387
-Google ScholarCrossrefWorldCat 
+  
 1057	Rooney   MR, Soliman   EZ, Lutsey   PL, Norby   FL, Loehr   LR, Mosley   TH, et al.   Prevalence and characteristics of subclinical atrial fibrillation in a community-dwelling elderly population: the ARIC study. Circ Arrhythm Electrophysiol  2019;12:e007390. https://doi.org/10.1161/CIRCEP.119.007390
-Google ScholarCrossrefWorldCat 
+  
 1058	Stehlik   J, Schmalfuss   C, Bozkurt   B, Nativi-Nicolau   J, Wohlfahrt   P, Wegerich   S, et al.   Continuous wearable monitoring analytics predict heart failure hospitalization: the LINK-HF multicenter study. Circ Heart Fail  2020;13:e006513. https://doi.org/10.1161/CIRCHEARTFAILURE.119.006513
-Google ScholarCrossrefWorldCat 
+  
 1059	Ganne   C, Talkad   SN, Srinivas   D, Somanna   S. Ruptured blebs and racing hearts: autonomic cardiac changes in neurosurgeons during microsurgical clipping of aneurysms. Br J Neurosurg  2016;30:450–2. https://doi.org/10.3109/02688697.2016.1159656
-Google ScholarCrossrefWorldCat 
+  
 1060	Smith   WM, Riddell   F, Madon   M, Gleva   MJ. Comparison of diagnostic value using a small, single channel, P-wave centric sternal ECG monitoring patch with a standard 3-lead Holter system over 24 hours. Am Heart J  2017;185:67–73. https://doi.org/10.1016/j.ahj.2016.11.006
-Google ScholarCrossrefWorldCat 
+  
 1061	Olson   JA, Fouts   AM, Padanilam   BJ, Prystowsky   EN. Utility of mobile cardiac outpatient telemetry for the diagnosis of palpitations, presyncope, syncope, and the assessment of therapy efficacy. J Cardiovasc Electrophysiol  2007;18:473–7. https://doi.org/10.1111/j.1540-8167.2007.00779.x
-Google ScholarCrossrefWorldCat 
+  
 1062	Derkac   WM, Finkelmeier   JR, Horgan   DJ, Hutchinson   MD. Diagnostic yield of asymptomatic arrhythmias detected by mobile cardiac outpatient telemetry and autotrigger looping event cardiac monitors. J Cardiovasc Electrophysiol  2017;28:1475–8. https://doi.org/10.1111/jce.13342
-Google ScholarCrossrefWorldCat 
+  
 1063	Teplitzky   BA, McRoberts   M, Ghanbari   H. Deep learning for comprehensive ECG annotation. Heart Rhythm  2020;17:881–8. https://doi.org/10.1016/j.hrthm.2020.02.015
-Google ScholarCrossrefWorldCat 
+  
 1064	Jeon   E, Oh   K, Kwon   S, Son   H, Yun   Y, Jung   ES, et al.   A lightweight deep learning model for fast electrocardiographic beats classification with a wearable cardiac monitor: development and validation study. JMIR Med Inform  2020;8:e17037. https://doi.org/10.2196/17037
-Google ScholarCrossrefWorldCat 
+  
 1065	Breteler   MJMM, Huizinga   E, van Loon   K, Leenen   LPH, Dohmen   DAJ, Kalkman   CJ, et al.   Reliability of wireless monitoring using a wearable patch sensor in high-risk surgical patients at a step-down unit in The Netherlands: a clinical validation study. BMJ Open  2018;8:e020162. https://doi.org/10.1136/bmjopen-2017-020162
-Google ScholarCrossrefWorldCat 
+  
 1066	Hopkins   L, Stacey   B, Robinson   DBT, James   OP, Brown   C, Egan   RJ, et al.   Consumer-grade biosensor validation for examining stress in healthcare professionals. Physiol Rep  2020;8:e14454. https://doi.org/10.14814/phy2.14454
-Google ScholarCrossrefWorldCat 
+  
 1067	Steinhubl   SR, Waalen   J, Edwards   AM, Ariniello   LM, Mehta   RR, Ebner   GS, et al.   Effect of a home-based wearable continuous ECG monitoring patch on detection of undiagnosed atrial fibrillation: the mSToPS randomized clinical trial. JAMA  2018;320:146–55. https://doi.org/10.1001/jama.2018.8102
-Google ScholarCrossrefWorldCat 
+  
 1068	Elliot   CA, Hamlin   MJ, Lizamore   CA. Validity and reliability of the hexoskin wearable biometric vest during maximal aerobic power testing in elite cyclists. J Strength Cond Res  2019;33:1437–44. https://doi.org/10.1519/JSC.0000000000002005
-Google ScholarCrossrefWorldCat 
+  
 1069	Eysenck   W, Freemantle   N, Sulke   N. A randomized trial evaluating the accuracy of AF detection by four external ambulatory ECG monitors compared to permanent pacemaker AF detection. J Interv Card Electrophysiol  2020;57:361–9. https://doi.org/10.1007/s10840-019-00515-0
-Google ScholarCrossrefWorldCat 
+  
 1070	Fabregat-Andres   O, Munoz-Macho   A, Adell-Beltran   G, Ibanez-Catala   X, Macia   A, Facila   L. Evaluation of a new shirt-based electrocardiogram device for cardiac screening in soccer players: comparative study with treadmill ergospirometry. Cardiol Res  2014;5:101–7. https://doi.org/10.14740/cr333w
 Google ScholarWorldCat 
 1071	Feito   Y, Moriarty   TA, Mangine   G, Monahan   J. The use of a smart-textile garment during high-intensity functional training: a pilot study. J Sports Med Phys Fitness  2019;59:947–54. https://doi.org/10.23736/S0022-4707.18.08689-9
-Google ScholarCrossrefWorldCat 
+  
 1072	Pagola   J, Juega   J, Francisco-Pascual   J, Moya   A, Sanchis   M, Bustamante   A, et al.   Yield of atrial fibrillation detection with textile wearable Holter from the acute phase of stroke: pilot study of crypto-AF registry. Int J Cardiol  2018;251:45–50. https://doi.org/10.1016/j.ijcard.2017.10.063
-Google ScholarCrossrefWorldCat 
+  
 1073	Lau   JK, Lowres   N, Neubeck   L, Brieger   DB, Sy   RW, Galloway   CD, et al.   iphone ECG application for community screening to detect silent atrial fibrillation: a novel technology to prevent stroke. Int J Cardiol  2013;165:193–4. https://doi.org/10.1016/j.ijcard.2013.01.220
-Google ScholarCrossrefWorldCat 
+  
 1074	Bumgarner   JM, Lambert   CT, Hussein   AA, Cantillon   DJ, Baranowski   B, Wolski   K, et al.   Smartwatch algorithm for automated detection of atrial fibrillation. J Am Coll Cardiol  2018;71:2381–8. https://doi.org/10.1016/j.jacc.2018.03.003
-Google ScholarCrossrefWorldCat 
+  
 1075	Lubitz   SA, Faranesh   AZ, Atlas   SJ, McManus   DD, Singer   DE, Pagoto   S, et al.   Rationale and design of a large population study to validate software for the assessment of atrial fibrillation from data acquired by a consumer tracker or smartwatch: the Fitbit heart study. Am Heart J  2021;238:16–26. https://doi.org/10.1016/j.ahj.2021.04.003
-Google ScholarCrossrefWorldCat 
+  
 1076	Perez   MV, Mahaffey   KW, Hedlin   H, Rumsfeld   JS, Garcia   A, Ferris   T, et al.   Large-scale assessment of a smartwatch to identify atrial fibrillation. N Engl J Med  2019;381:1909–17. https://doi.org/10.1056/NEJMoa1901183
-Google ScholarCrossrefWorldCat 
+  
 1077	Saghir   N, Aggarwal   A, Soneji   N, Valencia   V, Rodgers   G, Kurian   T. A comparison of manual electrocardiographic interval and waveform analysis in lead 1 of 12-lead ECG and apple watch ECG: a validation study. Cardiovasc Digit Health J  2020;1:30–6. https://doi.org/10.1016/j.cvdhj.2020.07.002
-Google ScholarCrossrefWorldCat 
+  
 1078	Seshadri   DR, Bittel   B, Browsky   D, Houghtaling   P, Drummond   CK, Desai   MY, et al.   Accuracy of apple watch for detection of atrial fibrillation. Circulation  2020;141:702–3. https://doi.org/10.1161/CIRCULATIONAHA.119.044126
-Google ScholarCrossrefWorldCat 
+  
 1079	Zhang   H, Zhang   J, Li   HB, Chen   YX, Yang   B, Guo   YT, et al.   Validation of single centre pre-mobile atrial fibrillation apps for continuous monitoring of atrial fibrillation in a real-world setting: pilot cohort study. J Med Internet Res  2019;21:e14909. https://doi.org/10.2196/14909
-Google ScholarCrossrefWorldCat 
+  
 1080	Fan   YY, Li   YG, Li   J, Cheng   WK, Shan   ZL, Wang   YT, et al.   Diagnostic performance of a smart device with photoplethysmography technology for atrial fibrillation detection: pilot study (Pre-mAFA II registry). JMIR Mhealth Uhealth  2019;7:e11437. https://doi.org/10.2196/11437
-Google ScholarCrossrefWorldCat 
+  
 1081	Brito   R, Mondouagne   LP, Stettler   C, Combescure   C, Burri   H. Automatic atrial fibrillation and flutter detection by a handheld ECG recorder, and utility of sequential finger and precordial recordings. J Electrocardiol  2018;51:1135–40. https://doi.org/10.1016/j.jelectrocard.2018.10.093
-Google ScholarCrossrefWorldCat 
+  
 1082	Desteghe   L, Raymaekers   Z, Lutin   M, Vijgen   J, Dilling-Boer   D, Koopman   P, et al.   Performance of handheld electrocardiogram devices to detect atrial fibrillation in a cardiology and geriatric ward setting. Europace  2017;19:29–39. https://doi.org/10.1093/europace/euw025
-Google ScholarCrossrefWorldCat 
+  
 1083	Nigolian   A, Dayal   N, Nigolian   H, Stettler   C, Burri   H. Diagnostic accuracy of multi-lead ECGs obtained using a pocket-sized bipolar handheld event recorder. J Electrocardiol  2018;51:278–81. https://doi.org/10.1016/j.jelectrocard.2017.11.004
-Google ScholarCrossrefWorldCat 
+  
 1084	Magnusson   P, Lyren   A, Mattsson   G. Diagnostic yield of chest and thumb ECG after cryptogenic stroke, Transient ECG Assessment in Stroke Evaluation (TEASE): an observational trial. BMJ Open  2020;10:e037573. https://doi.org/10.1136/bmjopen-2020-037573
-Google ScholarCrossrefWorldCat 
+  
 1085	Carnlöf   C, Schenck-Gustafsson   K, Jensen-Urstad   M, Insulander   P. Instant electrocardiogram feedback with a new digital technique reduces symptoms caused by palpitations and increases health-related quality of life (the RedHeart study). Eur J Cardiovasc Nurs  2021;20:402–10. https://doi.org/10.1093/eurjcn/zvaa031
-Google ScholarCrossrefWorldCat 
+  
 1086	Haverkamp   HT, Fosse   SO, Schuster   P. Accuracy and usability of single-lead ECG from smartphones—a clinical study. Indian Pacing Electrophysiol J  2019;19:145–9. https://doi.org/10.1016/j.ipej.2019.02.006
-Google ScholarCrossrefWorldCat 
+  
 1087	Attia   ZI, Kapa   S, Lopez-Jimenez   F, McKie   PM, Ladewig   DJ, Satam   G, et al.   Screening for cardiac contractile dysfunction using an artificial intelligence-enabled electrocardiogram. Nat Med  2019;25:70–4. https://doi.org/10.1038/s41591-018-0240-2
-Google ScholarCrossrefWorldCat 
+  
 1088	Bekker   CL, Noordergraaf   F, Teerenstra   S, Pop   G, van den Bemt   BJF. Diagnostic accuracy of a single-lead portable ECG device for measuring QTc prolongation. Ann Noninvasive Electrocardiol  2020;25:e12683. https://doi.org/10.1111/anec.12683
-Google ScholarCrossrefWorldCat 
+  
 1089	Kaleschke   G, Hoffmann   B, Drewitz   I, Steinbeck   G, Naebauer   M, Goette   A, et al.   Prospective, multicentre validation of a simple, patient-operated electrocardiographic system for the detection of arrhythmias and electrocardiographic changes. Europace  2009;11:1362–8. https://doi.org/10.1093/europace/eup262
-Google ScholarCrossrefWorldCat 
+  
 1090	Guan   J, Wang   A, Song   W, Obore   N, He   P, Fan   S, et al.   Screening for arrhythmia with the new portable single-lead electrocardiographic device (SnapECG): an application study in community-based elderly population in Nanjing, China. Aging Clin Exp Res  2021;33:133–40. https://doi.org/10.1007/s40520-020-01512-4
-Google ScholarCrossrefWorldCat 
+  
 1091	Svennberg   E, Stridh   M, Engdahl   J, Al-Khalili   F, Friberg   L, Frykman   V, et al.   Safe automatic one-lead electrocardiogram analysis in screening for atrial fibrillation. Europace  2017;19:1449–53. https://doi.org/10.1093/europace/euw286
 Google ScholarWorldCat 
 1092	Musat   DL, Milstein   N, Mittal   S. Implantable loop recorders for cryptogenic stroke (plus real-world atrial fibrillation detection rate with implantable loop recorders). Card Electrophysiol Clin  2018;10:111–8. https://doi.org/10.1016/j.ccep.2017.11.011
-Google ScholarCrossrefWorldCat 
+  
 1093	Sakhi   R, Theuns   D, Szili-Torok   T, Yap   SC. Insertable cardiac monitors: current indications and devices. Expert Rev Med Devices  2019;16:45–55. https://doi.org/10.1080/17434440.2018.1557046
-Google ScholarCrossrefWorldCat 
+  
 1094	Tomson   TT, Passman   R. The reveal LINQ insertable cardiac monitor. Expert Rev Med Devices  2015;12:7–18. https://doi.org/10.1586/17434440.2014.953059
-Google ScholarCrossrefWorldCat 
+  
 1095	Ciconte   G, Saviano   M, Giannelli   L, Calovic   Z, Baldi   M, Ciaccio   C, et al.   Atrial fibrillation detection using a novel three-vector cardiac implantable monitor: the atrial fibrillation detect study. Europace  2017;19:1101–8. https://doi.org/10.1093/europace/euw181
-Google ScholarCrossrefWorldCat 
+  
 1096	Hindricks   G, Pokushalov   E, Urban   L, Taborsky   M, Kuck   KH, Lebedev   D, et al.   Performance of a new leadless implantable cardiac monitor in detecting and quantifying atrial fibrillation: results of the XPECT trial. Circ Arrhythm Electrophysiol  2010;3:141–7. https://doi.org/10.1161/CIRCEP.109.877852
-Google ScholarCrossrefWorldCat 
+  
 1097	Mittal   S, Rogers   J, Sarkar   S, Koehler   J, Warman   EN, Tomson   TT, et al.   Real-world performance of an enhanced atrial fibrillation detection algorithm in an insertable cardiac monitor. Heart Rhythm  2016;13:1624–30. https://doi.org/10.1016/j.hrthm.2016.05.010
-Google ScholarCrossrefWorldCat 
+  
 1098	Nölker   G, Mayer   J, Boldt   LH, Seidl K   VVAND, Massa   T, Kollum   M, et al.   Performance of an implantable cardiac monitor to detect atrial fibrillation: results of the DETECT AF study. J Cardiovasc Electrophysiol  2016;27:1403–10. https://doi.org/10.1111/jce.13089
-Google ScholarCrossrefWorldCat 
+  
 1099	Sanders   P, Pürerfellner   H, Pokushalov   E, Sarkar   S, Di Bacco   M, Maus   B, et al.   Performance of a new atrial fibrillation detection algorithm in a miniaturized insertable cardiac monitor: results from the reveal LINQ usability study. Heart Rhythm  2016;13:1425–30. https://doi.org/10.1016/j.hrthm.2016.03.005
-Google ScholarCrossrefWorldCat 
+  
 1100	Chan   PH, Wong   CK, Poh   YC, Pun   L, Leung   WW, Wong   YF, et al.   Diagnostic performance of a smartphone-based photoplethysmographic application for atrial fibrillation screening in a primary care setting. J Am Heart Assoc  2016;5:e003428. https://doi.org/10.1161/JAHA.116.003428
-Google ScholarCrossrefWorldCat 
+  
 1101	Mc   MD, Chong   JW, Soni   A, Saczynski   JS, Esa   N, Napolitano   C, et al.   PULSE-SMART: pulse-based arrhythmia discrimination using a novel smartphone application. J Cardiovasc Electrophysiol  2016;27:51–7. https://doi.org/10.1111/jce.12842
 Google ScholarWorldCat 
 1102	Proesmans   T, Mortelmans   C, Van Haelst   R, Verbrugge   F, Vandervoort   P, Vaes   B. Mobile phone-based use of the photoplethysmography technique to detect atrial fibrillation in primary care: diagnostic accuracy study of the FibriCheck app. JMIR Mhealth Uhealth  2019;7:e12284. https://doi.org/10.2196/12284
-Google ScholarCrossrefWorldCat 
+  
 1103	Rozen   G, Vaid   J, Hosseini   SM, Kaadan   MI, Rafael   A, Roka   A, et al.   Diagnostic accuracy of a novel mobile phone application for the detection and monitoring of atrial fibrillation. Am J Cardiol  2018;121:1187–91. https://doi.org/10.1016/j.amjcard.2018.01.035
-Google ScholarCrossrefWorldCat 
+  
 1104	O’Sullivan   JW, Grigg   S, Crawford   W, Turakhia   MP, Perez   M, Ingelsson   E, et al.   Accuracy of smartphone camera applications for detecting atrial fibrillation: a systematic review and meta-analysis. JAMA Netw Open  2020;3:e202064. https://doi.org/10.1001/jamanetworkopen.2020.2064
-Google ScholarCrossrefWorldCat 
+  
 1105	Koenig   N, Seeck   A, Eckstein   J, Mainka   A, Huebner   T, Voss   A, et al.   Validation of a new heart rate measurement algorithm for fingertip recording of video signals with smartphones. Telemed J E Health  2016;22:631–6. https://doi.org/10.1089/tmj.2015.0212
-Google ScholarCrossrefWorldCat 
+  
 1106	Krivoshei   L, Weber   S, Burkard   T, Maseli   A, Brasier   N, Kühne   M, et al.   Smart detection of atrial fibrillation†. Europace  2017;19:753–7. https://doi.org/10.1093/europace/euw125
 Google ScholarWorldCat 
 1107	Wiesel   J, Fitzig   L, Herschman   Y, Messineo   FC. Detection of atrial fibrillation using a modified microlife blood pressure monitor. Am J Hypertens  2009;22:848–52. https://doi.org/10.1038/ajh.2009.98
-Google ScholarCrossrefWorldCat 
+  
 1108	Chen   Y, Lei   L, Wang   JG. Atrial fibrillation screening during automated blood pressure measurement—comment on “diagnostic accuracy of new algorithm to detect atrial fibrillation in a home blood pressure monitor”. J Clin Hypertens (Greenwich)  2017;19:1148–51. https://doi.org/10.1111/jch.13081
-Google ScholarCrossrefWorldCat 
+  
 1109	Kane   SA, Blake   JR, McArdle   FJ, Langley   P, Sims   AJ. Opportunistic detection of atrial fibrillation using blood pressure monitors: a systematic review. Open Heart  2016;3:e000362. https://doi.org/10.1136/openhrt-2015-000362
-Google ScholarCrossrefWorldCat 
+  
 1110	Kario   K. Evidence and perspectives on the 24-hour management of hypertension: hemodynamic biomarker-initiated ‘anticipation medicine’ for zero cardiovascular event. Prog Cardiovasc Dis  2016;59:262–81. https://doi.org/10.1016/j.pcad.2016.04.001
-Google ScholarCrossrefWorldCat 
+  
 1111	Jaakkola   J, Jaakkola   S, Lahdenoja   O, Hurnanen   T, Koivisto   T, Pänkäälä   M, et al.   Mobile phone detection of atrial fibrillation with mechanocardiography: the MODE-AF study (mobile phone detection of atrial fibrillation). Circulation  2018;137:1524–7. https://doi.org/10.1161/CIRCULATIONAHA.117.032804
-Google ScholarCrossrefWorldCat 
+  
 1112	Couderc   JP, Kyal   S, Mestha   LK, Xu   B, Peterson   DR, Xia   X, et al.   Detection of atrial fibrillation using contactless facial video monitoring. Heart Rhythm  2015;12:195–201. https://doi.org/10.1016/j.hrthm.2014.08.035
-Google ScholarCrossrefWorldCat 
+  
 1113	Yan   BP, Lai   WHS, Chan   CKY, Au   ACK, Freedman   B, Poh   YC, et al.   High-throughput, contact-free detection of atrial fibrillation from video with deep learning. JAMA Cardiol  2020;5:105–7. https://doi.org/10.1001/jamacardio.2019.4004
-Google ScholarCrossrefWorldCat 
+  
 1114	Yan   BP, Lai   WHS, Chan   CKY, Chan   SC, Chan   LH, Lam   KM, et al.   Contact-free screening of atrial fibrillation by a smartphone using facial pulsatile photoplethysmographic signals. J Am Heart Assoc  2018;7:e008585. https://doi.org/10.1161/JAHA.118.008585
-Google ScholarCrossrefWorldCat 
+  
 1115	Tsouri   GR, Li   Z. On the benefits of alternative color spaces for noncontact heart rate measurements using standard red-green-blue cameras. J Biomed Opt  2015;20:048002. https://doi.org/10.1117/1.JBO.20.4.048002
-Google ScholarCrossrefWorldCat 
+  
 1116	Chan   J, Rea   T, Gollakota   S, Sunshine   JE. Contactless cardiac arrest detection using smart devices. NPJ Digit Med  2019;2:52. https://doi.org/10.1038/s41746-019-0128-7
-Google ScholarCrossrefWorldCat 
+  
 1117	Guo   Y, Wang   H, Zhang   H, Liu   T, Liang   Z, Xia   Y, et al.   Mobile photoplethysmographic technology to detect atrial fibrillation. J Am Coll Cardiol  2019;74:2365–75. https://doi.org/10.1016/j.jacc.2019.08.019
-Google ScholarCrossrefWorldCat 
+  
 1118	Lubitz   SA, Faranesh   AZ, Selvaggi   C, Atlas   SJ, McManus   DD, Singer   DE, et al.   Detection of atrial fibrillation in a large population using wearable devices: the Fitbit heart study. Circulation  2022;146:1415–24. https://doi.org/10.1161/CIRCULATIONAHA.122.060291
-Google ScholarCrossrefWorldCat 
+  
 1119	Lopez Perales   CR, Van Spall   HGC, Maeda   S, Jimenez   A, Laţcu   DG, Milman   A, et al.   Mobile health applications for the detection of atrial fibrillation: a systematic review. Europace  2021;23:11–28. https://doi.org/10.1093/europace/euaa139
-Google ScholarCrossrefWorldCat 
+  
 1120	Gill   S, Bunting   KV, Sartini   C, Cardoso   VR, Ghoreishi   N, Uh   HW, et al.   Smartphone detection of atrial fibrillation using photoplethysmography: a systematic review and meta-analysis. Heart  2022;108:1600–7. https://doi.org/10.1136/heartjnl-2021-320417
-Google ScholarCrossrefWorldCat 
+  
 1121	Mant   J, Fitzmaurice   DA, Hobbs   FD, Jowett   S, Murray   ET, Holder   R, et al.   Accuracy of diagnosing atrial fibrillation on electrocardiogram by primary care practitioners and interpretative diagnostic software: analysis of data from screening for atrial fibrillation in the elderly (SAFE) trial. BMJ  2007;335:380. https://doi.org/10.1136/bmj.39227.551713.AE
-Google ScholarCrossrefWorldCat 
+  
 1122	Halcox   JPJ, Wareham   K, Cardew   A, Gilmore   M, Barry   JP, Phillips   C, et al.   Assessment of remote heart rhythm sampling using the AliveCor heart monitor to screen for atrial fibrillation: the REHEARSE-AF study. Circulation  2017;136:1784–94. https://doi.org/10.1161/CIRCULATIONAHA.117.030583
-Google ScholarCrossrefWorldCat 
+  
 1123	Duarte   R, Stainthorpe   A, Greenhalgh   J, Richardson   M, Nevitt   S, Mahon   J, et al.   Lead-I ECG for detecting atrial fibrillation in patients with an irregular pulse using single time point testing: a systematic review and economic evaluation. Health Technol Assess  2020;24:1–164. https://doi.org/10.3310/hta24030
-Google ScholarCrossrefWorldCat 
+  
 1124	Mannhart   D, Lischer   M, Knecht   S, du Fay de Lavallaz   J, Strebel   I, Serban   T, et al.   Clinical validation of 5 direct-to-consumer wearable smart devices to detect atrial fibrillation: BASEL wearable study. JACC Clin Electrophysiol  2023;9:232–42. https://doi.org/10.1016/j.jacep.2022.09.011
-Google ScholarCrossrefWorldCat 
+  
 1125	Paul Nordin   A, Carnlöf   C, Insulander   P, Mohammad Ali   A, Jensen-Urstad   M, Saluveer   O, et al.   Validation of diagnostic accuracy of a handheld, smartphone-based rhythm recording device. Expert Rev Med Devices  2023;20:55–61. https://doi.org/10.1080/17434440.2023.2171290
-Google ScholarCrossrefWorldCat 
+  
 1126	Gill   SK, Barsky   A, Guan   X, Bunting   KV, Karwath   A, Tica   O, et al.   Consumer wearable devices to evaluate dynamic heart rate with digoxin versus beta-blockers: the RATE-AF randomised trial. Nat Med  2024;30:2030–2036. https://doi.org/10.1038/s41591-024-03094-4.
-Google ScholarCrossrefWorldCat 
+  
 1127	Kahwati   LC, Asher   GN, Kadro   ZO, Keen   S, Ali   R, Coker-Schwimmer   E, et al.   Screening for atrial fibrillation: updated evidence report and systematic review for the US preventive services task force. JAMA  2022;327:368–83. https://doi.org/10.1001/jama.2021.21811
-Google ScholarCrossrefWorldCat 
+  
 1128	Strong   K, Wald   N, Miller   A, Alwan   A. Current concepts in screening for noncommunicable disease: World Health Organization Consultation Group Report on methodology of noncommunicable disease screening. J Med Screen  2005;12:12–9. https://doi.org/10.1258/0969141053279086
-Google ScholarCrossrefWorldCat 
+  
 1129	Whitfield   R, Ascenção   R, da Silva   GL, Almeida   AG, Pinto   FJ, Caldeira   D. Screening strategies for atrial fibrillation in the elderly population: a systematic review and network meta-analysis. Clin Res Cardiol  2023;112:705–15. https://doi.org/10.1007/s00392-022-02117-9
-Google ScholarCrossrefWorldCat 
+  
 1130	Proietti   M, Romiti   GF, Vitolo   M, Borgi   M, Rocco   AD, Farcomeni   A, et al.   Epidemiology of subclinical atrial fibrillation in patients with cardiac implantable electronic devices: a systematic review and meta-regression. Eur J Intern Med  2022;103:84–94. https://doi.org/10.1016/j.ejim.2022.06.023
-Google ScholarCrossrefWorldCat 
+  
 1131	Healey   JS, Alings   M, Ha   A, Leong-Sit   P, Birnie   DH, de Graaf   JJ, et al.   Subclinical atrial fibrillation in older patients. Circulation  2017;136:1276–83. https://doi.org/10.1161/CIRCULATIONAHA.117.028845
-Google ScholarCrossrefWorldCat 
+  
 1132	Van Gelder   IC, Healey   JS, Crijns   H, Wang   J, Hohnloser   SH, Gold   MR, et al.   Duration of device-detected subclinical atrial fibrillation and occurrence of stroke in ASSERT. Eur Heart J  2017;38:1339–44. https://doi.org/10.1093/eurheartj/ehx042
-Google ScholarCrossrefWorldCat 
+  
 1133	Kemp Gudmundsdottir   K, Fredriksson   T, Svennberg   E, Al-Khalili   F, Friberg   L, Frykman   V, et al.   Stepwise mass screening for atrial fibrillation using N-terminal B-type natriuretic peptide: the STROKESTOP II study. Europace  2020;22:24–32. https://doi.org/10.1093/europace/euz255
-Google ScholarCrossrefWorldCat 
+  
 1134	Williams   K, Modi   RN, Dymond   A, Hoare   S, Powell   A, Burt   J, et al.   Cluster randomised controlled trial of screening for atrial fibrillation in people aged 70 years and over to reduce stroke: protocol for the pilot study for the SAFER trial. BMJ Open  2022;12:e065066. https://doi.org/10.1136/bmjopen-2022-065066
-Google ScholarCrossrefWorldCat 
+  
 1135	Elbadawi   A, Sedhom   R, Gad   M, Hamed   M, Elwagdy   A, Barakat   AF, et al.   Screening for atrial fibrillation in the elderly: a network meta-analysis of randomized trials. Eur J Intern Med  2022;105:38–45. https://doi.org/10.1016/j.ejim.2022.07.015
-Google ScholarCrossrefWorldCat 
+  
 1136	McIntyre   WF, Diederichsen   SZ, Freedman   B, Schnabel   RB, Svennberg   E, Healey   JS. Screening for atrial fibrillation to prevent stroke: a meta-analysis. Eur Heart J Open  2022;2:oeac044. https://doi.org/10.1093/ehjopen/oeac044
-Google ScholarCrossrefWorldCat 
+  
 1137	Lyth   J, Svennberg   E, Bernfort   L, Aronsson   M, Frykman   V, Al-Khalili   F, et al.   Cost-effectiveness of population screening for atrial fibrillation: the STROKESTOP study. Eur Heart J  2023;44:196–204. https://doi.org/10.1093/eurheartj/ehac547
-Google ScholarCrossrefWorldCat 
+  
 1138	Lubitz   SA, Atlas   SJ, Ashburner   JM, Lipsanopoulos   ATT, Borowsky   LH, Guan   W, et al.   Screening for atrial fibrillation in older adults at primary care visits: VITAL-AF randomized controlled trial. Circulation  2022;145:946–54. https://doi.org/10.1161/CIRCULATIONAHA.121.057014
-Google ScholarCrossrefWorldCat 
+  
 1139	Uittenbogaart   SB, Verbiest-van Gurp   N, Lucassen   WAM, Winkens   B, Nielen   M, Erkens   PMG, et al.   Opportunistic screening versus usual care for detection of atrial fibrillation in primary care: cluster randomised controlled trial. BMJ  2020;370:m3208. https://doi.org/10.1136/bmj.m3208
 Google ScholarWorldCat 
 1140	Kaasenbrood   F, Hollander   M, de Bruijn   SH, Dolmans   CP, Tieleman   RG, Hoes   AW, et al.   Opportunistic screening versus usual care for diagnosing atrial fibrillation in general practice: a cluster randomised controlled trial. Br J Gen Pract  2020;70:e427–33. https://doi.org/10.3399/bjgp20X708161
-Google ScholarCrossrefWorldCat 
+  
 1141	Petryszyn   P, Niewinski   P, Staniak   A, Piotrowski   P, Well   A, Well   M, et al.   Effectiveness of screening for atrial fibrillation and its determinants. A meta-analysis. PLoS One  2019;14:e0213198. https://doi.org/10.1371/journal.pone.0213198
-Google ScholarCrossrefWorldCat 
+  
 1142	Wang   Q, Richardson   TG, Sanderson   E, Tudball   MJ, Ala-Korpela   M, Davey Smith   G, et al.   A phenome-wide bidirectional Mendelian randomization analysis of atrial fibrillation. Int J Epidemiol  2022;51:1153–66. https://doi.org/10.1093/ije/dyac041
-Google ScholarCrossrefWorldCat 
+  
 1143	Siddiqi   HK, Vinayagamoorthy   M, Gencer   B, Ng   C, Pester   J, Cook   NR, et al.   Sex differences in atrial fibrillation risk: the VITAL rhythm study. JAMA Cardiol  2022;7:1027–35. https://doi.org/10.1001/jamacardio.2022.2825
-Google ScholarCrossrefWorldCat 
+  
 1144	Lu   Z, Aribas   E, Geurts   S, Roeters van Lennep   JE, Ikram   MA, Bos   MM, et al.   Association between sex-specific risk factors and risk of new-onset atrial fibrillation among women. JAMA Netw Open  2022;5:e2229716. https://doi.org/10.1001/jamanetworkopen.2022.29716
-Google ScholarCrossrefWorldCat 
+  
 1145	Wong   GR, Nalliah   CJ, Lee   G, Voskoboinik   A, Chieng   D, Prabhu   S, et al.   Sex-related differences in atrial remodeling in patients with atrial fibrillation: relationship to ablation outcomes. Circ Arrhythm Electrophysiol  2022;15:e009925. https://doi.org/10.1161/CIRCEP.121.009925
-Google ScholarCrossrefWorldCat 
+  
 1146	Mokgokong   R, Schnabel   R, Witt   H, Miller   R, Lee   TC. Performance of an electronic health record-based predictive model to identify patients with atrial fibrillation across countries. PLoS One  2022;17:e0269867. https://doi.org/10.1371/journal.pone.0269867
-Google ScholarCrossrefWorldCat 
+  
 1147	Schnabel   RB, Witt   H, Walker   J, Ludwig   M, Geelhoed   B, Kossack   N, et al.   Machine learning-based identification of risk-factor signatures for undiagnosed atrial fibrillation in primary prevention and post-stroke in clinical practice. Eur Heart J Qual Care Clin Outcomes  2022;9:16–23. https://doi.org/10.1093/ehjqcco/qcac013
-Google ScholarCrossrefWorldCat 
+  
 1148	Himmelreich   JCL, Veelers   L, Lucassen   WAM, Schnabel   RB, Rienstra   M, van Weert   H, et al.   Prediction models for atrial fibrillation applicable in the community: a systematic review and meta-analysis. Europace  2020;22:684–94. https://doi.org/10.1093/europace/euaa005
-Google ScholarCrossrefWorldCat 
+  
 1149	Benjamin   EJ, Muntner   P, Alonso   A, Bittencourt   MS, Callaway   CW, Carson   AP, et al.   Heart disease and stroke statistics—2019 update: a report from the American Heart Association. Circulation  2019;139:e56–528. https://doi.org/10.1161/CIR.0000000000000659
-Google ScholarCrossrefWorldCat 
+  
 1150	Allan   V, Honarbakhsh   S, Casas   JP, Wallace   J, Hunter   R, Schilling   R, et al.   Are cardiovascular risk factors also associated with the incidence of atrial fibrillation? A systematic review and field synopsis of 23 factors in 32 population-based cohorts of 20 million participants. Thromb Haemost  2017;117:837–50. https://doi.org/10.1160/TH16-11-0825
-Google ScholarCrossrefWorldCat 
+  
 1151	Kirchhof   P, Lip   GY, Van Gelder   IC, Bax   J, Hylek   E, Kaab   S, et al.   Comprehensive risk reduction in patients with atrial fibrillation: emerging diagnostic and therapeutic options—a report from the 3rd Atrial Fibrillation Competence NETwork/European Heart Rhythm Association consensus conference. Europace  2012;14:8–27. https://doi.org/10.1093/europace/eur241
-Google ScholarCrossrefWorldCat 
+  
 1152	Lu   Z, Tilly   MJ, Geurts   S, Aribas   E, Roeters van Lennep   J, de Groot   NMS, et al.   Sex-specific anthropometric and blood pressure trajectories and risk of incident atrial fibrillation: the Rotterdam study. Eur J Prev Cardiol  2022;29:1744–55. https://doi.org/10.1093/eurjpc/zwac083
-Google ScholarCrossrefWorldCat 
+  
 1153	Giacomantonio   NB, Bredin   SS, Foulds   HJ, Warburton   DE. A systematic review of the health benefits of exercise rehabilitation in persons living with atrial fibrillation. Can J Cardiol  2013;29:483–91. https://doi.org/10.1016/j.cjca.2012.07.003
-Google ScholarCrossrefWorldCat 
+  
 1154	Andersen   K, Farahmand   B, Ahlbom   A, Held   C, Ljunghall   S, Michaelsson   K, et al.   Risk of arrhythmias in 52 755 long-distance cross-country skiers: a cohort study. Eur Heart J  2013;34:3624–31. https://doi.org/10.1093/eurheartj/eht188
-Google ScholarCrossrefWorldCat 
+  
 1155	Qureshi   WT, Alirhayim   Z, Blaha   MJ, Juraschek   SP, Keteyian   SJ, Brawner   CA, et al.   Cardiorespiratory fitness and risk of incident atrial fibrillation: results from the Henry Ford exercise testing (FIT) project. Circulation  2015;131:1827–34. https://doi.org/10.1161/CIRCULATIONAHA.114.014833
-Google ScholarCrossrefWorldCat 
+  
 1156	Kwok   CS, Anderson   SG, Myint   PK, Mamas   MA, Loke   YK. Physical activity and incidence of atrial fibrillation: a systematic review and meta-analysis. Int J Cardiol  2014;177:467–76. https://doi.org/10.1016/j.ijcard.2014.09.104
-Google ScholarCrossrefWorldCat 
+  
 1157	Abdulla   J, Nielsen   JR. Is the risk of atrial fibrillation higher in athletes than in the general population? A systematic review and meta-analysis. Europace  2009;11:1156–9. https://doi.org/10.1093/europace/eup197
-Google ScholarCrossrefWorldCat 
+  
 1158	Cheng   M, Hu   Z, Lu   X, Huang   J, Gu   D. Caffeine intake and atrial fibrillation incidence: dose response meta-analysis of prospective cohort studies. Can J Cardiol  2014;30:448–54. https://doi.org/10.1016/j.cjca.2013.12.026
-Google ScholarCrossrefWorldCat 
+  
 1159	Conen   D, Chiuve   SE, Everett   BM, Zhang   SM, Buring   JE, Albert   CM. Caffeine consumption and incident atrial fibrillation in women. Am J Clin Nutr  2010;92:509–14. https://doi.org/10.3945/ajcn.2010.29627
-Google ScholarCrossrefWorldCat 
+  
 1160	Shen   J, Johnson   VM, Sullivan   LM, Jacques   PF, Magnani   JW, Lubitz   SA, et al.   Dietary factors and incident atrial fibrillation: the Framingham heart study. Am J Clin Nutr  2011;93:261–6. https://doi.org/10.3945/ajcn.110.001305
-Google ScholarCrossrefWorldCat 
+  
 1161	Schnabel   RB, Yin   X, Gona   P, Larson   MG, Beiser   AS, McManus   DD, et al.   50 year trends in atrial fibrillation prevalence, incidence, risk factors, and mortality in the Framingham heart study: a cohort study. Lancet  2015;386:154–62. https://doi.org/10.1016/S0140-6736(14)61774-8
-Google ScholarCrossrefWorldCat 
+  
 1162	Furberg   CD, Psaty   BM, Manolio   TA, Gardin   JM, Smith   VE, Rautaharju   PM. Prevalence of atrial fibrillation in elderly subjects (the cardiovascular health study). Am J Cardiol  1994;74:236–41. https://doi.org/10.1016/0002-9149(94)90363-8
-Google ScholarCrossrefWorldCat 
+  
 1163	Lip   GYH, Collet   JP, de Caterina   R, Fauchier   L, Lane   DA, Larsen   TB, et al.   Antithrombotic therapy in atrial fibrillation associated with valvular heart disease: executive summary of a joint consensus document from the European Heart Rhythm Association (EHRA) and European Society of Cardiology Working Group on Thrombosis, Endorsed by the ESC Working Group on Valvular Heart Disease, Cardiac Arrhythmia Society of Southern Africa (CASSA), Heart Rhythm Society (HRS), Asia Pacific Heart Rhythm Society (APHRS), South African Heart (SA Heart) Association and Sociedad Latinoamericana de Estimulacion Cardiaca y Electrofisiologia (SOLEACE). Thromb Haemost  2017;117:2215–36. https://doi.org/10.1160/TH-17-10-0709
-Google ScholarCrossrefWorldCat 
+  
 1164	Benjamin   EJ, Levy   D, Vaziri   SM, D’Agostino   RB, Belanger   AJ, Wolf   PA. Independent risk factors for atrial fibrillation in a population-based cohort. The Framingham heart study. JAMA  1994;271:840–4. https://doi.org/10.1001/jama.1994.03510350050036
-Google ScholarCrossrefWorldCat 
+  
 1165	Michniewicz   E, Mlodawska   E, Lopatowska   P, Tomaszuk-Kazberuk   A, Malyszko   J. Patients with atrial fibrillation and coronary artery disease—double trouble. Adv Med Sci  2018;63:30–5. https://doi.org/10.1016/j.advms.2017.06.005
-Google ScholarCrossrefWorldCat 
+  
 1166	Loomba   RS, Buelow   MW, Aggarwal   S, Arora   RR, Kovach   J, Ginde   S. Arrhythmias in adults with congenital heart disease: what are risk factors for specific arrhythmias?  Pacing Clin Electrophysiol  2017;40:353–61. https://doi.org/10.1111/pace.12983
-Google ScholarCrossrefWorldCat 
+  
 1167	Siland   JE, Geelhoed   B, Roselli   C, Wang   B, Lin   HJ, Weiss   S, et al.   Resting heart rate and incident atrial fibrillation: a stratified Mendelian randomization in the AFGen consortium. PLoS One  2022;17:e0268768. https://doi.org/10.1371/journal.pone.0268768
-Google ScholarCrossrefWorldCat 
+  
 1168	Geurts   S, Tilly   MJ, Arshi   B, Stricker   BHC, Kors   JA, Deckers   JW, et al.   Heart rate variability and atrial fibrillation in the general population: a longitudinal and Mendelian randomization study. Clin Res Cardiol  2023;112:747–58. https://doi.org/10.1007/s00392-022-02072-5
-Google ScholarCrossrefWorldCat 
+  
 1169	Aune   D, Feng   T, Schlesinger   S, Janszky   I, Norat   T, Riboli   E. Diabetes mellitus, blood glucose and the risk of atrial fibrillation: a systematic review and meta-analysis of cohort studies. J Diabetes Complications  2018;32:501–11. https://doi.org/10.1016/j.jdiacomp.2018.02.004
-Google ScholarCrossrefWorldCat 
+  
 1170	Nakanishi   K, Daimon   M, Fujiu   K, Iwama   K, Yoshida   Y, Hirose   K, et al.   Prevalence of glucose metabolism disorders and its association with left atrial remodelling before and after catheter ablation in patients with atrial fibrillation. Europace  2023;25:euad119. https://doi.org/10.1093/europace/euad119
-Google ScholarCrossrefWorldCat 
+  
 1171	Kim   J, Kim   D, Jang   E, Kim   D, You   SC, Yu   HT, et al.   Associations of high-normal blood pressure and impaired fasting glucose with atrial fibrillation. Heart  2023;109:929–35. https://doi.org/10.1136/heartjnl-2022-322094
-Google ScholarCrossrefWorldCat 
+  
 1172	Lee   SS, Ae Kong   K, Kim   D, Lim   YM, Yang   PS, Yi   JE, et al.   Clinical implication of an impaired fasting glucose and prehypertension related to new onset atrial fibrillation in a healthy Asian population without underlying disease: a nationwide cohort study in Korea. Eur Heart J  2017;38:2599–607. https://doi.org/10.1093/eurheartj/ehx316
-Google ScholarCrossrefWorldCat 
+  
 1173	Alonso   A, Lopez   FL, Matsushita   K, Loehr   LR, Agarwal   SK, Chen   LY, et al.   Chronic kidney disease is associated with the incidence of atrial fibrillation: the Atherosclerosis Risk in Communities (ARIC) study. Circulation  2011;123:2946–53. https://doi.org/10.1161/CIRCULATIONAHA.111.020982
-Google ScholarCrossrefWorldCat 
+  
 1174	Bansal   N, Zelnick   LR, Alonso   A, Benjamin   EJ, de Boer   IH, Deo   R, et al.   eGFR and albuminuria in relation to risk of incident atrial fibrillation: a meta-analysis of the Jackson heart study, the multi-ethnic study of atherosclerosis, and the cardiovascular health study. Clin J Am Soc Nephrol  2017;12:1386–98. https://doi.org/10.2215/CJN.01860217
-Google ScholarCrossrefWorldCat 
+  
 1175	Asad   Z, Abbas   M, Javed   I, Korantzopoulos   P, Stavrakis   S. Obesity is associated with incident atrial fibrillation independent of gender: a meta-analysis. J Cardiovasc Electrophysiol  2018;29:725–32. https://doi.org/10.1111/jce.13458
-Google ScholarCrossrefWorldCat 
+  
 1176	Aune   D, Sen   A, Schlesinger   S, Norat   T, Janszky   I, Romundstad   P, et al.   Body mass index, abdominal fatness, fat mass and the risk of atrial fibrillation: a systematic review and dose-response meta-analysis of prospective studies. Eur J Epidemiol  2017;32:181–92. https://doi.org/10.1007/s10654-017-0232-4
-Google ScholarCrossrefWorldCat 
+  
 1177	May   AM, Blackwell   T, Stone   PH, Stone   KL, Cawthon   PM, Sauer   WH, et al.   Central sleep-disordered breathing predicts incident atrial fibrillation in older men. Am J Respir Crit Care Med  2016;193:783–91. https://doi.org/10.1164/rccm.201508-1523OC
-Google ScholarCrossrefWorldCat 
+  
 1178	Tung   P, Levitzky   YS, Wang   R, Weng   J, Quan   SF, Gottlieb   DJ, et al.   Obstructive and central sleep apnea and the risk of incident atrial fibrillation in a community cohort of men and women. J Am Heart Assoc  2017;6:e004500. https://doi.org/10.1161/JAHA.116.004500
-Google ScholarCrossrefWorldCat 
+  
 1179	Desai   R, Patel   U, Singh   S, Bhuva   R, Fong   HK, Nunna   P, et al.   The burden and impact of arrhythmia in chronic obstructive pulmonary disease: insights from the national inpatient sample. Int J Cardiol  2019;281:49–55. https://doi.org/10.1016/j.ijcard.2019.01.074
-Google ScholarCrossrefWorldCat 
+  
 1180	O’Neal   WT, Efird   JT, Qureshi   WT, Yeboah   J, Alonso   A, Heckbert   SR, et al.   Coronary artery calcium progression and atrial fibrillation: the multi-ethnic study of atherosclerosis. Circ Cardiovasc Imaging  2015;8:e003786. https://doi.org/10.1161/CIRCIMAGING.115.003786
-Google ScholarCrossrefWorldCat 
+  
 1181	Chen   LY, Leening   MJ, Norby   FL, Roetker   NS, Hofman   A, Franco   OH, et al.   Carotid intima-media thickness and arterial stiffness and the risk of atrial fibrillation: the Atherosclerosis Risk in Communities (ARIC) study, Multi-Ethnic Study of Atherosclerosis (MESA), and the Rotterdam study. J Am Heart Assoc  2016;5:e002907. https://doi.org/10.1161/JAHA.115.002907
-Google ScholarCrossrefWorldCat 
+  
 1182	Geurts   S, Brunborg   C, Papageorgiou   G, Ikram   MA, Kavousi   M. Subclinical measures of peripheral atherosclerosis and the risk of new-onset atrial fibrillation in the general population: the Rotterdam study. J Am Heart Assoc  2022;11:e023967. https://doi.org/10.1161/JAHA.121.023967
-Google ScholarCrossrefWorldCat 
+  
 1183	Cheng   S, Keyes   MJ, Larson   MG, McCabe   EL, Newton-Cheh   C, Levy   D, et al.   Long-term outcomes in individuals with prolonged PR interval or first-degree atrioventricular block. JAMA  2009;301:2571–7. https://doi.org/10.1001/jama.2009.888
-Google ScholarCrossrefWorldCat 
+  
 1184	Alonso   A, Jensen   PN, Lopez   FL, Chen   LY, Psaty   BM, Folsom   AR, et al.   Association of sick sinus syndrome with incident cardiovascular disease and mortality: the atherosclerosis risk in communities study and cardiovascular health study. PLoS One  2014;9:e109662. https://doi.org/10.1371/journal.pone.0109662
-Google ScholarCrossrefWorldCat 
+  
 1185	Bodin   A, Bisson   A, Gaborit   C, Herbert   J, Clementy   N, Babuty   D, et al.   Ischemic stroke in patients with sinus node disease, atrial fibrillation, and other cardiac conditions. Stroke  2020;51:1674–81. https://doi.org/10.1161/STROKEAHA.120.029048
-Google ScholarCrossrefWorldCat 
+  
 1186	Bunch   TJ, May   HT, Bair   TL, Anderson   JL, Crandall   BG, Cutler   MJ, et al.   Long-term natural history of adult Wolff–Parkinson–White syndrome patients treated with and without catheter ablation. Circ Arrhythm Electrophysiol  2015;8:1465–71. https://doi.org/10.1161/CIRCEP.115.003013
-Google ScholarCrossrefWorldCat 
+  
 1187	Chang   SH, Kuo   CF, Chou   IJ, See   LC, Yu   KH, Luo   SF, et al.   Association of a family history of atrial fibrillation with incidence and outcomes of atrial fibrillation: a population-based family cohort study. JAMA Cardiol  2017;2:863–70. https://doi.org/10.1001/jamacardio.2017.1855
-Google ScholarCrossrefWorldCat 
+  
 1188	Fox   CS, Parise   H, D’Agostino   RB, Sr, Lloyd-Jones   DM, Vasan   RS, Wang   TJ, et al.   Parental atrial fibrillation as a risk factor for atrial fibrillation in offspring. JAMA  2004;291:2851–5. https://doi.org/10.1001/jama.291.23.2851
-Google ScholarCrossrefWorldCat 
+  
 1189	Lubitz   SA, Yin   X, Fontes   JD, Magnani   JW, Rienstra   M, Pai   M, et al.   Association between familial atrial fibrillation and risk of new-onset atrial fibrillation. JAMA  2010;304:2263–9. https://doi.org/10.1001/jama.2010.1690
-Google ScholarCrossrefWorldCat 
+  
 1190	Zoller   B, Ohlsson   H, Sundquist   J, Sundquist   K. High familial risk of atrial fibrillation/atrial flutter in multiplex families: a nationwide family study in Sweden. J Am Heart Assoc  2013;2:e003384. https://doi.org/10.1161/JAHA.112.003384
-Google ScholarCrossrefWorldCat 
+  
 1191	Ko   D, Benson   MD, Ngo   D, Yang   Q, Larson   MG, Wang   TJ, et al.   Proteomics profiling and risk of new-onset atrial fibrillation: Framingham heart study. J Am Heart Assoc  2019;8:e010976. https://doi.org/10.1161/JAHA.118.010976
-Google ScholarCrossrefWorldCat 
+  
 1192	Khera   AV, Chaffin   M, Aragam   KG, Haas   ME, Roselli   C, Choi   SH, et al.   Genome-wide polygenic scores for common diseases identify individuals with risk equivalent to monogenic mutations. Nat Genet  2018;50:1219–24. https://doi.org/10.1038/s41588-018-0183-z
-Google ScholarCrossrefWorldCat 
+  
 1193	Buckley   BJR, Harrison   SL, Gupta   D, Fazio-Eynullayeva   E, Underhill   P, Lip   GYH. Atrial fibrillation in patients with cardiomyopathy: prevalence and clinical outcomes from real-world data. J Am Heart Assoc  2021;10:e021970. https://doi.org/10.1161/JAHA.121.021970
-Google ScholarCrossrefWorldCat 
+  
 1194	Chen   M, Ding   N, Mok   Y, Mathews   L, Hoogeveen   RC, Ballantyne   CM, et al.   Growth differentiation factor 15 and the subsequent risk of atrial fibrillation: the atherosclerosis risk in communities study. Clin Chem  2022;68:1084–93. https://doi.org/10.1093/clinchem/hvac096
-Google ScholarCrossrefWorldCat 
+  
 1195	Chua   W, Purmah   Y, Cardoso   VR, Gkoutos   GV, Tull   SP, Neculau   G, et al.   Data-driven discovery and validation of circulating blood-based biomarkers associated with prevalent atrial fibrillation. Eur Heart J  2019;40:1268–76. https://doi.org/10.1093/eurheartj/ehy815
-Google ScholarCrossrefWorldCat 
+  
 1196	Brady   PF, Chua   W, Nehaj   F, Connolly   DL, Khashaba   A, Purmah   YJV, et al.   Interactions between atrial fibrillation and natriuretic peptide in predicting heart failure hospitalization or cardiovascular death. J Am Heart Assoc  2022;11:e022833. https://doi.org/10.1161/JAHA.121.022833
-Google ScholarCrossrefWorldCat 
+  
 1197	Werhahn   SM, Becker   C, Mende   M, Haarmann   H, Nolte   K, Laufs   U, et al.   NT-proBNP as a marker for atrial fibrillation and heart failure in four observational outpatient trials. ESC Heart Fail  2022;9:100–9. https://doi.org/10.1002/ehf2.13703
-Google ScholarCrossrefWorldCat 
+  
 1198	Geelhoed   B, Börschel   CS, Niiranen   T, Palosaari   T, Havulinna   AS, Fouodo   CJK, et al.   Assessment of causality of natriuretic peptides and atrial fibrillation and heart failure: a Mendelian randomization study in the FINRISK cohort. Europace  2020;22:1463–9. https://doi.org/10.1093/europace/euaa158
-Google ScholarCrossrefWorldCat 
+  
 1199	Toprak   B, Brandt   S, Brederecke   J, Gianfagna   F, Vishram-Nielsen   JKK, Ojeda   FM, et al.   Exploring the incremental utility of circulating biomarkers for robust risk prediction of incident atrial fibrillation in European cohorts using regressions and modern machine learning methods. Europace  2023;25:812–9. https://doi.org/10.1093/europace/euac260
-Google ScholarCrossrefWorldCat 
+  
 1200	Benz   AP, Hijazi   Z, Lindbäck   J, Connolly   SJ, Eikelboom   JW, Oldgren   J, et al.   Biomarker-based risk prediction with the ABC-AF scores in patients with atrial fibrillation not receiving oral anticoagulation. Circulation  2021;143:1863–73. https://doi.org/10.1161/CIRCULATIONAHA.120.053100
-Google ScholarCrossrefWorldCat 
+  
 1201	Monrad   M, Sajadieh   A, Christensen   JS, Ketzel   M, Raaschou-Nielsen   O, Tjonneland   A, et al.   Long-term exposure to traffic-related air pollution and risk of incident atrial fibrillation: a cohort study. Environ Health Perspect  2017;125:422–7. https://doi.org/10.1289/EHP392
-Google ScholarCrossrefWorldCat 
+  
 1202	Walkey   AJ, Greiner   MA, Heckbert   SR, Jensen   PN, Piccini   JP, Sinner   MF, et al.   Atrial fibrillation among medicare beneficiaries hospitalized with sepsis: incidence and risk factors. Am Heart J  2013;165:949–955.e3. https://doi.org/10.1016/j.ahj.2013.03.020
-Google ScholarCrossrefWorldCat 
+  
 1203	Svensson   T, Kitlinski   M, Engstrom   G, Melander   O. Psychological stress and risk of incident atrial fibrillation in men and women with known atrial fibrillation genetic risk scores. Sci Rep  2017;7:42613. https://doi.org/10.1038/srep42613
-Google ScholarCrossrefWorldCat 
+  
 1204	Eaker   ED, Sullivan   LM, Kelly-Hayes   M, D’Agostino   RB, Sr, Benjamin   EJ. Anger and hostility predict the development of atrial fibrillation in men in the Framingham offspring study. Circulation  2004;109:1267–71. https://doi.org/10.1161/01.CIR.0000118535.15205.8F
-Google ScholarCrossrefWorldCat 
+  
 1205	Chen   LY, Bigger   JT, Hickey   KT, Chen   H, Lopez-Jimenez   C, Banerji   MA, et al.   Effect of intensive blood pressure lowering on incident atrial fibrillation and P-wave indices in the ACCORD blood pressure trial. Am J Hypertens  2016;29:1276–82. https://doi.org/10.1093/ajh/hpv172
-Google ScholarCrossrefWorldCat 
+  
 1206	Soliman   EZ, Rahman   AF, Zhang   ZM, Rodriguez   CJ, Chang   TI, Bates   JT, et al.   Effect of intensive blood pressure lowering on the risk of atrial fibrillation. Hypertension  2020;75:1491–6. https://doi.org/10.1161/HYPERTENSIONAHA.120.14766
-Google ScholarCrossrefWorldCat 
+  
 1207	Larstorp   ACK, Stokke   IM, Kjeldsen   SE, Hecht Olsen   M, Okin   PM, Devereux   RB, et al.   Antihypertensive therapy prevents new-onset atrial fibrillation in patients with isolated systolic hypertension: the LIFE study. Blood Press  2019;28:317–26. https://doi.org/10.1080/08037051.2019.1633905
-Google ScholarCrossrefWorldCat 
+  
 1208	Healey   JS, Baranchuk   A, Crystal   E, Morillo   CA, Garfinkle   M, Yusuf   S, et al.   Prevention of atrial fibrillation with angiotensin-converting enzyme inhibitors and angiotensin receptor blockers: a meta-analysis. J Am Coll Cardiol  2005;45:1832–9. https://doi.org/10.1016/j.jacc.2004.11.070
-Google ScholarCrossrefWorldCat 
+  
 1209	Swedberg   K, Zannad   F, McMurray   JJ, Krum   H, van Veldhuisen   DJ, Shi   H, et al.   Eplerenone and atrial fibrillation in mild systolic heart failure: results from the EMPHASIS-HF (eplerenone in mild patients hospitalization and SurvIval study in heart failure) study. J Am Coll Cardiol  2012;59:1598–603. https://doi.org/10.1016/j.jacc.2011.11.063
-Google ScholarCrossrefWorldCat 
+  
 1210	Wang   M, Zhang   Y, Wang   Z, Liu   D, Mao   S, Liang   B. The effectiveness of SGLT2 inhibitor in the incidence of atrial fibrillation/atrial flutter in patients with type 2 diabetes mellitus/heart failure: a systematic review and meta-analysis. J Thorac Dis  2022;14:1620–37. https://doi.org/10.21037/jtd-22-550
-Google ScholarCrossrefWorldCat 
+  
 1211	Yin   Z, Zheng   H, Guo   Z. Effect of sodium-glucose co-transporter protein 2 inhibitors on arrhythmia in heart failure patients with or without type 2 diabetes: a meta-analysis of randomized controlled trials. Front Cardiovasc Med  2022;9:902923. https://doi.org/10.3389/fcvm.2022.902923
-Google ScholarCrossrefWorldCat 
+  
 1212	Tedrow   UB, Conen   D, Ridker   PM, Cook   NR, Koplan   BA, Manson   JE, et al.   The long- and short-term impact of elevated body mass index on the risk of new atrial fibrillation the WHS (Women’s Health Study). J Am Coll Cardiol  2010;55:2319–27. https://doi.org/10.1016/j.jacc.2010.02.029
-Google ScholarCrossrefWorldCat 
+  
 1213	Chan   YH, Chen   SW, Chao   TF, Kao   YW, Huang   CY, Chu   PH. The impact of weight loss related to risk of new-onset atrial fibrillation in patients with type 2 diabetes mellitus treated with sodium-glucose cotransporter 2 inhibitor. Cardiovasc Diabetol  2021;20:93. https://doi.org/10.1186/s12933-021-01285-8
-Google ScholarCrossrefWorldCat 
+  
 1214	Mishima   RS, Verdicchio   CV, Noubiap   JJ, Ariyaratnam   JP, Gallagher   C, Jones   D, et al.   Self-reported physical activity and atrial fibrillation risk: a systematic review and meta-analysis. Heart Rhythm  2021;18:520–8. https://doi.org/10.1016/j.hrthm.2020.12.017
-Google ScholarCrossrefWorldCat 
+  
 1215	Elliott   AD, Linz   D, Mishima   R, Kadhim   K, Gallagher   C, Middeldorp   ME, et al.   Association between physical activity and risk of incident arrhythmias in 402 406 individuals: evidence from the UK Biobank cohort. Eur Heart J  2020;41:1479–86. https://doi.org/10.1093/eurheartj/ehz897
-Google ScholarCrossrefWorldCat 
+  
 1216	Jin   MN, Yang   PS, Song   C, Yu   HT, Kim   TH, Uhm   JS, et al.   Physical activity and risk of atrial fibrillation: a nationwide cohort study in general population. Sci Rep  2019;9:13270. https://doi.org/10.1038/s41598-019-49686-w
-Google ScholarCrossrefWorldCat 
+  
 1217	Khurshid   S, Weng   LC, Al-Alusi   MA, Halford   JL, Haimovich   JS, Benjamin   EJ, et al.   Accelerometer-derived physical activity and risk of atrial fibrillation. Eur Heart J  2021;42:2472–83. https://doi.org/10.1093/eurheartj/ehab250
-Google ScholarCrossrefWorldCat 
+  
 1218	Tikkanen   E, Gustafsson   S, Ingelsson   E. Associations of fitness, physical activity, strength, and genetic risk with cardiovascular disease: longitudinal analyses in the UK biobank study. Circulation  2018;137:2583–91. https://doi.org/10.1161/CIRCULATIONAHA.117.032432
-Google ScholarCrossrefWorldCat 
+  
 1219	Morseth   B, Graff-Iversen   S, Jacobsen   BK, Jørgensen   L, Nyrnes   A, Thelle   DS, et al.   Physical activity, resting heart rate, and atrial fibrillation: the Tromsø study. Eur Heart J  2016;37:2307–13. https://doi.org/10.1093/eurheartj/ehw059
-Google ScholarCrossrefWorldCat 
+  
 1220	Csengeri   D, Sprünker   NA, Di Castelnuovo   A, Niiranen   T, Vishram-Nielsen   JK, Costanzo   S, et al.   Alcohol consumption, cardiac biomarkers, and risk of atrial fibrillation and adverse outcomes. Eur Heart J  2021;42:1170–7. https://doi.org/10.1093/eurheartj/ehaa953
-Google ScholarCrossrefWorldCat 
+  
 1221	Gallagher   C, Hendriks   JML, Elliott   AD, Wong   CX, Rangnekar   G, Middeldorp   ME, et al.   Alcohol and incident atrial fibrillation – a systematic review and meta-analysis. Int J Cardiol  2017;246:46–52. https://doi.org/10.1016/j.ijcard.2017.05.133
-Google ScholarCrossrefWorldCat 
+  
 1222	Tu   SJ, Gallagher   C, Elliott   AD, Linz   D, Pitman   BM, Hendriks   JML, et al.   Risk thresholds for total and beverage-specific alcohol consumption and incident atrial fibrillation. JACC Clin Electrophysiol  2021;7:1561–9. https://doi.org/10.1016/j.jacep.2021.05.013
-Google ScholarCrossrefWorldCat 
+  
 1223	Lee   JW, Roh   SY, Yoon   WS, Kim   J, Jo   E, Bae   DH, et al.   Changes in alcohol consumption habits and risk of atrial fibrillation: a nationwide population-based study. Eur J Prev Cardiol  2024;31:49–58. https://doi.org/10.1093/eurjpc/zwad270
-Google ScholarCrossrefWorldCat 
+  
 1224	Chang   SH, Wu   LS, Chiou   MJ, Liu   JR, Yu   KH, Kuo   CF, et al.   Association of metformin with lower atrial fibrillation risk among patients with type 2 diabetes mellitus: a population-based dynamic cohort and in vitro studies. Cardiovasc Diabetol  2014;13:123. https://doi.org/10.1186/s12933-014-0123-x
-Google ScholarCrossrefWorldCat 
+  
 1225	Tseng   CH. Metformin use is associated with a lower incidence of hospitalization for atrial fibrillation in patients with type 2 diabetes mellitus. Front Med (Lausanne)  2021;7:592901. https://doi.org/10.3389/fmed.2020.592901
-Google ScholarCrossrefWorldCat 
+  
 1226	Li   WJ, Chen   XQ, Xu   LL, Li   YQ, Luo   BH. SGLT2 inhibitors and atrial fibrillation in type 2 diabetes: a systematic review with meta-analysis of 16 randomized controlled trials. Cardiovasc Diabetol  2020;19:130. https://doi.org/10.1186/s12933-020-01105-5
-Google ScholarCrossrefWorldCat 
+  
 1227	Srivatsa   UN, Malhotra   P, Zhang   XJ, Beri   N, Xing   G, Brunson   A, et al.   Bariatric surgery to aLleviate OCcurrence of atrial fibrillation hospitalization—BLOC-AF. Heart Rhythm O2  2020;1:96–102. https://doi.org/10.1016/j.hroo.2020.04.004
-Google ScholarCrossrefWorldCat 
+  
 1228	Hoskuldsdottir   G, Sattar   N, Miftaraj   M, Naslund   I, Ottosson   J, Franzen   S, et al.   Potential effects of bariatric surgery on the incidence of heart failure and atrial fibrillation in patients with type 2 diabetes mellitus and obesity and on mortality in patients with preexisting heart failure: a nationwide, matched, observational cohort study. J Am Heart Assoc  2021;10:e019323. https://doi.org/10.1161/JAHA.120.019323
-Google ScholarCrossrefWorldCat 
+  
 1229	Chokesuwattanaskul   R, Thongprayoon   C, Bathini   T, Sharma   K, Watthanasuntorn   K, Lertjitbanjong   P, et al.   Incident atrial fibrillation in patients undergoing bariatric surgery: a systematic review and meta-analysis. Intern Med J  2020;50:810–7. https://doi.org/10.1111/imj.14436
-Google ScholarCrossrefWorldCat 
+  
 1230	Lynch   KT, Mehaffey   JH, Hawkins   RB, Hassinger   TE, Hallowell   PT, Kirby   JL. Bariatric surgery reduces incidence of atrial fibrillation: a propensity score-matched analysis. Surg Obes Relat Dis  2019;15:279–85. https://doi.org/10.1016/j.soard.2018.11.021
-Google ScholarCrossrefWorldCat 
+  
 1231	Jamaly   S, Carlsson   L, Peltonen   M, Jacobson   P, Sjostrom   L, Karason   K. Bariatric surgery and the risk of new-onset atrial fibrillation in Swedish obese subjects. J Am Coll Cardiol  2016;68:2497–504. https://doi.org/10.1016/j.jacc.2016.09.940
-Google ScholarCrossrefWorldCat 
+  
 1232	Okin   PM, Hille   DA, Larstorp   AC, Wachtell   K, Kjeldsen   SE, Dahlöf   B, et al.   Effect of lower on-treatment systolic blood pressure on the risk of atrial fibrillation in hypertensive patients. Hypertension  2015;66:368–73. https://doi.org/10.1161/HYPERTENSIONAHA.115.05728
-Google ScholarCrossrefWorldCat 
+  
 1233	Wachtell   K, Lehto   M, Gerdts   E, Olsen   MH, Hornestam   B, Dahlof   B, et al.   Angiotensin II receptor blockade reduces new-onset atrial fibrillation and subsequent stroke compared to atenolol: the Losartan Intervention for End point reduction in hypertension (LIFE) study. J Am Coll Cardiol  2005;45:712–9. https://doi.org/10.1016/j.jacc.2004.10.068
-Google ScholarCrossrefWorldCat 
+  
 1234	Schmieder   RE, Kjeldsen   SE, Julius   S, McInnes   GT, Zanchetti   A, Hua   TA, et al.   Reduced incidence of new-onset atrial fibrillation with angiotensin II receptor blockade: the VALUE trial. J Hypertens  2008;26:403–11. https://doi.org/10.1097/HJH.0b013e3282f35c67
-Google ScholarCrossrefWorldCat 
+  
 1235	Schaer   BA, Schneider   C, Jick   SS, Conen   D, Osswald   S, Meier   CR. Risk for incident atrial fibrillation in patients who receive antihypertensive drugs: a nested case-control study. Ann Intern Med  2010;152:78–84. https://doi.org/10.7326/0003-4819-152-2-201001190-00005
-Google ScholarCrossrefWorldCat 
+  
 1236	Dewland   TA, Soliman   EZ, Yamal   JM, Davis   BR, Alonso   A, Albert   CM, et al.   Pharmacologic prevention of incident atrial fibrillation: long-term results from the ALLHAT (antihypertensive and lipid-lowering treatment to prevent heart attack trial). Circ Arrhythm Electrophysiol  2017;10:e005463. https://doi.org/10.1161/CIRCEP.117.005463
-Google ScholarCrossrefWorldCat 
+  
 1237	Butt   JH, Docherty   KF, Jhund   PS, de Boer   RA, Böhm   M, Desai   AS, et al.   Dapagliflozin and atrial fibrillation in heart failure with reduced ejection fraction: insights from DAPA-HF. Eur J Heart Fail  2022;24:513–25. https://doi.org/10.1002/ejhf.2381
-Google ScholarCrossrefWorldCat 
+  
 1238	Liu   X, Liu   H, Wang   L, Zhang   L, Xu   Q. Role of sacubitril-valsartan in the prevention of atrial fibrillation occurrence in patients with heart failure: a systematic review and meta-analysis of randomized controlled trials. PLOS ONE  2022;17:e0263131. https://doi.org/10.1371/journal.pone.0263131
-Google ScholarCrossrefWorldCat 
+  
 1239	Hess   PL, Jackson   KP, Hasselblad   V, Al-Khatib   SM. Is cardiac resynchronization therapy an antiarrhythmic therapy for atrial fibrillation? A systematic review and meta-analysis. Curr Cardiol Rep  2013;15:330. https://doi.org/10.1007/s11886-012-0330-6
-Google ScholarCrossrefWorldCat 
+  
 1240	Fatemi   O, Yuriditsky   E, Tsioufis   C, Tsachris   D, Morgan   T, Basile   J, et al.   Impact of intensive glycemic control on the incidence of atrial fibrillation and associated cardiovascular outcomes in patients with type 2 diabetes mellitus (from the action to control cardiovascular risk in diabetes study). Am J Cardiol  2014;114:1217–22. https://doi.org/10.1016/j.amjcard.2014.07.045
-Google ScholarCrossrefWorldCat 
+  
 1241	Nantsupawat   T, Wongcharoen   W, Chattipakorn   SC, Chattipakorn   N. Effects of metformin on atrial and ventricular arrhythmias: evidence from cell to patient. Cardiovasc Diabetol  2020;19:198. https://doi.org/10.1186/s12933-020-01176-4
-Google ScholarCrossrefWorldCat 
+  
 1242	Chang   CY, Yeh   YH, Chan   YH, Liu   JR, Chang   SH, Lee   HF, et al.   Dipeptidyl peptidase-4 inhibitor decreases the risk of atrial fibrillation in patients with type 2 diabetes: a nationwide cohort study in Taiwan. Cardiovasc Diabetol  2017;16:159. https://doi.org/10.1186/s12933-017-0640-5
-Google ScholarCrossrefWorldCat 
+  
 1243	Ostropolets   A, Elias   PA, Reyes   MV, Wan   EY, Pajvani   UB, Hripcsak   G, et al.   Metformin is associated with a lower risk of atrial fibrillation and ventricular arrhythmias compared with sulfonylureas: an observational study. Circ Arrhythm Electrophysiol  2021;14:e009115. https://doi.org/10.1161/CIRCEP.120.009115
-Google ScholarCrossrefWorldCat 
+  
 1244	Proietti   R, Lip   GYH. Sodium-glucose cotransporter 2 inhibitors: an additional management option for patients with atrial fibrillation?  Diabetes Obes Metab  2022;24:1897–900. https://doi.org/10.1111/dom.14818
-Google ScholarCrossrefWorldCat 
+  
 1245	Karamichalakis   N, Kolovos   V, Paraskevaidis   I, Tsougos   E. A new hope: sodium-glucose cotransporter-2 inhibition to prevent atrial fibrillation. J Cardiovasc Dev Dis  2022;9:236. https://doi.org/10.3390/jcdd9080236
 Google ScholarWorldCat 
 1246	Lee   S, Zhou   J, Leung   KSK, Wai   AKC, Jeevaratnam   K, King   E, et al.   Comparison of sodium-glucose cotransporter-2 inhibitor and dipeptidyl peptidase-4 inhibitor on the risks of new-onset atrial fibrillation, stroke and mortality in diabetic patients: a propensity score-matched study in Hong Kong. Cardiovasc Drugs Ther  2023;37:561–9. https://doi.org/10.1007/s10557-022-07319-x
-Google ScholarCrossrefWorldCat 
+  
 1247	Elliott   AD, Maatman   B, Emery   MS, Sanders   P. The role of exercise in atrial fibrillation prevention and promotion: finding optimal ranges for health. Heart Rhythm  2017;14:1713–20. https://doi.org/10.1016/j.hrthm.2017.07.001
-Google ScholarCrossrefWorldCat 
+  
 1248	Newman   W, Parry-Williams   G, Wiles   J, Edwards   J, Hulbert   S, Kipourou   K, et al.   Risk of atrial fibrillation in athletes: a systematic review and meta-analysis. Br J Sports Med  2021;55:1233–8. https://doi.org/10.1136/bjsports-2021-103994
-Google ScholarCrossrefWorldCat 
+  
 
 ## Author notes
 
