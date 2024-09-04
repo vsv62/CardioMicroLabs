@@ -23,7 +23,6 @@ Published:
 
 30 August 2024
 
-$(document).ready(function () { $('.article-top-widget').on('click', '.ati-toggle-trigger', function () { $(this).find('.icon-general-add, .icon-minus').toggleClass('icon-minus icon-general-add'); $(this).siblings('.ati-toggle-content').toggleClass('hide'); }); // In Chrome, an anchor tag with target="\_blank" and a "mailto:" href opens a new tab/window as well as the email client // I suspect this behavior will be corrected in the future // Remove the target="\_blank" $('ul.wi-affiliationList').find('a\[href^="mailto:"\]').each(function () { $(this).removeAttr('target'); }); });
 
 -  [![pdf](https://academic.oup.com//oup.silverchair-cdn.com/UI/app/svg/pdf.svg)PDF](https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehae178/58916755/ehae178.pdf)
 -  [Split View](javascript:;)
