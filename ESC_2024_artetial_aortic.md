@@ -7267,24 +7267,45 @@ Google ScholarCrossrefWorldCat
 Google ScholarCrossrefWorldCat 
 1598	Fanaroff AC, Manandhar P, Holmes DR, Cohen DJ, Harrison JK, Hughes GC, et al.  Peripheral artery disease and transcatheter aortic valve replacement outcomes: a report from the Society of Thoracic Surgeons/American College of Cardiology Transcatheter Therapy Registry. Circ Cardiovasc Interv 2017;10:e005456. https://doi.org/10.1161/CIRCINTERVENTIONS.117.005456
 Google ScholarCrossrefWorldCat 
-Author notes
+
+## Author notes
+
 Lucia Mazzolai and Jose F Rodriguez-Palomares Chairpersons contributed equally to the document and are joint corresponding authors.
+
 Gisela Teixido-Tura and Stefano Lanzi Task Force Co-ordinators contributed equally to the document.
-Author/Task Force Member affiliations are listed in author information.
+
+**Author/Task Force Member affiliations are listed in author information.**
+
 Representing the European Society of Vascular Medicine (ESVM)
+
 Representing the European Reference Network on Rare Multisystemic Vascular Diseases (VASCERN)
-ESC Clinical Practice Guidelines (CPG) Committee: listed in the Appendix.
-ESC subspecialty communities having participated in the development of this document:
-Associations: Association for Acute CardioVascular Care (ACVC), Association of Cardiovascular Nursing & Allied Professions (ACNAP), European Association of Cardiovascular Imaging (EACVI), European Association of Preventive Cardiology (EAPC), European Association of Percutaneous Cardiovascular Interventions (EAPCI), Heart Failure Association (HFA).
-Councils: Council for Cardiology Practice, Council on Hypertension.
-Working Groups: Adult Congenital Heart Disease, Aorta and Peripheral Vascular Diseases, Cardiovascular Surgery, Thrombosis.
-Patient Forum
-graphicAll experts involved in the development of these guidelines have submitted declarations of interest which are reported in a supplementary document to the guidelines. See the European Heart Journal online or https://www.escardio.org/Guidelines for supplementary documents as well as evidence tables
-Disclaimer. The ESC Guidelines represent the views of the ESC and were produced after careful consideration of the scientific and medical knowledge and the evidence available at the time of their publication. The ESC is not responsible in the event of any contradiction, discrepancy and/or ambiguity between the ESC Guidelines and any other official recommendations or guidelines issued by the relevant public health authorities, in particular in relation to good use of healthcare or therapeutic strategies. Health professionals are encouraged to take the ESC Guidelines fully into account when exercising their clinical judgment, as well as in the determination and the implementation of preventive, diagnostic or therapeutic medical strategies; however, the ESC Guidelines do not override, in any way whatsoever, the individual responsibility of health professionals to make appropriate and accurate decisions in consideration of each patient’s health condition and in consultation with that patient and, where appropriate and/or necessary, the patient’s caregiver. Nor do the ESC Guidelines exempt health professionals from taking into full and careful consideration the relevant official updated recommendations or guidelines issued by the competent public health authorities, in order to manage each patient’s case in light of the scientifically accepted data pursuant to their respective ethical and professional obligations. It is also the health professional’s responsibility to verify the applicable rules and regulations relating to drugs and medical devices at the time of prescription. The ESC warns readers that the technical language may be misinterpreted and declines any responsibility in this respect.
-Permissions. The content of these European Society of Cardiology (ESC) Guidelines has been published for personal and educational use only. No commercial use is authorized. No part of the ESC Guidelines may be translated or reproduced in any form without written permission from the ESC. Permissions can be obtained upon submission of a written request to Oxford University Press, the publisher of the European Heart Journal and the party authorized to handle such permissions on behalf of the ESC (journals.permissions@oup.com).
+
+**ESC Clinical Practice Guidelines (CPG) Committee: listed in the Appendix.**
+
+**ESC subspecialty communities having participated in the development of this document:**
+
+**Associations:** Association for Acute CardioVascular Care (ACVC), Association of Cardiovascular Nursing & Allied Professions (ACNAP), European Association of Cardiovascular Imaging (EACVI), European Association of Preventive Cardiology (EAPC), European Association of Percutaneous Cardiovascular Interventions (EAPCI), Heart Failure Association (HFA).
+
+**Councils:** Council for Cardiology Practice, Council on Hypertension.
+
+**Working Groups:** Adult Congenital Heart Disease, Aorta and Peripheral Vascular Diseases, Cardiovascular Surgery, Thrombosis.
+
+**Patient Forum**
+
+![graphic](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/eurheartj/PAP/10.1093_eurheartj_ehae179/5/m_ehae179il3.jpeg?Expires=1728479087&Signature=ES4FBNAEPlskBJTQSnOwRQxGBs99LYJB4Nj1m2~jWc49x6Vjr0kwbZ9rvllg8UdO83BzH429yc~2R7W~6BEx3bsxb6rALJAu7blt12KK0amfYOskcZuCKJHUV0TzSrzR-odwJ6nIwJ2r~IS03Bu0advi9EUCkwCvRZk95rkYRoN9B0ND4v5AI6ZHAcWvDItoxkARNEqVifv3Io8XFt1RIjmdtYl~pDDz9ebJZeeUnZapXymeV9uNUewESI8c9f6pxkiaeAt4YcjZ1YoPld-dmlWEZHH4~Q3-K4S4vPlTiP3iRQlJM68n26ZDVIJGKIAW5PD2xaEkvaVFY1F7tkKHZw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)**All experts involved in the development of these guidelines have submitted declarations of interest which are reported in a supplementary document to the guidelines. See the _European Heart Journal_ online or [https://www.escardio.org/Guidelines](https://www.escardio.org/Guidelines) for supplementary documents as well as evidence tables**
+
+**Disclaimer**. The ESC Guidelines represent the views of the ESC and were produced after careful consideration of the scientific and medical knowledge and the evidence available at the time of their publication. The ESC is not responsible in the event of any contradiction, discrepancy and/or ambiguity between the ESC Guidelines and any other official recommendations or guidelines issued by the relevant public health authorities, in particular in relation to good use of healthcare or therapeutic strategies. Health professionals are encouraged to take the ESC Guidelines fully into account when exercising their clinical judgment, as well as in the determination and the implementation of preventive, diagnostic or therapeutic medical strategies; however, the ESC Guidelines do not override, in any way whatsoever, the individual responsibility of health professionals to make appropriate and accurate decisions in consideration of each patient’s health condition and in consultation with that patient and, where appropriate and/or necessary, the patient’s caregiver. Nor do the ESC Guidelines exempt health professionals from taking into full and careful consideration the relevant official updated recommendations or guidelines issued by the competent public health authorities, in order to manage each patient’s case in light of the scientifically accepted data pursuant to their respective ethical and professional obligations. It is also the health professional’s responsibility to verify the applicable rules and regulations relating to drugs and medical devices at the time of prescription. The ESC warns readers that the technical language may be misinterpreted and declines any responsibility in this respect.
+
+**Permissions**. The content of these European Society of Cardiology (ESC) Guidelines has been published for personal and educational use only. No commercial use is authorized. No part of the ESC Guidelines may be translated or reproduced in any form without written permission from the ESC. Permissions can be obtained upon submission of a written request to Oxford University Press, the publisher of the _European Heart Journal_ and the party authorized to handle such permissions on behalf of the ESC ([journals.permissions@oup.com](mailto:journals.permissions@oup.com)).
+
 © The European Society of Cardiology 2024. All rights reserved. For permissions, please email: journals.permissions@oup.com.
-This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model (https://academic.oup.com/pages/standard-publication-reuse-rights)
-Supplementary data
-ehae179_Supplementary_Data - pdf file
-2024_ESC_Guidelines_PAAD_EvidenceTables - pdf file
-DOI_summary_2024_ESC_Guidelines_PAAD_ehae179 - pdf file
+
+This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model ([https://academic.oup.com/pages/standard-publication-reuse-rights](https://academic.oup.com/pages/standard-publication-reuse-rights))
+
+## Supplementary data
+
+[ehae179\_Supplementary\_Data](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/eurheartj/PAP/10.1093_eurheartj_ehae179/5/ehae179_supplementary_data.pdf?Expires=1728479089&Signature=AdqRXDap7pdhltwNvunHQTU9t2lmBaZZaNqVP9gLkMGaFltmT19j0YvANk~7KN3YLYNbrQW0qtmcV8DQoLV9HwWR1qn5B6KAW2JGb~nfbGlfKNDbzfic3F5Eoj1RcONPXWhwLpV6nC5LOVC5q1WFBYg7d4GqlmV8m1uUshcbshSUFtSqlScxq2fxqCI~7EoU7OP~jiPBlnqYgVEwcKsFfPdsAOBRRZHBXT-dUl9Q4pe8-jjlMchu74aup9t97hKnVoOnazXzin3yFH-ce6YmanNQFN3O9hBhwFx~pDNU11EJUsFnbJtjbru0VuI9bM00qWnL9rQhGAwSonYvunh1lQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA) - pdf file
+
+[2024\_ESC\_Guidelines\_PAAD\_EvidenceTables](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/eurheartj/PAP/10.1093_eurheartj_ehae179/5/2024_esc_guidelines_paad_evidencetables.pdf?Expires=1728479089&Signature=SLIVsv~-0hyc7-LKJ2wgY1RaNsCbT-m2nrUwVSiHhzRbrP9zXqPJ3ELZsNl763UJIgbwNFFAZJ7bRMlsGMmcpett4AcAkIiQTX3W4OJYbDEDRI484TqnzFQlG7A3LYEZxlVkziF6A~0H~9F2zvGvbgrmrWPhW7I2cmvpAcUsH1yhevwnuhnoBEKb2S-ngtzkusj3p6RoutekUXOBdx8ojXHxNbHnpRMO~cXxVR-JCM24Bjq3VdxjUa4hSARhcr-9Ppl4XJhbdVw4RRbGtNPlIqqY7XppqUWmjw5t7CUPxCTfNd9PkDj3RSOigo6asO~K0mgCJUcVIiwAqM0HVLIEng__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA) - pdf file
+
+[DOI\_summary\_2024\_ESC\_Guidelines\_PAAD\_ehae179](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/eurheartj/PAP/10.1093_eurheartj_ehae179/5/doi_summary_2024_esc_guidelines_paad_ehae179.pdf?Expires=1728479089&Signature=xICJTjuKPtcP5tLLegiAoxtNBNSQUxZ~EB09uJwQt-uKVnjvXwRk2OA~x94RLx2m7qxTotjKpmuoLngqblhE62pwyOoRUVKKIle8IXsbj5IE7QZ3pVdxtLdehg69ozjN5pmAiBBnPOaJ0Y00r509e-XMeaaVdtpoOJPSb~UuvIdMqy0PVO2jx04FaDbDgNcBORD1212zpT3DOJl961GIshhavEgiHTR4DXPtGNis~MfJVHcTueWNv7vHCg3-7k-n9ol9sAFjdj65xL2ReAOcxvEMLcm8RME9-mnApAkRkIWnDq8ASDA~fu57lk3ne-kwe9M7fPIAxG562VqHuyxj~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA) - pdf file
