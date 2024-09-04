@@ -10,15 +10,10 @@ Published:
 
 30 August 2024
 
-$(document).ready(function () { $('.article-top-widget').on('click', '.ati-toggle-trigger', function () { $(this).find('.icon-general-add, .icon-minus').toggleClass('icon-minus icon-general-add'); $(this).siblings('.ati-toggle-content').toggleClass('hide'); }); // In Chrome, an anchor tag with target="\_blank" and a "mailto:" href opens a new tab/window as well as the email client // I suspect this behavior will be corrected in the future // Remove the target="\_blank" $('ul.wi-affiliationList').find('a\[href^="mailto:"\]').each(function () { $(this).removeAttr('target'); }); });
-
 -   [![pdf](https://academic.oup.com//oup.silverchair-cdn.com/UI/app/svg/pdf.svg)PDF](https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehae179/58966255/ehae179.pdf)
--   [Split View](javascript:;)
 -   [Cite](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae179/7738955?login=false#)
     
 -   [_Permissions Icon_ Permissions](https://s100.copyright.com/AppDispatchServlet?publisherName=OUP&publication=1522-9645&title=2024%20ESC%20Guidelines%20for%20the%20management%20of%20peripheral%20arterial%20and%20aortic%20diseases%3A%20Developed%20by%20the%20task%20force%20on%20the%20management%20of%20peripheral%20arterial%20and%20aortic%20diseases%20of%20the%20European%20Society%20of%20Cardiology%20%28ESC%29%20Endorsed%20by%20the%20European%20Association%20for%20Cardio-Thoracic%20Surgery%20%28EACTS%29%2C%20the%20European%20Reference%20Network%20on%20Rare%20Multisystemic%20Vascular%20Diseases%20%28VASCERN%29%2C%20and%20the%20European%20Society%20of%20Vascular%20Medicine%20%28ESVM%29&publicationDate=2024-08-30&volumeNum=&issueNum=&author=Mazzolai%2C%20Lucia%3B%20Teixido-Tura%2C%20Gisela&startPage=1&endPage=163&contentId=10.1093%2Feurheartj%2Fehae179&oa=&copyright=%C2%A9%20The%20European%20Society%20of%20Cardiology%202024.%20All%20rights%20reserved.%20For%20permissions%2C%20please%20email%3A%20journals.permissions%40oup.com.&orderBeanReset=True)
-    
--   [_Share Icon_ Share](javascript:;)
 
 [Guidelines](javascript:;), [Acute aortic syndrome](javascript:;), [Aortic aneurysm](javascript:;), [Aortic atherosclerosis](javascript:;), [Aortic dissection](javascript:;), [Aortic surgery](javascript:;), [Carotid artery disease](javascript:;), [Chronic limb-threatening ischaemia](javascript:;), [Endovascular repair](javascript:;), [Exercise](javascript:;), [Genetic aortic diseases](javascript:;), [Intramural haematoma](javascript:;), [Lower extremity artery disease](javascript:;), [Penetrating atherosclerotic ulcer](javascript:;), [Peripheral arterial disease](javascript:;), [Polyvascular disease](javascript:;), [Renal artery disease](javascript:;)
 
@@ -44,784 +39,784 @@ Topic:
 
 ## Table of contents
 
--   1\. Preamble 10
+-   1\. Preamble 
     
--   2\. Introduction 11
+-   2\. Introduction 
     
--   3\. What is new 13
+-   3\. What is new 
     
--   4\. Epidemiology and risk factors 21
+-   4\. Epidemiology and risk factors 
     
--    4.1. Epidemiology 21
+-    4.1. Epidemiology 
     
--    4.2. Risk factors 22
+-    4.2. Risk factors 
     
--   5\. Evaluation of peripheral arteries and aorta 23
+-   5\. Evaluation of peripheral arteries and aorta 
     
--    5.1. Clinical history and examination, and laboratory assessment, in patients with peripheral arterial and aortic diseases 23
+-    5.1. Clinical history and examination, and laboratory assessment, in patients with peripheral arterial and aortic diseases 
     
--    5.2. Functional and quality of life assessment in patients with peripheral arterial and aortic diseases 23
+-    5.2. Functional and quality of life assessment in patients with peripheral arterial and aortic diseases 
     
--    5.3. Vascular examination of peripheral arteries 24
+-    5.3. Vascular examination of peripheral arteries 
     
--     5.3.1. Duplex ultrasound 25
+-     5.3.1. Duplex ultrasound 
     
 -     5.3.2. Digital subtraction angiography, computed tomography angiography, and magnetic resonance angiography 25
     
--    5.4. Evaluation of the aorta 25
+-    5.4. Evaluation of the aorta 
     
--     5.4.1. Aortic measurements 25
+-     5.4.1. Aortic measurements 
     
--     5.4.2. Normal aortic values 28
+-     5.4.2. Normal aortic values 
     
--     5.4.3. Chest X-ray and electrocardiogram 28
+-     5.4.3. Chest X-ray and electrocardiogram 
     
--     5.4.4. Echocardiography 28
+-     5.4.4. Echocardiography 
     
--     5.4.5. Duplex ultrasound imaging of the abdominal aorta 29
+-     5.4.5. Duplex ultrasound imaging of the abdominal aorta 
     
--     5.4.6. Cardiovascular computed tomography 29
+-     5.4.6. Cardiovascular computed tomography 
     
--     5.4.7. Cardiovascular magnetic resonance 29
+-     5.4.7. Cardiovascular magnetic resonance 
     
--     5.4.8. Positron emission tomography 29
+-     5.4.8. Positron emission tomography 
     
--     5.4.9. Intravascular ultrasound 30
+-     5.4.9. Intravascular ultrasound 
     
--     5.4.10. Digital subtraction aortography 30
+-     5.4.10. Digital subtraction aortography 
     
--   6\. Screening for carotid, peripheral arterial, and aortic diseases 30
+-   6\. Screening for carotid, peripheral arterial, and aortic diseases 
     
--    6.1. Screening for carotid and peripheral arterial diseases 30
+-    6.1. Screening for carotid and peripheral arterial diseases 
     
--     6.1.1. Lower-extremity peripheral arterial disease 30
+-     6.1.1. Lower-extremity peripheral arterial disease 
     
--     6.1.2. Carotid artery stenosis 30
+-     6.1.2. Carotid artery stenosis 
     
--     6.1.3. Multisite artery disease 30
+-     6.1.3. Multisite artery disease 
     
--    6.2. Screening for aortic diseases 31
+-    6.2. Screening for aortic diseases 
     
--     6.2.1. Screening for abdominal aortic aneurysm 31
+-     6.2.1. Screening for abdominal aortic aneurysm 
     
--     6.2.2. Screening for thoracic aortic aneurysm 31
+-     6.2.2. Screening for thoracic aortic aneurysm 
     
--   7\. Optimal medical treatment 31
+-   7\. Optimal medical treatment 
     
--    7.1. Lifestyle, exercise, patient education 31
+-    7.1. Lifestyle, exercise, patient education 
     
--     7.1.1. Diet 31
+-     7.1.1. Diet 
     
--     7.1.2. Physical activity 32
+-     7.1.2. Physical activity 
     
--     7.1.3. Smoking 33
+-     7.1.3. Smoking 
     
--     7.1.4. Patient education 33
+-     7.1.4. Patient education 
     
--     7.1.5. Risk scoring models in secondary prevention 33
+-     7.1.5. Risk scoring models in secondary prevention 
     
--    7.2. Principles of pharmacological medical therapy 34
+-    7.2. Principles of pharmacological medical therapy 
     
--     7.2.1. Antithrombotic therapy 34
+-     7.2.1. Antithrombotic therapy 
     
--     7.2.2. Antihypertensive therapy 34
+-     7.2.2. Antihypertensive therapy 
     
--      7.2.2.1. Renovascular hypertension 34
+-      7.2.2.1. Renovascular hypertension 
     
--     7.2.3. Lipid-lowering therapy 35
+-     7.2.3. Lipid-lowering therapy 
     
--      7.2.3.1. Statins 35
+-      7.2.3.1. Statins 
     
--      7.2.3.2. Ezetimibe 35
+-      7.2.3.2. Ezetimibe 
     
--      7.2.3.3. Proprotein convertase subtilisin/kexin type 9 inhibitors 35
+-      7.2.3.3. Proprotein convertase subtilisin/kexin type 9 inhibitors 
     
--      7.2.3.4. Bempedoic acid 35
+-      7.2.3.4. Bempedoic acid 
     
--      7.2.3.5. Hypertriglyceridaemia 35
+-      7.2.3.5. Hypertriglyceridaemia 
     
--     7.2.4. Diabetes and pre-diabetes conditions 36
+-     7.2.4. Diabetes and pre-diabetes conditions 
     
--     7.2.5. Other pharmacological therapy 37
+-     7.2.5. Other pharmacological therapy 
     
--   8\. Peripheral arterial disease 37
+-   8\. Peripheral arterial disease 
     
--    8.1. Lower-extremity peripheral arterial disease 37
+-    8.1. Lower-extremity peripheral arterial disease 
     
--     8.1.1. Peripheral arterial disease syndromes 37
+-     8.1.1. Peripheral arterial disease syndromes 
     
--      8.1.1.1. Clinical presentation and diagnosis 37
+-      8.1.1.1. Clinical presentation and diagnosis 
     
--       8.1.1.1.1. Diagnostic tests 38
+-       8.1.1.1.1. Diagnostic tests 
     
--       8.1.1.1.2. Imaging methods 39
+-       8.1.1.1.2. Imaging methods 
     
--      8.1.1.2. Medical treatment 41
+-      8.1.1.2. Medical treatment 
     
--       8.1.1.2.1. Exercise therapy 41
+-       8.1.1.2.1. Exercise therapy 
     
--       8.1.1.2.2. Pharmacological treatment 45
+-       8.1.1.2.2. Pharmacological treatment 
     
--       8.1.1.2.3. Aorto-iliac lesion revascularization 46
+-       8.1.1.2.3. Aorto-iliac lesion revascularization 
     
--       8.1.1.2.4. Femoro-popliteal lesion revascularization 47
+-       8.1.1.2.4. Femoro-popliteal lesion revascularization 
     
--       8.1.1.2.5. Below-the-knee artery revascularization 47
+-       8.1.1.2.5. Below-the-knee artery revascularization 
     
--      8.1.1.3. Follow-up 48
+-      8.1.1.3. Follow-up 
     
--     8.1.2. Chronic limb-threatening ischaemia 48
+-     8.1.2. Chronic limb-threatening ischaemia 
     
--      8.1.2.1. Clinical presentation and diagnosis 48
+-      8.1.2.1. Clinical presentation and diagnosis 
     
--       8.1.2.1.1. Definition 48
+-       8.1.2.1.1. Definition 
     
--       8.1.2.1.2. Initial assessment and risk of amputation 48
+-       8.1.2.1.2. Initial assessment and risk of amputation 
     
--       8.1.2.1.3. Imaging 48
+-       8.1.2.1.3. Imaging 
     
--       8.1.2.1.4. Mortality risk assessment 48
+-       8.1.2.1.4. Mortality risk assessment 
     
--      8.1.2.2. Medical treatment 49
+-      8.1.2.2. Medical treatment 
     
--      8.1.2.3. Interventional treatment 49
+-      8.1.2.3. Interventional treatment 
     
--       8.1.2.3.1. Revascularization 49
+-       8.1.2.3.1. Revascularization 
     
--       8.1.2.3.2. Spinal cord stimulation 50
+-       8.1.2.3.2. Spinal cord stimulation 
     
--       8.1.2.3.3. Amputation 50
+-       8.1.2.3.3. Amputation 
     
--      8.1.2.4. Follow-up 50
+-      8.1.2.4. Follow-up 
     
--     8.1.3. Acute limb ischaemia 50
+-     8.1.3. Acute limb ischaemia 
     
--      8.1.3.1. Clinical presentation and diagnosis 50
+-      8.1.3.1. Clinical presentation and diagnosis 
     
--       8.1.3.1.1. Clinical examination 51
+-       8.1.3.1.1. Clinical examination 
     
--       8.1.3.1.2. Imaging and functional tests 51
+-       8.1.3.1.2. Imaging and functional tests 
     
--      8.1.3.2. Medical treatment 51
+-      8.1.3.2. Medical treatment 
     
--      8.1.3.3. Surgical and interventional treatment 51
+-      8.1.3.3. Surgical and interventional treatment 
     
--      8.1.3.4. Follow-up 53
+-      8.1.3.4. Follow-up 
     
--    8.2. Extracranial carotid and vertebral artery disease 53
+-    8.2. Extracranial carotid and vertebral artery disease 
     
--     8.2.1. Clinical presentation and diagnosis 53
+-     8.2.1. Clinical presentation and diagnosis 
     
--      8.2.1.1. Clinical presentation 53
+-      8.2.1.1. Clinical presentation 
     
--      8.2.1.2. Diagnosis 53
+-      8.2.1.2. Diagnosis 
     
--     8.2.2. Asymptomatic carotid artery stenosis 54
+-     8.2.2. Asymptomatic carotid artery stenosis 
     
--      8.2.2.1. Medical treatment 54
+-      8.2.2.1. Medical treatment 
     
--       8.2.2.1.1. Lipid-lowering therapy 54
+-       8.2.2.1.1. Lipid-lowering therapy 
     
--       8.2.2.1.2. Antihypertensive therapy 54
+-       8.2.2.1.2. Antihypertensive therapy 
     
--       8.2.2.1.3. Glucose-lowering therapy 54
+-       8.2.2.1.3. Glucose-lowering therapy 
     
--       8.2.2.1.4. Antithrombotic therapy 54
+-       8.2.2.1.4. Antithrombotic therapy 
     
--      8.2.2.2. Interventional treatment 55
+-      8.2.2.2. Interventional treatment 
     
--       8.2.2.2.1. Open surgery vs. medical therapy 55
+-       8.2.2.2.1. Open surgery vs. medical therapy 
     
--       8.2.2.2.2. Carotid revascularization: surgery vs. stenting 55
+-       8.2.2.2.2. Carotid revascularization: surgery vs. stenting 
     
--     8.2.3. Symptomatic carotid artery stenosis 57
+-     8.2.3. Symptomatic carotid artery stenosis 
     
--      8.2.3.1. Medical treatment 57
+-      8.2.3.1. Medical treatment 
     
--       8.2.3.1.1. Lipid-lowering therapy 57
+-       8.2.3.1.1. Lipid-lowering therapy 
     
--       8.2.3.1.2. Antihypertensive therapy 57
+-       8.2.3.1.2. Antihypertensive therapy 
     
--       8.2.3.1.3. Glucose-lowering therapy 57
+-       8.2.3.1.3. Glucose-lowering therapy 
     
--       8.2.3.1.4. Antithrombotic therapy 57
+-       8.2.3.1.4. Antithrombotic therapy 
     
--      8.2.3.2. Interventional treatment 58
+-      8.2.3.2. Interventional treatment 
     
--       8.2.3.2.1. Open surgery 58
+-       8.2.3.2.1. Open surgery 
     
--       8.2.3.2.2. Endovascular therapy vs. open surgery 58
+-       8.2.3.2.2. Endovascular therapy vs. open surgery 
     
--       8.2.3.2.3. Vertebral arteries 58
+-       8.2.3.2.3. Vertebral arteries 
     
--      8.2.3.3. Follow-up 59
+-      8.2.3.3. Follow-up 
     
--    8.3. Other arterial locations 59
+-    8.3. Other arterial locations 
     
--     8.3.1. Subclavian artery disease 59
+-     8.3.1. Subclavian artery disease 
     
--      8.3.1.1. Clinical presentation and diagnosis 59
+-      8.3.1.1. Clinical presentation and diagnosis 
     
--      8.3.1.2. Treatment strategy (medical and interventional) 60
+-      8.3.1.2. Treatment strategy (medical and interventional) 
     
--      8.3.1.3. Follow-up 60
+-      8.3.1.3. Follow-up 
     
--     8.3.2. Renal artery disease 61
+-     8.3.2. Renal artery disease 
     
--      8.3.2.1. Clinical presentation and diagnosis 61
+-      8.3.2.1. Clinical presentation and diagnosis 
     
--       8.3.2.1.1. Epidemiology 61
+-       8.3.2.1.1. Epidemiology 
     
--       8.3.2.1.2. Clinical presentation 61
+-       8.3.2.1.2. Clinical presentation 
     
--       8.3.2.1.3. Diagnosis of renal artery disease 61
+-       8.3.2.1.3. Diagnosis of renal artery disease 
     
--       8.3.2.1.4. Prognosis 61
+-       8.3.2.1.4. Prognosis 
     
--      8.3.2.2. Treatment strategy (medical and interventional) 61
+-      8.3.2.2. Treatment strategy (medical and interventional) 
     
--       8.3.2.2.1. Medical therapy 61
+-       8.3.2.2.1. Medical therapy 
     
--       8.3.2.2.2. Revascularization 61
+-       8.3.2.2.2. Revascularization 
     
--      8.3.2.3. Follow-up 63
+-      8.3.2.3. Follow-up 
     
--     8.3.3. Visceral artery disease 63
+-     8.3.3. Visceral artery disease 
     
--      8.3.3.1. Acute mesenteric ischaemia 63
+-      8.3.3.1. Acute mesenteric ischaemia 
     
--       8.3.3.1.1. Clinical presentation and diagnosis 63
+-       8.3.3.1.1. Clinical presentation and diagnosis 
     
--       8.3.3.1.2. Treatment strategy 63
+-       8.3.3.1.2. Treatment strategy 
     
--       8.3.3.1.3. Follow-up 64
+-       8.3.3.1.3. Follow-up 
     
--      8.3.3.2. Chronic mesenteric artery disease 64
+-      8.3.3.2. Chronic mesenteric artery disease 
     
--       8.3.3.2.1. Clinical presentation and diagnosis 64
+-       8.3.3.2.1. Clinical presentation and diagnosis 
     
--       8.3.3.2.2. Treatment strategy 65
+-       8.3.3.2.2. Treatment strategy 
     
--       8.3.3.2.3. Follow-up 65
+-       8.3.3.2.3. Follow-up 
     
--   9\. Aorta 65
+-   9\. Aorta 
     
--    9.1. Atheromatous disease of the aorta 65
+-    9.1. Atheromatous disease of the aorta 
     
--     9.1.1. General concepts 65
+-     9.1.1. General concepts 
     
--     9.1.2. Treatment 65
+-     9.1.2. Treatment 
     
--      9.1.2.1. Primary prevention 65
+-      9.1.2.1. Primary prevention 
     
--      9.1.2.2. Secondary prevention 65
+-      9.1.2.2. Secondary prevention 
     
--    9.2. Aortic aneurysms 66
+-    9.2. Aortic aneurysms 
     
--     9.2.1. General concepts 66
+-     9.2.1. General concepts 
     
--      9.2.1.1. Definitions 66
+-      9.2.1.1. Definitions 
     
--     9.2.2. Thoracic aortic aneurysms 66
+-     9.2.2. Thoracic aortic aneurysms 
     
--      9.2.2.1. Aetiology, risk factors, and natural history 66
+-      9.2.2.1. Aetiology, risk factors, and natural history 
     
--      9.2.2.2. Ascending thoracic aorta and arch aneurysms 66
+-      9.2.2.2. Ascending thoracic aorta and arch aneurysms 
     
--      9.2.2.3. Descending thoracic aorta and thoracoabdominal aorta aneurysms 67
+-      9.2.2.3. Descending thoracic aorta and thoracoabdominal aorta aneurysms 
     
--      9.2.2.4. Surveillance 70
+-      9.2.2.4. Surveillance 
     
--     9.2.3. Abdominal aortic aneurysms 70
+-     9.2.3. Abdominal aortic aneurysms 
     
--      9.2.3.1. General concepts 70
+-      9.2.3.1. General concepts 
     
--      9.2.3.2. Aetiology, risk factors, and natural history 70
+-      9.2.3.2. Aetiology, risk factors, and natural history 
     
--      9.2.3.3. Surveillance 70
+-      9.2.3.3. Surveillance 
     
--     9.2.4. Optimal medical treatment of aortic aneurysms 72
+-     9.2.4. Optimal medical treatment of aortic aneurysms 
     
--     9.2.5. Surgical management of aortic aneurysms 72
+-     9.2.5. Surgical management of aortic aneurysms 
     
--      9.2.5.1. Surgical treatment of aortic root and ascending aorta 72
+-      9.2.5.1. Surgical treatment of aortic root and ascending aorta 
     
--      9.2.5.2. Surgical treatment of aortic arch aneurysms 74
+-      9.2.5.2. Surgical treatment of aortic arch aneurysms 
     
--      9.2.5.3. Surgical treatment of the thoracic descending aorta 75
+-      9.2.5.3. Surgical treatment of the thoracic descending aorta 
     
--       9.2.5.3.1. General considerations 75
+-       9.2.5.3.1. General considerations 
     
--       9.2.5.3.2. Open repair 75
+-       9.2.5.3.2. Open repair 
     
--       9.2.5.3.3. Endovascular repair 75
+-       9.2.5.3.3. Endovascular repair 
     
--      9.2.5.4. Surgical treatment of thoracoabdominal aorta aneurysms 75
+-      9.2.5.4. Surgical treatment of thoracoabdominal aorta aneurysms 
     
--       9.2.5.4.1. General considerations 75
+-       9.2.5.4.1. General considerations 
     
--       9.2.5.4.2. Open repair 75
+-       9.2.5.4.2. Open repair 
     
--       9.2.5.4.3. Endovascular repair 75
+-       9.2.5.4.3. Endovascular repair 
     
--      9.2.5.5. Surgical treatment of abdominal aorta aneurysms 76
+-      9.2.5.5. Surgical treatment of abdominal aorta aneurysms 
     
--       9.2.5.5.1. General considerations 76
+-       9.2.5.5.1. General considerations 
     
--       9.2.5.5.2. Pre-operative cardiovascular evaluation and choice of treatment 76
+-       9.2.5.5.2. Pre-operative cardiovascular evaluation and choice of treatment 
     
--       9.2.5.5.3. Open abdominal aorta aneurysm repair 78
+-       9.2.5.5.3. Open abdominal aorta aneurysm repair 
     
--       9.2.5.5.4. Endovascular abdominal aorta aneurysm repair 78
+-       9.2.5.5.4. Endovascular abdominal aorta aneurysm repair 
     
--     9.2.6. Endoleaks 78
+-     9.2.6. Endoleaks 
     
--     9.2.7. Long-term follow-up after aortic repair 80
+-     9.2.7. Long-term follow-up after aortic repair 
     
--      9.2.7.1. Follow-up after thoracic aortic aneurysm treatment 80
+-      9.2.7.1. Follow-up after thoracic aortic aneurysm treatment 
     
--      9.2.7.2. Follow-up after abdominal aortic aneurysm treatment 80
+-      9.2.7.2. Follow-up after abdominal aortic aneurysm treatment 
     
--    9.3. Acute thoracic aortic syndromes 81
+-    9.3. Acute thoracic aortic syndromes 
     
--     9.3.1. General concepts 81
+-     9.3.1. General concepts 
     
--      9.3.1.1. Epidemiology and risk factors 81
+-      9.3.1.1. Epidemiology and risk factors 
     
--       9.3.1.1.1. Sex differences 83
+-       9.3.1.1.1. Sex differences 
     
--       9.3.1.1.2. Chronobiology 84
+-       9.3.1.1.2. Chronobiology 
     
--       9.3.1.1.3. Outcomes 84
+-       9.3.1.1.3. Outcomes 
     
--      9.3.1.2. Clinical presentation 85
+-      9.3.1.2. Clinical presentation 
     
--      9.3.1.3. Diagnostic work-up 85
+-      9.3.1.3. Diagnostic work-up 
     
--      9.3.1.4. Therapeutic intervention in acute aortic dissection 85
+-      9.3.1.4. Therapeutic intervention in acute aortic dissection 
     
--       9.3.1.4.1. Initial treatment 85
+-       9.3.1.4.1. Initial treatment 
     
--       9.3.1.4.2. Type A aortic dissection interventional treatment 86
+-       9.3.1.4.2. Type A aortic dissection interventional treatment 
     
--       9.3.1.4.3. Acute type B aortic dissection interventional treatment 91
+-       9.3.1.4.3. Acute type B aortic dissection interventional treatment 
     
--       9.3.1.4.4. Chronic type B aortic dissection interventional treatment 92
+-       9.3.1.4.4. Chronic type B aortic dissection interventional treatment 
     
--       9.3.1.4.5. Management during pregnancy 92
+-       9.3.1.4.5. Management during pregnancy 
     
--     9.3.2. Intramural haematoma 93
+-     9.3.2. Intramural haematoma 
     
--      9.3.2.1. Diagnostic work-up 93
+-      9.3.2.1. Diagnostic work-up 
     
--      9.3.2.2. Clinical outcomes 93
+-      9.3.2.2. Clinical outcomes 
     
--      9.3.2.3. Geographical variations 93
+-      9.3.2.3. Geographical variations 
     
--      9.3.2.4. Management 93
+-      9.3.2.4. Management 
     
--       9.3.2.4.1. Type A intramural haematoma 93
+-       9.3.2.4.1. Type A intramural haematoma 
     
--       9.3.2.4.2. Type B intramural haematoma 93
+-       9.3.2.4.2. Type B intramural haematoma 
     
--     9.3.3. Penetrating atherosclerotic ulcer 94
+-     9.3.3. Penetrating atherosclerotic ulcer 
     
--      9.3.3.1. Diagnosis 94
+-      9.3.3.1. Diagnosis 
     
--      9.3.3.2. Treatment 94
+-      9.3.3.2. Treatment 
     
--     9.3.4. Aortic pseudo-aneurysm 95
+-     9.3.4. Aortic pseudo-aneurysm 
     
--     9.3.5. Traumatic aortic injury 96
+-     9.3.5. Traumatic aortic injury 
     
--      9.3.5.1. Diagnosis and therapeutic interventions 96
+-      9.3.5.1. Diagnosis and therapeutic interventions 
     
--      9.3.5.2. Long-term surveillance in traumatic aortic injury 96
+-      9.3.5.2. Long-term surveillance in traumatic aortic injury 
     
--     9.3.6. Iatrogenic aortic injuries 96
+-     9.3.6. Iatrogenic aortic injuries 
     
--     9.3.7. Long-term follow-up of acute aortic syndrome 96
+-     9.3.7. Long-term follow-up of acute aortic syndrome 
     
--      9.3.7.1. Follow-up after invasive treatment 97
+-      9.3.7.1. Follow-up after invasive treatment 
     
--      9.3.7.2. Follow-up under medical treatment (chronic type B aortic dissection, intramural haematoma, penetrating atherosclerotic ulcer) 99
+-      9.3.7.2. Follow-up under medical treatment (chronic type B aortic dissection, intramural haematoma, penetrating atherosclerotic ulcer) 
     
--   10\. Genetic and congenital diseases of the aorta 100
+-   10\. Genetic and congenital diseases of the aorta 
     
--    10.1. Genetic and chromosomal diseases 100
+-    10.1. Genetic and chromosomal diseases 
     
--     10.1.1. Turner syndrome 101
+-     10.1.1. Turner syndrome 
     
--      10.1.1.1. Diagnosis, clinical presentation, and natural history 101
+-      10.1.1.1. Diagnosis, clinical presentation, and natural history 
     
--      10.1.1.2. Medical treatment 103
+-      10.1.1.2. Medical treatment 
     
--      10.1.1.3. Surgery of aortic aneurysms 103
+-      10.1.1.3. Surgery of aortic aneurysms 
     
--      10.1.1.4. Pregnancy and physical exercise 103
+-      10.1.1.4. Pregnancy and physical exercise 
     
--     10.1.2. Vascular Ehlers–Danlos syndrome 104
+-     10.1.2. Vascular Ehlers–Danlos syndrome 
     
--      10.1.2.1. Diagnosis, clinical presentation, and natural history 104
+-      10.1.2.1. Diagnosis, clinical presentation, and natural history 
     
--      10.1.2.2. Surveillance and imaging 104
+-      10.1.2.2. Surveillance and imaging 
     
--      10.1.2.3. Medical treatment 104
+-      10.1.2.3. Medical treatment 
     
--      10.1.2.4. Surgical treatment 104
+-      10.1.2.4. Surgical treatment 
     
--      10.1.2.5. Pregnancy 104
+-      10.1.2.5. Pregnancy 
     
--     10.1.3. Marfan syndrome 104
+-     10.1.3. Marfan syndrome 
     
--      10.1.3.1. Diagnosis, clinical presentation, and natural history 104
+-      10.1.3.1. Diagnosis, clinical presentation, and natural history 
     
--      10.1.3.2. Imaging surveillance 104
+-      10.1.3.2. Imaging surveillance 
     
--      10.1.3.3. Medical treatment 105
+-      10.1.3.3. Medical treatment 
     
--      10.1.3.4. Aortic surgery 105
+-      10.1.3.4. Aortic surgery 
     
--      10.1.3.5. Pregnancy and physical exercise 106
+-      10.1.3.5. Pregnancy and physical exercise 
     
--     10.1.4. Other syndromic and non-syndromic heritable thoracic aortic diseases and/or arterial disorders 106
+-     10.1.4. Other syndromic and non-syndromic heritable thoracic aortic diseases and/or arterial disorders 
     
--      10.1.4.1. Loeys–Dietz syndrome 106
+-      10.1.4.1. Loeys–Dietz syndrome 
     
--       10.1.4.1.1. Diagnosis, clinical presentation, and natural evolution 106
+-       10.1.4.1.1. Diagnosis, clinical presentation, and natural evolution 
     
--      10.1.4.2. ACTA2-related heritable thoracic aortic disease 108
+-      10.1.4.2. ACTA2-related heritable thoracic aortic disease 
     
--    10.2. Aortic disease associated with bicuspid aortic valves 109
+-    10.2. Aortic disease associated with bicuspid aortic valves 
     
--    10.3. Coarctation of the aorta and aortic arch variants 111
+-    10.3. Coarctation of the aorta and aortic arch variants 
     
--     10.3.1. Coarctation of the aorta 111
+-     10.3.1. Coarctation of the aorta 
     
--      10.3.1.1. Diagnostic work-up 111
+-      10.3.1.1. Diagnostic work-up 
     
--      10.3.1.2. Treatment and follow-up 111
+-      10.3.1.2. Treatment and follow-up 
     
--     10.3.2. Aortic arch anatomic variants 113
+-     10.3.2. Aortic arch anatomic variants 
     
--     10.3.3. Aberrant subclavian artery and Kommerell’s diverticulum 113
+-     10.3.3. Aberrant subclavian artery and Kommerell’s diverticulum 
     
--   11\. Polyvascular peripheral arterial disease and peripheral arterial disease in patients with cardiac diseases 113
+-   11\. Polyvascular peripheral arterial disease and peripheral arterial disease in patients with cardiac diseases 
     
--    11.1. Polyvascular disease 113
+-    11.1. Polyvascular disease 
+  
+-     11.1.1. Epidemiology and prognosis 
     
--     11.1.1. Epidemiology and prognosis 113
+-     11.1.2. Screening for atherosclerosis in other arterial territories 
     
--     11.1.2. Screening for atherosclerosis in other arterial territories 113
+-      11.1.2.1. Screening for coronary artery disease in patients with symptomatic peripheral arterial disease 
     
--      11.1.2.1. Screening for coronary artery disease in patients with symptomatic peripheral arterial disease 114
+-      11.1.2.2. Screening for peripheral arterial disease in patients with coronary artery disease 
     
--      11.1.2.2. Screening for peripheral arterial disease in patients with coronary artery disease 114
+-      11.1.2.3. Screening for coronary artery disease in patients with carotid stenosis 
     
--      11.1.2.3. Screening for coronary artery disease in patients with carotid stenosis 114
+-      11.1.2.4. Screening for carotid stenosis in patients with coronary artery disease 
     
--      11.1.2.4. Screening for carotid stenosis in patients with coronary artery disease 114
+-     11.1.3. Management of patients with polyvascular disease 
     
--     11.1.3. Management of patients with polyvascular disease 114
+-    11.2. Peripheral arterial disease and heart failure 
     
--    11.2. Peripheral arterial disease and heart failure 114
+-    11.3. Peripheral arterial disease and AF 
     
--    11.3. Peripheral arterial disease and AF 115
+-    11.4. Peripheral arterial disease and aortic stenosis 
     
--    11.4. Peripheral arterial disease and aortic stenosis 115
+-   12\. Key messages 
     
--   12\. Key messages 115
+-   13\. Gaps in evidence 
     
--   13\. Gaps in evidence 116
+-   14\. Sex differences 
     
--   14\. Sex differences 116
+-   15\. ‘What to do’ and ‘What not to do’ messages from the guidelines 
     
--   15\. ‘What to do’ and ‘What not to do’ messages from the guidelines 116
+-   16\. Evidence tables 
     
--   16\. Evidence tables 124
+-   17\. Data availability statement 
     
--   17\. Data availability statement 124
+-   18\. Author information 
     
--   18\. Author information 124
+-   19\. Appendix 
     
--   19\. Appendix 125
-    
--   20\. References 126
+-   20\. References 
     
 
 ## Tables of Recommendations
 
--   Recommendation Table 1 — Recommendations for clinical and laboratory, and for functional and quality of life, assessment in patients with peripheral arterial and aortic disease (see also Evidence Table 1) 23
+-   Recommendation Table 1 — Recommendations for clinical and laboratory, and for functional and quality of life, assessment in patients with peripheral arterial and aortic disease (see also Evidence Table 1) 
     
--   Recommendation Table 2 — Recommendations for diagnostic tests in patients with peripheral arterial disease 25
+-   Recommendation Table 2 — Recommendations for diagnostic tests in patients with peripheral arterial disease 
     
--   Recommendation Table 3 — Recommendations for imaging of the aorta (see also Evidence Table 2) 28
+-   Recommendation Table 3 — Recommendations for imaging of the aorta (see also Evidence Table 2) 
     
--   Recommendation Table 4 — Recommendations for thoracic aortic measurements 29
+-   Recommendation Table 4 — Recommendations for thoracic aortic measurements 
     
--   Recommendation Table 5 — Recommendations for peripheral arterial disease screening (see also Evidence Table 3) 31
+-   Recommendation Table 5 — Recommendations for peripheral arterial disease screening (see also Evidence Table 3) 
     
--   Recommendation Table 6 — Recommendations for abdominal aortic aneurysm screening 31
+-   Recommendation Table 6 — Recommendations for abdominal aortic aneurysm screening 
     
--   Recommendation Table 7 — Recommendations for lifestyle, physical activity, and patient education (see also Evidence Table 4) 33
+-   Recommendation Table 7 — Recommendations for lifestyle, physical activity, and patient education (see also Evidence Table 4) 
     
--   Recommendation Table 8 — Recommendations for antihypertensive therapy in patients with peripheral and aortic disease 34
+-   Recommendation Table 8 — Recommendations for antihypertensive therapy in patients with peripheral and aortic disease 
     
--   Recommendation Table 9 — Recommendations for lipid-lowering therapy in patients with peripheral arterial and aortic diseases 35
+-   Recommendation Table 9 — Recommendations for lipid-lowering therapy in patients with peripheral arterial and aortic diseases 
     
--   Recommendation Table 10 — Recommendations for the medical management of patients with peripheral arterial and aortic diseases and diabetes 36
+-   Recommendation Table 10 — Recommendations for the medical management of patients with peripheral arterial and aortic diseases and diabetes 
     
--   Recommendation Table 11 — Recommendations for diagnostic tests in patients with peripheral arterial disease and diabetes, renal failure, and wounds 40
+-   Recommendation Table 11 — Recommendations for diagnostic tests in patients with peripheral arterial disease and diabetes, renal failure, and wounds 
     
--   Recommendation Table 12 — Recommendations for imaging in patients with peripheral arterial disease 40
+-   Recommendation Table 12 — Recommendations for imaging in patients with peripheral arterial disease 
     
--   Recommendation Table 13 — Recommendations for exercise therapy in patients with peripheral arterial disease (see also Evidence Table 5) 45
+-   Recommendation Table 13 — Recommendations for exercise therapy in patients with peripheral arterial disease (see also Evidence Table 5) 
     
--   Recommendation Table 14 — Recommendations for antithrombotic therapy in patients with peripheral arterial disease (see also Evidence Table 6) 45
+-   Recommendation Table 14 — Recommendations for antithrombotic therapy in patients with peripheral arterial disease (see also Evidence Table 6) 
     
--   Recommendation Table 15 — Recommendations for interventional treatment of asymptomatic and symptomatic peripheral arterial disease (general) 47
+-   Recommendation Table 15 — Recommendations for interventional treatment of asymptomatic and symptomatic peripheral arterial disease (general) 
     
--   Recommendation Table 16 — Recommendations for interventional treatment of patients with symptomatic peripheral arterial disease (per arterial bed) 48
+-   Recommendation Table 16 — Recommendations for interventional treatment of patients with symptomatic peripheral arterial disease (per arterial bed) 
     
--   Recommendation Table 17 — Recommendations in patients with peripheral arterial disease: follow-up of patients with peripheral arterial disease 48
+-   Recommendation Table 17 — Recommendations in patients with peripheral arterial disease: follow-up of patients with peripheral arterial disease 
     
--   Recommendation Table 18 — Recommendations for the management of chronic limb-threatening ischaemia 49
+-   Recommendation Table 18 — Recommendations for the management of chronic limb-threatening ischaemia 
     
--   Recommendation Table 19 — Recommendations for medical treatment in patients with chronic limb-threatening ischaemia (see also Evidence Table 7) 49
+-   Recommendation Table 19 — Recommendations for medical treatment in patients with chronic limb-threatening ischaemia (see also Evidence Table 7) 
     
--   Recommendation Table 20 — Recommendations for interventional treatment of chronic limb-threatening ischaemia 50
+-   Recommendation Table 20 — Recommendations for interventional treatment of chronic limb-threatening ischaemia 
     
--   Recommendation Table 21 — Recommendations for follow-up in patients with chronic limb-threatening ischaemia 50
+-   Recommendation Table 21 — Recommendations for follow-up in patients with chronic limb-threatening ischaemia 
     
--   Recommendation Table 22 — Recommendations for the management of patients presenting with acute limb ischaemia (see also Evidence Table 8) 53
+-   Recommendation Table 22 — Recommendations for the management of patients presenting with acute limb ischaemia (see also Evidence Table 8) 
     
--   Recommendation Table 23 — Recommendations for carotid artery stenosis assessment 53
+-   Recommendation Table 23 — Recommendations for carotid artery stenosis assessment 
     
--   Recommendation Table 24 — Recommendations for antithrombotic treatment in patients with carotid stenosis 55
+-   Recommendation Table 24 — Recommendations for antithrombotic treatment in patients with carotid stenosis 
     
--   Recommendation Table 25 — Recommendations for interventional treatment in patients with asymptomatic carotid artery stenosis 57
+-   Recommendation Table 25 — Recommendations for interventional treatment in patients with asymptomatic carotid artery stenosis 
     
--   Recommendation Table 26 — Recommendations for evaluation and medical treatment in patients with symptomatic carotid artery stenosis 57
+-   Recommendation Table 26 — Recommendations for evaluation and medical treatment in patients with symptomatic carotid artery stenosis 
     
--   Recommendation Table 27 — Recommendations for interventions in patients with symptomatic carotid artery stenosis 59
+-   Recommendation Table 27 — Recommendations for interventions in patients with symptomatic carotid artery stenosis 
     
--   Recommendation Table 28 — Recommendations for follow-up in patients with carotid artery stenosis 59
+-   Recommendation Table 28 — Recommendations for follow-up in patients with carotid artery stenosis 
     
--   Recommendation Table 29 — Recommendations for the management of subclavian artery stenosis (see also Evidence Table 9) 60
+-   Recommendation Table 29 — Recommendations for the management of subclavian artery stenosis (see also Evidence Table 9) 
     
--   Recommendation Table 30 — Recommendations for diagnostic strategies for renal artery disease 63
+-   Recommendation Table 30 — Recommendations for diagnostic strategies for renal artery disease 
     
--   Recommendation Table 31 — Recommendations for treatment strategies for renal artery disease (see also Evidence Table 10) 63
+-   Recommendation Table 31 — Recommendations for treatment strategies for renal artery disease (see also Evidence Table 10) 
     
--   Recommendation Table 32 — Recommendations in patients with visceral artery stenosis 65
+-   Recommendation Table 32 — Recommendations in patients with visceral artery stenosis 
     
--   Recommendation Table 33 — Recommendations for primary and secondary prevention in aortic atheromatous plaques 65
+-   Recommendation Table 33 — Recommendations for primary and secondary prevention in aortic atheromatous plaques 
     
--   Recommendation Table 34 — Recommendations for initial evaluation of thoracic aortic aneurysm and abdominal aortic aneurysm 66
+-   Recommendation Table 34 — Recommendations for initial evaluation of thoracic aortic aneurysm and abdominal aortic aneurysm 
     
--   Recommendation Table 35 — Recommendation for the surveillance of patients with thoracic aortic aneurysms (non-heritable thoracic aortic disease) 70
+-   Recommendation Table 35 — Recommendation for the surveillance of patients with thoracic aortic aneurysms (non-heritable thoracic aortic disease) 
     
--   Recommendation Table 36 — Recommendations for surveillance of patients with abdominal aortic aneurysm 72
+-   Recommendation Table 36 — Recommendations for surveillance of patients with abdominal aortic aneurysm 
     
--   Recommendation Table 37 — Recommendations for medical treatment in patients with thoracic aorta or abdominal aortic aneurysms 72
+-   Recommendation Table 37 — Recommendations for medical treatment in patients with thoracic aorta or abdominal aortic aneurysms 
     
--   Recommendation Table 38 — Recommendations for surgery in aortic root and ascending aorta dilatation associated with tricuspid aortic valve (see also Evidence Table 11) 74
+-   Recommendation Table 38 — Recommendations for surgery in aortic root and ascending aorta dilatation associated with tricuspid aortic valve (see also Evidence Table 11) 
     
--   Recommendation Table 39 — Recommendations for surgery in aortic arch aneurysms 74
+-   Recommendation Table 39 — Recommendations for surgery in aortic arch aneurysms 
     
--   Recommendation Table 40 — Recommendations for the management of patients presenting with descending thoracic aortic and thoracoabdominal aortic aneurysms 76
+-   Recommendation Table 40 — Recommendations for the management of patients presenting with descending thoracic aortic and thoracoabdominal aortic aneurysms 
     
--   Recommendation Table 41 — Recommendations for the management of patients presenting with abdominal aortic aneurysm 78
+-   Recommendation Table 41 — Recommendations for the management of patients presenting with abdominal aortic aneurysm 
     
--   Recommendation Table 42 — Recommendations for the management of patients presenting with endoleaks 80
+-   Recommendation Table 42 — Recommendations for the management of patients presenting with endoleaks 
     
--   Recommendation Table 43 — Recommendations for follow-up after treatment of aortic aneurysms (see also Evidence Table 12) 81
+-   Recommendation Table 43 — Recommendations for follow-up after treatment of aortic aneurysms (see also Evidence Table 12) 
     
--   Recommendation Table 44 — Recommendations for diagnostic work-up of acute aortic syndromes 85
+-   Recommendation Table 44 — Recommendations for diagnostic work-up of acute aortic syndromes 
     
--   Recommendation Table 45 — Recommendation for medical treatment in acute aortic syndromes 86
+-   Recommendation Table 45 — Recommendation for medical treatment in acute aortic syndromes 
     
--   Recommendation Table 46 — Recommendations for intervention in type A acute aortic dissection 87
+-   Recommendation Table 46 — Recommendations for intervention in type A acute aortic dissection 
     
--   Recommendation Table 47 — Recommendations for aortic repair strategies in type A acute aortic dissection 87
+-   Recommendation Table 47 — Recommendations for aortic repair strategies in type A acute aortic dissection 
     
--   Recommendation Table 48 — Recommendations for the management of malperfusion in the setting of acute aortic dissection 91
+-   Recommendation Table 48 — Recommendations for the management of malperfusion in the setting of acute aortic dissection 
     
--   Recommendation Table 49 — Recommendations for the management of patients presenting with acute type B aortic dissection 92
+-   Recommendation Table 49 — Recommendations for the management of patients presenting with acute type B aortic dissection 
     
--   Recommendation Table 50 — Recommendations for the management of patients presenting with chronic type B aortic dissection 92
+-   Recommendation Table 50 — Recommendations for the management of patients presenting with chronic type B aortic dissection 
     
--   Recommendation Table 51 — Recommendations for the management of intramural haematoma 94
+-   Recommendation Table 51 — Recommendations for the management of intramural haematoma 
     
--   Recommendation Table 52 — Recommendations for the management of penetrating atherosclerotic ulcer 94
+-   Recommendation Table 52 — Recommendations for the management of penetrating atherosclerotic ulcer 
     
--   Recommendation Table 53 — Recommendations for traumatic aortic injury 96
+-   Recommendation Table 53 — Recommendations for traumatic aortic injury 
     
--   Recommendation Table 54 — Recommendations for follow-up after treatment of acute aortic syndrome 100
+-   Recommendation Table 54 — Recommendations for follow-up after treatment of acute aortic syndrome 
     
--   Recommendation Table 55 — Recommendations for the management of patients with heritable thoracic aortic disease 100
+-   Recommendation Table 55 — Recommendations for the management of patients with heritable thoracic aortic disease 
     
--   Recommendation Table 56 — Recommendations for genetic testing and aortic screening in aortic disease 101
+-   Recommendation Table 56 — Recommendations for genetic testing and aortic screening in aortic disease 
     
--   Recommendation Table 57 — Recommendations for imaging in women with Turner syndrome 101
+-   Recommendation Table 57 — Recommendations for imaging in women with Turner syndrome 
     
--   Recommendation Table 58 — Recommendations for aortic surgery in women with Turner syndrome 103
+-   Recommendation Table 58 — Recommendations for aortic surgery in women with Turner syndrome 
     
--   Recommendation Table 59 — Recommendations for medical treatment in patients with vascular Ehlers–Danlos syndrome (see also Evidence Table 13) 104
+-   Recommendation Table 59 — Recommendations for medical treatment in patients with vascular Ehlers–Danlos syndrome (see also Evidence Table 13) 
     
--   Recommendation Table 60 — Recommendations for vascular imaging in Marfan syndrome 105
+-   Recommendation Table 60 — Recommendations for vascular imaging in Marfan syndrome 
     
--   Recommendation Table 61 — Recommendations for medical treatment in Marfan syndrome (see also Evidence Table 14) 105
+-   Recommendation Table 61 — Recommendations for medical treatment in Marfan syndrome (see also Evidence Table 14) 
     
--   Recommendation Table 62 — Recommendations for aortic surgery in Marfan syndrome 105
+-   Recommendation Table 62 — Recommendations for aortic surgery in Marfan syndrome 
     
--   Recommendation Table 63 — Recommendations for pregnancy in women with Marfan syndrome 106
+-   Recommendation Table 63 — Recommendations for pregnancy in women with Marfan syndrome 
     
--   Recommendation Table 64 — Recommendations for physical exercise in patients with Marfan syndrome 106
+-   Recommendation Table 64 — Recommendations for physical exercise in patients with Marfan syndrome 
     
--   Recommendation Table 65 — Recommendations for imaging follow-up in Loeys–Dietz syndrome 107
+-   Recommendation Table 65 — Recommendations for imaging follow-up in Loeys–Dietz syndrome 
     
--   Recommendation Table 66 — Recommendations for aortic root surgery in Loeys–Dietz syndrome 107
+-   Recommendation Table 66 — Recommendations for aortic root surgery in Loeys–Dietz syndrome 
     
--   Recommendation Table 67 — Recommendations for imaging and surgery in ACTA2-related heritable thoracic aortic disease (see also Evidence Table 11) 108
+-   Recommendation Table 67 — Recommendations for imaging and surgery in ACTA2-related heritable thoracic aortic disease (see also Evidence Table 11) 
     
--   Recommendation Table 68 — Recommendations for bicuspid aortic valve-associated aortopathy management 110
+-   Recommendation Table 68 — Recommendations for bicuspid aortic valve-associated aortopathy management 
     
--   Recommendation Table 69 — Recommendations for evaluation and medical treatment of patients with coarctation of the aorta 111
+-   Recommendation Table 69 — Recommendations for evaluation and medical treatment of patients with coarctation of the aorta 
     
--   Recommendation Table 70 — Recommendations for screening and management of polyvascular disease and peripheral arterial disease with cardiac diseases (see also Evidence Table 15) 115
+-   Recommendation Table 70 — Recommendations for screening and management of polyvascular disease and peripheral arterial disease with cardiac diseases (see also Evidence Table 15) 
     
 
 ## List of tables
 
--   Table 1 Classes of recommendations 10
+-   Table 1 Classes of recommendations 
     
--   Table 2 Levels of evidence 11
+-   Table 2 Levels of evidence 
     
--   Table 3 New recommendations 13
+-   Table 3 New recommendations 
     
--   Table 4 Revised recommendations 18
+-   Table 4 Revised recommendations 
     
--   Table 5 Main aortic imaging techniques 27
+-   Table 5 Main aortic imaging techniques 
     
--   Table 6 High-risk populations for carotid artery stenosis 30
+-   Table 6 High-risk populations for carotid artery stenosis 
     
--   Table 7 Peripheral arterial disease categorized according to clinical presentation 37
+-   Table 7 Peripheral arterial disease categorized according to clinical presentation 
     
--   Table 8 Assessment of the risk of amputation: the Wound, Ischaemia, and foot Infection classification 40
+-   Table 8 Assessment of the risk of amputation: the Wound, Ischaemia, and foot Infection classification 
     
--   Table 9 Clinical categories of acute limb ischaemia 51
+-   Table 9 Clinical categories of acute limb ischaemia 
     
--   Table 10 Peak systolic velocity criteria for grading internal carotid artery stenosis 54
+-   Table 10 Peak systolic velocity criteria for grading internal carotid artery stenosis 
     
--   Table 11 High-risk features associated with increased risk of stroke in patients with asymptomatic internal carotid artery stenosis on optimal medical treatment 55
+-   Table 11 High-risk features associated with increased risk of stroke in patients with asymptomatic internal carotid artery stenosis on optimal medical treatment 
     
--   Table 12 High-risk peri-operative features for carotid endarterectomy 58
+-   Table 12 High-risk peri-operative features for carotid endarterectomy 
     
--   Table 13 Clinical signs suggestive of renal artery disease 61
+-   Table 13 Clinical signs suggestive of renal artery disease 
     
--   Table 14 Grading of atherosclerotic aortic plaques 66
+-   Table 14 Grading of atherosclerotic aortic plaques 
     
--   Table 15 Overview of factors favouring open vs. endovascular repair in thoracoabdominal aortic aneurysm 76
+-   Table 15 Overview of factors favouring open vs. endovascular repair in thoracoabdominal aortic aneurysm 
     
--   Table 16 High-risk features of intramural haematoma type A and B 93
+-   Table 16 High-risk features of intramural haematoma type A and B 
     
--   Table 17 Need for assessment of associated atherosclerotic disease in additional vascular territories in symptomatic patients with coronary artery disease, peripheral arterial disease, or carotid stenosis 114
+-   Table 17 Need for assessment of associated atherosclerotic disease in additional vascular territories in symptomatic patients with coronary artery disease, peripheral arterial disease, or carotid stenosis 
     
--   Table 18 ‘What to do’ and ‘What not to do’ 117
+-   Table 18 ‘What to do’ and ‘What not to do’ 
     
 
 ## List of figures
 
--   Figure 1 Central illustration: from diagnosis to treatment, a holistic multidisciplinary peripheral arterial and aortic diseases approach 12
+-   Figure 1 Central illustration: from diagnosis to treatment, a holistic multidisciplinary peripheral arterial and aortic diseases approach 
     
--   Figure 2 Estimated specific prevalence of peripheral arterial disease, by sex, in people aged 40 years and older 21
+-   Figure 2 Estimated specific prevalence of peripheral arterial disease, by sex, in people aged 40 years and older 
     
--   Figure 3 Main risk factors associated with atherosclerosis in peripheral arterial and aortic diseases 22
+-   Figure 3 Main risk factors associated with atherosclerosis in peripheral arterial and aortic diseases 
     
--   Figure 4 Haemodynamic assessment of peripheral arterial disease 24
+-   Figure 4 Haemodynamic assessment of peripheral arterial disease 
     
--   Figure 5 Anatomy and aortic segments and upper normal values for aortic dimensions 26
+-   Figure 5 Anatomy and aortic segments and upper normal values for aortic dimensions 
     
--   Figure 6 Conventional measurements of the aorta at different levels by echocardiography or duplex ultrasound (A, B, C), cardiovascular computed tomography or cardiovascular magnetic resonance (D, E, F) 27
+-   Figure 6 Conventional measurements of the aorta at different levels by echocardiography or duplex ultrasound (A, B, C), cardiovascular computed tomography or cardiovascular magnetic resonance (D, E, F) 
     
--   Figure 7 Cardiovascular risk modification and healthy lifestyle interventions and targets in patients with peripheral arterial and aortic diseases 32
+-   Figure 7 Cardiovascular risk modification and healthy lifestyle interventions and targets in patients with peripheral arterial and aortic diseases 
     
--   Figure 8 Cardiovascular risk in patients with peripheral arterial disease 38
+-   Figure 8 Cardiovascular risk in patients with peripheral arterial disease 
     
--   Figure 9 Diagnostic algorithm for peripheral arterial disease 39
+-   Figure 9 Diagnostic algorithm for peripheral arterial disease 
     
--   Figure 10 Optimal medical treatment in patients with peripheral arterial disease 41
+-   Figure 10 Optimal medical treatment in patients with peripheral arterial disease 
     
--   Figure 11 Treatment algorithm in peripheral arterial disease without wounds 42
+-   Figure 11 Treatment algorithm in peripheral arterial disease without wounds 
     
--   Figure 12 Treatment algorithm in peripheral arterial disease with wounds 43
+-   Figure 12 Treatment algorithm in peripheral arterial disease with wounds 
     
--   Figure 13 Exercise training characteristics and benefits in patients with peripheral arterial disease 44
+-   Figure 13 Exercise training characteristics and benefits in patients with peripheral arterial disease 
     
--   Figure 14 Long-term antithrombotic therapy in patients with symptomatic peripheral arterial disease 46
+-   Figure 14 Long-term antithrombotic therapy in patients with symptomatic peripheral arterial disease 
     
--   Figure 15 Patients with chronic symptomatic PAD after endovascular revascularization 47
+-   Figure 15 Patients with chronic symptomatic PAD after endovascular revascularization 
     
--   Figure 16 Management of acute limb ischaemia 52
+-   Figure 16 Management of acute limb ischaemia 
     
--   Figure 17 North American Symptomatic Carotid Endarterectomy Trial/European Carotid Surgery Trial methods 54
+-   Figure 17 North American Symptomatic Carotid Endarterectomy Trial/European Carotid Surgery Trial methods 
     
--   Figure 18 Algorithm of carotid artery stenosis management 56
+-   Figure 18 Algorithm of carotid artery stenosis management 
     
--   Figure 19 Diagnostic and treatment algorithm for renal artery stenosis 62
+-   Figure 19 Diagnostic and treatment algorithm for renal artery stenosis 
     
--   Figure 20 Algorithm of chronic mesenteric ischaemia management 64
+-   Figure 20 Algorithm of chronic mesenteric ischaemia management 
     
--   Figure 21 Thoracic and abdominal aortic aneurysms: aetiology, screening and diagnostic methods 67
+-   Figure 21 Thoracic and abdominal aortic aneurysms: aetiology, screening and diagnostic methods 
     
--   Figure 22 Classification of thoracoabdominal and abdominal aortic aneurysms 68
+-   Figure 22 Classification of thoracoabdominal and abdominal aortic aneurysms 
     
--   Figure 23 Risk factors for thoracic and abdominal aneurysm rupture 69
+-   Figure 23 Risk factors for thoracic and abdominal aneurysm rupture 
     
--   Figure 24 Surveillance of patients with **non-heritable** thoracic aortic disease and abdominal aortic aneurysms 71
+-   Figure 24 Surveillance of patients with **non-heritable** thoracic aortic disease and abdominal aortic aneurysms 
     
--   Figure 25 Peri-operative algorithm for the management of patients with surgically treated aortic root and ascending aortic aneurysm 73
+-   Figure 25 Peri-operative algorithm for the management of patients with surgically treated aortic root and ascending aortic aneurysm 
     
--   Figure 26 Algorithm for individual decision-making process in the treatment of patients with abdominal aortic aneurysm 77
+-   Figure 26 Algorithm for individual decision-making process in the treatment of patients with abdominal aortic aneurysm 
     
--   Figure 27 Algorithm for follow-up after thoracic endovascular aortic aneurysm repair, and management of endoleaks and their classification 79
+-   Figure 27 Algorithm for follow-up after thoracic endovascular aortic aneurysm repair, and management of endoleaks and their classification 
     
--   Figure 28 Anatomical and temporal classification of acute aortic syndrome 82
+-   Figure 28 Anatomical and temporal classification of acute aortic syndrome 
     
--   Figure 29 Aortic dissection classification system based on the 2020 Society for Vascular Surgery/Society of Thoracic Surgeons Reporting Standards and the European update of the Stanford classification—Type Entry Malperfusion classification 83
+-   Figure 29 Aortic dissection classification system based on the 2020 Society for Vascular Surgery/Society of Thoracic Surgeons Reporting Standards and the European update of the Stanford classification—Type Entry Malperfusion classification 
     
--   Figure 30 Multiparametric diagnostic work-up of acute aortic syndrome 84
+-   Figure 30 Multiparametric diagnostic work-up of acute aortic syndrome 
     
--   Figure 31 Medical management of acute aortic syndrome 86
+-   Figure 31 Medical management of acute aortic syndrome 
     
--   Figure 32 Complications in acute aortic syndromes, clinical evidence associated with malperfusion syndrome, and in-hospital mortality associated with these complications 88
+-   Figure 32 Complications in acute aortic syndromes, clinical evidence associated with malperfusion syndrome, and in-hospital mortality associated with these complications 
     
--   Figure 33 Interventional treatment algorithm in acute aortic dissection 89
+-   Figure 33 Interventional treatment algorithm in acute aortic dissection 
     
--   Figure 34 Mechanisms and clinical management of aortic branch obstruction in acute aortic dissection 90
+-   Figure 34 Mechanisms and clinical management of aortic branch obstruction in acute aortic dissection 
     
--   Figure 35 High-risk features in penetrating atherosclerotic ulcer and management of patients with type B penetrating atherosclerotic ulcer 95
+-   Figure 35 High-risk features in penetrating atherosclerotic ulcer and management of patients with type B penetrating atherosclerotic ulcer 
     
--   Figure 36 Classification and treatment of traumatic aortic injuries 97
+-   Figure 36 Classification and treatment of traumatic aortic injuries 
     
--   Figure 37 Aetiology, risk factors, and classification of iatrogenic aortic injuries 98
+-   Figure 37 Aetiology, risk factors, and classification of iatrogenic aortic injuries 
     
--   Figure 38 Algorithm for follow-up after acute aortic syndrome 99
+-   Figure 38 Algorithm for follow-up after acute aortic syndrome 
     
--   Figure 39 Algorithm for genetic and imaging screening in patients with thoracic aortic disease 102
+-   Figure 39 Algorithm for genetic and imaging screening in patients with thoracic aortic disease 
     
--   Figure 40 Algorithm for surveillance in women (≥15 years) with Turner syndrome 103
+-   Figure 40 Algorithm for surveillance in women (≥15 years) with Turner syndrome 
     
--   Figure 41 Algorithm for imaging surveillance in patients with syndromic and non-syndromic heritable thoracic aortic disease 107
+-   Figure 41 Algorithm for imaging surveillance in patients with syndromic and non-syndromic heritable thoracic aortic disease 
     
--   Figure 42 Suggested thresholds for prophylactic aortic root/ascending replacement in Loeys–Dietz syndrome 108
+-   Figure 42 Suggested thresholds for prophylactic aortic root/ascending replacement in Loeys–Dietz syndrome 
     
--   Figure 43 Bicuspid aortic valve, valvulo-aortopathy nomenclature 109
+-   Figure 43 Bicuspid aortic valve, valvulo-aortopathy nomenclature 
     
--   Figure 44 Criteria for significant coarctation/re-coarctation of the aorta and management algorithm 112
+-   Figure 44 Criteria for significant coarctation/re-coarctation of the aorta and management algorithm 
     
--   Figure 45 Reported rate ranges of other localizations of atherosclerosis in patients with a specific arterial disease 113
+-   Figure 45 Reported rate ranges of other localizations of atherosclerosis in patients with a specific arterial disease 
     
 
 ## Abbreviations and acronyms
