@@ -3309,7 +3309,7 @@ Google ScholarPubMedWorldCat
 140	Ference   BA, Bhatt   DL, Catapano   AL, Packard   CJ, Graham   I, Kaptoge   S, et al.   Association of genetic variants related to combined exposure to lower low-density lipoproteins and lower systolic blood pressure with lifetime risk of cardiovascular disease. JAMA  2019;322:1381–91. https://doi.org/10.1001/jama.2019.14120
    
 141	Kannel   WB. Risk stratification in hypertension: new insights from the Framingham study. Am J Hypertens  2000;13:S3–10. https://doi.org/10.1016/s0895-7061(99)00252-6
-Google ScholarCrossrefWorldCat 
+   
 142	Weycker   D, Nichols   GA, O’Keeffe-Rosetti   M, Edelsberg   J, Khan   Z, Kaura   S, et al.   Risk-factor clustering and cardiovascular disease risk in hypertensive patients. Am J Hypertens  2007;20:599–607. https://doi.org/10.1016/j.amjhyper.2006.10.013
    
 143	Constanti   M, Floyd   CN, Glover   M, Boffa   R, Wierzbicki   AS, McManus   RJ. Cost-effectiveness of initiating pharmacological treatment in stage one hypertension based on 10-year cardiovascular disease risk: a Markov modeling study. Hypertension  2021;77:682–91. https://doi.org/10.1161/hypertensionaha.120.14913
@@ -3681,7 +3681,7 @@ Google ScholarPubMedWorldCat
 326	Rossi   GP. Primary aldosteronism: JACC state-of-the-art review. J Am Coll Cardiol  2019;74:2799–811. https://doi.org/10.1016/j.jacc.2019.09.057
    
 327	Rossi   GP, Ceolotto   G, Rossitto   G, Maiolino   G, Cesari   M, Seccia   TM. Effects of mineralocorticoid and AT1 receptor antagonism on the aldosterone-renin ratio in primary aldosteronism—the EMIRA study. J Clin Endocrinol Metab  2020;105:2060–7. https://doi.org/10.1210/clinem/dgaa080
-Google ScholarCrossrefWorldCat 
+   
 328	Rossi   GP, Bisogni   V, Bacca   AV, Bacca   AV, Belfiore   A, Cesari   M, et al.   The 2020 Italian Society of Arterial Hypertension (SIIA) practical guidelines for the management of primary aldosteronism. Int J Cardiol Hypertens  2020;5:100029. https://doi.org/10.1016/j.ijchy.2020.100029
    
 329	Faconti   L, Kulkarni   S, Delles   C, Kapil   V, Lewis   P, Glover   M, et al.   Diagnosis and management of primary hyperaldosteronism in patients with hypertension: a practical approach endorsed by the British and Irish Hypertension Society. J Hum Hypertens  2024;38:8–18. https://doi.org/10.1038/s41371-023-00875-1
@@ -4295,7 +4295,7 @@ CrossrefPubMedWorldCat
 633	Thompson   P, Logan   I, Tomson   C, Sheerin   N, Ellam   T. Obesity, sex, race, and early onset hypertension: implications for a refined investigation strategy. Hypertension  2020;76:859–65. https://doi.org/10.1161/hypertensionaha.120.15557
    
 634	Saladini   F, Fania   C, Mos   L, Mazzer   A, Casiglia   E, Palatini   P. Office pulse pressure is a predictor of favorable outcome in young- to middle-aged subjects with stage 1 hypertension. Hypertension  2017;70:537–42. https://doi.org/10.1161/hypertensionaha.117.09516
-Google ScholarCrossrefWorldCat 
+   
 635	Hoeltzenbein   M, Tissen-Diabaté   T, Fietz   AK, Zinke   S, Kayser   A, Meister   R, et al.   Increased rate of birth defects after first trimester use of angiotensin converting enzyme inhibitors—treatment or hypertension related? An observational cohort study. Pregnancy Hypertens  2018;13:65–71. https://doi.org/10.1016/j.preghy.2018.04.022
    
 636	Ahmed   B, Tran   DT, Zoega   H, Kennedy   SE, Jorm   LR, Havard   A. Maternal and perinatal outcomes associated with the use of renin-angiotensin system (RAS) blockers for chronic hypertension in early pregnancy. Pregnancy Hypertens  2018;14:156–61. https://doi.org/10.1016/j.preghy.2018.09.010
@@ -4305,7 +4305,7 @@ Google ScholarCrossrefWorldCat
 638	Magee   LA, Brown   MA, Hall   DR, Gupte   S, Hennessy   A, Karumanchi   SA, et al.   The 2021 International Society for the Study of Hypertension in Pregnancy classification, diagnosis & management recommendations for international practice. Pregnancy Hypertens  2022;27:148–69. https://doi.org/10.1016/j.preghy.2021.09.008
    
 639	Kassebaum   NJ, Barber   RM, Bhutta   ZA, Dandona   L, Gething   PW, Hay   SI, et al.   Global, regional, and national levels of maternal mortality, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015. The Lancet  2016;388:1775–812. https://doi.org/10.1016/S0140-6736(16)31470-2
-Google ScholarCrossrefWorldCat 
+   
 640	Garovic   VD, White   WM, Vaughan   L, Saiki   M, Parashuram   S, Garcia-Valencia   O, et al.   Incidence and long-term outcomes of hypertensive disorders of pregnancy. J Am Coll Cardiol  2020;75:2323–34. https://doi.org/10.1016/j.jacc.2020.03.028
    
 641	Heida   KY, Franx   A, van Rijn   BB, Eijkemans   MJC, Boer   JMA, Verschuren   MWM, et al.   Earlier age of onset of chronic hypertension and type 2 diabetes mellitus after a hypertensive disorder of pregnancy or gestational diabetes mellitus. Hypertension  2015;66:1116–22. https://doi.org/10.1161/hypertensionaha.115.06005
@@ -4655,7 +4655,7 @@ Google ScholarPubMedWorldCat
 813	Canavan   M, O’Donnell   MJ. Hypertension and cognitive impairment: a review of mechanisms and key concepts. Front Neurol  2022;13:821135. https://doi.org/10.3389/fneur.2022.821135
    
 814	Dawson   J, Béjot   Y, Christensen   LM, De Marchis   GM, Dichgans   M, Hagberg   G, et al.   European Stroke Organisation (ESO) guideline on pharmacological interventions for long-term secondary prevention after ischaemic stroke or transient ischaemic attack. Eur Stroke J  2022;7:I–XLI. https://doi.org/10.1177/23969873221100032
-Google ScholarCrossrefWorldCat 
+   
 815	Kleindorfer   DO, Towfighi   A, Chaturvedi   S, Cockroft   KM, Gutierrez   J, Lombardi-Hill   D, et al.   2021 Guideline for the prevention of stroke in patients with stroke and transient ischemic attack: a guideline from the American Heart Association/American Stroke Association. Stroke  2021;52:e364–467. https://doi.org/10.1161/str.0000000000000375
    
 816	Zonneveld   TP, Richard   E, Vergouwen   MD, Nederkoorn   PJ, de Haan   RJ, Roos   YB, et al.   Blood pressure-lowering treatment for preventing recurrent stroke, major vascular events, and dementia in patients with a history of stroke or transient ischaemic attack. Cochrane Database Syst Rev  2018;7:CD007858. https://doi.org/10.1002/14651858.CD007858.pub2
@@ -5047,29 +5047,29 @@ Google ScholarPubMedWorldCat
 1009	Kronish   IM, Thorpe   CT, Voils   CI. Measuring the multiple domains of medication nonadherence: findings from a Delphi survey of adherence experts. Transl Behav Med  2021;11:104–13. https://doi.org/10.1093/tbm/ibz133
    
 1010	DiMatteo   MR. Social support and patient adherence to medical treatment: a meta-analysis. Health Psychol  2004;23:207–18. https://doi.org/10.1037/0278-6133.23.2.207
-Google ScholarCrossrefWorldCat 
+   
 1011	Houle   SK, Chatterley   T, Tsuyuki   RT. Multidisciplinary approaches to the management of high blood pressure. Curr Opin Cardiol  2014;29:344–53. https://doi.org/10.1097/hco.0000000000000071
-Google ScholarCrossrefWorldCat 
+   
 1012	Woodham   NS, Taneepanichskul   S, Somrongthong   R, Kitsanapun   A, Sompakdee   B. Effectiveness of a multidisciplinary approach intervention to improve blood pressure control among elderly hypertensive patients in rural Thailand: a quasi-experimental study. J Multidiscip Healthc  2020;13:571–80. https://doi.org/10.2147/jmdh.S254286
-Google ScholarCrossrefWorldCat 
+   
 1013	Mattei da Silva   ÂT, de Fátima Mantovani   M, Castanho Moreira   R, Perez Arthur   J, Molina de Souza   R. Nursing case management for people with hypertension in primary health care: a randomized controlled trial. Res Nurs Health  2020;43:68–78. https://doi.org/10.1002/nur.21994
-Google ScholarCrossrefWorldCat 
+   
 1014	He   J, Ouyang   N, Guo   X, Sun   G, Li   Z, Mu   J, et al.   Effectiveness of a non-physician community health-care provider-led intensive blood pressure intervention versus usual care on cardiovascular disease (CRHCP): an open-label, blinded-endpoint, cluster-randomised trial. Lancet  2023;401:928–38. https://doi.org/10.1016/s0140-6736(22)02603-4
-Google ScholarCrossrefWorldCat 
+   
 1015	Creegan   D, McEvoy   JW. Selected highlights in the updated treatment of hypertension. Trends Cardiovasc Med  https://doi.org/10.1016/j.tcm.2023.11.001
 WorldCat 
 1016	Jaffe   MG, Lee   GA, Young   JD, Sidney   S, Go   AS. Improved blood pressure control associated with a large-scale hypertension program. JAMA  2013;310:699–705. https://doi.org/10.1001/jama.2013.108769
-Google ScholarCrossrefWorldCat 
+   
 1017	Hänsel   M, Steigmiller   K, Luft   AR, Gebhard   C, Held   U, Wegener   S, et al.   Neurovascular disease in Switzerland: 10-year trends show non-traditional risk factors on the rise and higher exposure in women. Eur J Neurol  2022;29:2851–60. https://doi.org/10.1111/ene.15434
-Google ScholarCrossrefWorldCat 
+   
 1018	de Ruiter   SC, Schmidt   AF, Grobbee   DE, den Ruijter   HM, Peters   SAE. Sex-specific Mendelian randomisation to assess the causality of sex differences in the effects of risk factors and treatment: spotlight on hypertension. J Hum Hypertens  2023;37:602–8. https://doi.org/10.1038/s41371-023-00821-1
-Google ScholarCrossrefWorldCat 
+   
 1019	Chapman   N, Ching   SM, Konradi   AO, Nuyt   AM, Khan   T, Twumasi-Ankrah   B, et al.   Arterial hypertension in women: state of the art and knowledge gaps. Hypertension  2023;80:1140–9. https://doi.org/10.1161/hypertensionaha.122.20448
-Google ScholarCrossrefWorldCat 
+   
 1020	Tamargo   J, Caballero   R, Mosquera   ED. Sex and gender differences in the treatment of arterial hypertension. Expert Rev Clin Pharmacol  2023;16:329–47. https://doi.org/10.1080/17512433.2023.2189585
-Google ScholarCrossrefWorldCat 
+   
 1021	Olsen   MH, Angell   SY, Asma   S, Boutouyrie   P, Burger   D, Chirinos   JA, et al.   A call to action and a lifecourse strategy to address the global burden of raised blood pressure on current and future generations: the Lancet Commission on hypertension. Lancet  2016;388:2665–712. https://doi.org/10.1016/s0140-6736(16)31134-5
-Google ScholarCrossrefWorldCat 
+   
 
 ## Author notes
 
