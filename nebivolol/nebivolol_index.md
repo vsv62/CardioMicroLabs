@@ -1,8 +1,8 @@
 1
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка аналитической метрики экологичности для экологически чистого метода, разработанного путем интеграции зеленой химии и проектирования качества для одновременного определения **небиволола** гидрохлорида, телмисартана, валсартана и амлодипина бесилата.](https://pubmed.ncbi.nlm.nih.gov/39220975/)
 
@@ -12,17 +12,17 @@
 
 Метод высокоэффективной жидкостной хроматографии (ВЭЖХ) был успешно разработан и проверен для одновременного определения **Neb** …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  2
 
-Цитировать
 
-Делиться
+
+
 
 [Повторное использование одобренных FDA препаратов в качестве ингибиторов FtsZ против _Mycobacterium tuberculosis_ : исследование in silico и in vitro.](https://pubmed.ncbi.nlm.nih.gov/39203348/)
 
@@ -36,17 +36,17 @@
 
 …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  3
 
-Цитировать
 
-Делиться
+
+
 
 [**Гель In Situ с полимерными наночастицами небиволола** для эффективного лечения глаукомы: оптимизация, физико-химическая характеристика, фармакокинетическая и фармакодинамическая оценка.](https://pubmed.ncbi.nlm.nih.gov/39195385/)
 
@@ -56,17 +56,17 @@
 
 **Небиволола** гидрохлорид (NEB), бета-блокатор 3-го поколения, недавно был исследован для лечения открытоугольной глаукомы из-за его механизма …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  4
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** улучшает дисфункцию почек, вызванную сепсисом, воздействуя на окислительный стресс и путь TGF-бета/Smad/p53.](https://pubmed.ncbi.nlm.nih.gov/38926458/)
 
@@ -76,17 +76,17 @@
 
 В этом исследовании впервые была предпринята попытка изучить возможное улучшающее действие **небиволола** , бета1-адреноблокатора,…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  5
 
-Цитировать
 
-Делиться
+
+
 
 [Объединение контролируемых и неконтролируемых анализов для количественной оценки поведенческих фенотипов и подтверждения терапевтической эффективности в модели болезни Альцгеймера на трех трансгенных мышах.](https://pubmed.ncbi.nlm.nih.gov/38895269/)
 
@@ -96,17 +96,17 @@
 
 Благодаря поведенческому фенотипированию, сочетающему как контролируемые, так и неконтролируемые методы поведенческой классификации, мы можем подтвердить предварительные …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  6
 
-Цитировать
 
-Делиться
+
+
 
 [Токсикологический анализ 35 препаратов в образцах посмертной крови человека с акцентом на антигипертензивные и антиаритмические препараты.](https://pubmed.ncbi.nlm.nih.gov/38878710/)
 
@@ -116,17 +116,17 @@
 
 Таким образом, был разработан и проверен новый аналитический метод для количественной оценки 35 препаратов, имеющих токсикологическое значение, включая…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  7
 
-Цитировать
 
-Делиться
+
+
 
 [Разработка пероральных таблеток **небиволола** с улучшенными свойствами растворения на основе его комбинаций с циклодекстринами.](https://pubmed.ncbi.nlm.nih.gov/38794295/)
 
@@ -136,17 +136,17 @@
 
 Новые таблетки **небиволола** для перорального применения были разработаны с целью улучшения его низкой растворимости/растворимости путем комплексообразования с циклодекстрином (ЦД) …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  8
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние на продолжительность жизни самцов мышей UM-HET3, получавших тиосульфат натрия, 16-гидроксиэстриол и поздний старт канаглифлозина.](https://pubmed.ncbi.nlm.nih.gov/38753230/)
 
@@ -156,17 +156,17 @@
 
 Генетически гетерогенные мыши UM-HET3, родившиеся в 2020 году, использовались для проверки возможных эффектов альфа-кетоглутарата (AKG), 2,4-динитрофа … на продолжительность жизни.
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  9
 
-Цитировать
 
-Делиться
+
+
 
 [Отношение врачей к бета-блокаторам для лечения гипертонии в Италии, Польше и Турции.](https://pubmed.ncbi.nlm.nih.gov/38750668/)
 
@@ -176,17 +176,17 @@
 
 Результаты исследования показывают, что бета-блокаторы по-прежнему играют ключевую роль в лечении гипертонии и чаще назначаются пациентам …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  10
 
-Цитировать
 
-Делиться
+
+
 
 [Замужем за кардиостимулятором: автобиографический отчет о синдроме слабости синусового узла.](https://pubmed.ncbi.nlm.nih.gov/38738068/)
 
@@ -196,17 +196,17 @@
 
 Я, автор этого отчета о случае, принимал бета-блокаторы, сначала атенолол, а затем **небиволол** , по поводу моей «системной гипертонии» il…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  11
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** .](https://pubmed.ncbi.nlm.nih.gov/31869063/)
 
@@ -216,17 +216,17 @@
 
 Эта деятельность фокусируется на **небивололе** , мощном лекарстве, используемом для лечения гипертонии. Подробное обсуждение двойного действия **небиволола** …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  12
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** , антигипертензивный препарат, нашел новое применение в подавлении меланомы.](https://pubmed.ncbi.nlm.nih.gov/38602174/)
 
@@ -236,17 +236,17 @@
 
 In this study, we explored the effect of **nebivolol** on cell proliferation and cell activity in melanoma in vitro and the potential ant …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  13
 
-Цитировать
 
-Делиться
+
+
 
 [Наночастицы пектина, нагруженные препаратом-донором оксида азота: потенциальный подход к регенерации тканей.](https://pubmed.ncbi.nlm.nih.gov/38585344/)
 
@@ -256,17 +256,17 @@ Item in Clipboard
 
 This study investigates the impact of pectin, a natural polysaccharide, and **nebivolol** hydrochloride (NBV), a nitric oxide (NO) donor …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  14
 
-Цитировать
 
-Делиться
+
+
 
 [Экспрессия β1-адренорецепторов на ГАМКергических интернейронах в дорсолатеральной префронтальной коре приматов: потенциальная роль в когнитивной дисфункции, вызванной стрессом.](https://pubmed.ncbi.nlm.nih.gov/38550854/)
 
@@ -276,17 +276,17 @@ Item in Clipboard
 
 This loss of overall firing likely contributes to impaired working memory during stress, as pretreatment with the selective beta1-AR antagon …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  15
 
-Цитировать
 
-Делиться
+
+
 
 [Модуляция ФНО-альфа, интерлейкина-6 и интерлейкина-10 при политерапии **небивололом** -валсартаном и **небивололом** -лизиноприлом у крыс SHR.](https://pubmed.ncbi.nlm.nih.gov/38504425/)
 
@@ -296,17 +296,17 @@ Item in Clipboard
 
 In this study, spontaneously hypertensive rats (SHR) were divided into seven groups (n = 6): (i) SHR + vehicle, (ii) SHR + **nebivolol**, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  16
 
-Цитировать
 
-Делиться
+
+
 
 [Выявление новых модуляторов арильных углеводородных рецепторов (AhR) среди клинически одобренных препаратов: скрининг in silico и валидация in vitro.](https://pubmed.ncbi.nlm.nih.gov/38499054/)
 
@@ -316,17 +316,17 @@ Item in Clipboard
 
 This included flibanserin, butoconazole, luliconazole, naftifine, triclabendazole, rosiglitazone, empagliflozin, benperidol, **nebivolol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  17
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние терапии **небивололом** на гемодинамические параметры и липидный профиль по сравнению с другими бета-блокаторами у пациентов с эссенциальной гипертонией: систематический обзор и метаанализ.](https://pubmed.ncbi.nlm.nih.gov/38463918/)
 
@@ -336,17 +336,17 @@ Item in Clipboard
 
 In this study, we aimed to evaluate **Nebivolol**'s effectiveness and safety in comparison to other beta blockers. ...This review does no …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  18
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнительный анализ безопасности оригинального и дженерического **небиволола** : исследование фармаконадзора в реальных условиях на основе системы отчетности о нежелательных явлениях FDA.](https://pubmed.ncbi.nlm.nih.gov/38357307/)
 
@@ -356,17 +356,17 @@ Item in Clipboard
 
 Current literature indicates disparities between the generic **nebivolol** (GN) and the brand **nebivolol** (BN). Aim: The study is de …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  19
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** защищает печень от окислительного стресса, вызванного липополисахаридом, воспаления и апоптоза, связанного с эндоплазматическим ретикулумом, посредством сигналов Chop и Bip/GRP78.](https://pubmed.ncbi.nlm.nih.gov/38353687/)
 
@@ -376,17 +376,17 @@ Item in Clipboard
 
 This study aimed to examine the protective role of **nebivolol** (NEB) on liver tissue against the lipopolysaccharide (LPS)-induced sepsi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  20
 
-Цитировать
 
-Делиться
+
+
 
 [Разработка, оптимизация и оценка глазного геля, содержащего сверхдеформируемые спанпластиковые нановезикулы, загруженные **небивололом Hcl: исследования in vitro и in vivo.**](https://pubmed.ncbi.nlm.nih.gov/38317829/)
 
@@ -396,33 +396,33 @@ Item in Clipboard
 
 The study aims to improve the ocular delivery of **Nebivolol** HCL (NBV) belonging to the Biopharmaceutics classification system (BCSII) …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  21
 
-Цитировать
 
-Делиться
+
+
 
 [Терапия бета-блокаторами при сердечной недостаточности с сохраненной фракцией выброса (B-HFpEF): систематический обзор и метаанализ.](https://pubmed.ncbi.nlm.nih.gov/38184132/)
 
 Каддура Р., Мадурасингхе В., Чапра А., Абушанаб Д., Аль-Бадрие Д., Патель А. Kaddoura R, et al. Curr Probl Cardiol. 2024 Mar;49(3):102376. doi: 10.1016/j.cpcardiol.2024.102376. Epub 2024 Jan 5. Curr Probl Cardiol. 2024. PMID: 38184132 Бесплатная статья. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  22
 
-Цитировать
 
-Делиться
+
+
 
 [Улучшение эффекта **небиволола** при кардиотоксичности, вызванной доксорубицином.](https://pubmed.ncbi.nlm.nih.gov/38107721/)
 
@@ -432,17 +432,17 @@ Item in Clipboard
 
 The doxorubicin group (the "induced group") received doxorubicin at a dosage of 2.5 mg/kg three times per week for two weeks. The **nebivol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  23
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение защитных эффектов **небиволола** и метопролола против ЛПС-индуцированного повреждения кардиомиобластов H9c2.](https://pubmed.ncbi.nlm.nih.gov/37998760/)
 
@@ -452,17 +452,17 @@ Item in Clipboard
 
 Here, we, for the first time, compared the cardioprotective effects of third-generation vasodilating beta-blocker **nebivolol** (Neb) and …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  24
 
-Цитировать
 
-Делиться
+
+
 
 [Взаимосвязь между гипертонией, антигипертензивными препаратами и сексуальной дисфункцией у мужчин и женщин: обзор литературы.](https://pubmed.ncbi.nlm.nih.gov/37941540/)
 
@@ -472,17 +472,17 @@ Item in Clipboard
 
 Furthermore, antihypertensive drugs can negatively impact sexual function, which can decrease adherence to drug treatment. However, **nebiv** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  25
 
-Цитировать
 
-Делиться
+
+
 
 [Защитное действие **небиволола** на яичники крыс, подвергшиеся токсичному воздействию дельтаметрина.](https://pubmed.ncbi.nlm.nih.gov/37878988/)
 
@@ -492,17 +492,17 @@ Item in Clipboard
 
 After the sixth day, deltamethrin (0.5 mL of 30 mg/kg BW undiluted ULV), and 2 mL of sterile **nebivolol** solution were administered int …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  26
 
-Цитировать
 
-Делиться
+
+
 
 [Терапевтические эффекты комбинации **небиволола** и донепезила: воздействие на многофакторные механизмы при БАС.](https://pubmed.ncbi.nlm.nih.gov/37782409/)
 
@@ -512,17 +512,17 @@ Item in Clipboard
 
 Using data analysis based on the genetic information of patients with ALS-derived cells and pharmacogenomic data of the drugs, a combination …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  27
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние бета-блокатора карведилола на аритмию и долгосрочные клинические результаты у пациентов с доброкачественной гипертрофией предстательной железы.](https://pubmed.ncbi.nlm.nih.gov/37682158/)
 
@@ -532,17 +532,17 @@ Item in Clipboard
 
 Among 448 patients with BPH (69.2 10.9 years) taking BBs, 219 patients took carvedilol (48.9%) and 229 patients took a non-carvedilol BB (51 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  28
 
-Цитировать
 
-Делиться
+
+
 
 [Антигипертензивная эффективность **небиволола** и низких доз спиронолактона у пациентов с резистентной гипертонией.](https://pubmed.ncbi.nlm.nih.gov/37671517/)
 
@@ -552,17 +552,17 @@ Item in Clipboard
 
 RESULTS: Office systolic blood pressure and diastolic blood pressure in 24-hour ambulatory blood pressure monitoring were significantly lowe …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  29
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнительное влияние **небиволола** и карведилола на диастолическую функцию левого желудочка у пожилых пациентов с сердечной недостаточностью и сохраненной фракцией выброса.](https://pubmed.ncbi.nlm.nih.gov/37575339/)
 
@@ -572,17 +572,17 @@ Item in Clipboard
 
 **Nebivolol** is known to be effective for improving diastolic function of elderly patients with HF. ...This study showed no superiority …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  30
 
-Цитировать
 
-Делиться
+
+
 
 [Фактор сплайсинга TRA2A способствует прогрессированию рака пищевода посредством неканонической роли в метилировании lncRNA m <sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6</font></font></sup> A.](https://pubmed.ncbi.nlm.nih.gov/37317053/)
 
@@ -592,17 +592,17 @@ Item in Clipboard
 
 Structural similarity-based virtual screening in FDA-approved drugs repurposed **nebivolol**, a beta(1) -adrenergic receptor antagonist, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  31
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакотерапия сердечной недостаточности AD 2023. Экспертное мнение Рабочей группы по сердечно-сосудистой фармакотерапии Польского кардиологического общества.](https://pubmed.ncbi.nlm.nih.gov/37179465/)
 
@@ -612,17 +612,17 @@ Item in Clipboard
 
 Treatment aimed at reducing mortality and hospitalization should include drugs blocking the renin-angiotensin-aldosterone system, preferably …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  32
 
-Цитировать
 
-Делиться
+
+
 
 [Малая молекула ACM-001 улучшает сердечную функцию в модели крысы с тяжелой раковой кахексией.](https://pubmed.ncbi.nlm.nih.gov/36999379/)
 
@@ -632,17 +632,17 @@ Item in Clipboard
 
 Here, we investigated the effects of ACM-001 (0.3 or 3 mg/kg/day) in comparison to carvedilol (3 or 30 mg/kg/day), metropolol (50 or 100 mg/ …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  33
 
-Цитировать
 
-Делиться
+
+
 
 [Блокада ss-адренорецепторов **небивололом** обеспечивает потенциал контроля опухоли при увеальной меланоме в трехмерных опухолевых сфероидах и двухмерных культурах.](https://pubmed.ncbi.nlm.nih.gov/36982966/)
 
@@ -652,17 +652,17 @@ Item in Clipboard
 
 Mechanistically, **nebivolol** induced ATP depletion and caspase-3/7 activity, indicating that mitochondria-dependent signaling is involv …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  34
 
-Цитировать
 
-Делиться
+
+
 
 [Молекулярный стыковочный и динамический анализ нуклеопротеина штамма Багдад-12 вируса геморрагической лихорадки Крым-Конго с препаратами, одобренными FDA.](https://pubmed.ncbi.nlm.nih.gov/36945218/)
 
@@ -672,17 +672,17 @@ Item in Clipboard
 
 Therefore, it is of interest to screen FDA approved drugs against the nucleoprotein crystal of Crimea-Congo hemorrhagic fever virus strain B …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  35
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** снижает резистентность эндотелия сосудов к инсулину путем ингибирования стресса эндоплазматического ретикулума.](https://pubmed.ncbi.nlm.nih.gov/36927931/)
 
@@ -692,17 +692,17 @@ Item in Clipboard
 
 Rats were divided into Wistar, Wistar + Neb (Wistar rats treated with **nebivolol**, 10 mg/kg, ig), GK, and GK + Neb (GK rats treated wit …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  36
 
-Цитировать
 
-Делиться
+
+
 
 [Энантиоразделение, количественное определение, молекулярная стыковка и исследование молекулярной динамики пяти β-адреноблокаторов на колонке Lux-Cellulose-2.](https://pubmed.ncbi.nlm.nih.gov/36927568/)
 
@@ -712,17 +712,17 @@ Item in Clipboard
 
 A mixture of n-hexane: ethanol: diethyl amine 75: 25: 0.1 by volume was used as the second mobile phase to separate the four pairs of enanti …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  37
 
-Цитировать
 
-Делиться
+
+
 
 [Бета1-адреноблокатор **небиволол** смягчает развитие острого эндотоксического повреждения легких.](https://pubmed.ncbi.nlm.nih.gov/36902508/)
 
@@ -732,17 +732,17 @@ Item in Clipboard
 
 Formations of excessive inflammation and oxidative stress are responsible for the pathophysiology of ALI. **Nebivolol** (NBL), a third-ge …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  38
 
-Цитировать
 
-Делиться
+
+
 
 [Зелёная флуориметрическая стратегия для одновременного определения антигипертензивного препарата телмисартан (предполагаемое терапевтическое средство для лечения COVID-19) с **небивололом** в плазме человека.](https://pubmed.ncbi.nlm.nih.gov/36864220/)
 
@@ -752,17 +752,17 @@ Item in Clipboard
 
 Telmisartan (TEL) and **Nebivolol** (NEB) are frequently co-formulated in a single dosage form that is frequently prescribed for the trea …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  39
 
-Цитировать
 
-Делиться
+
+
 
 [Разработка, характеристика и фармакокинетическая-фармакодинамическая оценка двухкомпонентного in situ геля **небиволола** на основе полоксамера и каппа-каррагинана для лечения открытоугольной глаукомы.](https://pubmed.ncbi.nlm.nih.gov/36839727/)
 
@@ -772,17 +772,17 @@ Item in Clipboard
 
 This study developed a dual-responsive in situ gel of **nebivolol** (NEB), a selective beta-adrenergic antagonist. The gel could achieve …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  40
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность и безопасность кардиопротекторных препаратов при кардиотоксичности, вызванной химиотерапией: обновленный систематический обзор и сетевой метаанализ.](https://pubmed.ncbi.nlm.nih.gov/36804940/)
 
@@ -792,17 +792,17 @@ Item in Clipboard
 
 Compared to control groups, spironolactone therapy was associated with the greatest LVEF improvement (Mean difference (MD) = 12.80, \[7.90; 1 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  41
 
-Цитировать
 
-Делиться
+
+
 
 [Селективные бета-1-блокаторы.](https://pubmed.ncbi.nlm.nih.gov/29763157/)
 
@@ -812,17 +812,17 @@ Item in Clipboard
 
 The cardio-selective beta-1-blockers include atenolol, betaxolol, bisoprolol, esmolol, acebutolol, metoprolol, and **nebivolol**. FDA-app …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  42
 
-Цитировать
 
-Делиться
+
+
 
 [Бета-блокаторы для первичной профилактики кардиотоксичности, вызванной антрациклинами: обновленный метаанализ рандомизированных клинических испытаний.](https://pubmed.ncbi.nlm.nih.gov/36687509/)
 
@@ -832,17 +832,17 @@ Item in Clipboard
 
 Carvedilol was administered in eight studies, and others used bisoprolol, metoprolol, or **nebivolol**. Compared with baseline, LVEF redu …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  43
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** : эффективное средство против длительной одышки после пневмонии COVID-19 — ключевое двойное слепое перекрестно-контролируемое исследование.](https://pubmed.ncbi.nlm.nih.gov/36636645/)
 
@@ -852,17 +852,17 @@ Item in Clipboard
 
 Data were collected before and one week after both placebo (P) and **nebivolol** (N) (2.5 mg od) double-blind cross-over administered at …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  44
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность и безопасность четырех различных бета-блокаторов у пациентов с хронической сердечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/36628295/)
 
@@ -872,17 +872,17 @@ Item in Clipboard
 
 In this study, we evaluated the effectiveness and safety of bisoprolol, metoprolol, carvedilol, and **nebivolol** in the treatment of chr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  45
 
-Цитировать
 
-Делиться
+
+
 
 [Скрининг препаратов GPCR для повторного использования при раке молочной железы.](https://pubmed.ncbi.nlm.nih.gov/36561339/)
 
@@ -892,33 +892,33 @@ Item in Clipboard
 
 The effects of **nebivolol** were validated in an independent assay in all the cell line models. ...**Nebivolol** reduced invasion and …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  46
 
-Цитировать
 
-Делиться
+
+
 
 [Редакционная статья: Стратегии улучшения управления гипертонией.](https://pubmed.ncbi.nlm.nih.gov/36388886/)
 
 Марваха К., Моди Ф.В., Басу-Рэй И., Норрис К.С. Marwaha K, et al. Front Med (Лозанна). 28 октября 2022 г.;9:1011957. doi: 10.3389/fmed.2022.1011957. eCollection 2022. Front Med (Lausanne). 2022. PMID: 36388886 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  47
 
-Цитировать
 
-Делиться
+
+
 
 [Безопасность и переносимость **небиволола** у пациентов с гипертонией, ишемической болезнью сердца и фракцией выброса левого желудочка 40%: популяционное когортное исследование ( исследование **небиволола** -TR).](https://pubmed.ncbi.nlm.nih.gov/36317659/)
 
@@ -928,17 +928,17 @@ Item in Clipboard
 
 BACKGROUND: This study aimed to assess the safety and tolerability of **nebivolol** in hypertensive patients with coronary artery disease …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  48
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** как мощный блокатор каналов TRPM8: подход к скринингу лекарственных средств с помощью автоматизированного патч-фиксатора и виртуального скрининга на основе лигандов.](https://pubmed.ncbi.nlm.nih.gov/36295712/)
 
@@ -948,17 +948,17 @@ Item in Clipboard
 
 The aim of this study was to discover novel blocking TRPM8 agents using automated patch clamp electrophysiology combined with a ligand-based …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  49
 
-Цитировать
 
-Делиться
+
+
 
 [Новые данные по **небивололу** после исследования фармакокинетики in silico: фокус на молодых пациентах и режиме дозировки.](https://pubmed.ncbi.nlm.nih.gov/36145659/)
 
@@ -968,17 +968,17 @@ Item in Clipboard
 
 **Nebivolol** (NEB) is a highly selective beta1 receptor antagonist with a distinct pharmacological profile. ...
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  50
 
-Цитировать
 
-Делиться
+
+
 
 [Метопролол подавляет биосинтез стеролов в мозге у мышей.](https://pubmed.ncbi.nlm.nih.gov/36139049/)
 
@@ -988,17 +988,17 @@ Item in Clipboard
 
 Using LC-MS/MS, we investigated the effects of six commonly used beta-blockers on brain sterol biosynthesis in vitro using cell lines. Two b …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  51
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение нейропротекторного действия телмисартана, периндоприла и **небиволола** против повреждения нейроноподобных клеток, вызванного липополисахаридом.](https://pubmed.ncbi.nlm.nih.gov/36051740/)
 
@@ -1008,17 +1008,17 @@ Item in Clipboard
 
 Telmisartan demonstrated the highest cell viability against LPS-induced injury, whereas the protective effect of perindopril was moderate. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  52
 
-Цитировать
 
-Делиться
+
+
 
 [Профилактическое использование бета-блокаторов при кардиотоксичности, вызванной антрациклинами: сетевой метаанализ.](https://pubmed.ncbi.nlm.nih.gov/36035937/)
 
@@ -1028,17 +1028,17 @@ Item in Clipboard
 
 NMA results showed that carvedilol was superior to bisoprolol \[SMD = -0.50, 95% CI (-0.91, -0.10)\] and **nebivolol** \[SMD = -1.46, 95%CI …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  53
 
-Цитировать
 
-Делиться
+
+
 
 [Лечение бета-блокатором **небивололом** уменьшает окислительный стресс и эндотелиальную дисфункцию при нефротоксичности, вызванной тенофовиром у крыс.](https://pubmed.ncbi.nlm.nih.gov/35991671/)
 
@@ -1048,17 +1048,17 @@ Item in Clipboard
 
 We aimed to investigate whether **nebivolol** could be an effective therapeutic strategy to mitigate tenofovir-induced nephrotoxicity. .. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  54
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** вызывает нейропротекторный эффект в купризоновой модели рассеянного склероза у мышей: акцент на поляризации M1/M2 и ингибировании активации инфламмасомы NLRP3.](https://pubmed.ncbi.nlm.nih.gov/35948811/)
 
@@ -1068,17 +1068,17 @@ Item in Clipboard
 
 Microgliosis-derived neuroinflammation represents a key hallmark in MS pathology and progression. **Nebivolol** (Neb) demonstrated antiox …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  55
 
-Цитировать
 
-Делиться
+
+
 
 [Анализ волос на бета-блокаторы и блокаторы кальциевых каналов с использованием жидкостной хроматографии и тандемной масс-спектрометрии в качестве инструмента для контроля соблюдения антигипертензивной терапии.](https://pubmed.ncbi.nlm.nih.gov/35855505/)
 
@@ -1088,17 +1088,17 @@ Item in Clipboard
 
 In the present study, a simple, specific, and sensitive ultra-high performance liquid-chromatography-tandem mass spectrometry (UHPLC-MS/MS) …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  56
 
-Цитировать
 
-Делиться
+
+
 
 [Лечение эндотелиальной дисфункции при COVID-19 с помощью статинов, бета-блокаторов, никорандила и пероральных добавок: пилотное двойное слепое плацебо-контролируемое рандомизированное клиническое исследование.](https://pubmed.ncbi.nlm.nih.gov/35808843/)
 
@@ -1108,17 +1108,17 @@ Item in Clipboard
 
 In this pilot, double-blind, placebo-controlled, randomized clinical trial, we assigned patients who were admitted to the hospital with mild …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  57
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование eNOS частично снижает благоприятное воздействие **небиволола** на сигнализацию, индуцированную ангиотензином II в кардиомиобластах H9c2.](https://pubmed.ncbi.nlm.nih.gov/35678673/)
 
@@ -1128,17 +1128,17 @@ Item in Clipboard
 
 Our data reveal that the **nebivolol**\-mediated antagonistic effects on Ang II-induced oxidative stress were retreated by concurrent pret …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  58
 
-Цитировать
 
-Делиться
+
+
 
 [β-Блокаторы, содержащие гидроксиэтиламин и гидроксиэтилен, как потенциальные ингибиторы Mpro SARS-CoV-2: рациональный дизайн, исследования _in silico_ , _in vitro_ и SAR для оптимизации свинца.](https://pubmed.ncbi.nlm.nih.gov/35493159/)
 
@@ -1148,17 +1148,17 @@ Item in Clipboard
 
 Results showed promising inhibitory activities especially for Carvedilol (CAR) and **Nebivolol** (NEB) members. Moreover, these two drugs …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  59
 
-Цитировать
 
-Делиться
+
+
 
 [Новое использование одобренных FDA препаратов, выявленное с помощью кластерного анализа поведенческих профилей.](https://pubmed.ncbi.nlm.nih.gov/35449173/)
 
@@ -1168,17 +1168,17 @@ Item in Clipboard
 
 The calcineurin inhibitors form a functional cluster with seemingly unrelated drugs, including bromocriptine, tetrabenazine, rosiglitazone, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  60
 
-Цитировать
 
-Делиться
+
+
 
 [Характеристика механизма, посредством которого бессмысленный вариант в RYR2 приводит к нарушению обмена кальция.](https://pubmed.ncbi.nlm.nih.gov/35439358/)
 
@@ -1188,17 +1188,17 @@ RYR2-hiPSC-CMs показали значительные аномалии обр
 
 RYR2-hiPSC-CMs displayed significant calcium handling abnormalities at baseline and following treatment with isoproterenol. Treatment with c …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  61
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние антигипертензивных препаратов на НАДН при впервые диагностированной первичной гипертонии.](https://pubmed.ncbi.nlm.nih.gov/35402043/)
 
@@ -1208,17 +1208,17 @@ Item in Clipboard
 
 After the 6-week treatment, all drugs similarly reduced blood pressure. Neither amlodipine, perindopril, nor **nebivolol** changed the fl …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  62
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка гепатопротекторного действия **небиволола** и натриевой соли хлорофиллина на гепатотоксичность, вызванную CCL4, у мышей.](https://pubmed.ncbi.nlm.nih.gov/35302221/)
 
@@ -1228,17 +1228,17 @@ Item in Clipboard
 
 OBJECTIVE: In this study, the protective effect of sodium copper chlorophyllin and **nebivolol** was evaluated in a mice model of CCL4 in …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  63
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние комбинированной терапии амлодипином/ **небивололом** на центральное АД и СПВ по сравнению с комбинированной терапией амлодипином/валсартаном.](https://pubmed.ncbi.nlm.nih.gov/35286492/)
 
@@ -1248,17 +1248,17 @@ Item in Clipboard
 
 One hundred and two hypertensive patients were assigned for Amlodipine 10 mg/Valsartan 160 mg combination therapy (A/V, n = 52) or Amlodipin …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  64
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** увеличивает синтез оксида азота через бета(3) адренорецепторы в эндотелиальных клетках после воздействия плазмы пациентов с преэклампсией.](https://pubmed.ncbi.nlm.nih.gov/35269505/)
 
@@ -1268,17 +1268,17 @@ Item in Clipboard
 
 Background: Low bioavailability of nitric oxide (NO) is related to the pathophysiology of preeclampsia (PE). In the present study, we invest …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  65
 
-Цитировать
 
-Делиться
+
+
 
 [Защитный эффект **небиволола** против окислительного стресса, вызванного аристолоховыми кислотами в эндотелиальных клетках.](https://pubmed.ncbi.nlm.nih.gov/35202159/)
 
@@ -1288,17 +1288,17 @@ Item in Clipboard
 
 As we previously observed the overproduction of reactive oxygen species (ROS) by cultured endothelial cells exposed to AA, we here investiga …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  66
 
-Цитировать
 
-Делиться
+
+
 
 [Данные о **влиянии небиволола** на параметры окислительного стресса у больных гипертонической болезнью.](https://pubmed.ncbi.nlm.nih.gov/35198688/)
 
@@ -1308,17 +1308,17 @@ Item in Clipboard
 
 The use of **Nebivolol** in different periods of treatment demonstrated that it is an efficient anti-hypertensive drug. We evaluated the …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  67
 
-Цитировать
 
-Делиться
+
+
 
 [Идентификация нового метаболита **небиволола** с использованием жидкостной хроматографии в сочетании с масс-спектрометрией высокого разрешения и хемометрией.](https://pubmed.ncbi.nlm.nih.gov/35164027/)
 
@@ -1328,17 +1328,17 @@ Item in Clipboard
 
 In this study, the phase I hepatic metabolism pathway of a cardiovascular drug **nebivolol** was proposed on the basis of a human liver m …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  68
 
-Цитировать
 
-Делиться
+
+
 
 [Неинвазивный метод обнаружения антигипертензивных препаратов в биологических жидкостях: терапевтический мониторинг лекарственных препаратов по слюне.](https://pubmed.ncbi.nlm.nih.gov/35069191/)
 
@@ -1348,17 +1348,17 @@ Item in Clipboard
 
 Methods: Fourteen antihypertensive drugs and two metabolites were simultaneously tested in plasma, urine, and saliva. Tested molecules inclu …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  69
 
-Цитировать
 
-Делиться
+
+
 
 [Приготовление антигипертензивных препаратов в биологической матрице с экстракцией фронтального положения растворителя для анализа ЖХ-МС/МС.](https://pubmed.ncbi.nlm.nih.gov/35011437/)
 
@@ -1368,17 +1368,17 @@ Item in Clipboard
 
 Solvent front position extraction procedure was used to prepare biological samples containing selected antihypertensive drugs (ramipril, ler …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  70
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение методов деления таблеток для точности дозирования таблеток **небиволола** : ручное деление по сравнению с таблеточным резаком и ножом.](https://pubmed.ncbi.nlm.nih.gov/35002386/)
 
@@ -1388,17 +1388,17 @@ Item in Clipboard
 
 However, data on the accuracy of tablet splitting are limited and it presents a number of patient or formulation-related problems. Thirty …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  71
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование матричной металлопротеиназы-2 при остром ишемически-реперфузионном повреждении сердца. Кардиопротекторные свойства карведилола.](https://pubmed.ncbi.nlm.nih.gov/34959676/)
 
@@ -1408,17 +1408,17 @@ Item in Clipboard
 
 Matrix metalloproteinase 2 (MMP-2) is activated in hearts upon ischemia-reperfusion (IR) injury and cleaves sarcomeric proteins. It was show …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  72
 
-Цитировать
 
-Делиться
+
+
 
 [FBXL2 противодействует Grp94, дестабилизируя EGFR и подавляя рост НМРЛ, обусловленный EGFR.](https://pubmed.ncbi.nlm.nih.gov/34635651/)
 
@@ -1428,17 +1428,17 @@ Item in Clipboard
 
 Furthermore, we show that glucose-regulated protein 94 (Grp94) protects EGFR from degradation via blockage of FBXL2 binding to EGFR. Moreove …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  73
 
-Цитировать
 
-Делиться
+
+
 
 [Адренергическая блокада **небивололом** подавляет рост плоскоклеточной карциномы полости рта посредством стресса эндоплазматического ретикулума и дисфункции митохондрий.](https://pubmed.ncbi.nlm.nih.gov/34456721/)
 
@@ -1448,17 +1448,17 @@ Item in Clipboard
 
 We demonstrated that using 6OHDA chemical denervation as well as using **nebivolol** adrenergic blockade could halt the oral mucosa carci …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  74
 
-Цитировать
 
-Делиться
+
+
 
 [Норадреналин модулирует катаболический ответ хондроцитов человека, вызванный ИЛ-1β.](https://pubmed.ncbi.nlm.nih.gov/34425806/)
 
@@ -1468,17 +1468,17 @@ Item in Clipboard
 
 The activity of beta-ARs was modulated by an agonist, norepinephrine (NE), and antagonists, including propranolol, atenolol, **nebivolol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  75
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение влияния **небиволола** и бисопролола на сексуальную функцию женщин с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/34141506/)
 
@@ -1488,17 +1488,17 @@ Item in Clipboard
 
 Conclusion In this study, **nebivolol** group was associated with a significant improvement in sexual function. This can be due to additi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  76
 
-Цитировать
 
-Делиться
+
+
 
 [Сетевой транскриптомный анализ определяет генетическое влияние COVID-19 на пациентов с хронической болезнью почек: биоинформатический подход.](https://pubmed.ncbi.nlm.nih.gov/34127904/)
 
@@ -1508,17 +1508,17 @@ Item in Clipboard
 
 We investigated protein-drug interaction analysis and identified potential drugs namely, aspirin, estradiol, rapamycin, and **nebivolol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  77
 
-Цитировать
 
-Делиться
+
+
 
 [Терапевтические свойства высокоселективных бета-блокаторов с дополнительными сосудорасширяющими свойствами или без них: фокус на бисопролол и **небиволол** у пациентов с сердечно-сосудистыми заболеваниями.](https://pubmed.ncbi.nlm.nih.gov/34106365/)
 
@@ -1528,17 +1528,17 @@ Item in Clipboard
 
 **Nebivolol** has additional vasodilator actions, related to enhanced release of NO in the vascular wall. In principle, this additional m …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  78
 
-Цитировать
 
-Делиться
+
+
 
 [Исследование потенциала хитосомальных систем, нагруженных **небиволола гидрохлоридом, для регенерации тканей: характеристика in vitro и оценка in vivo.**](https://pubmed.ncbi.nlm.nih.gov/34064916/)
 
@@ -1548,33 +1548,33 @@ Item in Clipboard
 
 In this study, we evaluated the synergistic effect of **nebivolol** hydrochloride (NVH), a third-generation beta-blocker and NO donor dru …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  79
 
-Цитировать
 
-Делиться
+
+
 
 [Поправка: **Небиволол** ослабляет противосудорожное действие карбамазепина и фенобарбитала против максимальных судорог, вызванных электрошоком у мышей.](https://pubmed.ncbi.nlm.nih.gov/34047996/)
 
 Борович-Ройтт К.К., Банах М., Рудковска М. Borowicz-Reutt KK, et al. Pharmacol Rep. 2021 октябрь;73(5):1480. doi: 10.1007/s43440-021-00275-7. Pharmacol Rep. 2021. PMID: 34047996 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  80
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** .](https://pubmed.ncbi.nlm.nih.gov/30000861/)
 
@@ -1584,17 +1584,17 @@ Item in Clipboard
 
 Because no information is available on the use of **nebivolol** during breastfeeding, an alternate drug may be preferred, especially whil …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  81
 
-Цитировать
 
-Делиться
+
+
 
 [Применение β-адреноблокаторов у пациентов с сердечной недостаточностью и сопутствующими заболеваниями: сомнения, определенность и нерешенные вопросы.](https://pubmed.ncbi.nlm.nih.gov/33941435/)
 
@@ -1604,17 +1604,17 @@ Item in Clipboard
 
 In particular, we will discuss the role and most appropriate beta-blocker in patients with pulmonary disease (bisoprolol, metoprolol, **neb** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  82
 
-Цитировать
 
-Делиться
+
+
 
 [БИОХИМИЧЕСКИЕ МАРКЕРЫ ЭНДОТЕЛИАЛЬНОЙ ДИСФУНКЦИИ, ИХ ИЗМЕНЕНИЯ ПОД ВЛИЯНИЕМ ЛЕЧЕНИЯ РАЗЛИЧНЫМИ БЕТА-АДРЕНОБЛОКАТОРАМИ У МОЛОДЫХ МУЖЧИН С ИНФАРКТОМ МИОКАРДА.](https://pubmed.ncbi.nlm.nih.gov/33843624/)
 
@@ -1624,17 +1624,17 @@ Item in Clipboard
 
 PATIENTS AND METHODS: Materials and methods: 112 male patients of Caucasian race of the Ukrainian population under the age of 50 with MI. Gr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  83
 
-Цитировать
 
-Делиться
+
+
 
 [Выявление многоэффективных препаратов для терапии COVID-19 с оценкой их ингибирующей активности в отношении SARS-CoV2.](https://pubmed.ncbi.nlm.nih.gov/33841751/)
 
@@ -1644,33 +1644,33 @@ Item in Clipboard
 
 Interestingly, many of our predicted molecules viz. capreomycin, celecoxib, mefloquine, montelukast, and **nebivolol** showed good activi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  84
 
-Цитировать
 
-Делиться
+
+
 
 [Комплексная сравнительная эффективность и безопасность монотерапии β-блокаторами первой линии у пациентов с гипертонией: крупномасштабное многоцентровое наблюдательное исследование.](https://pubmed.ncbi.nlm.nih.gov/33775125/)
 
 Чан Ю С., Крумхольц Х.М., Сушард МА, Шуми М.Дж., Хрипчак Г., Чен Р., Ши С., Дьюк Дж., Пратт Н., Рейх К.Г., Мэдиган Д., Райан П.Б., Вунг Пак Р., Пак С. Chan You S, et al. Гипертония. 5 мая 2021 г.;77(5):1528-1538. doi: 10.1161/HYPERTENSIONAHA.120.16402. Epub 29 марта 2021 г. Hypertension. 2021. PMID: 33775125 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  85
 
-Цитировать
 
-Делиться
+
+
 
 [Комплексный геномный анализ SARS-CoV-2 выявляет потенциальные цели для повторного использования лекарственных препаратов.](https://pubmed.ncbi.nlm.nih.gov/33735271/)
 
@@ -1680,17 +1680,17 @@ Item in Clipboard
 
 Non-Structural Protein 10 (NSP10), Nucleoprotein, Papain-like protease (Plpro or NSP3) and 3-Chymotrypsin like protease (3CLpro or NSP5), wh …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  86
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность и безопасность **небиволола** у корейских пациентов с гипертонией в зависимости от возраста и пола: субанализ исследования BENEFIT-KOREA.](https://pubmed.ncbi.nlm.nih.gov/33722290/)
 
@@ -1700,17 +1700,17 @@ Item in Clipboard
 
 BACKGROUND: BENEFIT-KOREA (BEnefits after 24 weeks of **NEbivolol** administration For essential hypertensIon patients wiTh various comor …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  87
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на артериальное давление в офисе у чернокожих, проживающих в странах Африки к югу от Сахары (пилотное исследование).](https://pubmed.ncbi.nlm.nih.gov/33505995/)
 
@@ -1720,17 +1720,17 @@ Item in Clipboard
 
 We therefore decided to evaluate the efficacy and tolerability of highly selective beta-1 agent **nebivolol** in hypertensive Black patie …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  88
 
-Цитировать
 
-Делиться
+
+
 
 [Разработка, синтез, характеристика и in vitro, in vivo и in silico антимикробная и противовоспалительная активность новой серии производных сульфонамида и карбамата промежуточного продукта **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/35424332/)
 
@@ -1740,17 +1740,17 @@ Item in Clipboard
 
 A series of new sulphonamide and carbamate derivatives of **Nebivolol** drug intermediate (5) were designed and synthesized by reacting v …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  89
 
-Цитировать
 
-Делиться
+
+
 
 [Новая токолитическая стратегия: модуляция активности Cx43 путем _S_ -нитрозирования.](https://pubmed.ncbi.nlm.nih.gov/33384302/)
 
@@ -1760,17 +1760,17 @@ Item in Clipboard
 
 Pharmacologic inhibition of Cx43 with 18beta-glycyrrhetinic acid (18beta-GA) exhibits a negative inotropic effect on the myometrium in a dos …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  90
 
-Цитировать
 
-Делиться
+
+
 
 [Виртуальный и _in vitro_ противовирусный скрининг возрождает терапевтические препараты для лечения COVID-19.](https://pubmed.ncbi.nlm.nih.gov/33330842/)
 
@@ -1780,17 +1780,17 @@ Item in Clipboard
 
 The top-ranked drugs, based on structural similarity to HCQ, were selected for in vitro antiviral assessment. Among the selected drugs, both …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  91
 
-Цитировать
 
-Делиться
+
+
 
 [Применение бета-блокаторов у пациентов с сердечной недостаточностью: субанализ общенационального популяционного исследования в Чешской Республике.](https://pubmed.ncbi.nlm.nih.gov/33325457/)
 
@@ -1800,17 +1800,17 @@ Item in Clipboard
 
 Carvedilol was prescribed in 7 331 patients treated for HF (9.8%), **nebivolol** in 5 392 HF patients. Despite its primary indication, be …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  92
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** в сочетании с тетрагидробиоптерином влияет на диастолическую функцию у крыс со спонтанной гипертензией через сигнальный путь оксида азота/циклического гуанозинмонофосфата.](https://pubmed.ncbi.nlm.nih.gov/33267901/)
 
@@ -1820,17 +1820,17 @@ Item in Clipboard
 
 Tetrahydrobiopterin (BH4) is an essential cofactor for NO synthesis. **Nebivolol** can reduce myocardial oxidative stress and increase NO …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  93
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность и безопасность комбинированного лечения **небивололом** и розувастатином у пациентов с сопутствующей гипертонией и гиперлипидемией.](https://pubmed.ncbi.nlm.nih.gov/33235439/)
 
@@ -1840,17 +1840,17 @@ Item in Clipboard
 
 PURPOSE: We evaluated the efficacy and safety of **nebivolol** and rosuvastatin combination treatment in patients with hypertension and h …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  94
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность и безопасность **небиволола** у пациентов с гипертонией: метаанализ рандомизированных контролируемых исследований.](https://pubmed.ncbi.nlm.nih.gov/33081551/)
 
@@ -1860,17 +1860,17 @@ Item in Clipboard
 
 The incidence of AEs was lower in patients taking **nebivolol** compared with patients taking other second-generation beta blockers. ...T …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  95
 
-Цитировать
 
-Делиться
+
+
 
 [Гастропротекторное действие **небиволола** и симвастатина при язве желудка, вызванной стрессом от холодового ограничения, у крыс.](https://pubmed.ncbi.nlm.nih.gov/32993280/)
 
@@ -1880,17 +1880,17 @@ Item in Clipboard
 
 Gastric ulcer is one of the most serious diseases. **Nebivolol** (Neb), a beta1-blocker, exhibits vasodilator and anti-oxidative properti …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  96
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние карведилола по сравнению с **небивололом** на инсулинорезистентность у пациентов с недиабетической, неишемической кардиомиопатией и сердечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/32990863/)
 
@@ -1902,17 +1902,17 @@ Item in Clipboard
 
 RESULTS: Out of 43 patients enrolled, 58.1% represented the carvedilol group while 41.9% represented the **nebivolol** group. **Nebivolo** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  97
 
-Цитировать
 
-Делиться
+
+
 
 [Квазинеобратимое ингибирование CYP2D6 берберином.](https://pubmed.ncbi.nlm.nih.gov/32987920/)
 
@@ -1922,17 +1922,17 @@ Item in Clipboard
 
 Notably, TFD, but not DMB, exhibited metabolism-dependent CYP2D6 inhibition as in the case of BBR, which suggests that methylenedioxybenzene …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  98
 
-Цитировать
 
-Делиться
+
+
 
 [Нацеливание интерфейса взаимодействия Nsp12/Nsp8 SARS-CoV-2 с одобренными и исследуемыми препаратами: подход, основанный на структуре _in silico_ .](https://pubmed.ncbi.nlm.nih.gov/32933378/)
 
@@ -1942,17 +1942,17 @@ Item in Clipboard
 
 Compounds were screened for interface interaction, any with XP GScores lower than -7.0 kcal/mol were considered as possible interface inhibi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  99
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение **небиволола** и дилтиазема в улучшении спазма коронарных артерий и качества жизни у пациентов с гипертонией и вазоспастической стенокардией: проспективное рандомизированное двойное слепое пилотное исследование.](https://pubmed.ncbi.nlm.nih.gov/32915892/)
 
@@ -1962,17 +1962,17 @@ Item in Clipboard
 
 We compared **nebivolol** versus diltiazem in improving coronary vasospasm and quality of life in patients with hypertensive vasospastic …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  100
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние бета-блокаторов на выживаемость реципиентов трансплантации сердца: данные регистра Zabrze HTx.](https://pubmed.ncbi.nlm.nih.gov/32774914/)
 
@@ -1982,17 +1982,17 @@ Item in Clipboard
 
 RESULTS: The percentage of patients from the entire cohort taking BBs was as follows: atenolol 24 (17%), bisoprolol 67 (49%), carvedilol 11 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  101
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на эректильную функцию у пациентов с аортокоронарным шунтированием: протокол систематического обзора и метаанализа рандомизированных контролируемых исследований.](https://pubmed.ncbi.nlm.nih.gov/32769911/)
 
@@ -2002,17 +2002,17 @@ Item in Clipboard
 
 Therefore, it is necessary to carry out a systematic review and meta-analysis to fully evaluate the efficacy and safety of **nebivolol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  102
 
-Цитировать
 
-Делиться
+
+
 
 [Метопролол устраняет дисфункцию эндотелиальных клеток-предшественников при диабете.](https://pubmed.ncbi.nlm.nih.gov/32704438/)
 
@@ -2022,17 +2022,17 @@ Item in Clipboard
 
 Five beta-blockers (metoprolol, atenolol, propranolol, bisoprolol, and **nebivolol**) were tested in EPC functional screening. Metoprolol …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  103
 
-Цитировать
 
-Делиться
+
+
 
 [Координированное β-адренергическое ингибирование митохондриальной активности и ангиогенеза останавливает рост опухоли.](https://pubmed.ncbi.nlm.nih.gov/32681016/)
 
@@ -2042,17 +2042,17 @@ Item in Clipboard
 
 Inhibition of the ATP synthase is exerted by the overexpression and binding of the ATPase Inhibitory Factor 1 (IF1) to the enzyme. Remarkabl …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  104
 
-Цитировать
 
-Делиться
+
+
 
 [Новая функция **небиволола** : стимуляция пролиферации стволовых клеток жировой ткани и ингибирование дифференциации.](https://pubmed.ncbi.nlm.nih.gov/32536766/)
 
@@ -2062,17 +2062,17 @@ Item in Clipboard
 
 Cell cycle analysis showed a significant decrease in the percentage of ASCs in G1 phase with **Nebivolol** treatment compared to untreate …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  105
 
-Цитировать
 
-Делиться
+
+
 
 [Более низкая способность атенолола снижать центральное артериальное давление по сравнению с периферическим может быть объяснена сочетанием его эффектов, зависящих и не зависящих от частоты сердечных сокращений.](https://pubmed.ncbi.nlm.nih.gov/32395337/)
 
@@ -2082,17 +2082,17 @@ Item in Clipboard
 
 To provide further mechanistic insight into this topic, we studied the acute effects of atenolol versus **nebivolol** and ivabradine on s …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  106
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на эндотелиальную дисфункцию у пациентов с эссенциальной гипертонией в сравнении с другими антигипертензивными препаратами.](https://pubmed.ncbi.nlm.nih.gov/32342981/)
 
@@ -2102,49 +2102,49 @@ Item in Clipboard
 
 We aim to determine whether **nebivolol** has a better effect on endothelial dysfunction compared with other beta-blockers or other class …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  107
 
-Цитировать
 
-Делиться
+
+
 
 [Выбор β-блокаторов у пациентов с сердечной недостаточностью в зависимости от расположения и функций β-рецепторов в кардиопульмональной системе.](https://pubmed.ncbi.nlm.nih.gov/32224252/)
 
 Синагра Дж, Корра У, Контини М, Магри Д, Паолильо С, Перроне Филарди П, Шиомер С, Бадаглиакка Р, Агостони П. Sinagra G, et al. Фармакол Рез. июнь 2020 г.;156:104785. doi: 10.1016/j.phrs.2020.104785. Epub 2020, 26 марта. Pharmacol Res. 2020. PMID: 32224252 Бесплатная статья. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  108
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** для улучшения эндотелиальной дисфункции при сердечном синдроме-x; готов ли он к клиническому применению?](https://pubmed.ncbi.nlm.nih.gov/32206074/)
 
 Фатахян А. Fatahian A. ARYA Atheroscler. 2019 Ноябрь;15(6):292-293. doi: 10.22122/arya.v15i6.1971. ARYA Atheroscler. 2019. PMID: 32206074 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  109
 
-Цитировать
 
-Делиться
+
+
 
 [Оксид азота опосредовал действие **небиволола** при кардиоренальном синдроме.](https://pubmed.ncbi.nlm.nih.gov/32128097/)
 
@@ -2154,17 +2154,17 @@ Item in Clipboard
 
 In the present study, NO-mediated effects of two different treatment regimes of **nebivolol** in CRS were studied. MATERIALS AND METHODS: …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  110
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение **небиволола** и бисопролола в отношении сердечно-сосудистой смертности у пациентов с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/32025386/)
 
@@ -2174,17 +2174,17 @@ Item in Clipboard
 
 In this study, we compare the cardiovascular event between two beta-blocker, i.e. **Nebivolol** and Bisoprolol. Materials and Methods It …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  111
 
-Цитировать
 
-Делиться
+
+
 
 [Эффект низких доз **небиволола** у пациентов с острым инфарктом миокарда: многоцентровое наблюдательное исследование.](https://pubmed.ncbi.nlm.nih.gov/32021843/)
 
@@ -2194,17 +2194,17 @@ Sim DS, Hyun DY, Jeong MH, Kim HS, Chang K, Choi DJ, Han KR, Ahn TH, Bae JH, Cho
 
 The optimal dose of beta blockers after acute myocardial infarction (MI) remains uncertain. We evaluated the effectiveness of low-dose **ne** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  112
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** ослабляет противосудорожное действие карбамазепина и фенобарбитала при максимальных судорогах, вызванных электрошоком у мышей.](https://pubmed.ncbi.nlm.nih.gov/32016836/)
 
@@ -2214,17 +2214,17 @@ Item in Clipboard
 
 However, **nebivolol** at the dose of 15 mg/kg reduced the anti-electroshock properties of carbamazepine. ...Therefore, contribution of p …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  113
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** и олмесартана на 24-часовое плечевое и аортальное артериальное давление в острой стадии ишемического инсульта.](https://pubmed.ncbi.nlm.nih.gov/31687205/)
 
@@ -2234,17 +2234,17 @@ Item in Clipboard
 
 Similarly, **nebivolol** and olmesartan equally lowered 24-hour aortic SBP (between-group difference: -1.9 mmHg; 95% CI: -10.1, 6.2). …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  114
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка дозозависимого подхода к концентрации в терапевтическом лекарственном мониторинге диуретиков и β-блокаторов — классов препаратов с низкой приверженностью к антигипертензивной терапии.](https://pubmed.ncbi.nlm.nih.gov/31666620/)
 
@@ -2254,17 +2254,17 @@ Item in Clipboard
 
 Concentrations were measured for bisoprolol (n = 9 patients), metoprolol (n = 7), **nebivolol** (n = 1), canrenone (n = 2, metabolite of …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  115
 
-Цитировать
 
-Делиться
+
+
 
 [Ототоксические побочные реакции на лекарственные препараты: анализ непропорциональности с использованием итальянской базы данных спонтанных сообщений.](https://pubmed.ncbi.nlm.nih.gov/31649536/)
 
@@ -2274,17 +2274,17 @@ Item in Clipboard
 
 Significant adjusted RORs in relation to tinnitus were also observed for doxazosin (ROR 5.55, 95% CI 2.06-14.93), bisoprolol (4.28, 1.59-11. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  116
 
-Цитировать
 
-Делиться
+
+
 
 [Гидрогель на основе геллановой камеди для трансдермальной доставки **небиволола** : оптимизация и оценка.](https://pubmed.ncbi.nlm.nih.gov/31623262/)
 
@@ -2294,17 +2294,17 @@ Item in Clipboard
 
 Poor solubility and appreciable first-pass metabolism have limited the oral bioavailability of **nebivolol**. The objective of the curren …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  117
 
-Цитировать
 
-Делиться
+
+
 
 [Можно ли предотвратить сердечную недостаточность, вызванную химиотерапией, с помощью сердечно-сосудистых препаратов — обзор современных клинических данных.](https://pubmed.ncbi.nlm.nih.gov/31564887/)
 
@@ -2314,17 +2314,17 @@ Item in Clipboard
 
 Based on this knowledge, the most promising cardioprotective drugs seem to be carvedilol, **nebivolol**, enalapril, and candesartan, as t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  118
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность **небиволола** у крыс со спонтанной гипертензией и гиперактивным мочевым пузырем — экспериментальное исследование.](https://pubmed.ncbi.nlm.nih.gov/36160351/)
 
@@ -2334,17 +2334,17 @@ Item in Clipboard
 
 **Nebivolol** normalised blood pressure in SHR, while in WHY the cardiovascular parameters remained unchanged. ...CONCLUSIONS: **Nebivol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  119
 
-Цитировать
 
-Делиться
+
+
 
 [Электрическая кардиоверсия при ширококомплексной тахикардии.](https://pubmed.ncbi.nlm.nih.gov/31528522/)
 
@@ -2354,33 +2354,33 @@ Item in Clipboard
 
 He was admitted to the hospital for cardiac evaluation and ultimately discharged home on flecainide and **nebivolol** after a negative ca …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  120
 
-Цитировать
 
-Делиться
+
+
 
 [Применение бета-блокаторов при умеренной и тяжелой хронической обструктивной болезни легких.](https://pubmed.ncbi.nlm.nih.gov/31391690/)
 
 Звиздич Ф, Бегич Е, Муякович А, Ходжич Е, Прняворац Б, Бедак О, Чуштович Ф, Брадарич Х, Дурак-Налбантик А. Zvizdic F, et al. Мед Арх. Апрель 2019 г.;73(2):72-75. дои: 10.5455/medarh.2019.73.72-75. Med Arch. 2019. PMID: 31391690 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  121
 
-Цитировать
 
-Делиться
+
+
 
 [Выбор и взаимозаменяемость бета-блокаторов у пациентов с сердечной недостаточностью и хронической обструктивной болезнью легких: итальянское когортное исследование на основе регистра.](https://pubmed.ncbi.nlm.nih.gov/31391573/)
 
@@ -2390,17 +2390,17 @@ Item in Clipboard
 
 Therefore, we aimed to investigate the predictors of carvedilol choice in patients with heart failure and COPD that were naive to carvedilol …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  122
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакокинетическая изменчивость бета-адреноблокаторов, используемых в кардиологии.](https://pubmed.ncbi.nlm.nih.gov/31338197/)
 
@@ -2410,17 +2410,17 @@ C(max) и AUC были опубликованы в общей сложности
 
 The C(max) and AUC were reported a total of 672 times in 192 papers. Based on AUC, metoprolol, propranolol, carvedilol, and **nebivolol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  123
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние различных классов антигипертензивных препаратов на функцию эндотелия и воспаление.](https://pubmed.ncbi.nlm.nih.gov/31337127/)
 
@@ -2430,33 +2430,33 @@ Item in Clipboard
 
 Some antihypertensive drugs have been shown to improve endothelial function and reduce levels of inflammatory markers regardless of the effe …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  124
 
-Цитировать
 
-Делиться
+
+
 
 [Двусторонняя феохромоцитома после трансплантации почки при нейрофиброматозе 1 типа.](https://pubmed.ncbi.nlm.nih.gov/31125973/)
 
 де Мигель В., Пайссан А., Гарсиа Маркиньена П., Хурадо А., Изола М., Алфи Дж., Файнштейн-Дэй П. de Miguel V, et al. Отчет о случаях эндокринола, диабета и метаболита 2019 г., 23 мая;2019:18-0162. doi: 10.1530/EDM-18-0162. Онлайн до выхода в печать. Endocrinol Diabetes Metab Case Rep. 2019. PMID: 31125973 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  125
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** в лечении артериальной гипертонии.](https://pubmed.ncbi.nlm.nih.gov/31066991/)
 
@@ -2466,17 +2466,17 @@ Item in Clipboard
 
 This MiniReview reports the current knowledge about the treatment of arterial hypertension with the third-generation beta-adrenoceptor antag …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  126
 
-Цитировать
 
-Делиться
+
+
 
 [Рациональный контроль артериального давления в родах у женщин с артериальной гипертензией.](https://pubmed.ncbi.nlm.nih.gov/31059113/)
 
@@ -2486,17 +2486,17 @@ Item in Clipboard
 
 The program of treating hyper- tension in pregnant women with **nebivolol** hydrochloride provides sufficient control of blood pressure a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  127
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние тетрагидробиоптерина в сочетании с **небивололом** на диастолическую функцию сердца у крыс SHR.](https://pubmed.ncbi.nlm.nih.gov/30867344/)
 
@@ -2508,33 +2508,33 @@ Item in Clipboard
 
 This study aimed to evaluate the effects of combined use of tetrahydrobiopterin (BH4) and **nebivolol** on cardiac diastolic dysfunction …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  128
 
-Цитировать
 
-Делиться
+
+
 
 [β-блокаторы и смертность в течение 1 года после выписки при сердечной недостаточности, сниженной фракции выброса и медленном сердечном ритме.](https://pubmed.ncbi.nlm.nih.gov/30755071/)
 
 Пак Джей Джей, Пак Ха, Чо ХДж, Ли Хай, Ким К.Х., Ю Б.С., Кан СМ, Пэк Ш., Чон Э.С., Ким ДжейДжей, Чо MC, Че СК, О БХ, Чхве DJ. Park JJ, et al. J Am Heart Assoc. 2019 19 февраля;8(4):e011121. doi: 10.1161/JAHA.118.011121. J Am Heart Assoc. 2019. PMID: 30755071 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  129
 
-Цитировать
 
-Делиться
+
+
 
 [Кардиотоксичность, связанная с антрациклинами, у взрослых: систематический обзор кардиопротекторной роли бета-блокаторов.](https://pubmed.ncbi.nlm.nih.gov/30673046/)
 
@@ -2544,17 +2544,17 @@ Item in Clipboard
 
 Six studies were considered positive regarding the cardioprotection role played by beta-blockers, although only four demonstrated significan …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  130
 
-Цитировать
 
-Делиться
+
+
 
 [Профилактика мигрени.](https://pubmed.ncbi.nlm.nih.gov/30600979/)
 
@@ -2564,17 +2564,17 @@ Item in Clipboard
 
 Medications such as amitriptyline, venlafaxine, atenolol, and nadolol are probably effective but should be second-line therapy. There is lim …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  131
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние инфаркта миокарда на возникновение эректильной дисфункции.](https://pubmed.ncbi.nlm.nih.gov/30589239/)
 
@@ -2584,17 +2584,17 @@ Item in Clipboard
 
 There was no statistically significant difference between patients with ED and patients without ED according to the beta-blocker usage (p=0. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  132
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение долгосрочных клинических последствий бета-блокады у пациентов с обструктивными заболеваниями дыхательных путей, подвергавшихся воздействию бета-блокаторов с различной селективностью к β1-адренорецепторам: итальянское популяционное когортное исследование.](https://pubmed.ncbi.nlm.nih.gov/30459608/)
 
@@ -2604,17 +2604,17 @@ Item in Clipboard
 
 Results: Overall, 11,844 patients out of the 51,214 (23.1%) were exposed to carvedilol and 39,370 (76.9%) to metoprolol/bisoprolol/**nebivo** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  133
 
-Цитировать
 
-Делиться
+
+
 
 [Защитный эффект **небиволола** при кардиотоксичности, вызванной доксорубицином у крыс.](https://pubmed.ncbi.nlm.nih.gov/30393501/)
 
@@ -2624,17 +2624,17 @@ Item in Clipboard
 
 INTRODUCTION: The cardiotoxicity of doxorubicin is incompletely understood. We investigated the prophylactic effect of **nebivolol** on d …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  134
 
-Цитировать
 
-Делиться
+
+
 
 [Информация о β-блокаторах для лечения гипертонии: опрос врачей.](https://pubmed.ncbi.nlm.nih.gov/30289609/)
 
@@ -2644,17 +2644,17 @@ Item in Clipboard
 
 Awareness of vasodilation was greater for carvedilol (52%) than **nebivolol** (31%). Association between beta-blockers and clinical varia …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  135
 
-Цитировать
 
-Делиться
+
+
 
 [Риск госпитализации по поводу сердечно-сосудистых событий при приеме β-блокаторов у пациентов с гипертонией: ретроспективное когортное исследование.](https://pubmed.ncbi.nlm.nih.gov/30191469/)
 
@@ -2664,17 +2664,17 @@ Item in Clipboard
 
 However, the comparative cardiovascular event risk between the vasodilatory beta(1)-selective antagonist/beta(3) agonist **nebivolol** an …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  136
 
-Цитировать
 
-Делиться
+
+
 
 [Скрываясь на виду: **небиволол** проявляет убедительные токолитические свойства.](https://pubmed.ncbi.nlm.nih.gov/30188599/)
 
@@ -2684,17 +2684,17 @@ Item in Clipboard
 
 In uterine smooth muscle strips from both mouse and human, **nebivolol** relaxes oxytocin-induced contractions in a dose dependent manner …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  137
 
-Цитировать
 
-Делиться
+
+
 
 [Симпатическая β1-адренергическая сигнализация способствует регуляции метаболизма костной ткани человека.](https://pubmed.ncbi.nlm.nih.gov/30153111/)
 
@@ -2704,17 +2704,17 @@ Item in Clipboard
 
 A total of 155 postmenopausal women were randomized to 1 of 5 treatment groups for 20 weeks: placebo; propranolol, 20 mg b.i.d.; propranolol …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  138
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** и рамиприла на отдельные биохимические параметры, жесткость артерий и циркадный профиль артериального давления у молодых мужчин с первичной гипертонией: 12-недельное проспективное рандомизированное открытое исследование.](https://pubmed.ncbi.nlm.nih.gov/30045336/)
 
@@ -2724,17 +2724,17 @@ Item in Clipboard
 
 RESULTS: After the treatment period, we observed significant decreases in both ABPM systolic blood pressure (SBP) in group of **nebivolol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  139
 
-Цитировать
 
-Делиться
+
+
 
 [**Влияние небиволола** на кардиотоксичность, вызванную доксорубицином, при раке молочной железы.](https://pubmed.ncbi.nlm.nih.gov/30038521/)
 
@@ -2744,17 +2744,17 @@ Item in Clipboard
 
 PURPOSE: The aim of this study was to assess whether **nebivolol** treatment could have beneficial effects in the prevention of anthracyc …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  140
 
-Цитировать
 
-Делиться
+
+
 
 [Результаты применения «дружественных к диабету» и «недружественных к диабету» β-блокаторов у пожилых жителей домов престарелых с диабетом после острого инфаркта миокарда.](https://pubmed.ncbi.nlm.nih.gov/29952104/)
 
@@ -2764,17 +2764,17 @@ Item in Clipboard
 
 T2D-friendly beta-blockers were those hypothesized to increase peripheral glucose uptake through vasodilation: carvedilol, **nebivolol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  141
 
-Цитировать
 
-Делиться
+
+
 
 [Ретроспективное исследование, оценивающее переносимость и эффективность дополнительных антигипертензивных препаратов у пациентов с недостаточным ответом на первоначальное лечение.](https://pubmed.ncbi.nlm.nih.gov/29902367/)
 
@@ -2784,17 +2784,17 @@ Item in Clipboard
 
 Real-world tolerability and effectiveness of **nebivolol** as first add-on therapy were compared with hydrochlorothiazide, metoprolol, an …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  142
 
-Цитировать
 
-Делиться
+
+
 
 [Бета-адреноблокаторы.](https://pubmed.ncbi.nlm.nih.gov/31643457/)
 
@@ -2804,17 +2804,17 @@ Item in Clipboard
 
 Beta-1 selective blockers include metoprolol (Lopressor, Toprol, 1978), atenolol (Temormin, 1981), acebutolol (Sectral, 1984), betaxolol (Ke …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  143
 
-Цитировать
 
-Делиться
+
+
 
 [Лечение артериальной гипертензии у пациентов с метаболическим синдромом и/или сахарным диабетом 2 типа: анализ эффективности терапии и терапевтической инертности в амбулаторном исследовании.](https://pubmed.ncbi.nlm.nih.gov/29805801/)
 
@@ -2824,17 +2824,17 @@ Item in Clipboard
 
 The drugs used most frequently were perindopril (perin), nitrendipine (nitre), amlodipine (amlo), telmisartan (telmi), hydrochlorothiazide ( …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  144
 
-Цитировать
 
-Делиться
+
+
 
 [Антиоксидантная терапия: новые взгляды на лечение гипертонии.](https://pubmed.ncbi.nlm.nih.gov/29618986/)
 
@@ -2844,33 +2844,33 @@ Item in Clipboard
 
 Moreover, new drugs are emerging which have both antihypertensive action and antioxidant properties, such as celiprolol, carvedilol, **nebi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  145
 
-Цитировать
 
-Делиться
+
+
 
 [Сердечно-сосудистая безопасность новой онкотерапии немелкоклеточного рака легкого у пациента, получавшего лечение новыми поколениями ингибиторов тирозинкиназы.](https://pubmed.ncbi.nlm.nih.gov/29558014/)
 
 Шиманский Ф.М., Платек А.Е., Дзядзюшко Р., Ленгош П., Пальчевский П. Szymański FM, et al. Кардиол Пол. 2018;76(3):670. дои: 10.5603/КП.2018.0061. Kardiol Pol. 2018. PMID: 29558014 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  146
 
-Цитировать
 
-Делиться
+
+
 
 [Исследование антиоксидантного действия фенирамина малеата и **небиволола** на повреждение яичек у крыс с экспериментально вызванным перекрутом яичек.](https://pubmed.ncbi.nlm.nih.gov/29513811/)
 
@@ -2880,17 +2880,17 @@ Item in Clipboard
 
 PURPOSE: To investigate the biochemical, histopathologic, and spermatogenetic changes in the detorsionated testicle after experimental torsi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  147
 
-Цитировать
 
-Делиться
+
+
 
 [КОЛИЧЕСТВЕННОЕ ОПРЕДЕЛЕНИЕ ОСТАТОЧНОГО СОДЕРЖАНИЯ МОНОМЕТИЛАМИНА В **НЕБИВОЛОЛА** ГИДРОХЛОРИДЕ МЕТОДОМ HPIC С ПОДАВЛЕННОЙ ПРОВОДИМОСТЬЮ.](https://pubmed.ncbi.nlm.nih.gov/29474762/)
 
@@ -2900,17 +2900,17 @@ Item in Clipboard
 
 The aim of this paper was to develop a simple analytical method which could be used to determine a synthesis-derived amount of monomethylami …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  148
 
-Цитировать
 
-Делиться
+
+
 
 [Новый подход УФ-фотолиза с ацетоном и изопропиловым спиртом для быстрого определения фторида в фторорганических препаратах методом спектрофотометрии.](https://pubmed.ncbi.nlm.nih.gov/29389578/)
 
@@ -2920,33 +2920,33 @@ Item in Clipboard
 
 For the optimization of the UVPD procedure, three bulk drugs (levofloxacin, **nebivolol** and efavirenz) were chosen as representatives o …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  149
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** /Вальсартан (Бивалсон) при гипертонии.](https://pubmed.ncbi.nlm.nih.gov/29365224/)
 
 Ламбертон, Нью-Гэмпшир, Копенгаген. Lamberton NH, et al. Am Fam Physician. 2018 15 января;97(2):124-125. Am Fam Physician. 2018. PMID: 29365224 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  150
 
-Цитировать
 
-Делиться
+
+
 
 [Защитные эффекты вазодилататора бета-блокатора третьего поколения **небиволола** против гепаторенального синдрома, вызванного D-галактозамином, у крыс.](https://pubmed.ncbi.nlm.nih.gov/29362613/)
 
@@ -2956,17 +2956,17 @@ Item in Clipboard
 
 AIM: The present study was constructed to investigate the possible protective effects of **nebivolol** (Nebi) against D-galactosamine (Ga …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  151
 
-Цитировать
 
-Делиться
+
+
 
 [Биоразлагаемые твердые липидные микрочастицы с замедленным высвобождением: формулирование, оценка и статистическая оптимизация с помощью методологии поверхности отклика.](https://pubmed.ncbi.nlm.nih.gov/29337670/)
 
@@ -2978,17 +2978,17 @@ Item in Clipboard
 
 The obtained outcomes for Y1 (29-86 %), Y2 (45-83 %) and Y3 (49-86 %) were analyzed by polynomial equations and the suggested quadratic mode …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  152
 
-Цитировать
 
-Делиться
+
+
 
 [Связь между сердечной недостаточностью, сопутствующей хронической обструктивной болезнью легких и применением бета-блокаторов: датское общенациональное когортное исследование.](https://pubmed.ncbi.nlm.nih.gov/29159953/)
 
@@ -2998,17 +2998,17 @@ Item in Clipboard
 
 Carvedilol users had a higher hazard of being hospitalized for HF compared with metoprolol/bisoprolol/**nebivolol** users in both the una …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  153
 
-Цитировать
 
-Делиться
+
+
 
 [**Лечение небивололом** , но не метопрололом, улучшает эндотелиальную фибринолитическую способность у взрослых с повышенным артериальным давлением.](https://pubmed.ncbi.nlm.nih.gov/29122812/)
 
@@ -3018,17 +3018,17 @@ Item in Clipboard
 
 However, after the intervention, t-PA release was unchanged by vitamin C coinfusion in the **nebivolol** group only. CONCLUSIONS: **Nebi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  154
 
-Цитировать
 
-Делиться
+
+
 
 [Аддитивность комбинаций **небиволола** и валсартана по одной таблетке по сравнению с другими комбинациями отдельных таблеток для лечения гипертонии.](https://pubmed.ncbi.nlm.nih.gov/29105958/)
 
@@ -3038,17 +3038,17 @@ Item in Clipboard
 
 Among the **nebivolol**/valsartan SPCs, 5/80 mg had the greatest additivity (diastolic BP: 0.866; systolic BP: 0.822). BP reduction contr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  155
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на заживление переломов: экспериментальная модель на крысах.](https://pubmed.ncbi.nlm.nih.gov/29068591/)
 
@@ -3058,17 +3058,17 @@ Item in Clipboard
 
 **Nebivolol** also exerts anti-oxidant effects by stimulating nitric oxide (NO) synthesis. ...Sterile **nebivolol** solution (1 mL = 0 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  156
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** десенсибилизирует миофиламенты в мышиной модели гипертрофической кардиомиопатии.](https://pubmed.ncbi.nlm.nih.gov/28824454/)
 
@@ -3078,17 +3078,17 @@ Item in Clipboard
 
 The aim of this study was to evaluate the effect of **nebivolol** in cardiac muscle strips of an established HCM Mybpc3 mouse model. ...I …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  157
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** снижает соотношение нейтрофилов и лимфоцитов: маркер субклинического воспаления у пациентов с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/28819568/)
 
@@ -3098,17 +3098,17 @@ Item in Clipboard
 
 Similarly, **nebivolol** but not metoprolol significantly reduced NLR ratio (p = 0.07). **Nebivolol** improved lipid profile and blood …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  158
 
-Цитировать
 
-Делиться
+
+
 
 [Обновленная информация о нефротоксичности йодированных контрастных препаратов, используемых в клинической медицине.](https://pubmed.ncbi.nlm.nih.gov/28579836/)
 
@@ -3118,17 +3118,17 @@ Item in Clipboard
 
 Prevention is mainly based on extracellular volume expansion, statins, and N-acetylcysteine; conflicting results have been obtained with …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  159
 
-Цитировать
 
-Делиться
+
+
 
 [Защитное действие **Небиволола** против разрушения коллагена II типа, вызванного интерлейкином-1бета (ИЛ-1бета), опосредованного матриксной металлопротеиназой-13 (ММП-13).](https://pubmed.ncbi.nlm.nih.gov/28512729/)
 
@@ -3138,17 +3138,17 @@ Item in Clipboard
 
 However, whether **Nebivolol** has a protective effect on cartilage matrix degradation has not been reported before. In this study, we in …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  160
 
-Цитировать
 
-Делиться
+
+
 
 [Обоснование применения комбинации **небиволола** и валсартана при гипертонии: обзор доклинических и клинических данных.](https://pubmed.ncbi.nlm.nih.gov/28509722/)
 
@@ -3158,17 +3158,17 @@ Item in Clipboard
 
 : To treat hypertension, combining two or more antihypertensive drugs from different classes is often necessary. beta-Blockers and renin-ang …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  161
 
-Цитировать
 
-Делиться
+
+
 
 [Исследование потенциального фармакокинетического взаимодействия между **небивололом** и флувоксамином у здоровых добровольцев.](https://pubmed.ncbi.nlm.nih.gov/28459657/)
 
@@ -3178,17 +3178,17 @@ Item in Clipboard
 
 PURPOSE: To investigate whether fluvoxamine coadministration can influence the pharmacokinetic properties of **nebivolol** and its active …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  162
 
-Цитировать
 
-Делиться
+
+
 
 [Компьютерное моделирование для анализа фармакологии безопасности сердца: вклад фибробластов.](https://pubmed.ncbi.nlm.nih.gov/28456609/)
 
@@ -3198,17 +3198,17 @@ Item in Clipboard
 
 RESULTS: Simulation results show changes in cardiomyocyte APD(90) with increasing concentration of three drugs that affect cardiac function …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  163
 
-Цитировать
 
-Делиться
+
+
 
 [Кожная гиперпигментация лихеноидного типа, вызванная **небивололом** .](https://pubmed.ncbi.nlm.nih.gov/28429695/)
 
@@ -3218,33 +3218,33 @@ Item in Clipboard
 
 Cutaneous hyperpigmentation is a common and well-defined side effect of many drugs, such as non-steroidal anti-inflammatory drugs, beta-bloc …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  164
 
-Цитировать
 
-Делиться
+
+
 
 [Поправка: **Небиволол** , бета1-адреноблокатор, защищает от повреждения перитонеальной мембраны, вызванного перитонеальным диализом.](https://pubmed.ncbi.nlm.nih.gov/28423612/)
 
 Лиаппас Дж., Гонсалес-Матео Г., Агирре А.Р., Абенсур Х., Альбар-Вискайно П., Парра Э.Г., Сандовал П., Рамирес Л.Г., Дель Песо Г., Аседо Х.М., Бахо М.А., Селгас Р., Санчес Томеро Х.А., Лопес-Кабрера М., Агилера А. Liappas G, et al. Oncotarget. 4 апреля 2017 г.;8(14):24045. doi: 10.18632/oncotarget.16782. Oncotarget. 2017. PMID: 28423612 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  165
 
-Цитировать
 
-Делиться
+
+
 
 [Исследования, направленные на использование вицинальных диолов в синтезе промежуточных соединений (+)- **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/28405237/)
 
@@ -3254,33 +3254,33 @@ Item in Clipboard
 
 Thus, in the search for wider applications of Sharpless asymmetric dihydroxylation-derived diols for the synthesis of benzo-annulated hetero …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  166
 
-Цитировать
 
-Делиться
+
+
 
 [Реальная роль β-блокаторов в ежедневной сердечно-сосудистой терапии.](https://pubmed.ncbi.nlm.nih.gov/28357786/)
 
 Дези КА, Сентеш В. Dézsi CA, et al. Am J Cardiovasc Drugs. 2017 октябрь;17(5):361-373. doi: 10.1007/s40256-017-0221-8. Am J Cardiovasc Drugs. 2017. PMID: 28357786 Бесплатная статья PMC. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  167
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение влияния **небиволола** и метопролола на эректильную дисфункцию у пациентов с аортокоронарным шунтированием.](https://pubmed.ncbi.nlm.nih.gov/28302931/)
 
@@ -3290,17 +3290,17 @@ Item in Clipboard
 
 The most commonly used beta-blockers in ischemic cardiac disease are **nebivolol** and metoprolol. In our clinic, we aimed to compare the …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  168
 
-Цитировать
 
-Делиться
+
+
 
 [Защитные эффекты **небиволола** от окислительного стресса для предотвращения поражения органов-мишеней, связанного с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/28252041/)
 
@@ -3310,17 +3310,17 @@ Item in Clipboard
 
 Its vasodilatory function is mediated by the endothelial l-arginine NO pathway. **Nebivolol** increases the bioavailability of NO in the …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  169
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** в сравнении с другими бета-блокаторами у пациентов с гипертонией и эректильной дисфункцией.](https://pubmed.ncbi.nlm.nih.gov/28203288/)
 
@@ -3330,17 +3330,17 @@ Item in Clipboard
 
 Thus, **nebivolol** may offer an advantage over other beta blockers in the patient with hypertension and ED. ...Survey scores for erectil …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  170
 
-Цитировать
 
-Делиться
+
+
 
 [Нейропротекторное действие **небиволола** против депрессивно-подобного поведения, связанного с цисплатином, у крыс.](https://pubmed.ncbi.nlm.nih.gov/28178754/)
 
@@ -3350,17 +3350,17 @@ Item in Clipboard
 
 Thus, this study aimed to investigate the possible protective effect of **nebivolol** against cisplatin-associated depressive symptoms in …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  171
 
-Цитировать
 
-Делиться
+
+
 
 [Бета-блокаторы при гипертонии.](https://pubmed.ncbi.nlm.nih.gov/28107561/)
 
@@ -3370,17 +3370,17 @@ Item in Clipboard
 
 We found no outcome trials involving the newer vasodilating beta-blockers (e.g. **nebivolol**).There was no difference in all-cause morta …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  172
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнительная эффективность **небиволола** и метопролола для профилактики кардиомиопатии, вызванной тахикардией, в модели свиней.](https://pubmed.ncbi.nlm.nih.gov/28100964/)
 
@@ -3390,17 +3390,17 @@ Item in Clipboard
 
 Fifteen healthy Yucatan pigs were randomly assigned to receive **nebivolol**, metoprolol, or placebo once a day. All pigs underwent dual- …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  173
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** .](https://pubmed.ncbi.nlm.nih.gov/31643706/)
 
@@ -3410,17 +3410,17 @@ Item in Clipboard
 
 **Nebivolol** is a beta-blocker and antihypertensive medication that has additional vasodilatory activity mediated by nitric oxide releas …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  174
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность комбинации **небиволола** и валсартана в одной таблетке у пациентов с ожирением и без ожирения с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/28075064/)
 
@@ -3430,17 +3430,17 @@ Item in Clipboard
 
 In this post hoc analysis, seated blood pressure, heart rate, 24-hour ambulatory blood pressure monitoring, plasma aldosterone, estimated gl …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  175
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнительное влияние **небиволола** и карведилола на диастолическую функцию левого желудочка у пожилых пациентов с сердечной недостаточностью с сохраненной фракцией выброса: протокол исследования для рандомизированного контролируемого исследования.](https://pubmed.ncbi.nlm.nih.gov/27809882/)
 
@@ -3450,17 +3450,17 @@ Item in Clipboard
 
 No study has specifically compared the relative effectiveness of carvedilol and **nebivolol** in treating HF in older patients with prese …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  176
 
-Цитировать
 
-Делиться
+
+
 
 [Блокатор бета-1-рецепторов **небиволол** вызывает расширение церебральных артерий за счет снижения уровня \[Ca2+\] в гладких мышцах.](https://pubmed.ncbi.nlm.nih.gov/27716772/)
 
@@ -3470,17 +3470,17 @@ Item in Clipboard
 
 However, the effect of **nebivolol** on the vasomotor tone of cerebral arteries is still unclear. ...As such, **nebivolol** may be eff …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  177
 
-Цитировать
 
-Делиться
+
+
 
 [Защитные эффекты вазодилатирующих бета-блокаторов карведилола и **небиволола** в отношении глицериновой модели острой почечной недостаточности, вызванной рабдомиолизом у крыс.](https://pubmed.ncbi.nlm.nih.gov/27703551/)
 
@@ -3490,17 +3490,17 @@ Item in Clipboard
 
 AIM: The present study investigated the possible protective effect of two nitric oxides (NO)-releasing third generation beta-blockers, carve …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  178
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** улучшает активацию сердечной инфламмасомы NLRP3 в ювенильно-подростковой модели ожирения у животных.](https://pubmed.ncbi.nlm.nih.gov/27686325/)
 
@@ -3510,17 +3510,17 @@ Item in Clipboard
 
 The obese rats were subsequently subdivided into three groups: 1) HFD control group; 2) HFD with low-dose **nebivolol** (5 mg/kg/d); 3) H …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  179
 
-Цитировать
 
-Делиться
+
+
 
 [Рабдомиолиз у пациента, принимающего **небиволол** .](https://pubmed.ncbi.nlm.nih.gov/27668163/)
 
@@ -3530,17 +3530,17 @@ Item in Clipboard
 
 Approximately 1 month before her admission, her medication was changed from carvedilol 12.5 mg to **nebivolol** 5 mg. Over this time span …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  180
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** подавляет спонтанное высвобождение Ca2+, опосредованное рецепторами рианодина в сердце, и катехоламинергическую полиморфную желудочковую тахикардию.](https://pubmed.ncbi.nlm.nih.gov/27623776/)
 
@@ -3550,33 +3550,33 @@ Item in Clipboard
 
 Interestingly, a non-beta-blocking **nebivolol** enantiomer, (l)-**nebivolol**, also suppressed SOICR and CPVT without lowering heart …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  181
 
-Цитировать
 
-Делиться
+
+
 
 [Бета-3-адренергические агонисты снижают сопротивление легочных сосудов и улучшают работу правого желудочка в модели хронической легочной гипертензии у свиней.](https://pubmed.ncbi.nlm.nih.gov/27328822/)
 
 Гарсиа-Альварес А, Переда Д, Гарсиа-Лунар И, Санс-Роса Д, Фернандес-Хименес Р, Гарсиа-Прието Х, Нуньо-Аяла М, Сьерра Ф, Сантьяго Е, Сандовал Е, Кампелос П, Агуэро Х, Писарро Г , Пейнадо В.И., Фернандес-Фриера Л., Гарсиа-Руис Х.М., Барбера Х.А., Кастелья М., Сабате М., Фустер В., Ибаньес Б. García-Álvarez A, et al. Basic Res Cardiol. 2016 июль;111(4):49. doi: 10.1007/s00395-016-0567-0. Epub 2016 июнь 21. Basic Res Cardiol. 2016. PMID: 27328822 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  182
 
-Цитировать
 
-Делиться
+
+
 
 [Лечение гипертонии в Азиатско-Тихоокеанском регионе: роль и стратегии лечения **небивололом** .](https://pubmed.ncbi.nlm.nih.gov/27326226/)
 
@@ -3586,49 +3586,49 @@ Item in Clipboard
 
 However, in contrast to first-generation and second-generation beta-blockers, the third-generation, vasodilating beta-blocker **nebivolol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  183
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** в сравнении с метопрололом в отношении эректильной функции у мужчин, перенесших аортокоронарное шунтирование.](https://pubmed.ncbi.nlm.nih.gov/27282679/)
 
 Серит Л. Cerit L. Anatol J Cardiol. 2016;16(6):454. doi: 10.14744/AnatolJCardiol.2016.7121. Anatol J Cardiol. 2016. PMID: 27282679 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  184
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** и эндотелиальная дисфункция у пациентов с эссенциальной гипертонией: спасение репутации бета-блокаторов?](https://pubmed.ncbi.nlm.nih.gov/27251943/)
 
 Челик Т, Озтюрк С, Балта С, Йылмаз МИ. Celik T, et al. J Clin Hypertens (Гринвич). 2016 Декабрь;18(12):1258-1259. doi: 10.1111/jch.12856. Epub 2016 Июнь 1. J Clin Hypertens (Greenwich). 2016. PMID: 27251943 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  185
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние различных начальных бета-блокаторов на постоянство лечения: атенолол в сравнении с бета-блокаторами нового поколения, популяционное исследование.](https://pubmed.ncbi.nlm.nih.gov/27214564/)
 
@@ -3638,17 +3638,17 @@ Item in Clipboard
 
 New-generation beta blockers demonstrated a lower risk of treatment discontinuation (HR: 0.91, 95% CI: 0.86-0.96) compared to atenolol; a no …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  186
 
-Цитировать
 
-Делиться
+
+
 
 [Различное влияние **небиволола** и метопролола на функцию микрососудов у людей с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/27199121/)
 
@@ -3658,17 +3658,17 @@ Item in Clipboard
 
 However, the effects of **nebivolol** on skeletal muscle perfusion during exercise have not been determined in hypertensive patients. ... …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  187
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** в сравнении с карведилолом или метопрололом у пациентов с острым инфарктом миокарда, осложненным дисфункцией левого желудочка.](https://pubmed.ncbi.nlm.nih.gov/27164841/)
 
@@ -3678,17 +3678,17 @@ Item in Clipboard
 
 The composite end point during follow-up was lower in the patients treated with **nebivolol** than those treated with metoprolol (14.5 vs …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  188
 
-Цитировать
 
-Делиться
+
+
 
 [Снижение риска желудочковых аритмий при лечении **небивололом** у пациентов с медленным коронарным кровотоком.](https://pubmed.ncbi.nlm.nih.gov/27160173/)
 
@@ -3702,17 +3702,17 @@ QTcmax (p = 0.027), QTcD (p = 0.002), blood pressure (p = 0.001), and heart rate
 
 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  189
 
-Цитировать
 
-Делиться
+
+
 
 [Карведилол при портальной гипертензии при циррозе: систематический обзор с метаанализом.](https://pubmed.ncbi.nlm.nih.gov/27147389/)
 
@@ -3722,17 +3722,17 @@ Item in Clipboard
 
 In 3 trials investigating differences in clinical outcomes between carvedilol versus endoscopic variceal band ligation (EVL), no significant …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  190
 
-Цитировать
 
-Делиться
+
+
 
 [Хроническое лечение **небивололом** подавляет тонус вазоконстриктора, опосредованный эндотелином-1, у взрослых с повышенным артериальным давлением.](https://pubmed.ncbi.nlm.nih.gov/27113048/)
 
@@ -3742,17 +3742,17 @@ Item in Clipboard
 
 Более того, после терапии только **небивололом** вазодилататорная реакция на ацетилхолин не была значительно усилена блокадой рецепторов ЭТ-1a …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  191
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** , бета1-адреноблокатор, защищает от повреждения перитонеальной мембраны, вызванного перитонеальным диализом.](https://pubmed.ncbi.nlm.nih.gov/27102153/)
 
@@ -3762,17 +3762,17 @@ MCs обрабатывали TGF-бета для индукции мезотел
 
 MC обрабатывали TGF-бета для индукции мезотелиально-мезенхимального перехода (MMT) и совместно лечили **Небивололом** . **Небиволол** …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  192
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на параметры MIBG и физическую нагрузку при сердечной недостаточности с нормальной фракцией выброса.](https://pubmed.ncbi.nlm.nih.gov/27096522/)
 
@@ -3782,17 +3782,17 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 Сцинтиграфия с метайодобензилгуанидином йода-123 (123I-MIBG) и кардиопульмональный нагрузочный тест (CPET) являются прогностическими маркерами при HFNEF. **Neb** …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  193
 
-Цитировать
 
-Делиться
+
+
 
 [Систематический обзор: антигипертензивная лекарственная терапия у пациентов африканской и южноазиатской этнической группы.](https://pubmed.ncbi.nlm.nih.gov/27026378/)
 
@@ -3802,17 +3802,17 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 Помимо хорошо известной эффективности блокаторов кальциевых каналов и диуретиков в отношении артериального давления, ингибиторы АПФ и бета-бета-адренорецепторов оказывают меньший эффект…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  194
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность снижения артериального давления селективными бета-блокаторами бета-1 при первичной гипертонии.](https://pubmed.ncbi.nlm.nih.gov/26961574/)
 
@@ -3822,17 +3822,17 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 Препаратами этого класса бета-блокаторов являются атенолол, бетаксолол, бевантолол, бисопролол, эсмолол, метопролол, **небиволол** , пафенолол, прак…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  195
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на регенерацию печени в экспериментальной модели 70% частичной гепатэктомии.](https://pubmed.ncbi.nlm.nih.gov/26920216/)
 
@@ -3842,17 +3842,17 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 Сразу после частичной резекции печени контрольной группе через зонд вводили 2 мл физиологического раствора поваренной соли, 0,5 мг/…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  196
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние хронического заболевания почек и лечения гемодиализом на фармакокинетику энантиомеров **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/26914703/)
 
@@ -3862,17 +3862,17 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 РЕЗУЛЬТАТЫ: Фармакокинетика **небиволола** является энантиоселективной, с большей долей плазмы l- **небиволола** . ...Однако, т …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  197
 
-Цитировать
 
-Делиться
+
+
 
 [Комплексная оценка прогрессирования коронарных бляшек с использованием расширенной внутрисосудистой визуализации, физиологических показателей и напряжения сдвига стенки: пилотное двойное слепое рандомизированное контролируемое клиническое исследование **небиволола** по сравнению с атенололом при необструктивной ишемической болезни сердца.](https://pubmed.ncbi.nlm.nih.gov/26811165/)
 
@@ -3882,17 +3882,17 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 **У пациентов, принимавших небиволол,** наблюдалось уменьшение просвета и площади сосудов, а также увеличение площади бляшек, что приводило к более выраженному ремоделированию ( …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  198
 
-Цитировать
 
-Делиться
+
+
 
 [Эффекты небиволола, опосредованные оксидом азота, **при** инфаркте миокарда: источник оксида азота.](https://pubmed.ncbi.nlm.nih.gov/26744880/)
 
@@ -3902,17 +3902,17 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 Ранее мы продемонстрировали благоприятные эффекты **небиволола** , опосредованные NO , в модели инфаркта миокарда у крыс. В этом исследовании мы стремились оценить связь NOS …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  199
 
-Цитировать
 
-Делиться
+
+
 
 [Перипроцедурное **применение небиволола** для профилактики острого контрастного повреждения почек: систематический обзор и метаанализ.](https://pubmed.ncbi.nlm.nih.gov/26713290/)
 
@@ -3922,17 +3922,17 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 ПРЕДЫСТОРИЯ: **Небиволол** обеспечивает защитный эффект при остром повреждении почек, вызванном контрастом (КИ-ОПП), в моделях животных. Однако респ …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  200
 
-Цитировать
 
-Делиться
+
+
 
 [**Влияние небиволола** на уровень оксида азота, артериальное давление и функцию почек у пациентов после трансплантации почки.](https://pubmed.ncbi.nlm.nih.gov/26692375/)
 
@@ -3942,13 +3942,13 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 У пациентов с гипертонической болезнью после трансплантации почки изучалось влияние **небиволола** по сравнению с метопрололом на уровень оксида азота (NO) в крови, расчетный уровень глом…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
 
-Цитировать
+
+
+
+
 
 Копировать
 
@@ -3956,7 +3956,7 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 Формат: АМА АПА MLA НЛМ
 
-Делиться
+
 
 -   
 -   
@@ -3967,9 +3967,9 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
  201
 
-Цитировать
 
-Делиться
+
+
 
 [Дифференциальное влияние β-блокаторов, блокаторов рецепторов ангиотензина II и нового агониста AT2R NP-6A4 на реакцию на стресс сердечно-сосудистых клеток, испытывающих нехватку питательных веществ.](https://pubmed.ncbi.nlm.nih.gov/26691397/)
 
@@ -3979,17 +3979,17 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 Лечение **небивололом** , карведилолом, метопрололом и атенололом подавляло клеточный индекс (КИ) клеток HL-1, испытывающих недостаток сыворотки (17%, 8%, 15% и …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  202
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** уменьшает нефротоксичность, вызванную цисплатином, у крыс.](https://pubmed.ncbi.nlm.nih.gov/26617394/)
 
@@ -3999,17 +3999,17 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 Целью данного исследования было определить, обладает ли **небиволол** защитным эффектом против нефротоксичности цисплатина, а также изучить множество механизмов …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  203
 
-Цитировать
 
-Делиться
+
+
 
 [Фенотипические различия метаболизма и биодоступности **небиволола** у здоровых добровольцев.](https://pubmed.ncbi.nlm.nih.gov/26528073/)
 
@@ -4019,17 +4019,17 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 ВВЕДЕНИЕ: **Небиволол** , бета-блокатор третьего поколения, подвергается интенсивному метаболизму первого прохождения и образует активные бета-блокаторы…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  204
 
-Цитировать
 
-Делиться
+
+
 
 [Действительно ли **небиволол** эффективен в профилактике контраст-индуцированной нефропатии?](https://pubmed.ncbi.nlm.nih.gov/26496491/)
 
@@ -4039,17 +4039,17 @@ MC обрабатывали TGF-бета для индукции мезотел�
 
 We have noticed that a few number of studies that have evaluated the effectiveness of **nebivolol** for the prevention of CIN used serum …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  205
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** в сравнении с метопрололом в отношении эректильной функции у мужчин, перенесших аортокоронарное шунтирование.](https://pubmed.ncbi.nlm.nih.gov/26467373/)
 
@@ -4059,17 +4059,17 @@ Item in Clipboard
 
 OBJECTIVE: The aim of this study was to evaluate erectile function in males undergoing coronary artery bypass graft (CABG) while on two diff …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  206
 
-Цитировать
 
-Делиться
+
+
 
 [Кристаллическая структура (R)-6-фтор-2-\[(S)-оксиран-2-ил\]хромана.](https://pubmed.ncbi.nlm.nih.gov/26396792/)
 
@@ -4079,17 +4079,17 @@ Item in Clipboard
 
 The title compound, C11H11FO2, is a building block in the synthesis of the active pharmaceutical ingredient dl-**nebivolol**. The synthes …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  207
 
-Цитировать
 
-Делиться
+
+
 
 [Регуляция сердечной miR-208a, индуктора ожирения, рапамицином и **небивололом** .](https://pubmed.ncbi.nlm.nih.gov/26381051/)
 
@@ -4099,17 +4099,17 @@ Item in Clipboard
 
 OBJECTIVE: Resistance to obesity is observed in rodents and humans treated with rapamycin (Rap) or **nebivolol** (Neb). Because cardiac m …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  208
 
-Цитировать
 
-Делиться
+
+
 
 [Корреляция активности ренина плазмы и концентрации альдостерона с амбулаторными показателями артериального давления при применении **небиволола** и валсартана, по отдельности и в комбинации, при гипертонии.](https://pubmed.ncbi.nlm.nih.gov/26362831/)
 
@@ -4119,17 +4119,17 @@ Item in Clipboard
 
 After demonstration of the antihypertensive efficacy of the combination of the beta-blocker **nebivolol** and the angiotensin receptor bl …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  209
 
-Цитировать
 
-Делиться
+
+
 
 [**Гинекомастия, вызванная небивололом** .](https://pubmed.ncbi.nlm.nih.gov/26312003/)
 
@@ -4139,33 +4139,33 @@ Item in Clipboard
 
 Gynecomastia as an adverse drug reaction, related to some cardiovascular drugs, has been reported in literature. **Nebivolol** is a third …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  210
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** : уникальный препарат при острых и хронических заболеваниях почек.](https://pubmed.ncbi.nlm.nih.gov/26288486/)
 
 Амири ФС. Amiri FS. Indian J Pharmacol. 2015 июль-авг.;47(4):462-3. doi: 10.4103/0253-7613.161281. Indian J Pharmacol. 2015. PMID: 26288486 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  211
 
-Цитировать
 
-Делиться
+
+
 
 [Оксид азота способствует повышению вазомоторного тонуса у афроамериканцев с гипертонией, лечившихся **небивололом** и метопрололом.](https://pubmed.ncbi.nlm.nih.gov/26285691/)
 
@@ -4175,17 +4175,17 @@ Item in Clipboard
 
 NO blockade with L-NMMA produced a trend toward greater vasoconstriction during **nebivolol** compared with metoprolol treatment (21% vs …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  212
 
-Цитировать
 
-Делиться
+
+
 
 [Обзор фармакологии и клинических данных **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/26177892/)
 
@@ -4195,17 +4195,17 @@ Item in Clipboard
 
 **Nebivolol** is a highly selective beta1-adrenergic receptor antagonist with a pharmacologic profile that differs from those of other dr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  213
 
-Цитировать
 
-Делиться
+
+
 
 [Амбулаторное 24-часовое потребление кислорода сердцем и вариабельность артериального давления и частоты сердечных сокращений: эффекты **небиволола** и валсартана по отдельности и в комбинации.](https://pubmed.ncbi.nlm.nih.gov/26116459/)
 
@@ -4215,17 +4215,17 @@ Item in Clipboard
 
 We compared an angiotensin receptor blocker (valsartan; VAL), a beta-blocker (**nebivolol**; NEB) and the combination of NEB/VAL with res …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  214
 
-Цитировать
 
-Делиться
+
+
 
 [Использование ресурсов здравоохранения, связанных с сердечно-сосудистыми заболеваниями, и расходы у пациентов с гипертонией, переводящих пациентов с метопролола на **небиволол** .](https://pubmed.ncbi.nlm.nih.gov/26005514/)
 
@@ -4235,17 +4235,17 @@ Item in Clipboard
 
 Little is known about the impact of switching from a second-generation beta-blocker, such as metoprolol, to **nebivolol** on healthcare r …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  215
 
-Цитировать
 
-Делиться
+
+
 
 [Эффект комбинированного применения ивабрадина и β-адреноблокаторов: особое внимание уделено использованию карведилола в популяции SHIFT.](https://pubmed.ncbi.nlm.nih.gov/25968495/)
 
@@ -4255,17 +4255,17 @@ Item in Clipboard
 
 METHODS: We analyzed outcomes in SHIFT patients with systolic heart failure who were prescribed beta-blockers (carvedilol, bisoprolol, metop …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  216
 
-Цитировать
 
-Делиться
+
+
 
 [Одноцентровое открытое трехстороннее перекрестное исследование для определения фармакокинетического и фармакодинамического взаимодействия между **небивололом** и валсартаном у здоровых добровольцев в устойчивом состоянии.](https://pubmed.ncbi.nlm.nih.gov/25853236/)
 
@@ -4275,33 +4275,33 @@ Item in Clipboard
 
 Systolic and diastolic BP reduction was significantly greater with **nebivolol**\-valsartan combination than with either monotherapy. The …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  217
 
-Цитировать
 
-Делиться
+
+
 
 [Индукция высвобождения оксида азота **небивололом** может улучшить эндотелиальную дисфункцию при поликистозной болезни почек.](https://pubmed.ncbi.nlm.nih.gov/25826544/)
 
 Эроглу Э., Коджыгит И. Eroglu E, et al. Kidney Int. 2015 апрель;87(4):857. doi: 10.1038/ki.2014.417. Kidney Int. 2015. PMID: 25826544 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  218
 
-Цитировать
 
-Делиться
+
+
 
 [β-Блокаторы при гипертонии, диабете, сердечной недостаточности и остром инфаркте миокарда: обзор литературы.](https://pubmed.ncbi.nlm.nih.gov/25821584/)
 
@@ -4311,17 +4311,17 @@ Item in Clipboard
 
 Newer generation BBs, such as the vasodilating BBs carvedilol and **nebivolol**, have been shown not only to be better tolerated than non …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  219
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на доступность оксида азота в почках и функцию канальцев у пациентов с эссенциальной гипертензией.](https://pubmed.ncbi.nlm.nih.gov/25778445/)
 
@@ -4331,17 +4331,17 @@ Item in Clipboard
 
 AIMS: **Nebivolol** is a selective beta1 -receptor antagonist with vasodilating properties. ...Vasoactive hormones were changed to a simi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  220
 
-Цитировать
 
-Делиться
+
+
 
 [Лабеталол, **небиволол** и пропранолол расслабляют лучевую артерию человека, используемую в качестве коронарного шунтирования.](https://pubmed.ncbi.nlm.nih.gov/25749140/)
 
@@ -4353,17 +4353,17 @@ Item in Clipboard
 
 The relaxation response induced by labetalol in the isolated radial artery rings was significantly higher when compared with the **nebivolo** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  221
 
-Цитировать
 
-Делиться
+
+
 
 [Антагонисты бета-адренорецепторов третьего поколения в лечении гипертонии и сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/25732141/)
 
@@ -4373,17 +4373,17 @@ Item in Clipboard
 
 They have different lipophilicity, different adrenoceptor selectivity and/or varying additional abilities in cardiac tissue and periphery va …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  222
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** в профилактике мерцательной аритмии после коронарной хирургии у пациентов старше 60 лет.](https://pubmed.ncbi.nlm.nih.gov/25714213/)
 
@@ -4393,17 +4393,17 @@ Item in Clipboard
 
 Inotropic agent requirement at ICU was similar for both groups \[n=12 (12%), n=18 (18%), P=0.32\]. CONCLUSION: We compared the effectiveness o …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  223
 
-Цитировать
 
-Делиться
+
+
 
 [Гипогликемия, полицитемия и гипонатриемия у новорожденного, подвергшегося воздействию **небиволола** во время беременности.](https://pubmed.ncbi.nlm.nih.gov/25709355/)
 
@@ -4413,33 +4413,33 @@ Item in Clipboard
 
 **Nebivolol** is a third-generation beta blocker that exerts selective antagonistic activity on beta1 receptors. ...Birth weight was 3040 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  224
 
-Цитировать
 
-Делиться
+
+
 
 [Бета-адренорецепторы при легочной артериальной гипертензии: новая терапевтическая мишень?](https://pubmed.ncbi.nlm.nih.gov/25677429/)
 
 Рубин Л.Дж. Rubin LJ. Дж Ам Колл Кардиол. 24 февраля 2015 г.;65(7):681-3. doi: 10.1016/j.jacc.2014.11.049. J Am Coll Cardiol. 2015. PMID: 25677429 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  225
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** для улучшения эндотелиальной дисфункции, ремоделирования легочных сосудов и функции правых отделов сердца при легочной гипертензии.](https://pubmed.ncbi.nlm.nih.gov/25677428/)
 
@@ -4449,33 +4449,33 @@ Item in Clipboard
 
 **Nebivolol** but not metoprolol induced endothelium-dependent and nitric oxide-dependent relaxation of PA. ...CONCLUSIONS: **Nebivolol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  226
 
-Цитировать
 
-Делиться
+
+
 
 [Блокировать или не блокировать? Вот в чем вопрос.](https://pubmed.ncbi.nlm.nih.gov/25659853/)
 
 Харкен А.Х. Harken AH. J Thorac Cardiovasc Surg. 2015 Апрель;149(4):1040-1. doi: 10.1016/j.jtcvs.2015.01.023. Электронная публикация 19 января 2015 г. J Thorac Cardiovasc Surg. 2015. PMID: 25659853 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  227
 
-Цитировать
 
-Делиться
+
+
 
 [Разработка и оценка in vitro двухслойных таблеток **небиволола** гидрохлорида и натеглинида для лечения диабета и гипертонии.](https://pubmed.ncbi.nlm.nih.gov/25648606/)
 
@@ -4485,17 +4485,17 @@ Item in Clipboard
 
 The most common cause of death in the diabetic patient is heart disease. In the present investigation we combine **Nebivolol** and Nategl …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  228
 
-Цитировать
 
-Делиться
+
+
 
 [Значительное ухудшение антиатерогенной эффективности **небиволола** в мышиной модели атеросклероза с двойным нокаутом (аполипопротеин Е и эндотелиальная синтаза оксида азота) по сравнению с моделью с одинарным нокаутом (аполипопротеин Е).](https://pubmed.ncbi.nlm.nih.gov/25554992/)
 
@@ -4505,17 +4505,17 @@ Item in Clipboard
 
 We, therefore, decided to use apoE and eNOS-double knockout mouse model to confirm that mechanism of **nebivolol** beneficial action. In …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  229
 
-Цитировать
 
-Делиться
+
+
 
 [Проведение анестезии у пациента с неуточненной вненадпочечниковой феохромоцитомой, принимавшего бета-блокаторы.](https://pubmed.ncbi.nlm.nih.gov/25538499/)
 
@@ -4525,17 +4525,17 @@ Item in Clipboard
 
 An operation was planned for a female patient aged 59 for intra-abdominal mass. The patient was using **nebivolol** for hypertension. Blo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  230
 
-Цитировать
 
-Делиться
+
+
 
 [Цифровая плетизмография и метаболизм аргинина при прегипертонии: эффект терапии **небивололом** .](https://pubmed.ncbi.nlm.nih.gov/25495953/)
 
@@ -4545,17 +4545,17 @@ Item in Clipboard
 
 **Nebivolol** increases the bioavailability of NO. Prehypertension was associated with normal RHI and baseline digital blood flow. ...ADM …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  231
 
-Цитировать
 
-Делиться
+
+
 
 [Недостаточный контроль частоты сердечных сокращений у пациентов со стабильной ишемической болезнью сердца в Латвии.](https://pubmed.ncbi.nlm.nih.gov/25488166/)
 
@@ -4565,33 +4565,33 @@ Item in Clipboard
 
 Beta-blockers were used in 81.7% of the patients. Metoprolol (long acting succinate), bisoprolol, **nebivolol** and carvedilol in average …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  232
 
-Цитировать
 
-Делиться
+
+
 
 [Кристаллическая структура 2-хлор-1-(6-фтор-3,4-ди-гидро-2Н-хромен-2-ил)этанона.](https://pubmed.ncbi.nlm.nih.gov/25484686/)
 
 Шэнь Z, Мао QX, Гэ JL, Ту YR, Ван Y. Shen Z, et al. Acta Crystallogr Sect E Struct Rep Online. 6 сентября 2014 г.;70(Pt 10):o1087. doi: 10.1107/S1600536814019746. eCollection 1 октября 2014 г. Acta Crystallogr Sect E Struct Rep Online. 2014. PMID: 25484686 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  233
 
-Цитировать
 
-Делиться
+
+
 
 [Клиническая эффективность комбинированных препаратов с фиксированными дозами при гипертонии: доказательства потенциала **небиволола** /валсартана.](https://pubmed.ncbi.nlm.nih.gov/25473311/)
 
@@ -4601,33 +4601,33 @@ Item in Clipboard
 
 This review discusses the advances in hypertension control and associated cardiovascular disease as they relate to the prospect of combinati …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  234
 
-Цитировать
 
-Делиться
+
+
 
 [Все ли бета-блокаторы одинаковы? Сосудорасширяющие свойства **небиволола** и доказательства его значимости при лечении гипертонии.](https://pubmed.ncbi.nlm.nih.gov/25440024/)
 
 Канбай М., Афсар Б. Kanbay M, et al. J Clin Hypertens (Гринвич). 2015 Январь;17(1):20-1. doi: 10.1111/jch.12447. Epub 2014 Ноябрь 29. J Clin Hypertens (Greenwich). 2015. PMID: 25440024 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  235
 
-Цитировать
 
-Делиться
+
+
 
 [Мерцательная аритмия (острое начало).](https://pubmed.ncbi.nlm.nih.gov/25430048/)
 
@@ -4637,17 +4637,17 @@ Item in Clipboard
 
 CONCLUSIONS: In this systematic review, we present information relating to the effectiveness and safety of the following interventions: amio …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  236
 
-Цитировать
 
-Делиться
+
+
 
 [Карведилол и **небиволол** улучшают систолическую функцию левого желудочка у пациентов с неишемической сердечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/25413223/)
 
@@ -4657,33 +4657,33 @@ Item in Clipboard
 
 OBJECTIVE: It is unclear whether carvedilol and **nebivolol** produce different effects on short-term left ventricle (LV) systolic functi …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  237
 
-Цитировать
 
-Делиться
+
+
 
 [Степень снижения артериального давления в группах плацебо в современных исследованиях гипертонии: значение для исследований почечной денервации.](https://pubmed.ncbi.nlm.nih.gov/25403604/)
 
 Патель ХК, Хейворд К., Оздемир Б.А., Розен С.Д., Крам Х., Лион А.Р., Фрэнсис Д.П., ди Марио К. Patel HC, et al. Гипертония. 2015 февр.;65(2):401-6. doi: 10.1161/HYPERTENSIONAHA.114.04640. Epub 2014 нояб. 17. Hypertension. 2015. PMID: 25403604 Бесплатная статья.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  238
 
-Цитировать
 
-Делиться
+
+
 
 [Клиническое исследование контрастной нефропатии: факторы риска и роль бета-блокаторов.](https://pubmed.ncbi.nlm.nih.gov/25333980/)
 
@@ -4693,17 +4693,17 @@ Item in Clipboard
 
 There is also an effort to find more effficient strategies to prevent CN. Carvedilol, metoprolol and **nebivolol** seem to have theoretic …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  239
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние карведилола и **небиволола** на состояние оксидантного стресса у пациентов с неишемической сердечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/25299401/)
 
@@ -4713,17 +4713,17 @@ Item in Clipboard
 
 BACKGROUND: Carvedilol and **nebivolol** have favourable properties such as anti-oxidative effects in addition to other beta-blockers. .. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  240
 
-Цитировать
 
-Делиться
+
+
 
 [Анализ экономической эффективности **небиволола** и метопролола при эссенциальной гипертонии: фармакоэкономическое сравнение антигипертензивной эффективности бета-блокаторов.](https://pubmed.ncbi.nlm.nih.gov/25298575/)
 
@@ -4733,17 +4733,17 @@ Item in Clipboard
 
 OBJECTIVE: To estimate and compare the cost-effectiveness and safety of **nebivolol** with sustained-release metoprolol in reducing blood …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  241
 
-Цитировать
 
-Делиться
+
+
 
 [Цинк и прооксидантный фенотип сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/25291496/)
 
@@ -4753,17 +4753,17 @@ Item in Clipboard
 
 It can be achieved exogenously by ZnSO4 supplementation or endogenously using a beta3-receptor agonist (eg, **nebivolol**) that enhances …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  242
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** , но не метопролол, снижает артериальное давление у людей с гипертонией, чувствительной к оксиду азота.](https://pubmed.ncbi.nlm.nih.gov/25267802/)
 
@@ -4773,17 +4773,17 @@ Item in Clipboard
 
 **Nebivolol**, unlike other selective beta1-receptor blockers, induces vasodilation attributable to increased NO bioavailability. ...Desp …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  243
 
-Цитировать
 
-Делиться
+
+
 
 [Положительное влияние **небиволола** по сравнению с атенололом на безопасность и переносимость при эссенциальной гипертонии.](https://pubmed.ncbi.nlm.nih.gov/25120998/)
 
@@ -4793,17 +4793,17 @@ Item in Clipboard
 
 Total 90 patients were enrolled into study as per selection criteria. Patients were randomized to receive Atenolol and **Nebivolol** with …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  244
 
-Цитировать
 
-Делиться
+
+
 
 [Антигипертензивные препараты и метаболизм глюкозы.](https://pubmed.ncbi.nlm.nih.gov/25068013/)
 
@@ -4813,17 +4813,17 @@ Item in Clipboard
 
 On the other hand, diuretics and beta-blockers have an overall disadvantageous effect on glucose metabolism. Of note, carvedilol as well as …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  245
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** снижает центральное артериальное давление у пациентов с гипертонией I стадии: экспериментальное исследование с участием одной когорты.](https://pubmed.ncbi.nlm.nih.gov/25054966/)
 
@@ -4833,17 +4833,17 @@ Item in Clipboard
 
 Thus, different classes of antihypertensive drugs have different effects on central BP despite similar reductions in brachial BP. The aim of …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  246
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние систолического артериального давления на клинические результаты у пожилых пациентов с сердечной недостаточностью, лечившихся **небивололом** : данные исследования SENIORS.](https://pubmed.ncbi.nlm.nih.gov/25044535/)
 
@@ -4853,17 +4853,17 @@ Item in Clipboard
 
 METHODS AND RESULTS: The SENIORS trial evaluated the effects of **nebivolol** and enrolled 2128 patients 70 years of age with HF. Patient …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  247
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение влияния **небиволола** и декспантенола на заживление ран: экспериментальное исследование.](https://pubmed.ncbi.nlm.nih.gov/25040679/)
 
@@ -4875,17 +4875,17 @@ Item in Clipboard
 
 On the 21(st) day, all wounds were excised and histologically evaluated. The wound healing rates of the dexpanthenol and **nebivolol** gr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  248
 
-Цитировать
 
-Делиться
+
+
 
 [Острый гепатит после начала лечения пинаверия бромидом у пациента, принимающего миртазапин.](https://pubmed.ncbi.nlm.nih.gov/25015163/)
 
@@ -4895,17 +4895,17 @@ Item in Clipboard
 
 The patient had pre-existing hypertension, a major depressive disorder and gastro-oesophageal reflux disease. He had been taking **nebivolo** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  249
 
-Цитировать
 
-Делиться
+
+
 
 [Экономические последствия перехода с метопролола на **небиволол** при лечении гипертонии: ретроспективный анализ базы данных.](https://pubmed.ncbi.nlm.nih.gov/25007315/)
 
@@ -4915,17 +4915,17 @@ Item in Clipboard
 
 Hypertensive patients continuously treated with metoprolol for 6 months (pre-period) and then switched to **nebivolol** for 6 months (pos …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  250
 
-Цитировать
 
-Делиться
+
+
 
 [Блокаторы β1-адренорецепторов оказывают антиоксидантное действие, снижают активность матриксной металлопротеиназы и улучшают сердечную гипертрофию, вызванную реноваскулярной гипертензией.](https://pubmed.ncbi.nlm.nih.gov/24933619/)
 
@@ -4935,17 +4935,17 @@ Item in Clipboard
 
 We hypothesized that beta1-adrenergic receptor blockers with antioxidant properties (**nebivolol**) could reverse hypertension-induced LV …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  251
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** защищает от инфаркта миокарда посредством стимуляции бета-3-адренорецепторов и сигнализации оксида азота.](https://pubmed.ncbi.nlm.nih.gov/24849208/)
 
@@ -4955,17 +4955,17 @@ Item in Clipboard
 
 Conversely, the cardiac protective effects of **nebivolol** were abolished by SR and L-NAME. These results indicate that **nebivolol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  252
 
-Цитировать
 
-Делиться
+
+
 
 [Разработка и in vitro оценка мукоадгезивных буккальных пленок **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/24843191/)
 
@@ -4975,17 +4975,17 @@ Item in Clipboard
 
 **Nebivolol**, a cardioselective beta-blocker undergoes extensive metabolism in the liver after its oral administration resulting in low …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  253
 
-Цитировать
 
-Делиться
+
+
 
 [Мелкие дедифференцированные кардиомиоциты, граничащие с микродоменами фиброза: доказательства обратного ремоделирования с вспомогательным восстановлением.](https://pubmed.ncbi.nlm.nih.gov/24785345/)
 
@@ -4995,17 +4995,17 @@ Item in Clipboard
 
 To address phenotype rescue, 4 weeks of ALDOST was terminated followed by 4 weeks of neurohormonal withdrawal combined with a regimen of exo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  254
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** : сосудорасширяющие свойства и доказательства значимости в лечении сердечно-сосудистых заболеваний.](https://pubmed.ncbi.nlm.nih.gov/24750980/)
 
@@ -5015,17 +5015,17 @@ Item in Clipboard
 
 The vasodilatory actions of **nebivolol** might result in clinical effects with some distinct properties. ...These properties position …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  255
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка влияния ирбесартана и **небиволола** на объем и деформацию левого предсердия у больных легкой и средней степенью артериальной гипертензии.](https://pubmed.ncbi.nlm.nih.gov/24706300/)
 
@@ -5035,17 +5035,17 @@ Item in Clipboard
 
 BACKGROUND: We aimed to assess the effects of irbesartan and **nebivolol** on the left atrium (LA) volume and deformation in the patients …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  256
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние новых бета-адренолитиков **небиволола** и карведилола на внутриглазное давление и кровоток радужки у кроликов.](https://pubmed.ncbi.nlm.nih.gov/24705852/)
 
@@ -5055,17 +5055,17 @@ Item in Clipboard
 
 BACKGROUND: The aim of this study was to assess the influence of propranolol, **nebivolol**, and carvedilol on intraocular pressure and b …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  257
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние ресвератрола и **небиволола** на изолированные сосудистые и сердечные ткани молодых крыс.](https://pubmed.ncbi.nlm.nih.gov/24696678/)
 
@@ -5075,17 +5075,17 @@ Item in Clipboard
 
 The mechanisms by which resveratrol and **nebivolol** induce vasodilation are not clearly understood. It has been postulated that both ag …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  258
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение эффектов **небиволола** , карведилола и ирбесартана на гипертрофию левого желудочка, связанную с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/24668702/)
 
@@ -5095,17 +5095,17 @@ Item in Clipboard
 
 The patients were divided into three different treatment groups: irbesartan (n=28), **nebivolol** (n=25) and carvedilol (n=32). The patie …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  259
 
-Цитировать
 
-Делиться
+
+
 
 [Нет никаких доказательств толерантности к нитратам, вызванной **небивололом** .](https://pubmed.ncbi.nlm.nih.gov/24532547/)
 
@@ -5115,17 +5115,17 @@ Item in Clipboard
 
 Subjects received 5 mg **nebivolol** or placebo once daily for 8 days in random order divided by a drug-free interval of 2 weeks. ...CONC …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  260
 
-Цитировать
 
-Делиться
+
+
 
 [Сочетание других антигипертензивных препаратов с β-адреноблокаторами при гипертонии: акцент на безопасности и переносимости.](https://pubmed.ncbi.nlm.nih.gov/24518661/)
 
@@ -5135,17 +5135,17 @@ Item in Clipboard
 
 Using an angiotensin-converting enzyme inhibitor as initial combination therapy with most beta-blockers is not recommended because of a lack …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  261
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние лечения **небивололом** на компоненты атеросклеротической бляшки у мышей с нокаутированным геном apoE.](https://pubmed.ncbi.nlm.nih.gov/24388889/)
 
@@ -5155,17 +5155,17 @@ Item in Clipboard
 
 **Nebivolol**, a third generation beta1-blocker was previously found to reduce the size of atherosclerotic lesions. ...These effects sugg …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  262
 
-Цитировать
 
-Делиться
+
+
 
 [Диастолическая сердечная недостаточность при гипертонии: возможные профилактические преимущества **небиволола** помимо снижения артериального давления.](https://pubmed.ncbi.nlm.nih.gov/24371501/)
 
@@ -5175,17 +5175,17 @@ Item in Clipboard
 
 Beta-blockers, a class of drugs with well-established indications and benefits for both hypertension and heart failure seem to show differen …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  263
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние различных бета-блокаторов на уровень оксида азота в сосудистом трансплантате: сравнение **небиволола** и метопролола.](https://pubmed.ncbi.nlm.nih.gov/24309401/)
 
@@ -5195,17 +5195,17 @@ Item in Clipboard
 
 METHODS: This was a prospective study. Fifty-five patients were divided into three groups: **nebivolol** group (group N, n = 23), metopro …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  264
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние метопролола и **небиволола** на артериальное давление при физической нагрузке у пациентов с легкой гипертонией.](https://pubmed.ncbi.nlm.nih.gov/24285938/)
 
@@ -5215,17 +5215,17 @@ Item in Clipboard
 
 RESULTS: Blood pressures were determined to be similar between metoprolol and **nebivolol** groups during rest, exercise, and recovery pe …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  265
 
-Цитировать
 
-Делиться
+
+
 
 [Единичные и комбинированные эффекты **небиволола** и изменения образа жизни на жесткость крупных артерий у взрослых с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/24265181/)
 
@@ -5235,33 +5235,33 @@ Item in Clipboard
 
 BACKGROUND: We hypothesized that the combination of **nebivolol** and lifestyle modification would reduce large artery stiffness in middl …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  266
 
-Цитировать
 
-Делиться
+
+
 
 [Адренорецепторы и оксид азота в сердечно-сосудистой системе.](https://pubmed.ncbi.nlm.nih.gov/24223559/)
 
 Конти В., Руссоманно Г., Корби Г., Иззо В., Веккьоне К., Филиппелли А. Conti V, et al. Front Physiol. 2013 6 ноября;4:321. doi: 10.3389/fphys.2013.00321. Front Physiol. 2013. PMID: 24223559 Бесплатная статья PMC. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  267
 
-Цитировать
 
-Делиться
+
+
 
 [Разработка, создание и исследования проникновения **небиволола** гидрохлорида из новых трансдермальных пластырей матричного типа.](https://pubmed.ncbi.nlm.nih.gov/24223377/)
 
@@ -5271,17 +5271,17 @@ Item in Clipboard
 
 BACKGROUND: **Nebivolol** hydrochloride is a third generation beta-blocker with highly selective beta1-receptor antagonist with antihyper …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  268
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние низких доз карведилола, **небиволола** и метопролола на центральное артериальное давление и его детерминанты: рандомизированное клиническое исследование.](https://pubmed.ncbi.nlm.nih.gov/24119182/)
 
@@ -5291,17 +5291,17 @@ AIx остался неизменным, тогда как AIx@75 значите
 
 AIx remained unchanged, while AIx@75 decreased significantly by 5.4%2.5% in the **nebivolol** group. According to general linear models, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  269
 
-Цитировать
 
-Делиться
+
+
 
 [Пересмотр крупномасштабных плацебо-контролируемых исследований бета-блокаторов при систолической сердечной недостаточности: результаты CIBIS-II, COPERNICUS и SENIORS-SHF по сравнению со стратифицированными подгруппами из MERIT-HF.](https://pubmed.ncbi.nlm.nih.gov/24118421/)
 
@@ -5311,17 +5311,17 @@ Item in Clipboard
 
 The aim of this study was to compare, in similar patients, the effects of bisoprolol, metoprolol controlled release/extended release (CR/XL) …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  270
 
-Цитировать
 
-Делиться
+
+
 
 [Благоприятная кинетика и баланс стимулированного **небивололом** высвобождения оксида азота и пероксинитрита в эндотелиальных клетках человека.](https://pubmed.ncbi.nlm.nih.gov/24074014/)
 
@@ -5331,17 +5331,17 @@ Item in Clipboard
 
 BACKGROUND: **Nebivolol** is a third-generation beta-blocker used to treat hypertension. ...**Nebivolol** induced ATP release in a con …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  271
 
-Цитировать
 
-Делиться
+
+
 
 [**Монотерапия небивололом** у молодых людей (моложе 55 лет) с гипертонией: рандомизированное плацебо-контролируемое исследование.](https://pubmed.ncbi.nlm.nih.gov/24034663/)
 
@@ -5351,17 +5351,17 @@ Item in Clipboard
 
 **Nebivolol**, a vasodilatory beta1-blocker, may be well suited for the hemodynamics of the younger hypertensive patient. ...Total AE rat …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  272
 
-Цитировать
 
-Делиться
+
+
 
 [Бета-блокатор **Небиволол** — это агонист ГРК/бета-аррестина.](https://pubmed.ncbi.nlm.nih.gov/23977191/)
 
@@ -5371,17 +5371,17 @@ Item in Clipboard
 
 The mechanism via which **nebivolol** induces NO production remains unknown, resulting in the genesis of much of the controversy regardin …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  273
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние пептидомиметика ангиотензина-(1-7) (AVE 0991) и **небиволола** на метаболизм ангиотензина I в аорте мышей с нокаутом апоЕ.](https://pubmed.ncbi.nlm.nih.gov/23959728/)
 
@@ -5391,17 +5391,17 @@ Item in Clipboard
 
 Recently, we have demonstrated that Ang-(1-7) peptidomimetic - AVE0991, as well as known beta-adrenolytic agent **nebivolol**, exert anti …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  274
 
-Цитировать
 
-Делиться
+
+
 
 [Знания о сердечной недостаточности в первичной медико-санитарной помощи: необходимость укрепления непрерывного медицинского образования.](https://pubmed.ncbi.nlm.nih.gov/23913453/)
 
@@ -5411,17 +5411,17 @@ Item in Clipboard
 
 There was a significant reverse relationship between physicians' age and their declarations in prescription of angiotensin II receptor block …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  275
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на податливость аорты у пациентов с диабетом и максимальной блокадой ренин-ангиотензиновой системы: исследование EFFORT.](https://pubmed.ncbi.nlm.nih.gov/23815535/)
 
@@ -5431,17 +5431,17 @@ Item in Clipboard
 
 The beneficial effects of **nebivolol** on arterial stiffness and endothelial dysfunction are well documented in untreated hypertensive p …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  276
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** ослабляет прооксидантные и профиброзные механизмы с участием TGF-бета и ММП, а также уменьшает ремоделирование сосудов при реноваскулярной гипертензии.](https://pubmed.ncbi.nlm.nih.gov/23806385/)
 
@@ -5451,17 +5451,17 @@ Item in Clipboard
 
 **Nebivolol** and metoprolol are beta1-adrenergic receptor blockers with different properties. ...Six weeks after surgery, hypertensive a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  277
 
-Цитировать
 
-Делиться
+
+
 
 [Соображения по безопасности и лечению пациентов с хронической сердечной недостаточностью на большой высоте.](https://pubmed.ncbi.nlm.nih.gov/23795728/)
 
@@ -5469,19 +5469,19 @@ Item in Clipboard
 
 Эти действия не свойственны селективным бета1-блокаторам, таким как бисопролол и **небиволол** , которые следует отдавать предпочтение при лечении пациентов с СН, желающих проводить время на высоте. ...
 
-These actions are not shared by selective beta1-blockers such as bisoprolol and **nebivolol**, which should be preferred for treatment of …
+These actions are not d by selective beta1-blockers such as bisoprolol and **nebivolol**, which should be preferred for treatment of …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  278
 
-Цитировать
 
-Делиться
+
+
 
 [β-блокаторы усиливают ответ на химиотерапию посредством прямых противоопухолевых и антиангиогенных механизмов при нейробластоме.](https://pubmed.ncbi.nlm.nih.gov/23695022/)
 
@@ -5491,17 +5491,17 @@ Item in Clipboard
 
 METHODS: Seven beta-blockers were tested for their antiproliferative and anti-angiogenic properties alone, and in combination with chemother …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  279
 
-Цитировать
 
-Делиться
+
+
 
 [Положительные эффекты комбинации **небиволола** и гидрохлоротиазида у крыс со спонтанной гипертензией.](https://pubmed.ncbi.nlm.nih.gov/23680668/)
 
@@ -5511,17 +5511,17 @@ Item in Clipboard
 
 OBJECTIVE: This study examined the combined effect of **nebivolol** (NEB) and hydrochlorothiazide (HCTZ) on cardiovascular function in sp …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  280
 
-Цитировать
 
-Делиться
+
+
 
 [Экстракты Cynodon dactylon и Sida acuta влияют на функцию сердечно-сосудистой системы у эмбрионов данио-рерио.](https://pubmed.ncbi.nlm.nih.gov/23554736/)
 
@@ -5531,17 +5531,17 @@ Item in Clipboard
 
 The methanolic extract of Sida acuta (S. acuta) led to decreases in the HBR in zebrafish embryos \[(1.8770.079) beats/s\], which was greater t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  281
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние дополнительного применения **небиволола** на показатели артериального давления и глюкозы у пациентов с гипертонией и предиабетом.](https://pubmed.ncbi.nlm.nih.gov/23551727/)
 
@@ -5551,17 +5551,17 @@ Item in Clipboard
 
 The mean changes in area under the curve OGTT were 0.0 mg/dL (**nebivolol**), 6.9 mg/dL (HCTZ; P=.024 vs **nebivolol**), and -1.0 mg/d …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  282
 
-Цитировать
 
-Делиться
+
+
 
 [Различное влияние **небиволола** и метопролола на функциональный симпатолизис у людей с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/23547240/)
 
@@ -5571,17 +5571,17 @@ Item in Clipboard
 
 We therefore asked whether **nebivolol** would restore functional sympatholysis in hypertensive humans. ...**Nebivolol** had no effect …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  283
 
-Цитировать
 
-Делиться
+
+
 
 [(S,S,S,S)- **Небиволола** гидрохлорида полугидрат.](https://pubmed.ncbi.nlm.nih.gov/23476188/)
 
@@ -5591,17 +5591,17 @@ Item in Clipboard
 
 The asymmetric unit of the title hydrated salt, C22H26F2NO4(+).Cl(-).0.5H2O, consists of an (S,S,S,S)-**nebivolol** {nebivol = bis-\[2-(6- …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  284
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** предотвращает десенсибилизацию бета-адренорецепторной сигнализации и индукцию гипертрофии сердца в ответ на изопреналин за пределами блокады бета1-адренорецепторов.](https://pubmed.ncbi.nlm.nih.gov/23457011/)
 
@@ -5611,17 +5611,17 @@ Item in Clipboard
 
 Rats infused by isoprenaline (100 mug.kg(-1).day(-1), 14 days) were randomized into three groups according to the treatment with metoprolol …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  285
 
-Цитировать
 
-Делиться
+
+
 
 [Преимущества β-блокаторов у пациентов с сердечной недостаточностью и сниженной фракцией выброса: сетевой метаанализ.](https://pubmed.ncbi.nlm.nih.gov/23325883/)
 
@@ -5631,17 +5631,17 @@ Item in Clipboard
 
 RESULTS: 21 trials were included, focusing on atenolol, bisoprolol, bucindolol, carvedilol, metoprolol, and **nebivolol**. As expected, i …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  286
 
-Цитировать
 
-Делиться
+
+
 
 [Блокада β1-адренорецепторов увеличивает продолжительность жизни дрозофилы и долгоживущих мышей.](https://pubmed.ncbi.nlm.nih.gov/23314750/)
 
@@ -5651,17 +5651,17 @@ Item in Clipboard
 
 Here, we show that beta-blockers extend the life span of healthy metazoans. The beta-blockers metoprolol and **nebivolol**, administered …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  287
 
-Цитировать
 
-Делиться
+
+
 
 [Центральная гемодинамика при прегипертонии: влияние бета-адреноблокатора **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/23282127/)
 
@@ -5671,17 +5671,17 @@ Item in Clipboard
 
 The aim of the current study was to characterize the effects of the novel beta-adrenergic antagonist **nebivolol** on central aortic bloo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  288
 
-Цитировать
 
-Делиться
+
+
 
 [Острая и 14-дневная реакция градиента печеночного венозного давления на карведилол и **небиволол** у пациентов с циррозом печени.](https://pubmed.ncbi.nlm.nih.gov/24823927/)
 
@@ -5691,17 +5691,17 @@ Item in Clipboard
 
 MATERIAL AND METHODS: In total, 20 cirrhotic patients were randomized into 2 groups and treated with carvedilol (n=10) or **nebivolol** ( …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  289
 
-Цитировать
 
-Делиться
+
+
 
 [**Лечение небивололом** улучшает резистентную функцию артерий и снижает гипертрофию желудочков и уровень ангиотензина II у крыс со спонтанной гипертензией.](https://pubmed.ncbi.nlm.nih.gov/23263161/)
 
@@ -5711,17 +5711,17 @@ Item in Clipboard
 
 METHODS: Rats were divided into: SHR treated with **nebivolol** (8 mg/kg, i.g.)/atenolol(80 mg/kg, i.g.); SHR control group; normotensive …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  290
 
-Цитировать
 
-Делиться
+
+
 
 [Разрешение коронарного вазоспазма, вызванного **небивололом** , путем внутрикоронарного введения нитроглицерина во время коронарной ангиографии.](https://pubmed.ncbi.nlm.nih.gov/23164735/)
 
@@ -5731,17 +5731,17 @@ Item in Clipboard
 
 **Nebivolol** is a novel beta1-selective beta-blocker with vasodilator properties mediated through activation of the l-arginine-nitric ox …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  291
 
-Цитировать
 
-Делиться
+
+
 
 [\[Проспективное наблюдение **небиволола** при лечении артериальной гипертонии\].](https://pubmed.ncbi.nlm.nih.gov/23092025/)
 
@@ -5751,17 +5751,17 @@ Item in Clipboard
 
 OBJECTIVE: The aim of the study was to investigate the antihypertensive effect of **nebivolol** in patients with arterial hypertension (A …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  292
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние AVE 0991, **небиволола** и доксициклина на воспалительные медиаторы в мышиной модели атеросклероза с нокаутом apoE.](https://pubmed.ncbi.nlm.nih.gov/23018345/)
 
@@ -5771,17 +5771,17 @@ Item in Clipboard
 
 Three experimental groups received the same diet as a control group, mixed with AVE 0991 at a dose 0.58 mol per kg of body weight per day, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  293
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность и переносимость **небиволола** : имеет ли значение возраст? Ретроспективный анализ трех рандомизированных плацебо-контролируемых исследований при гипертонии I-II стадии.](https://pubmed.ncbi.nlm.nih.gov/23008339/)
 
@@ -5791,17 +5791,17 @@ Item in Clipboard
 
 OBJECTIVES: This retrospective analysis examined the efficacy and tolerability of **nebivolol**, a ss(1)-selective, vasodilatory beta-blo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  294
 
-Цитировать
 
-Делиться
+
+
 
 [Регуляция сердечных воспалительных механизмов, вызванных избыточным питанием.](https://pubmed.ncbi.nlm.nih.gov/22969779/)
 
@@ -5811,17 +5811,17 @@ Item in Clipboard
 
 BACKGROUND: Unlike conventional beta-blockers, **nebivolol**, a third-generation beta-adrenergic receptor blocker with vasodilator proper …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  295
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние комбинированной терапии бета-блокаторами и ингибиторами ангиотензинпревращающего фермента на артериальное давление по сравнению с отдельными препаратами: плацебо-контролируемое исследование с **небивололом** и лизиноприлом.](https://pubmed.ncbi.nlm.nih.gov/22947356/)
 
@@ -5831,17 +5831,17 @@ Item in Clipboard
 
 The BP effects of placebo (n=93), **nebivolol** 5 mg to 20 mg daily (n = 185), lisinopril 10 mg to 40 mg daily (n=189), and **nebivolol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  296
 
-Цитировать
 
-Делиться
+
+
 
 [Селективный антагонизм бета-адренорецепторов 1 подавляет опосредованное норадреналином снижение уровня ФНО-альфа при экспериментальном циррозе печени.](https://pubmed.ncbi.nlm.nih.gov/22916250/)
 
@@ -5851,17 +5851,17 @@ Item in Clipboard
 
 A second set of forty mice injected with a single intraperitoneal dose of CCl(4) was treated with saline, 6-hydroxidopamine, **Nebivolol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  297
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** снижает уровень сердечного ангиотензина II, связанный с ним окислительный стресс и фиброз, но не артериальное давление у крыс со спонтанной гипертензией, подвергавшихся воздействию соли.](https://pubmed.ncbi.nlm.nih.gov/22895019/)
 
@@ -5871,17 +5871,17 @@ Item in Clipboard
 
 CONCLUSIONS: Our data suggest that **nebivolol**, in a blood pressure-independent manner, ameliorated cardiac oxidative stress and associ …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  298
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на исход у пожилых пациентов с сердечной недостаточностью и мерцательной аритмией: мнения SENIORS.](https://pubmed.ncbi.nlm.nih.gov/22764183/)
 
@@ -5891,17 +5891,17 @@ Item in Clipboard
 
 METHODS AND RESULTS: The SENIORS trial showed an overall benefit of **nebivolol** compared with placebo in 2128 heart failure patients &g …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  299
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** не защищает от хронической болезни почек, вызванной абляцией/инфарктом 5/6 у крыс — сравнение с блокадой рецепторов ангиотензина II.](https://pubmed.ncbi.nlm.nih.gov/22727796/)
 
@@ -5911,17 +5911,17 @@ Item in Clipboard
 
 Here, we investigated whether **Nebivolol** attenuates hypertension and renal injury after 5/6 ablation/infarction (A/I). ...This contras …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  300
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние карведилола и **небиволола** на параметры, связанные с окислительным стрессом, и функцию эндотелия у пациентов с эссенциальной гипертонией.](https://pubmed.ncbi.nlm.nih.gov/22703478/)
 
@@ -5931,17 +5931,17 @@ Item in Clipboard
 
 The purpose of this study was to evaluate the effect of carvedilol and **nebivolol** on the oxidative stress-related parameters and endot …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  301
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние бета-1-блокатора **небиволола** на центральное аортальное давление и артериальную жесткость у пациентов с эссенциальной гипертензией.](https://pubmed.ncbi.nlm.nih.gov/22701257/)
 
@@ -5951,17 +5951,17 @@ Item in Clipboard
 
 This study was done to assess the effect of beta-1-blocker, **nebivolol**, in patients with essential hypertension on central aortic pres …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  302
 
-Цитировать
 
-Делиться
+
+
 
 [**Вызванная небивололом** вазодилатация почечных афферентных артериол связана с активацией бета3-адренорецепторов и синтазы оксида азота.](https://pubmed.ncbi.nlm.nih.gov/22674024/)
 
@@ -5971,17 +5971,17 @@ Item in Clipboard
 
 **Nebivolol** is a beta(1)-adrenergic blocker that also elicits renal vasodilation and increases the glomerular filtration rate (GFR). .. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  303
 
-Цитировать
 
-Делиться
+
+
 
 [**Терапия небивололом** улучшает параметры QTc и QTcd у пациентов с сердечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/22614660/)
 
@@ -5991,17 +5991,17 @@ Item in Clipboard
 
 The aim of this study was to demonstrate this improvement with the third-generation beta-blocker, **nebivolol**. METHODS: A total of 72 h …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  304
 
-Цитировать
 
-Делиться
+
+
 
 [Бета-блокаторы при сердечной недостаточности: обзор на основе фактических данных, отвечающий на практические терапевтические вопросы.](https://pubmed.ncbi.nlm.nih.gov/22582541/)
 
@@ -6011,17 +6011,17 @@ Item in Clipboard
 
 Bisoprolol, carvedilol and metoprolol succinate have been clearly proven to reduce mortality and hospitalisation in patients with Class II t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  305
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** : влияние на сердечную и эндотелиальную функцию и клиническая ценность.](https://pubmed.ncbi.nlm.nih.gov/22454559/)
 
@@ -6031,17 +6031,17 @@ Item in Clipboard
 
 This dual mechanism of action underscores several hemodynamic qualities of **nebivolol**, which include reductions in heart rate and bloo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  306
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** улучшает диастолическую дисфункцию и ремоделирование миокарда за счет снижения окислительного стресса у трансгенных (mRen2) крыс.](https://pubmed.ncbi.nlm.nih.gov/22447938/)
 
@@ -6051,17 +6051,17 @@ Item in Clipboard
 
 We treated 6- to 7-wk-old TG (mRen2)27 rats and age-matched Sprague-Dawley control rats with **nebivolol** (10 mg.kg(-1).day(-1)) or plac …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  307
 
-Цитировать
 
-Делиться
+
+
 
 [Дифференциальное влияние **небиволола** и метопролола на чувствительность к инсулину и ингибитору активатора плазминогена при метаболическом синдроме.](https://pubmed.ncbi.nlm.nih.gov/22353614/)
 
@@ -6071,17 +6071,17 @@ Item in Clipboard
 
 Metoprolol significantly decreased the insulin sensitivity index. In contrast, **nebivolol** did not affect insulin sensitivity, and the …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  308
 
-Цитировать
 
-Делиться
+
+
 
 [β-блокада: преимущества, выходящие за рамки снижения артериального давления?](https://pubmed.ncbi.nlm.nih.gov/22277144/)
 
@@ -6091,17 +6091,17 @@ Item in Clipboard
 
 The purpose of this review is to summarize pathophysiologic mechanisms thought to be responsible for the increased CV risk associated with C …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  309
 
-Цитировать
 
-Делиться
+
+
 
 [Предотвращает ли **небиволол** нефропатию, вызванную контрастным веществом, у людей?](https://pubmed.ncbi.nlm.nih.gov/22262230/)
 
@@ -6111,33 +6111,33 @@ Item in Clipboard
 
 BACKGROUND: An experimental study showed that **nebivolol** is an effective agent in contrast-induced nephropathy (CIN) prophylaxis. ...T …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  310
 
-Цитировать
 
-Делиться
+
+
 
 [Активация бета3-адренорецепторов просто говорит НЕТ реперфузионному повреждению миокарда.](https://pubmed.ncbi.nlm.nih.gov/22152957/)
 
 Хеуш Г. Heusch G. J Am Coll Cardiol. 2011 13 декабря;58(25):2692-4. doi: 10.1016/j.jacc.2011.09.034. J Am Coll Cardiol. 2011. PMID: 22152957 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  311
 
-Цитировать
 
-Делиться
+
+
 
 [Стимуляция бета3-адренорецепторов улучшает состояние миокарда, вызванное ишемией-реперфузией, посредством активации эндотелиальной синтазы оксида азота и нейрональной синтазы оксида азота.](https://pubmed.ncbi.nlm.nih.gov/22152956/)
 
@@ -6147,17 +6147,17 @@ VEH) и повышенные уровни нитрита и общего нит�
 
 VEH) and increased nitrite and total nitrosylated protein levels. **Nebivolol** and CL 316243 significantly increased myocardial nNOS exp …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  312
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние длительного приема **небиволола** на клинические симптомы, физическую работоспособность и функцию левого желудочка у пациентов с диастолической дисфункцией: результаты исследования ELANDD.](https://pubmed.ncbi.nlm.nih.gov/22147202/)
 
@@ -6167,17 +6167,17 @@ Item in Clipboard
 
 Resting and peak blood pressure and heart rate decreased with **nebivolol**. A significant correlation was found between the change in pe …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  313
 
-Цитировать
 
-Делиться
+
+
 
 [Как утренний, так и вечерний прием **небиволола** снижает средний скачок артериального давления у больных гипертонией.](https://pubmed.ncbi.nlm.nih.gov/22024668/)
 
@@ -6187,17 +6187,17 @@ Item in Clipboard
 
 This is a prospective, randomized, double-blind, crossover study designed to test morning vs. evening dosing of **nebivolol** in nondiabe …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  314
 
-Цитировать
 
-Делиться
+
+
 
 [Функция эндотелия сосудов у пациентов с медленным коронарным кровотоком и эффекты **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/22011806/)
 
@@ -6207,17 +6207,17 @@ Item in Clipboard
 
 Among Patients with CSF, although pretreatment mean FMD values were similar (6.1 4.3% vs. 6.0 ,6%, p = 0.917) compared to aspirin alone grou …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  315
 
-Цитировать
 
-Делиться
+
+
 
 [\[Сравнительное влияние **небиволола** и валсартана на электромеханическую связь предсердий у впервые диагностированных пациентов с гипертонической болезнью 1 стадии\].](https://pubmed.ncbi.nlm.nih.gov/21983766/)
 
@@ -6227,17 +6227,17 @@ Item in Clipboard
 
 The aim of this study was to compare the effects of valsartan, an angiotensin receptor blocker, and **nebivolol**, a beta-blocker, on atr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  316
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние бета-блокады на эффективность физических упражнений на большой высоте: рандомизированное плацебо-контролируемое исследование, сравнивающее эффективность **небиволола** и карведилола у здоровых людей.](https://pubmed.ncbi.nlm.nih.gov/21883997/)
 
@@ -6249,17 +6249,17 @@ Item in Clipboard
 
 Changes from SL (no treatment) differed among treatments: (1) peak VO(2) was better preserved with **nebivolol** (-22.5%) than with carve …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  317
 
-Цитировать
 
-Делиться
+
+
 
 [Защитное действие **небиволола** на хроническую гипертонию и хроническую болезнь почек, вызванные ингибированием синтазы оксида азота у крыс: сравнение с блокадой рецепторов ангиотензина II.](https://pubmed.ncbi.nlm.nih.gov/21856762/)
 
@@ -6269,17 +6269,17 @@ Item in Clipboard
 
 BACKGROUND: Nitric oxide (NO) deficiency contributes to chronic kidney disease (CKD) progression and hypertension. The beta-blocker, **nebi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  318
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнение влияния **небиволола** и атенолола на артериальное давление, уровень сахара в крови и липидный профиль у пациентов с эссенциальной гипертонией.](https://pubmed.ncbi.nlm.nih.gov/21845001/)
 
@@ -6289,33 +6289,33 @@ Item in Clipboard
 
 BACKGROUND: **Nebivolol** is a third-generation beta-blocker, with highest beta(1) selectivity and nitric-oxide-derived vasodilatation. . …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  319
 
-Цитировать
 
-Делиться
+
+
 
 [Лечение эректильной дисфункции у пациентов с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/21649845/)
 
 Хэндлер Дж. Handler J. J Clin Hypertens (Гринвич). 2011 июнь;13(6):450-4. doi: 10.1111/j.1751-7176.2011.00465.x. Epub 2011 апр. 22. J Clin Hypertens (Greenwich). 2011. PMID: 21649845 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  320
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** улучшает чувствительность к инсулину у крыс TGR(Ren2)27.](https://pubmed.ncbi.nlm.nih.gov/21640361/)
 
@@ -6325,17 +6325,17 @@ Item in Clipboard
 
 Young (age, 6-9 weeks) Ren2 and age-matched Sprague-Dawley control rats were treated with **nebivolol** 10 mg/(kg d) or placebo for 21 da …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  321
 
-Цитировать
 
-Делиться
+
+
 
 [Анемия у пациентов с сердечной недостаточностью и сохраненной или сниженной фракцией выброса: результаты исследования SENIORS.](https://pubmed.ncbi.nlm.nih.gov/21613429/)
 
@@ -6345,17 +6345,17 @@ Item in Clipboard
 
 We sought to investigate prevalence and incidence of anaemia in patients with HF irrespective of whether reduced or preserved ejection fract …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  322
 
-Цитировать
 
-Делиться
+
+
 
 [Митохондриальный путь некроза кардиомиоцитов при альдостеронизме: кардиопротекторные реакции на карведилол и **небиволол** .](https://pubmed.ncbi.nlm.nih.gov/21558884/)
 
@@ -6365,17 +6365,17 @@ Item in Clipboard
 
 Second, to validate this pathway, we used mitochondria-targeted pharmaceutical interventions as cardioprotective strategies using 4-week cot …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  323
 
-Цитировать
 
-Делиться
+
+
 
 [Предикторы клинических исходов у пожилых пациентов с сердечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/21454299/)
 
@@ -6385,17 +6385,17 @@ Item in Clipboard
 
 METHODS AND RESULTS: The SENIORS trial evaluated the effects of **nebivolol** and enrolled 2128 patients 70 years with HF (ejection fract …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  324
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** оказывает благоприятное воздействие на функцию эндотелия, ранние эндотелиальные клетки-предшественники, неоваскуляризацию миокарда и дисфункцию левого желудочка в ранние сроки после инфаркта миокарда, помимо традиционной бета1-блокады.](https://pubmed.ncbi.nlm.nih.gov/21272752/)
 
@@ -6407,17 +6407,17 @@ Item in Clipboard
 
 Importantly, **nebivolol**, but not metoprolol, improved LV dysfunction 4 weeks after MI (LV ejection fraction: **nebivolol** vs. meto …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  325
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** в сравнении с метопролола сукцинатом пролонгированного действия на асимметричный диметиларгинин при гипертонии.](https://pubmed.ncbi.nlm.nih.gov/21251896/)
 
@@ -6427,17 +6427,17 @@ Item in Clipboard
 
 This study sought to determine if metoprolol succinate ER (MET), and **nebivolol** (NEB), a beta1-AR with increased bioavailability of ni …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  326
 
-Цитировать
 
-Делиться
+
+
 
 [Одновременная оценка амлодипина бесилата и **небиволола** гидрохлорида в таблетированных лекарственных формах методом обращенно-фазовой высокоэффективной жидкостной хроматографии с ультрафиолетовым детектированием.](https://pubmed.ncbi.nlm.nih.gov/23781423/)
 
@@ -6447,17 +6447,17 @@ Item in Clipboard
 
 BACKGROUND: The present study aimed to develop and validate the simultaneous estimation of amlodipine and **nebivolol** in tablet dosage …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  327
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнительное исследование влияния **небиволола** и (S) атенолола на артериальное давление и частоту сердечных сокращений у пациентов с эссенциальной гипертонией.](https://pubmed.ncbi.nlm.nih.gov/21189915/)
 
@@ -6467,17 +6467,17 @@ Item in Clipboard
 
 OBJECTIVES: To study the effect of **nebivolol** 5 mg once daily versus (S)-atenolol 25 mg once daily in patients with essential hyperten …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  328
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** ослабляет окислительно-восстановительную гломерулярную и канальцевую протеинурию у тучных крыс.](https://pubmed.ncbi.nlm.nih.gov/21177830/)
 
@@ -6487,17 +6487,17 @@ Item in Clipboard
 
 **Nebivolol** treatment also led to improvements in glomerular podocyte foot-process effacement and improvement in podocyte-specific prot …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  329
 
-Цитировать
 
-Делиться
+
+
 
 [Клинико-экономические аспекты применения **небиволола** в лечении пожилых больных с сердечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/21152240/)
 
@@ -6507,17 +6507,17 @@ Item in Clipboard
 
 The effects of **nebivolol** on left ventricular function in elderly patients with chronic heart failure (ENECA) and the study of effects …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  330
 
-Цитировать
 
-Делиться
+
+
 
 [Количественное определение **небиволола** гидрохлорида в плазме человека методом жидкостной хроматографии с использованием флуоресцентного детектирования: использование в фармакокинетическом исследовании.](https://pubmed.ncbi.nlm.nih.gov/22491307/)
 
@@ -6527,17 +6527,17 @@ Item in Clipboard
 
 Sample preparation involves a simple single-step protein precipitation procedure and extraction of **nebivolol** in acetonitrile. The sep …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  331
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность и безопасность **небиволола** у латиноамериканцев с гипертонией I–II стадии: рандомизированное плацебо-контролируемое исследование.](https://pubmed.ncbi.nlm.nih.gov/21088095/)
 
@@ -6547,17 +6547,17 @@ Item in Clipboard
 
 RESULTS: Baseline SBP/DBP (mmHg) was similar in both treatment groups (**nebivolol**: 156/100; placebo: 157/101). A total of 135 (96%) an …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  332
 
-Цитировать
 
-Делиться
+
+
 
 [Повреждение почек, вызванное солью, у крыс со спонтанной гипертензией: эффекты **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/21042014/)
 
@@ -6567,17 +6567,17 @@ Item in Clipboard
 
 **Nebivolol** also increased neuronal NOS expression while preventing the salt-induced decrease in renal blood flow and mas protein expre …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  333
 
-Цитировать
 
-Делиться
+
+
 
 [Замена карведилола на пропранолол у пациентов с сердечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/20563524/)
 
@@ -6587,33 +6587,33 @@ Item in Clipboard
 
 BACKGROUND: Large clinical trials using the betablockers carvedilol, metoprolol, bisoprolol and **nebivolol** have demonstrated improveme …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  334
 
-Цитировать
 
-Делиться
+
+
 
 [Оптимальное использование бета-блокаторов при гипертонии высокого риска: руководство по эквивалентности дозировки.](https://pubmed.ncbi.nlm.nih.gov/20539838/)
 
 Макгилл Дж.Б. McGill JB. Vasc Health Risk Manag. 2010 1 июня;6:363-72. doi: 10.2147/vhrm.s6668. Vasc Health Risk Manag. 2010. PMID: 20539838 Бесплатная статья PMC. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  335
 
-Цитировать
 
-Делиться
+
+
 
 [Влияет ли **небиволол** на концентрацию провоспалительных цитокинов в сыворотке крови у гипертензивных (SHR) и нормотензивных (WKY) крыс?](https://pubmed.ncbi.nlm.nih.gov/20360618/)
 
@@ -6623,17 +6623,17 @@ Item in Clipboard
 
 **Nebivolol** (5 mg/kg and 10 mg/kg) or vehicle were administered by gavage once a day for 21 days. ...The results were accompanied by a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  336
 
-Цитировать
 
-Делиться
+
+
 
 [Состав и оценка таблеток s-(-)-амлодипина бесилата и **небиволола** гидрохлорида.](https://pubmed.ncbi.nlm.nih.gov/22247846/)
 
@@ -6643,17 +6643,17 @@ Item in Clipboard
 
 The composition containing the optically pure S-(-)- isomer of amlodipine 2.5 mg has calcium channel blocking activity and, **nebivolol** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  337
 
-Цитировать
 
-Делиться
+
+
 
 [Одновременная оценка **небиволола** гидрохлорида и валсартана с использованием ОФ ВЭЖХ.](https://pubmed.ncbi.nlm.nih.gov/20336202/)
 
@@ -6663,17 +6663,17 @@ Item in Clipboard
 
 In this study, a rapid, precise, accurate, specific and sensitive ion-paired reverse phase liquid chromatographic method has been developed …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  338
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на противосудорожный эффект ламотриджина.](https://pubmed.ncbi.nlm.nih.gov/20177581/)
 
@@ -6683,17 +6683,17 @@ Item in Clipboard
 
 OBJECTIVE: The present study describes the effect of **nebivolol** (NBV) either alone or in combination with lamotrigine (LTG) using incr …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  339
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** улучшает диастолическую дисфункцию и ремоделирование миокарда за счет снижения окислительного стресса у крыс Цукера с ожирением.](https://pubmed.ncbi.nlm.nih.gov/20176997/)
 
@@ -6703,17 +6703,17 @@ Item in Clipboard
 
 We hypothesized that **nebivolol** would attenuate diastolic dysfunction and myocardial remodeling by blunting myocardial oxidant stress …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  340
 
-Цитировать
 
-Делиться
+
+
 
 [**Эффективность и безопасность небиволола** у больных гипертонической болезнью I-II стадии.](https://pubmed.ncbi.nlm.nih.gov/20162736/)
 
@@ -6723,17 +6723,17 @@ Item in Clipboard
 
 RESULTS: At study end, the least squares mean reductions in trough SiDBP from baseline with **nebivolol** 5 mg, 10 mg, and 20 mg were - 7 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  341
 
-Цитировать
 
-Делиться
+
+
 
 [Селективный антагонист бета1-адренорецепторов **небиволол** является потенциальным агонистом эстрогеновых рецепторов с нейропротекторными свойствами.](https://pubmed.ncbi.nlm.nih.gov/20128815/)
 
@@ -6743,17 +6743,17 @@ Item in Clipboard
 
 Recently, it was reported that **nebivolol** also acts as an oestrogen receptor (ER) agonist. To investigate the neuroprotective potentia …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  342
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** ослабляет неадаптивное ремоделирование проксимальных канальцев у трансгенных крыс.](https://pubmed.ncbi.nlm.nih.gov/20110666/)
 
@@ -6763,17 +6763,17 @@ Item in Clipboard
 
 BACKGROUND/AIMS: The impact of **nebivolol** therapy on the renal proximal tubular cell (PTC) structure and function was investigated in …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  343
 
-Цитировать
 
-Делиться
+
+
 
 [Эректильная дисфункция у пациентов с гипертонией высокого риска, получающих лечение бета-блокаторами.](https://pubmed.ncbi.nlm.nih.gov/20074255/)
 
@@ -6783,17 +6783,17 @@ Item in Clipboard
 
 ED patients received more medications and were more frequently treated with carvedilol and less frequently with **nebivolol**. Patients t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  344
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на атерогенез у мышей с нокаутом apoE.](https://pubmed.ncbi.nlm.nih.gov/20065511/)
 
@@ -6803,17 +6803,17 @@ Item in Clipboard
 
 **Nebivolol** is a novel beta1-blocker with a nitric oxide (NO)--potentiating, vasodilatory effect that is unique among beta-blockers. .. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  345
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** у афроамериканцев с высоким риском ожирения и гипертонией 1 стадии: влияние на артериальное давление, сосудистую эластичность и эндотелиальную функцию.](https://pubmed.ncbi.nlm.nih.gov/20021529/)
 
@@ -6823,17 +6823,17 @@ Item in Clipboard
 
 **Nebivolol** treatment improved endothelial function as measured by flow-mediated dilation (P<.005). Levels of erythrocyte cellular s …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  346
 
-Цитировать
 
-Делиться
+
+
 
 [Уменьшение гиперплазии интимы у кроликов с помощью медикаментозной терапии после каротидного венозного шунтирования.](https://pubmed.ncbi.nlm.nih.gov/19876413/)
 
@@ -6843,17 +6843,17 @@ Item in Clipboard
 
 We investigated the effects of clopidogrel, calcium dobesilate, **nebivolol**, and atorvastatin on the development of intimal hyperplasia …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  347
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** : несколько иной блокатор бета-адренорецепторов.](https://pubmed.ncbi.nlm.nih.gov/19815121/)
 
@@ -6863,17 +6863,17 @@ Item in Clipboard
 
 Although its clinical use in Europe dates almost 10 years, **nebivolol** is a beta-blocker that has been only recently introduced in the …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  348
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность **небиволола** при опосредованной потоком дилатации у пациентов с медленным коронарным кровотоком.](https://pubmed.ncbi.nlm.nih.gov/19809204/)
 
@@ -6883,17 +6883,17 @@ Item in Clipboard
 
 Forty-two patients (16 females, 26 males; mean age, 55 +/- 10) with slow coronary flow (SCF) were included in the study. After baseline asse …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  349
 
-Цитировать
 
-Делиться
+
+
 
 [Регионарные функции левого желудочка у больных с медленным коронарным кровотоком и эффекты **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/19734185/)
 
@@ -6903,33 +6903,33 @@ Item in Clipboard
 
 BACKGROUND: Microvascular and endothelial dysfunction have been implicated for coronary slow flow (CSF). **Nebivolol**, besides its beta- …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  350
 
-Цитировать
 
-Делиться
+
+
 
 [Бета-блокаторы при гипертонии: выходят ли они из моды?](https://pubmed.ncbi.nlm.nih.gov/19726558/)
 
 Че Кью, Шрайбер М.Дж., Рафей М.А. Che Q, et al. Cleve Clin J Med. 2009 сентябрь;76(9):533-42. doi: 10.3949/ccjm.76a.09030. Cleve Clin J Med. 2009. PMID: 19726558 Бесплатная статья. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  351
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние бета-блокаторов на адаптивную иммунную систему при хронической сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/19689617/)
 
@@ -6941,17 +6941,17 @@ Item in Clipboard
 
 Patients taking carvedilol had a significantly lower expression of CD107a on cytotoxic T cells compared to bisoprolol (P= 0.001) and **nebi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  352
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность и безопасность **небиволола** у пожилых пациентов с сердечной недостаточностью и нарушением функции почек: выводы исследования SENIORS.](https://pubmed.ncbi.nlm.nih.gov/19648605/)
 
@@ -6961,17 +6961,17 @@ Item in Clipboard
 
 AIM: To determine the safety and efficacy of **nebivolol** in elderly heart failure (HF) patients with renal dysfunction. ...CONCLUSION: …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  353
 
-Цитировать
 
-Делиться
+
+
 
 [Легочные эффекты **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/19638367/)
 
@@ -6981,17 +6981,17 @@ Item in Clipboard
 
 Respiratory effects of **nebivolol** have been investigated in animal models, in healthy volunteers and in clinical trials carried out on …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  354
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** снижает протеинурию и количество активных форм кислорода, генерируемых почечной НАДФН-оксидазой, у трансгенных крыс Ren2.](https://pubmed.ncbi.nlm.nih.gov/19609077/)
 
@@ -7001,17 +7001,17 @@ Item in Clipboard
 
 Ren2 rats (6-9 weeks of age) and age-matched Sprague-Dawley littermates were treated with **nebivolol** 10 mg/kg/day (osmotic mini-pump) …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  355
 
-Цитировать
 
-Делиться
+
+
 
 [Реалии новых бета-блокаторов для лечения гипертонии.](https://pubmed.ncbi.nlm.nih.gov/19583633/)
 
@@ -7021,33 +7021,33 @@ Item in Clipboard
 
 Later, new agents were developed with selectivity for beta1-adrenoceptors, and were subsequently followed by beta-blockers, which exhibit ad …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  356
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** (бистолик) — новый бета-блокатор для лечения гипертонии.](https://pubmed.ncbi.nlm.nih.gov/19561858/)
 
 Хилас О., Эццо Д. Hilas O, et al. П Т. 2009 апрель;34(4):188-92. P T. 2009. PMID: 19561858 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  357
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** у пациентов с ожирением и без ожирения, страдающих гипертонией.](https://pubmed.ncbi.nlm.nih.gov/19527321/)
 
@@ -7057,33 +7057,33 @@ Item in Clipboard
 
 Reductions in SiSBP with **nebivolol** were higher than controls at all studied doses > or =5 mg in non-obese and > or =2.5 mg in o …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  358
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** у пожилых людей с сердечной недостаточностью: снижены ли дозы для пожилых людей?](https://pubmed.ncbi.nlm.nih.gov/19497442/)
 
 Армстронг П.В., Александр КП. Armstrong PW, et al. Дж Ам Колл Кардиол. 2009, 9 июня;53(23):2159-61. doi: 10.1016/j.jacc.2009.03.019. J Am Coll Cardiol. 2009. PMID: 19497442 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  359
 
-Цитировать
 
-Делиться
+
+
 
 [Бета-блокада с **небивололом** у пожилых пациентов с сердечной недостаточностью с нарушенной и сохраненной фракцией выброса левого желудочка: данные SENIORS (исследование эффектов вмешательства **небиволола** на исходы и повторную госпитализацию у пожилых пациентов с сердечной недостаточностью).](https://pubmed.ncbi.nlm.nih.gov/19497441/)
 
@@ -7093,17 +7093,17 @@ Item in Clipboard
 
 OBJECTIVES: In this pre-specified subanalysis of the SENIORS (Study of Effects of **Nebivolol** Intervention on Outcomes and Rehospitaliz …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  360
 
-Цитировать
 
-Делиться
+
+
 
 [Артериальная ригидность, гипертония и рациональное применение **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/19475771/)
 
@@ -7113,17 +7113,17 @@ Item in Clipboard
 
 It is conceivable that newer beta-blockers with additional vasodilating properties, such as **nebivolol**, which has favorable effects on …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  361
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** и квинаприл уменьшают продолжительность и дисперсию p-волны у пациентов с гипертонической болезнью.](https://pubmed.ncbi.nlm.nih.gov/19471593/)
 
@@ -7133,17 +7133,17 @@ Item in Clipboard
 
 We aimed to investigate the effects of **nebivolol** and quinapril treatments on P-wave duration and dispersion in hypertensive patients. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  362
 
-Цитировать
 
-Делиться
+
+
 
 [Механизмы действия оксида азота **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/19443516/)
 
@@ -7153,33 +7153,33 @@ Item in Clipboard
 
 The specific mechanism of **nebivolol** is particularly relevant in hypertension, where nitric oxide dysfunction occurs. Indeed, **nebiv** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  363
 
-Цитировать
 
-Делиться
+
+
 
 [Стимуляция бета(3)-адренорецепторов на фоне блокады бета(1)-адренорецепторов «Стоп или бис?».](https://pubmed.ncbi.nlm.nih.gov/19389565/)
 
 Баллиганд Дж. Л. Balligand JL. Дж Ам Колл Кардиол. 28 апреля 2009 г.;53(17):1539-42. doi: 10.1016/j.jacc.2009.01.048. J Am Coll Cardiol. 2009. PMID: 19389565 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  364
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** , селективный бета(1)-блокатор с сосудорасширяющим эффектом, является агонистом бета(3)-адренорецепторов в неповрежденном трансплантированном человеческом сердце.](https://pubmed.ncbi.nlm.nih.gov/19389564/)
 
@@ -7189,17 +7189,17 @@ Item in Clipboard
 
 OBJECTIVES: The present study was to assess whether **nebivolol** could activate beta(3)-adrenergic receptors (ARs) in the human heart. B …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  365
 
-Цитировать
 
-Делиться
+
+
 
 [Исследование различных адренорецепторных мишеней энантиомеров **небиволола** в грудной аорте крысы.](https://pubmed.ncbi.nlm.nih.gov/19210511/)
 
@@ -7209,17 +7209,17 @@ Item in Clipboard
 
 KEY RESULTS: D-**nebivolol** (0.1-10 micromol.L(-1)), but not L-**nebivolol**, significantly shifted to the right the concentration-re …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  366
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на функцию эндотелия и параметры физической нагрузки у пациентов с медленным коронарным кровотоком.](https://pubmed.ncbi.nlm.nih.gov/20508771/)
 
@@ -7229,17 +7229,17 @@ Item in Clipboard
 
 The aim of the present study is to investigate the effects of **nebivolol** on flow-mediated dilatation (FMD), and on the exercise capaci …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  367
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** в сравнении с бисопрололом на функцию эндотелия у пациентов с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/20198199/)
 
@@ -7249,17 +7249,17 @@ Item in Clipboard
 
 OBJECTIVE: To determine the effects of two beta-blockers, **nebivolol** and bisoprolol, on endothelial function in newly diagnosed hypert …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  368
 
-Цитировать
 
-Делиться
+
+
 
 [Тенденции и неравенство в назначении бета-блокаторов при сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/19068160/)
 
@@ -7269,17 +7269,17 @@ Item in Clipboard
 
 The main outcome was the prescription of a guideline-recommended beta-blocker (bisoprolol, carvedilol, metoprolol, or **nebivolol**) in t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  369
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние вазодилатирующего бета-блокатора **небиволола** на эндотелиальную дисфункцию, вызванную курением, у молодых здоровых добровольцев.](https://pubmed.ncbi.nlm.nih.gov/19066009/)
 
@@ -7289,17 +7289,17 @@ Item in Clipboard
 
 RESULTS: **Nebivolol** for 14 days did not significantly affect forearm blood flow after smoking. ...No changes in coagulation parameters …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  370
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на выживаемость кожного лоскута: рандомизированное экспериментальное исследование на крысах.](https://pubmed.ncbi.nlm.nih.gov/24692819/)
 
@@ -7309,17 +7309,17 @@ Item in Clipboard
 
 In the **nebivolol** group, **nebivolol** 50 mg/kg/d (1 mL, of a racemic solution of **nebivolol**) was administered orally 2 days …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  371
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** : высокоселективный блокатор бета1-адренорецепторов, вызывающий вазодилатацию за счет повышения уровня оксида азота.](https://pubmed.ncbi.nlm.nih.gov/18786089/)
 
@@ -7329,17 +7329,17 @@ Item in Clipboard
 
 **Nebivolol** (Bystolic) is a cardioselective beta 1 (beta(1))-adrenergic receptor blocker with endothelium-dependent vasodilating proper …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  372
 
-Цитировать
 
-Делиться
+
+
 
 [Валидированный метод ОФ-ВЭЖХ для одновременной оценки **небиволола** и гидрохлоротиазида в таблетках.](https://pubmed.ncbi.nlm.nih.gov/21394278/)
 
@@ -7349,17 +7349,17 @@ Item in Clipboard
 
 A simple, selective, rapid, precise and economical reverse phase high pressure liquid chromatographic method has been developed for the simu …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  373
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка стабильности **небиволола** гидрохлорида в фармацевтических составах с помощью ОФ-ВЭЖХ.](https://pubmed.ncbi.nlm.nih.gov/21394254/)
 
@@ -7369,33 +7369,33 @@ Item in Clipboard
 
 The retention time of **nebivolol** hydrochloride was 2.6 min. The linearity for **nebivolol** hydrochloride was in the range of 0.2-1 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  374
 
-Цитировать
 
-Делиться
+
+
 
 [Лечение сердечной недостаточности с сохраненной систолической функцией.](https://pubmed.ncbi.nlm.nih.gov/18656095/)
 
 де Гроот П., Эрпен Д., Дьевар Ф., Ханон О., Трошю Ж.Н., Артигу Ж.Ю., Галинье М., Хабиб Г., Жюльер И., Нойдер И., Рудо Р., Комайда М. de Groote P, et al. Arch Cardiovasc Dis. 2008 May;101(5):361-72. doi: 10.1016/j.acvd.2008.04.008. Epub 2008 Jul 7. Arch Cardiovasc Dis. 2008. PMID: 18656095 Бесплатная статья. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  375
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на уровень оксида азота в сыворотке, фактор Виллебранда в плазме и параметры нагрузочного тестирования у пациентов с гипертонической болезнью и ишемической болезнью сердца.](https://pubmed.ncbi.nlm.nih.gov/18651401/)
 
@@ -7405,17 +7405,17 @@ Item in Clipboard
 
 RESULTS: A significant increase in serum NO concentration was found in all the investigated patients after **nebivolol** treatment. A pro …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  376
 
-Цитировать
 
-Делиться
+
+
 
 [Различные фармакологические свойства двух энантиомеров уникального бета-блокатора **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/18485134/)
 
@@ -7425,17 +7425,17 @@ Item in Clipboard
 
 **Nebivolol** is a racemic combination of d-**nebivolol** (+SRRR **nebivolol**) and l-**nebivolol** (-RSSS **nebivolol**) tha …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  377
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на экспрессию эндотелиальных генов во время окислительного стресса в эндотелиальных клетках пупочной вены человека.](https://pubmed.ncbi.nlm.nih.gov/18437228/)
 
@@ -7445,17 +7445,17 @@ Item in Clipboard
 
 The aim of this study is to compare the effects of two beta blockers such as **nebivolol** and atenolol on gene expression in human umbil …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  378
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на апоптоз в модели инфаркта у крыс.](https://pubmed.ncbi.nlm.nih.gov/18362441/)
 
@@ -7465,33 +7465,33 @@ Item in Clipboard
 
 METHODS AND RESULTS: Rats were divided into 3 groups: sham operated (sham-control), MI-induced (MI-control) and **nebivolol** treated (MI …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  379
 
-Цитировать
 
-Делиться
+
+
 
 [Бета-блокаторы в лечении гипертонии: новые данные, новые направления.](https://pubmed.ncbi.nlm.nih.gov/18326967/)
 
 Вебер М.А., Бакрис Г.Л., Джайлс Т.Д., Мессерли Ф.Х. Weber MA, et al. J Clin Hypertens (Гринвич). 2008 март;10(3):234-8. doi: 10.1111/j.1751-7176.2008.07843.x. J Clin Hypertens (Greenwich). 2008. PMID: 18326967 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  380
 
-Цитировать
 
-Делиться
+
+
 
 [Простациклин среди простаноидов.](https://pubmed.ncbi.nlm.nih.gov/18276980/)
 
@@ -7501,17 +7501,17 @@ Item in Clipboard
 
 ACE inhibitors (ACE-I), statins, some of beta-adrenergic receptor antagonists, e.g. carvedilol or **nebivolol**, anti-platelet thienopyri …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  381
 
-Цитировать
 
-Делиться
+
+
 
 [Обзор безопасности и эффективности **небиволола** у пациентов с легкой гипертонией.](https://pubmed.ncbi.nlm.nih.gov/18200810/)
 
@@ -7521,17 +7521,17 @@ Item in Clipboard
 
 **Nebivolol** is a third generation beta-blocker, which can be distinguished from other beta-blockers by its hemodynamic profile. ...In g …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  382
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** в лечении хронической сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/18078016/)
 
@@ -7541,17 +7541,17 @@ Item in Clipboard
 
 **Nebivolol** is a highly selective beta1-adrenergic blocker that also enhances nitric oxide bioavailability via the L-arginine-nitric ox …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  383
 
-Цитировать
 
-Делиться
+
+
 
 [Следует ли продолжать использовать бета-блокаторы в качестве начальных антигипертензивных средств при неосложненной гипертонии?](https://pubmed.ncbi.nlm.nih.gov/18071610/)
 
@@ -7561,17 +7561,17 @@ Item in Clipboard
 
 These include some adverse metabolic abnormalities such as dyslipidaemia and new-onset diabetes, and less effective reduction of central aor …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  384
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность и переносимость **небиволола** у афроамериканских пациентов с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/17978594/)
 
@@ -7581,17 +7581,17 @@ Item in Clipboard
 
 The primary efficacy end point was the baseline-adjusted change in trough mean SiDBP. After 12 weeks, **nebivolol** significantly reduced …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  385
 
-Цитировать
 
-Делиться
+
+
 
 [Рандомизированное, двойное слепое, плацебо-контролируемое исследование в параллельных группах для оценки эффективности и безопасности **небиволола** , нового бета-блокатора, у пациентов с легкой и умеренной гипертонией.](https://pubmed.ncbi.nlm.nih.gov/17786067/)
 
@@ -7601,33 +7601,33 @@ Item in Clipboard
 
 A total of 909 patients were randomized to receive placebo or **nebivolol** 1.25, 2.5, 5, 10, 20, or 40 mg once daily for up to 84 days. …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  386
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакоэкономические преимущества антигипертензивной терапии.](https://pubmed.ncbi.nlm.nih.gov/17605508/)
 
 Гонсалес ЭР. Gonzalez ER. J Manag Care Pharm. 2007 июнь;13(5 Suppl):S20-1. doi: 10.18553/jmcp.2007.13.s5.20. J Manag Care Pharm. 2007. PMID: 17605508 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  387
 
-Цитировать
 
-Делиться
+
+
 
 [Пример из практики: связь между гипертонией и диабетом.](https://pubmed.ncbi.nlm.nih.gov/17605507/)
 
@@ -7637,17 +7637,17 @@ Item in Clipboard
 
 CONCLUSION: Older beta-blockers have been shown to have detrimental effects on glucose or lipid parameters. Newer agents such as **nebivolo** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  388
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакологическое усиление синтеза оксида азота эндотелием.](https://pubmed.ncbi.nlm.nih.gov/17605505/)
 
@@ -7657,17 +7657,17 @@ Item in Clipboard
 
 **Nebivolol**\-induced endothelium- dependent vasodilation associated with activation of the L-arginine/ nitric oxide pathway may confer b …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  389
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на фибринолитические параметры у пациентов с легкой и умеренной гипертонией.](https://pubmed.ncbi.nlm.nih.gov/17593991/)
 
@@ -7677,17 +7677,17 @@ Item in Clipboard
 
 BACKGROUND: The aim of the present study was to investigate the effects of **nebivolol** (5 mg daily) on plasma levels of hemostatic and …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  390
 
-Цитировать
 
-Делиться
+
+
 
 [Переносимость и дозозависимые эффекты **небиволола** у пожилых пациентов с сердечной недостаточностью: данные исследования «Изучение эффектов применения **небиволола** на исходы и повторную госпитализацию у пожилых людей с сердечной недостаточностью» (SENIORS).](https://pubmed.ncbi.nlm.nih.gov/17584562/)
 
@@ -7697,17 +7697,17 @@ Item in Clipboard
 
 BACKGROUND: The SENIORS trial showed that **nebivolol** reduced the risk of death or cardiovascular (CV) hospitalization in elderly patie …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  391
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** : новый бета-блокатор с вазодилатацией, вызванной оксидом азота.](https://pubmed.ncbi.nlm.nih.gov/17326335/)
 
@@ -7717,17 +7717,17 @@ Item in Clipboard
 
 **Nebivolol** is a novel beta1-blocker with a greater degree of selectivity for beta1-adrenergic receptors than other agents in this clas …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  392
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** и метопролола на воспалительные медиаторы в эндотелиальных или гладкомышечных клетках коронарных артерий человека. Влияние на формирование неоинтимы после баллонной денудации сонных артерий крыс, получавших **небиволол** .](https://pubmed.ncbi.nlm.nih.gov/17310107/)
 
@@ -7737,17 +7737,17 @@ Item in Clipboard
 
 The aim of this study was to assess the anti-proliferative and anti-inflammatory effect of the beta-blocker **nebivolol** in comparison t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  393
 
-Цитировать
 
-Делиться
+
+
 
 [Увеличивает ли бета-блокатор **небиволол** резерв коронарного кровотока?](https://pubmed.ncbi.nlm.nih.gov/17235472/)
 
@@ -7757,17 +7757,17 @@ Item in Clipboard
 
 INTRODUCTION: **Nebivolol**, a highly selective beta1-adrenergic receptor-blocker, increases basal and stimulated endothelial nitric oxid …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  394
 
-Цитировать
 
-Делиться
+
+
 
 [L-Небивиололиния хлорид дигидрат.](https://pubmed.ncbi.nlm.nih.gov/21200930/)
 
@@ -7777,33 +7777,33 @@ Item in Clipboard
 
 The hydro-chloride salt of chiral l-**nebivolol** {systematic name: (+)-(R,S,S,S)-bis-\[2-(6-fluoro-3,4-dihydro-2H-1-benzopyran-2-yl)-2-hy …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  395
 
-Цитировать
 
-Делиться
+
+
 
 [Воздействие на оксид азота с помощью лекарственной терапии.](https://pubmed.ncbi.nlm.nih.gov/17170605/)
 
 Мейсон РП, Кокрофт младший. Mason RP, et al. J Clin Hypertens (Гринвич). 2006 Декабрь;8(12 Suppl 4):40-52. doi: 10.1111/j.1524-6175.2006.06041.x. J Clin Hypertens (Greenwich). 2006. PMID: 17170605 Бесплатная статья PMC. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  396
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние фенотипа CYP2D6 на клинический ответ **небиволола** у пациентов с эссенциальной гипертонией.](https://pubmed.ncbi.nlm.nih.gov/17094780/)
 
@@ -7813,17 +7813,17 @@ Item in Clipboard
 
 It is administered as a racemic mixture (D- and L-**nebivolol**) and is highly metabolized by the cytochrome P-450 2D6 (CYP2D6). ...RESUL …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  397
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** улучшает резерв коронарного кровотока у пациентов с идиопатической дилатационной кардиомиопатией.](https://pubmed.ncbi.nlm.nih.gov/17065184/)
 
@@ -7833,33 +7833,33 @@ Item in Clipboard
 
 **Nebivolol** induced an absolute increase of 6% in the CFR in 17 of 21 patients (80.9%). CONCLUSIONS: In patients with IDC, 1 month of t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  398
 
-Цитировать
 
-Делиться
+
+
 
 [Различное влияние атенолола и **небиволола** на коронарный резерв.](https://pubmed.ncbi.nlm.nih.gov/17041122/)
 
 Гуллу Х., Эрдоган Д., Чалискан М., Ток Д., Йылдырым И., Сезгин А.Т., Мудеррисоглу Х. Gullu H, et al. Сердце. Ноябрь 2006 г.;92(11):1690-1. doi: 10.1136/hrt.2005.084079. Heart. 2006. PMID: 17041122 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  399
 
-Цитировать
 
-Делиться
+
+
 
 [Механизмы оксида азота в патогенезе глобального риска.](https://pubmed.ncbi.nlm.nih.gov/16894246/)
 
@@ -7869,29 +7869,29 @@ Item in Clipboard
 
 Several pharmacologic therapies, including angiotensin-converting enzyme inhibitors, calcium channel blockers, statins, and the vasodilating …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  400
 
-Цитировать
 
-Делиться
+
+
 
 [Управление глобальным риском в рамках континуума гипертонической болезни сердца.](https://pubmed.ncbi.nlm.nih.gov/16894245/)
 
 Базиль Дж. Basile J. J Clin Hypertens (Гринвич). 2006 август;8(8 Suppl 2):21-30; тест 39-40. doi: 10.1111/j.1524-6175.2006.05837.x. J Clin Hypertens (Greenwich). 2006. PMID: 16894245 Бесплатная статья PMC. Обзор.
 
-Cite
 
-Share
 
-Item in Clipboard
 
-Цитировать
+
+
+
+
 
 Копировать
 
@@ -7899,7 +7899,7 @@ Item in Clipboard
 
 Формат: AMA APA MLA NLM
 
-Делиться
+
 
 -   
 -   
@@ -7910,9 +7910,9 @@ Item in Clipboard
 
  401
 
-Цитировать
 
-Делиться
+
+
 
 [Положительное влияние перехода с бета-блокаторов на **небиволол** на эректильную функцию у пациентов с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/16491268/)
 
@@ -7922,17 +7922,17 @@ Item in Clipboard
 
 ЦЕЛЬ: Исследовать влияние замены бета-адреноблокаторов **небивололом** на эректильную функцию пациентов, страдающих эссенциальным эректильным дисфункци…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  402
 
-Цитировать
 
-Делиться
+
+
 
 [Смешанные свойства **небиволола** как агониста бета3-адренорецепторов и антагониста альфа1-адренорецепторов в грудной аорте крысы.](https://pubmed.ncbi.nlm.nih.gov/16474420/)
 
@@ -7942,49 +7942,49 @@ Item in Clipboard
 
 Однако механизмы, участвующие в сосудистом эффекте **небиволола,** не установлены. Таким образом, мы оценили роль альфа1 …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  403
 
-Цитировать
 
-Делиться
+
+
 
 [Практические рекомендации по применению ингибиторов АПФ, бета-адреноблокаторов, антагонистов альдостерона и блокаторов рецепторов ангиотензина при сердечной недостаточности: внедрение рекомендаций в практику.](https://pubmed.ncbi.nlm.nih.gov/16087129/)
 
 МакМюррей Дж., Коэн-Солал А., Дитц Р., Эйххорн Э., Эрхардт Л., Хоббс Ф.Д., Крам Х., Маджиони А., Маккелви Р.С., Пинья И.Л., Солер-Солер Дж., Сведберг К. МакМюррей Дж. и др. Eur J Heart Fail. 2005 август;7(5):710-21. doi: 10.1016/j.ejheart.2005.07.002. Eur J Сердечный приступ. 2005. PMID: 16087129 Бесплатная статья.
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  404
 
-Цитировать
 
-Делиться
+
+
 
 [Клиническое применение **небиволола** при лечении хронической сердечной недостаточности.](https://pubmed.ncbi.nlm.nih.gov/15981556/)
 
 Либеропулос Э.Н., Элисаф МС. Либеропулос Э.Н. и др. Hellenic J Cardiol. 2005 май-июнь;46(3):208-11. Греческий журнал кардиологической медицины. 2005. PMID: 15981556 Бесплатная статья. Аннотация отсутствует.
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  405
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на функцию левого желудочка и физическую работоспособность у пациентов с неишемической дилатационной кардиомиопатией. Рандомизированное плацебо-контролируемое исследование.](https://pubmed.ncbi.nlm.nih.gov/15981555/)
 
@@ -7994,17 +7994,17 @@ Item in Clipboard
 
 ВВЕДЕНИЕ: В этом исследовании оценивалось влияние **небиволола** на функцию левого желудочка (ЛЖ) и толерантность к физической нагрузке у пациентов с н …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  406
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на функцию левого желудочка у пожилых пациентов с хронической сердечной недостаточностью: результаты исследования ENECA.](https://pubmed.ncbi.nlm.nih.gov/15921805/)
 
@@ -8014,17 +8014,17 @@ Item in Clipboard
 
 Первичной конечной точкой было изменение LVEF в ответ на лечение **небивололом** в течение 8 месяцев. РЕЗУЛЬТАТЫ: Исходные значения LVEF в tw …
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  407
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на артериальную гипертензию — многоцентровое исследование в Боснии и Герцеговине.](https://pubmed.ncbi.nlm.nih.gov/15771602/)
 
@@ -8034,17 +8034,17 @@ Item in Clipboard
 
 Гипертония является основным фактором риска сердечно-сосудистых заболеваний; препараты, которые снижают артериальное давление и одновременно улучшают или устраняют эндо…
 
-Цитировать
 
-Делиться
 
-Элемент в буфере обмена
+
+
+
 
  408
 
-Цитировать
 
-Делиться
+
+
 
 [Обновление клинических испытаний Европейского общества кардиологов: SENIORS, ACES, PROVE-IT, ACTION и испытание HF-ACTION.](https://pubmed.ncbi.nlm.nih.gov/15542417/)
 
@@ -8054,17 +8054,17 @@ Item in Clipboard
 
 This article provides information and a commentary on landmark trials presented at the European Society of Cardiology Congress in August 200 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  409
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** и его 4-кетопроизводное увеличивают уровень оксида азота в эндотелиальных клетках за счет снижения его окислительной инактивации.](https://pubmed.ncbi.nlm.nih.gov/14642697/)
 
@@ -8074,17 +8074,17 @@ Item in Clipboard
 
 OBJECTIVES: The objective of the present study was to elucidate the vasodilator mechanisms of **nebivolol**, a high selective beta(1)-rec …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  410
 
-Цитировать
 
-Делиться
+
+
 
 [Лечение бета-блокаторами пациентов с диастолической сердечной недостаточностью и артериальной гипертензией. Проспективное рандомизированное сравнение долгосрочных эффектов атенолола и **небиволола** .](https://pubmed.ncbi.nlm.nih.gov/14607201/)
 
@@ -8094,17 +8094,17 @@ Item in Clipboard
 
 This latter effect was greater with **nebivolol**. **Nebivolol** was associated with an increase in the peak VO(2), VO(2) at the anaer …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  411
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** облегчает гипертонию, вызванную дефицитом оксида азота.](https://pubmed.ncbi.nlm.nih.gov/12806161/)
 
@@ -8114,17 +8114,17 @@ Item in Clipboard
 
 **Nebivolol** is a new selective beta 1-adrenoceptor antagonist with nitric oxide (NO)-releasing properties. ...However, PRA was lower in …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  412
 
-Цитировать
 
-Делиться
+
+
 
 [Независимая вазодилатация, вызываемая **небивололом** в коронарном кровообращении, не опосредована бета-адренорецепторами или 5-HT1A-рецепторами.](https://pubmed.ncbi.nlm.nih.gov/12512696/)
 
@@ -8134,17 +8134,17 @@ Item in Clipboard
 
 Here, in the isolated guinea pig heart we analysed coronary vasodilator potency of L- and D-**nebivolol** and a possible role of beta2, b …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  413
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **небиволола** на функцию левого желудочка у пациентов с хронической сердечной недостаточностью: пилотное исследование.](https://pubmed.ncbi.nlm.nih.gov/12453547/)
 
@@ -8154,33 +8154,33 @@ Item in Clipboard
 
 **Nebivolol** was well tolerated and the NYHA class improved in four patients. ...Left ventricular function increased (ejection fraction …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  414
 
-Цитировать
 
-Делиться
+
+
 
 [Гиперкалиемия у пожилого пациента с сахарным диабетом.](https://pubmed.ncbi.nlm.nih.gov/11796879/)
 
 Батлер Дж. В., Хасан М. Butler JV, et al. Postgrad Med J., январь 2002 г.;78(915):54, 57. doi: 10.1136/pmj.78.915.54. Postgrad Med J. 2002. PMID: 11796879 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  415
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** , буциндолол, метопролол и карведилол не обладают внутренней симпатомиметической активностью в миокарде человека.](https://pubmed.ncbi.nlm.nih.gov/11498519/)
 
@@ -8190,17 +8190,17 @@ Item in Clipboard
 
 The present study investigated whether or not there may be differences in the direct cardiac actions of the novel, highly beta(1)-selective …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  416
 
-Цитировать
 
-Делиться
+
+
 
 [Характеристика бета(1)-селективности, взаимодействия адренорецепторов с G(s)-белком и обратного агонизма **небиволола** в миокарде человека.](https://pubmed.ncbi.nlm.nih.gov/11309254/)
 
@@ -8210,17 +8210,17 @@ Item in Clipboard
 
 In COS-7-cells, beta(1)-selectivity is 3 fold for **nebivolol** and 15 fold for bisoprolol. Neither the binding of **nebivolol** nor o …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  417
 
-Цитировать
 
-Делиться
+
+
 
 [**Небиволол** снижает системный окислительный стресс у здоровых добровольцев.](https://pubmed.ncbi.nlm.nih.gov/11012562/)
 
@@ -8230,17 +8230,17 @@ Item in Clipboard
 
 AIMS: **Nebivolol** is a selective, vasodilatory beta1-adrenergic receptor antagonist which has been suggested to possess additional anti …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  418
 
-Цитировать
 
-Делиться
+
+
 
 [Сосудорасширяющее действие **небиволола** на сосуды предплечья у пациентов с эссенциальной гипертензией.](https://pubmed.ncbi.nlm.nih.gov/10510163/)
 
@@ -8250,17 +8250,17 @@ Item in Clipboard
 
 AIMS: Brachial artery administration of **nebivolol** increases forearm blood flow in normotensive subjects through activation of the L-a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  419
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакокинетика блокаторов бета-адренорецепторов у добровольцев с ожирением и нормальных добровольцев.](https://pubmed.ncbi.nlm.nih.gov/9205815/)
 
@@ -8270,17 +8270,17 @@ Item in Clipboard
 
 Subjects were randomly given a single i.v. infusion of one of the following racemic beta-adrenoceptor blockers, whose doses (expressed as ba …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  420
 
-Цитировать
 
-Делиться
+
+
 
 [Исследование фармакокинетического и фармакодинамического взаимодействия **небиволола** с антагонистами Н2-рецепторов циметидином и ранитидином.](https://pubmed.ncbi.nlm.nih.gov/9131955/)
 
@@ -8290,17 +8290,17 @@ Item in Clipboard
 
 Each subject received on three separate occasions placebo, cimetidine (400 mg twice daily) or ranitidine (150 mg twice daily) for 24 h befor …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  421
 
-Цитировать
 
-Делиться
+
+
 
 [**Венодилатирующее действие небиволола** , опосредованное оксидом азота .](https://pubmed.ncbi.nlm.nih.gov/7826820/)
 
@@ -8310,17 +8310,17 @@ Item in Clipboard
 
 The dorsal hand vein technique was used to determine whether **nebivolol** has venodilator action in vivo in man. 3. **Nebivolol** and …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  422
 
-Цитировать
 
-Делиться
+
+
 
 [Долгосрочное (3 месяца) влияние нового бета-блокатора ( **небиволола** ) на работу сердца при дилатационной кардиомиопатии.](https://pubmed.ncbi.nlm.nih.gov/8096228/)
 
@@ -8330,17 +8330,17 @@ Item in Clipboard
 
 OBJECTIVES: This study examined the long-term (3-month) effects of **nebivolol**, a new beta-adrenergic blocking agent, on cardiac perfor …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  423
 
-Цитировать
 
-Делиться
+
+
 
 [Кальмидазолий, ингибитор кальмодулина, подавляет эндотелий-зависимые релаксации, устойчивые к нитро-L-аргинину в коронарной артерии собак.](https://pubmed.ncbi.nlm.nih.gov/1358391/)
 
@@ -8350,17 +8350,17 @@ Item in Clipboard
 
 The endothelium-dependent relaxations to adenosine diphosphate (ADP) and **nebivolol**, a beta-adrenoceptor antagonist, in control soluti …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  424
 
-Цитировать
 
-Делиться
+
+
 
 [Пресинаптические бета-адренорецепторы в предсердиях крыс: доказательства наличия стереоселективных бета-1-адренорецепторов.](https://pubmed.ncbi.nlm.nih.gov/2572291/)
 
