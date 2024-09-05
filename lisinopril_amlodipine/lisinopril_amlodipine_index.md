@@ -1,8 +1,8 @@
 1
 
-Цитировать
 
-Делиться
+
+
 
 [Использование рецептурных препаратов и частота аневризматического субарахноидального кровоизлияния: исследование ассоциации, охватывающее весь спектр лекарственных средств.](https://pubmed.ncbi.nlm.nih.gov/38838229/)
 
@@ -12,17 +12,17 @@
 
 RESULTS: We investigated exposure to 205 commonly prescribed drugs between 4,879 aSAH cases (mean age 61.4, 61.2% women) and 43,911 matched …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  2
 
-Цитировать
 
-Делиться
+
+
 
 [Разрешение тяжелого гастропареза, вызванного парасимпатическим всплеском после травмы лица: отчет о клиническом случае.](https://pubmed.ncbi.nlm.nih.gov/38750592/)
 
@@ -32,17 +32,17 @@ Item in Clipboard
 
 CASE PRESENTATION: A 46-year-old Hispanic man with hypertension, type 2 diabetes (T2D), and hyperlipidemia on **amlodipine** 10 mg, **li** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  3
 
-Цитировать
 
-Делиться
+
+
 
 [Очень важный ландшафт фармакогенетических вариантов и потенциальная клиническая значимость в популяции чжуан из провинции Юньнань.](https://pubmed.ncbi.nlm.nih.gov/38553524/)
 
@@ -52,17 +52,17 @@ Item in Clipboard
 
 Furthermore, these differential variants may be associated with the pharmacological efficacy and toxicity of Captopril, **Amlodipine**, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  4
 
-Цитировать
 
-Делиться
+
+
 
 [18-летний риск развития рака, ангионевротического отека, бессонницы, депрессии и эректильной дисфункции в связи с приемом антигипертензивных препаратов: послеоперационный анализ данных, связанных с ALLHAT-Medicare.](https://pubmed.ncbi.nlm.nih.gov/38045916/)
 
@@ -72,17 +72,17 @@ Item in Clipboard
 
 The adjusted 18-year risk of angioedema was elevated in those receiving **lisinopril** than in those receiving **amlodipine** (hazard …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  5
 
-Цитировать
 
-Делиться
+
+
 
 [Случай ангионевротического отека тонкой кишки, вызванного ингибиторами ангиотензинпревращающего фермента (АПФ).](https://pubmed.ncbi.nlm.nih.gov/38022184/)
 
@@ -92,33 +92,33 @@ Item in Clipboard
 
 Due to the recurrent nature of these episodes over the last three years, along with consistent findings of small bowel edema on imaging, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  6
 
-Цитировать
 
-Делиться
+
+
 
 [Ангионевротический отек вследствие тройной терапии: описание случая.](https://pubmed.ncbi.nlm.nih.gov/37908932/)
 
 Лепор Н., Карпентер Т., Вольф А. Lepore N, et al. Cureus. 30 сентября 2023 г.;15(9):e46247. doi: 10.7759/cureus.46247. eCollection 2023 г., сентябрь. Cureus. 2023. PMID: 37908932 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  7
 
-Цитировать
 
-Делиться
+
+
 
 [Гипонатриемия у пациента с вазодилататорным шоком вследствие передозировки антигипертензивных препаратов: описание случая.](https://pubmed.ncbi.nlm.nih.gov/37829951/)
 
@@ -128,17 +128,17 @@ Item in Clipboard
 
 A 75-year-old female presented after a suicidal attempt by ingestion of **amlodipine** and **lisinopril**. Despite adequate intravenou …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  8
 
-Цитировать
 
-Делиться
+
+
 
 [Терапевтический лекарственный мониторинг при артериальной гипертонии.](https://pubmed.ncbi.nlm.nih.gov/37240985/)
 
@@ -148,17 +148,17 @@ Item in Clipboard
 
 Venous blood was taken in both groups of patients in the morning before and 2 h after taking drugs to assess the concentration of **lisinop** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  9
 
-Цитировать
 
-Делиться
+
+
 
 [Роль амиодарона у пациента с послеоперационным гипотиреозом, искусственным тиреотоксикозом и мерцательной аритмией: описание случая.](https://pubmed.ncbi.nlm.nih.gov/37126923/)
 
@@ -168,17 +168,17 @@ Item in Clipboard
 
 She had a medical history of thyroidectomy, hypertension, and dyslipidemia. In addition, she took Levothyroxine, **amlodipine** and simva …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  10
 
-Цитировать
 
-Делиться
+
+
 
 [Блокатор кальциевых каналов L-типа увеличивает концентрацию VEGF в клетках сетчатки и сыворотке человека.](https://pubmed.ncbi.nlm.nih.gov/37053203/)
 
@@ -188,17 +188,17 @@ Item in Clipboard
 
 RESULTS: In the cell cultures, the medium VEGF concentration increased time-dependently after **amlodipine** (P<0.01) treatment, but n …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  11
 
-Цитировать
 
-Делиться
+
+
 
 [Гетерогенность реакции артериального давления на 4 антигипертензивных препарата: рандомизированное клиническое исследование.](https://pubmed.ncbi.nlm.nih.gov/37039792/)
 
@@ -212,17 +212,17 @@ The blood pressure response to different treatments varied considerably between 
 
 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  12
 
-Цитировать
 
-Делиться
+
+
 
 [Применение антигипертензивных препаратов в Гане и Нигерии различается.](https://pubmed.ncbi.nlm.nih.gov/35948937/)
 
@@ -232,17 +232,17 @@ Item in Clipboard
 
 The five most used products were 16 mg candesartan, 30 mg nifedipine, 10 mg **lisinopril**, 5 mg **amlodipine** and 50 mg losartan. In …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  13
 
-Цитировать
 
-Делиться
+
+
 
 [Выбор антигипертензивного средства при изолированной систолической гипертензии и изолированной диастолической гипертензии: вторичный анализ исследования ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/35932912/)
 
@@ -252,17 +252,17 @@ Item in Clipboard
 
 This study was a secondary analysis of the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial. We compared the use …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  14
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка биоэквивалентности и оценка влияния таблеток **лизиноприла** / **амлодипина** на пищевые продукты у здоровых китайцев натощак и после еды.](https://pubmed.ncbi.nlm.nih.gov/35794660/)
 
@@ -272,17 +272,17 @@ Item in Clipboard
 
 PURPOSE: The combination of **lisinopril** and **amlodipine** has a marked additional effect on blood pressure and fewer side effects …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  15
 
-Цитировать
 
-Делиться
+
+
 
 [Риск развития болезни Альцгеймера и связанных с ней деменций у участников исследования ALLHAT, получавших диуретики, ингибиторы АПФ или блокаторы кальциевых каналов в течение 18 лет наблюдения.](https://pubmed.ncbi.nlm.nih.gov/35571234/)
 
@@ -292,17 +292,17 @@ Item in Clipboard
 
 The 18-year cumulative incidence of AD was almost identical for the 3 drug groups (30.5% for chlorthalidone, 31.1% for **amlodipine**, an …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  16
 
-Цитировать
 
-Делиться
+
+
 
 [Методы машинного обучения в управлении артериальным давлением в острой фазе ишемического инсульта.](https://pubmed.ncbi.nlm.nih.gov/35237221/)
 
@@ -312,17 +312,17 @@ Item in Clipboard
 
 For patients receiving thrombolysis with DBP <120 mmHg, Labetalol and **Amlodipine** are effective treatments. Above DBP of 120 mmHg, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  17
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние постиспытательных антигипертензивных препаратов на заболеваемость и смертность: результаты 15-летнего пассивного наблюдения после окончания ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/34925915/)
 
@@ -332,17 +332,17 @@ Item in Clipboard
 
 METHODS: This is a posttrial passive follow-up study of ALLHAT participants in 567 US centers in 1994-1998 with the last date of active in-t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  18
 
-Цитировать
 
-Делиться
+
+
 
 [Риск госпитализации и негоспитализации желудочно-кишечного кровотечения у участников исследования ALLHAT, получающих диуретики, ингибиторы АПФ или блокаторы кальциевых каналов.](https://pubmed.ncbi.nlm.nih.gov/34793552/)
 
@@ -352,17 +352,17 @@ Item in Clipboard
 
 Data for ALLHAT participants who were aged at 65 have been linked with their Medicare claims data. PARTICIPANTS: A total of 16,676 patients …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  19
 
-Цитировать
 
-Делиться
+
+
 
 [Вклад систолического и диастолического артериального давления в сердечно-сосудистые исходы в исследовании ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/34674811/)
 
@@ -372,17 +372,17 @@ Item in Clipboard
 
 METHODS: This study analyzed ALLHAT (Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial) data, which randomized adu …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  20
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние обучения дроблению приема таблеток на физико-химические свойства препаратов, соблюдение режима приема лекарств и клинические результаты у пожилых людей: рандомизированное исследование.](https://pubmed.ncbi.nlm.nih.gov/34127559/)
 
@@ -392,17 +392,17 @@ Item in Clipboard
 
 METHODS: A parallel study design was adopted. Patients taking **lisinopril**, **amlodipine**, simvastatin, metformin, or perindopril w …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  21
 
-Цитировать
 
-Делиться
+
+
 
 [Приверженность пациентов к сердечно-сосудистой фармакотерапии в Ираке: смешанная оценка с использованием количественного анализа сухих пятен крови и 8-пунктовой шкалы приверженности лечению Мориски.](https://pubmed.ncbi.nlm.nih.gov/33989336/)
 
@@ -412,17 +412,17 @@ Item in Clipboard
 
 Three hundred and three Iraqi patients (median age 53 years, 50.5% female) who had been taking one or more of the nine commonly prescribed c …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  22
 
-Цитировать
 
-Делиться
+
+
 
 [Терапевтический потенциал отдельных антигипертензивных препаратов и их фиксированных комбинаций против кардиотоксичности, опосредованной трастузумабом.](https://pubmed.ncbi.nlm.nih.gov/33897413/)
 
@@ -432,17 +432,17 @@ Item in Clipboard
 
 Groups VI-VIII rats were equally pretreated with 5 mg/kg/day valsartan, 0.25 mg/kg/day **amlodipine**, and 0.035 mg/kg/day **lisinopril** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  23
 
-Цитировать
 
-Делиться
+
+
 
 [Ухудшение функции почек — основной механизм сердечной недостаточности при гипертонии: исследование ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/33189627/)
 
@@ -452,33 +452,33 @@ Item in Clipboard
 
 BACKGROUND: The authors hypothesized that the dynamic change in kidney function is the mechanism behind differences in the rate of incident …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  24
 
-Цитировать
 
-Делиться
+
+
 
 [Пероральные проявления часто назначаемых препаратов.](https://pubmed.ncbi.nlm.nih.gov/33179891/)
 
 Глик А., Систа В., Джонсон С. Glick A, et al. Am Fam Physician. 2020 15 ноября;102(10):613-621. Am Fam Physician. 2020. PMID: 33179891 Бесплатная статья.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  25
 
-Цитировать
 
-Делиться
+
+
 
 [Экология антигипертензивных средств в США, 1997-2017.](https://pubmed.ncbi.nlm.nih.gov/32968967/)
 
@@ -488,17 +488,17 @@ Item in Clipboard
 
 There was a clear increase in the use of losartan within ARBs, **lisinopril** within ACE-Is, and **amlodipine** within CCBs following …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  26
 
-Цитировать
 
-Делиться
+
+
 
 [Анализ предпочтений в использовании комбинированных антигипертензивных препаратов в регионах Дальневосточного федерального округа.](https://pubmed.ncbi.nlm.nih.gov/32547128/)
 
@@ -508,17 +508,17 @@ Item in Clipboard
 
 The most acquired combinations were atenolol+chlorthalidone, valsartan+**amlodipine**, losartan+hydrochlorothiazide, perindopril/**lisin** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  27
 
-Цитировать
 
-Делиться
+
+
 
 [Эффективность комбинированной антигипертензивной терапии у больных гипертонической болезнью II стадии в зависимости от типа суточного профиля артериального давления и типа ремоделирования левого желудочка.](https://pubmed.ncbi.nlm.nih.gov/32124805/)
 
@@ -528,17 +528,17 @@ Item in Clipboard
 
 The ambulatory blood pressure monitoring, echocardiography and Doppler examination of the shoulder arteries were performed. Initial treatmen …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  28
 
-Цитировать
 
-Делиться
+
+
 
 [Фосфаты в лекарствах: влияние на пациентов, находящихся на диализе.](https://pubmed.ncbi.nlm.nih.gov/32049627/)
 
@@ -548,17 +548,17 @@ Item in Clipboard
 
 For instance, at median daily doses, phosphate contributions from the top five medications prescribed were 112 mg for **amlodipine**, 116 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  29
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние антигипертензивных препаратов на подагру у пожилых людей: вторичный анализ исследования антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа.](https://pubmed.ncbi.nlm.nih.gov/31977576/)
 
@@ -568,17 +568,17 @@ Item in Clipboard
 
 Over a mean follow-up of 4.9 years, we documented 597 gout claims. **Amlodipine** reduced the risk of gout by 37% (hazard ratio 0.63; 95% …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  30
 
-Цитировать
 
-Делиться
+
+
 
 [Хроническая тромботическая микроангиопатия, вторичная по отношению к антифосфолипидному синдрому, проявляющаяся тяжелой гипертонией и хронической почечной недостаточностью.](https://pubmed.ncbi.nlm.nih.gov/31527221/)
 
@@ -588,33 +588,33 @@ Item in Clipboard
 
 She was started on anticoagulation with warfarin, and her hypertension was controlled with **lisinopril** and **amlodipine** with subs …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  31
 
-Цитировать
 
-Делиться
+
+
 
 [Ангионевротический отек, вторичный по отношению к **амлодипину** и **лизиноприлу** : документированное прогрессирование.](https://pubmed.ncbi.nlm.nih.gov/31501178/)
 
 Моргентау А., Ким Э. Morgenthau A, et al. Отчет по делу BMJ, 8 сентября 2019 г.;12(9):e232019. doi: 10.1136/bcr-2019-232019. BMJ Case Rep. 2019. PMID: 31501178 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  32
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние класса антигипертензивных препаратов на падения, обмороки и ортостатическую гипотензию у пожилых людей: исследование ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/31476905/)
 
@@ -624,17 +624,17 @@ Item in Clipboard
 
 There were no significant differences in the cumulative incidences of events across randomized drug assignments. However, **amlodipine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  33
 
-Цитировать
 
-Делиться
+
+
 
 [Эквивалентность активного фармацевтического ингредиента дженериков антигипертензивных препаратов, доступных в Нигерии (EQUIMEDS): аргумент в пользу дальнейшего наблюдения.](https://pubmed.ncbi.nlm.nih.gov/31451241/)
 
@@ -644,17 +644,17 @@ Item in Clipboard
 
 In total, 361 samples from 22 pharmacies were collected and tested. In total, 24.6% of **amlodipine** and 31.9% of **lisinopril** samp …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  34
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние различных комбинаций антигипертензивных препаратов на артериальное давление и жесткость артерий.](https://pubmed.ncbi.nlm.nih.gov/31391706/)
 
@@ -664,17 +664,17 @@ Item in Clipboard
 
 Participants were divided into six treatment groups based on the hypertensive drug therapy they were using; **lisinopril**, losartan or v …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  35
 
-Цитировать
 
-Делиться
+
+
 
 [Профилактика сердечной недостаточности при гипертонии — выявление роли развивающейся гипертрофии левого желудочка и снижения артериального давления: исследование ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/30943832/)
 
@@ -684,17 +684,17 @@ Item in Clipboard
 
 We studied the extent to which blood pressure ( BP ) change and evolving LVH contribute to the effect that **lisinopril**, doxazosin, and …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  36
 
-Цитировать
 
-Делиться
+
+
 
 [Лечение гипертонии у детей с использованием _n_ -из-1 испытаний.](https://pubmed.ncbi.nlm.nih.gov/30842257/)
 
@@ -704,17 +704,17 @@ Item in Clipboard
 
 In conservative Bayesian analyses, the proportion of patients who preferred **lisinopril** was 49% (95% credible interval \[CrI\]: 32% to 6 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  37
 
-Цитировать
 
-Делиться
+
+
 
 [Взаимодействие показателя риска гена диабета с тремя различными антигипертензивными препаратами при эпизодическом повышении уровня глюкозы.](https://pubmed.ncbi.nlm.nih.gov/30590387/)
 
@@ -724,17 +724,17 @@ Item in Clipboard
 
 Participants were randomized to treatment with a thiazide-like diuretic (chlorthalidone), a calcium channel blocker (CCB; **amlodipine**) …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  38
 
-Цитировать
 
-Делиться
+
+
 
 [Исследование Precision HYpertension Care (PHYSIC): двойное слепое, рандомизированное, повторное перекрестное исследование.](https://pubmed.ncbi.nlm.nih.gov/30265168/)
 
@@ -744,17 +744,17 @@ Item in Clipboard
 
 In a double-blind, randomized, repeated cross-over trial, 300 patients with mild hypertension will be treated with four blood pressure-lower …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  39
 
-Цитировать
 
-Делиться
+
+
 
 [Использование сухих пятен крови для количественной оценки антигипертензивных препаратов.](https://pubmed.ncbi.nlm.nih.gov/30154849/)
 
@@ -764,17 +764,17 @@ Item in Clipboard
 
 This review discusses the use of dried blood spots (DBSs) for the quantification by mass spectrometry (MS), tandem mass spectrometry (MS/MS) …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  40
 
-Цитировать
 
-Делиться
+
+
 
 [Факторы риска, влияющие на исходы фибрилляции предсердий в ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/30126559/)
 
@@ -784,17 +784,17 @@ Item in Clipboard
 
 BACKGROUND AND AIMS: ALLHAT, a randomized, double-blind, active-controlled, multicenter clinical trial of high risk hypertensive participant …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  41
 
-Цитировать
 
-Делиться
+
+
 
 [Рандомизированное контролируемое перекрестное исследование, оценивающее дифференциальные ответы на антигипертензивные препараты (используемые в качестве моно- или двойной терапии) на основе этнической принадлежности: сравнение оптимальных схем лечения гипертонии; часть программы «Информативные маркеры происхождения в исследовании гипертонии AIM-HY INFORM».](https://pubmed.ncbi.nlm.nih.gov/30092411/)
 
@@ -804,17 +804,17 @@ Item in Clipboard
 
 Those receiving monotherapy (n = 660) will enter a 3-treatment (**amlodipine** 10 mg od; **lisinopril** 20 mg od; chlorthalidone 25 mg …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  42
 
-Цитировать
 
-Делиться
+
+
 
 [Связь измерений артериального давления с явлениями заболеваний периферических артерий.](https://pubmed.ncbi.nlm.nih.gov/29930023/)
 
@@ -824,17 +824,17 @@ Item in Clipboard
 
 METHODS: ALLHAT investigated the effect of different antihypertensive medication classes (chlorthalidone, **amlodipine**, **lisinopril** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  43
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка взаимодействия лекарственных препаратов у пациентов с хроническим заболеванием почек в больнице третьего уровня на юго-востоке Нигерии: ретроспективное исследование.](https://pubmed.ncbi.nlm.nih.gov/29610637/)
 
@@ -844,17 +844,17 @@ Item in Clipboard
 
 Majority were above 50 years old and in stage 4 or 5 CKD. Furosemide, **lisinopril** and **amlodipine** were the most frequently presc …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  44
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние изменения СКФ на сердечно-сосудистые заболевания, почечную недостаточность и смертность в группе больных гипертонией, получавших лечение тремя различными антигипертензивными препаратами.](https://pubmed.ncbi.nlm.nih.gov/29360915/)
 
@@ -864,17 +864,17 @@ Item in Clipboard
 
 Results were assessed by primary hypertension (HTN) treatment (chlorthalidone, **lisinopril**, and **amlodipine**) and adjusted for ba …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  45
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакологическая профилактика эпизодов фибрилляции предсердий: долгосрочные результаты исследования ALLHAT (Антигипертензивное и гиполипидемическое лечение для предотвращения сердечных приступов).](https://pubmed.ncbi.nlm.nih.gov/29212812/)
 
@@ -884,17 +884,17 @@ Item in Clipboard
 
 Among 14 837 participants without prevalent AF or AFL, 2514 developed AF/AFL during a mean 7.53.2 years of follow-up. Compared with chlortha …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  46
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние распространенной и эпизодической фибрилляции предсердий на основные события после испытания в ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/28987246/)
 
@@ -904,17 +904,17 @@ Item in Clipboard
 
 Of 31,473 available subjects, AF/AFL occurred in 854; 383/14,371 chlorthalidone (2.7%), 247/8565 **amlodipine** (2.9%), and 224/8537 **l** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  47
 
-Цитировать
 
-Делиться
+
+
 
 [Электрокардиографическая гипертрофия левого желудочка прогнозирует сердечно-сосудистую заболеваемость и смертность у пациентов с гипертонией: исследование ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/28430947/)
 
@@ -924,17 +924,17 @@ Item in Clipboard
 
 METHODS: A total of 33,357 patients (aged 55 years) with hypertension and at least 1 other coronary heart disease (CHD) risk factor were ran …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  48
 
-Цитировать
 
-Делиться
+
+
 
 [Терапевтически резистентная гипертония и результаты, основанные на рандомизированной группе лечения в исследовании ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/27984005/)
 
@@ -944,17 +944,17 @@ Item in Clipboard
 
 METHODS: Participants in the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) were randomly assigned to …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  49
 
-Цитировать
 
-Делиться
+
+
 
 [Электрокардиографические измерения гипертрофии левого желудочка в исследовании антигипертензивной и гиполипидемической терапии для профилактики сердечного приступа.](https://pubmed.ncbi.nlm.nih.gov/27938852/)
 
@@ -964,17 +964,17 @@ Item in Clipboard
 
 We analyzed baseline/follow-up electrocardiographies in 26,376 Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial p …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  50
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **амлодипина** , **лизиноприла** и аллопуринола на гепатотоксичность, вызванную ацетаминофеном у крыс.](https://pubmed.ncbi.nlm.nih.gov/27829805/)
 
@@ -984,17 +984,17 @@ Item in Clipboard
 
 OBJECTIVE: This study evaluates the possible protective effects of the calcium channel blocker **amlodipine**, the angiotensin converting …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  51
 
-Цитировать
 
-Делиться
+
+
 
 [Клинические и демографические корреляты приема лекарств и соблюдения режима посещений в крупном рандомизированном контролируемом исследовании.](https://pubmed.ncbi.nlm.nih.gov/27391223/)
 
@@ -1004,17 +1004,17 @@ Item in Clipboard
 
 Virgin Islands for random assignment to antihypertensive treatment with **amlodipine**, chlorthalidone, or **lisinopril**. Site invest …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  52
 
-Цитировать
 
-Делиться
+
+
 
 [Безопасность и эффективность комбинированной антигипертензивной и холестеринснижающей терапии у пациентов высокого/очень высокого риска.](https://pubmed.ncbi.nlm.nih.gov/27295112/)
 
@@ -1024,17 +1024,17 @@ Item in Clipboard
 
 This 6-month prospective noninterventional trial assessed the safety and effectiveness of fixed-combination **lisinopril**\-**amlodipine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  53
 
-Цитировать
 
-Делиться
+
+
 
 [Изменчивость результатов АД и ХБП от визита к визиту: результаты ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/26912544/)
 
@@ -1044,33 +1044,33 @@ Item in Clipboard
 
 DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: We measured mean BP and visit-to-visit variability of BP, defined as SD, across five to s …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  54
 
-Цитировать
 
-Делиться
+
+
 
 [Гипокалиемия и употребление зеленого чая: обзор литературы и отчет о двух случаях.](https://pubmed.ncbi.nlm.nih.gov/26884077/)
 
 Чонг С.Дж., Ховард К.А., Нокс С. Chong SJ, et al. Отчет по делу BMJ, 16 февраля 2016 г.; 2016: bcr2016214425. doi: 10.1136/bcr-2016-214425. BMJ Case Rep. 2016. PMID: 26884077 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  55
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние генов, вовлеченных в сердечно-сосудистые заболевания, на реакцию артериального давления на лечение среди афроамериканцев с гипертонией, ранее не получавших лечения, в исследовании GenHAT.](https://pubmed.ncbi.nlm.nih.gov/26791477/)
 
@@ -1080,17 +1080,17 @@ Item in Clipboard
 
 Using 1131 African-American treatment-naive participants from the Genetics of Hypertension Associated Treatment Study, we examined whether v …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  56
 
-Цитировать
 
-Делиться
+
+
 
 [Распространенность основных потенциальных лекарственных взаимодействий в аптеке университетского медицинского центра на Ямайке.](https://pubmed.ncbi.nlm.nih.gov/26759615/)
 
@@ -1100,17 +1100,17 @@ Item in Clipboard
 
 The three most frequently occurring major potential DDIs were **amlodipine** and simvastatin (n=46), amiloride and losartan (n=27) and am …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  57
 
-Цитировать
 
-Делиться
+
+
 
 [Должны ли рекомендации по антигипертензивному лечению различаться у пациентов с ишемической болезнью сердца и без нее? (из исследования «Антигипертензивное и гиполипидемическое лечение для профилактики сердечных приступов» \[ALLHAT\]).](https://pubmed.ncbi.nlm.nih.gov/26589819/)
 
@@ -1120,17 +1120,17 @@ Alderman MH, Davis BR, Piller LB, Ford CE, Baraniuk MS, Pressel SL, Assadi MA, E
 
 This post hoc analysis compares long-term major clinical outcomes in those assigned **amlodipine** (n = 9048) or **lisinopril** (n = 9 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  58
 
-Цитировать
 
-Делиться
+
+
 
 [Амбулаторное артериальное давление у пациентов с гипертонией, лечившихся одним антигипертензивным средством: различия между классами препаратов и среди препаратов, принадлежащих к одному классу.](https://pubmed.ncbi.nlm.nih.gov/26205479/)
 
@@ -1140,17 +1140,17 @@ Item in Clipboard
 
 Inside each class, no significant differences were observed among thiazides or angiotensin receptor blockers. Atenolol and bisoprolol among …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  59
 
-Цитировать
 
-Делиться
+
+
 
 [Вызванный маринобуфагенином сосудистый фиброз является вероятной мишенью для антагонистов минералокортикоидов.](https://pubmed.ncbi.nlm.nih.gov/26136067/)
 
@@ -1160,17 +1160,17 @@ Item in Clipboard
 
 Experiment 2: In 16 patients (56 2 years) with resistant hypertension on a combined (**lisinopril**/**amlodipine**/hydrochlorothiazide …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  60
 
-Цитировать
 
-Делиться
+
+
 
 [Взаимодействие пегилированных антигипертензивных препаратов, **амлодипина** , атенолола и **лизиноприла,** с липидной бислойной мембраной: исследование с использованием моделирования молекулярной динамики.](https://pubmed.ncbi.nlm.nih.gov/25960186/)
 
@@ -1180,17 +1180,17 @@ Item in Clipboard
 
 The interaction of PEGylated anti-hypertensive drugs, **amlodipine**, atenolol and **lisinopril** with lipid bilayer membrane dimyrist …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  61
 
-Цитировать
 
-Делиться
+
+
 
 [Недостаток данных: проблема фосфора в рецептурных препаратах.](https://pubmed.ncbi.nlm.nih.gov/25760324/)
 
@@ -1200,17 +1200,17 @@ Item in Clipboard
 
 A sampling of different doses and manufacturers (generic and branded) of these drugs was analyzed for phosphorus content and found levels as …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  62
 
-Цитировать
 
-Делиться
+
+
 
 [Результаты инсульта среди участников, рандомизированных в группу хлорталидона, **амлодипина** или **лизиноприла** в исследовании ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/25455006/)
 
@@ -1220,17 +1220,17 @@ Item in Clipboard
 
 We report stroke outcomes in 1517 participants in-trial and 1596 additional participants during post-trial passive surveillance, for a total …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  63
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние полиморфизмов гена ангиотензиногена на исходы сердечно-сосудистых заболеваний во время антигипертензивного лечения в исследовании GenHAT.](https://pubmed.ncbi.nlm.nih.gov/25278896/)
 
@@ -1240,17 +1240,17 @@ Item in Clipboard
 
 Using a case-only design with 3448 high-risk hypertensive individuals from the Genetics of Hypertension Associated Treatment (GenHAT) study, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  64
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакогенетические эффекты «комплексов генов-кандидатов» на инсульт в исследовании GenHAT.](https://pubmed.ncbi.nlm.nih.gov/25171760/)
 
@@ -1260,17 +1260,17 @@ Item in Clipboard
 
 OBJECTIVE: The aim of this study was to investigate whether there is a genotype-by-treatment interaction in patients experiencing stroke and …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  65
 
-Цитировать
 
-Делиться
+
+
 
 [Катехоламин-секретирующая параганглиома каротидного тельца: успешный предоперационный контроль гипертонии и клинических симптомов с использованием высоких доз октреотида длительного действия.](https://pubmed.ncbi.nlm.nih.gov/25136449/)
 
@@ -1280,17 +1280,17 @@ Item in Clipboard
 
 Investigations revealed a 5.6 cm vascular tumor at the carotid bifurcation. Her blood pressure (BP) was 170/110, on **lisinopril** 20 mg …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  66
 
-Цитировать
 
-Делиться
+
+
 
 [Характеристики и долгосрочное наблюдение за участниками с заболеванием периферических артерий во время исследования ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/25002161/)
 
@@ -1300,17 +1300,17 @@ Item in Clipboard
 
 KEY RESULTS: Following adjustment for baseline characteristics, neither participants assigned to the calcium-channel antagonist **amlodipin** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  67
 
-Цитировать
 
-Делиться
+
+
 
 [Контроль артериального давления и сердечно-сосудистые исходы у пациентов с нормальным весом, избыточным весом и ожирением, страдающих гипертонией, получавших лечение тремя различными антигипертензивными препаратами в исследовании ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/24842697/)
 
@@ -1320,17 +1320,17 @@ Item in Clipboard
 
 We prospectively examined randomization to first-step chlorthalidone, a thiazide-type diuretic; **amlodipine**, a calcium-channel blocker …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  68
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние хлорталидона, **амлодипина** и **лизиноприла** на изменчивость артериального давления от визита к визиту: результаты исследования антигипертензивной и гиполипидемической терапии для профилактики сердечного приступа.](https://pubmed.ncbi.nlm.nih.gov/24739073/)
 
@@ -1340,17 +1340,17 @@ Item in Clipboard
 
 The authors compared VVV of SBP among 24,004 participants randomized to chlorthalidone, **amlodipine**, or **lisinopril** in the Antih …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  69
 
-Цитировать
 
-Делиться
+
+
 
 [Комментарий в поддержку высокоэффективного алгоритма лечения гипертонии.](https://pubmed.ncbi.nlm.nih.gov/24299690/)
 
@@ -1360,17 +1360,17 @@ Item in Clipboard
 
 A simple hypertension treatment algorithm has contributed to the achievement of control rates greater than 85% for more than 1 million adult …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  70
 
-Цитировать
 
-Делиться
+
+
 
 [Риск госпитализации желудочно-кишечного кровотечения у лиц, рандомизированных в группу приема диуретиков, ингибиторов АПФ или блокаторов кальциевых каналов в исследовании ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/24283598/)
 
@@ -1380,17 +1380,17 @@ Item in Clipboard
 
 In a post-hoc comparison, participants assigned to **lisinopril** therapy had a higher risk of hospitalized GI hemorrhage (HR, 1.27; 95% …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  71
 
-Цитировать
 
-Делиться
+
+
 
 [Распространенность и контроль гипертонии в полугородском сообществе дельты реки Нигер, Нигерия.](https://pubmed.ncbi.nlm.nih.gov/24155846/)
 
@@ -1400,17 +1400,17 @@ Item in Clipboard
 
 Majority of the patients on drugs (21.8%) (12/55) were either taking methydopa as monotherapy or in combination with amiloride and hydrochlo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  72
 
-Цитировать
 
-Делиться
+
+
 
 [Вено-артериальная экстракорпоральная мембранная оксигенация для лечения массивной передозировки **амлодипина** .](https://pubmed.ncbi.nlm.nih.gov/23863493/)
 
@@ -1420,17 +1420,17 @@ Item in Clipboard
 
 A 50-year-old man was admitted to the intensive care unit with respiratory failure and shock after suffering a massive overdose of **amlodi** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  73
 
-Цитировать
 
-Делиться
+
+
 
 [Эпидемиология применения кардиопротекторных фармакологических средств при стабильной ишемической болезни сердца.](https://pubmed.ncbi.nlm.nih.gov/23809376/)
 
@@ -1440,17 +1440,17 @@ Item in Clipboard
 
 Top three molecules in beta-blockers were atenolol (37.8%), metoprolol (26.4%) and carvedilol (11.9%); ACE inhibitors ramipril (42.1%), **l** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  74
 
-Цитировать
 
-Делиться
+
+
 
 [Смертность и заболеваемость во время и после исследования антигипертензивной и гиполипидемической терапии для профилактики сердечного приступа: результаты по полу.](https://pubmed.ncbi.nlm.nih.gov/23529173/)
 
@@ -1460,33 +1460,33 @@ Item in Clipboard
 
 In-trial rates of HF, stroke, and combined cardiovascular disease were significantly higher for **lisinopril** compared with chlorthalido …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  75
 
-Цитировать
 
-Делиться
+
+
 
 [Первоначальный выбор антигипертензивного средства в отношении долгосрочных сердечно-сосудистых исходов при ХБП.](https://pubmed.ncbi.nlm.nih.gov/22595830/)
 
 Уэйли-Коннелл А., Сауэрс-младший. Whaley-Connell A, et al. Клин Дж Ам Сок Нефрол. Июнь 2012 г.;7(6):884-6. дои: 10.2215/CJN.04130412. Epub 2012, 17 мая. Clin J Am Soc Nephrol. 2012. PMID: 22595830 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  76
 
-Цитировать
 
-Делиться
+
+
 
 [Долгосрочные результаты почечных и сердечно-сосудистых заболеваний у участников исследования антигипертензивной и гиполипидемической терапии для профилактики сердечных приступов (ALLHAT) по исходной расчетной СКФ.](https://pubmed.ncbi.nlm.nih.gov/22490878/)
 
@@ -1496,17 +1496,17 @@ Item in Clipboard
 
 This article assesses long-term renal and cardiovascular outcomes in older high-risk hypertensive patients, stratified by baseline estimated …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  77
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакогенетическая ассоциация вариантов NOS3 с сердечно-сосудистыми заболеваниями у пациентов с гипертонией: исследование GenHAT.](https://pubmed.ncbi.nlm.nih.gov/22470539/)
 
@@ -1516,17 +1516,17 @@ Item in Clipboard
 
 For -690 C>T, a lower HR was observed for stroke in minor allele carriers when treated with **amlodipine** versus **lisinopril** (C …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  78
 
-Цитировать
 
-Делиться
+
+
 
 [Клиническое значение эпизодической гипокалиемии и гиперкалиемии у пациентов с гипертонией, проходящих лечение в ходе антигипертензивного и гиполипидемического лечения с целью профилактики сердечного приступа.](https://pubmed.ncbi.nlm.nih.gov/22431578/)
 
@@ -1536,17 +1536,17 @@ Alderman MH, Piller LB, Ford CE, Probstfield JL, Oparil S, Cushman WC, Einhorn P
 
 Normokalemic participants randomized to chlorthalidone (C) versus **amlodipine** or **lisinopril** as a first-step drug were stratifie …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  79
 
-Цитировать
 
-Делиться
+
+
 
 [Долгосрочные эффекты впервые выявленного сахарного диабета на сердечно-сосудистые исходы у людей, лечившихся от гипертонии: расширенное исследование диабета ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/22396585/)
 
@@ -1556,17 +1556,17 @@ Barzilay JI, Davis BR, Pressel SL, Cutler JA, Einhorn PT, Black HR, Cushman WC, 
 
 METHODS AND RESULTS: A total of 22 418 participants from the ALLHAT (Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack T …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  80
 
-Цитировать
 
-Делиться
+
+
 
 [Генные панели для выявления подгрупп с высоким и низким риском ишемической болезни сердца среди лиц, рандомизированных для антигипертензивной терапии: исследование GenHAT.](https://pubmed.ncbi.nlm.nih.gov/22388798/)
 
@@ -1576,17 +1576,17 @@ Item in Clipboard
 
 Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial randomized hypertensive participants (55 years) to one of four t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  81
 
-Цитировать
 
-Делиться
+
+
 
 [Алискирен/ **Амлодипин** — оценка пользы в соответствии с разделом 35a Социального кодекса, том V.](https://pubmed.ncbi.nlm.nih.gov/27905731/)
 
@@ -1596,17 +1596,17 @@ Item in Clipboard
 
 The benefit assessment of the fixed combination aliskiren / **amlodipine** was carried out for the therapeutic indication "treatment of e …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  82
 
-Цитировать
 
-Делиться
+
+
 
 [Смертность и заболеваемость во время и после исследования антигипертензивной и гиполипидемической терапии для профилактики сердечных приступов.](https://pubmed.ncbi.nlm.nih.gov/22235820/)
 
@@ -1616,17 +1616,17 @@ Cushman WC, Davis BR, Pressel SL, Cutler JA, Einhorn PT, Ford CE, Oparil S, Prob
 
 No significant differences (P<.05) appeared in cardiovascular mortality for **amlodipine** (hazard ratio \[HR\], 1.00; 95% confidence in …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  83
 
-Цитировать
 
-Делиться
+
+
 
 [Долгосрочное наблюдение за участниками с сердечной недостаточностью в исследовании антигипертензивной и гиполипидемической терапии для предотвращения сердечных приступов (ALLHAT).](https://pubmed.ncbi.nlm.nih.gov/21969009/)
 
@@ -1636,17 +1636,17 @@ Item in Clipboard
 
 BACKGROUND: In the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT), a randomized, double-blind, practic …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  84
 
-Цитировать
 
-Делиться
+
+
 
 [Тиазидные и петлевые диуретики.](https://pubmed.ncbi.nlm.nih.gov/21896142/)
 
@@ -1656,17 +1656,17 @@ Item in Clipboard
 
 Chlorthalidone, at a dose of 25 mg, is comparatively more potent than 50 mg of hydrochlorothiazide, particularly as related to overnight blo …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  85
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакогенетические ассоциации вариантов MMP9 и MMP12 с сердечно-сосудистыми заболеваниями у пациентов с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/21887284/)
 
@@ -1676,17 +1676,17 @@ Item in Clipboard
 
 METHODS: Hypertensives (n = 42,418) from a double-blind, randomized, clinical trial were randomized to chlorthalidone, **amlodipine**, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  86
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакогенетическое влияние полиморфизма стромелизина (ММП3) на риск инсульта в связи с антигипертензивной терапией: исследование генетики лечения, связанного с гипертонией.](https://pubmed.ncbi.nlm.nih.gov/21183746/)
 
@@ -1696,17 +1696,17 @@ Item in Clipboard
 
 RESULTS: Compared with participants treated with chlorthalidone with the 6A/6A genotype, individuals with the 6A/6A genotype randomized to …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  87
 
-Цитировать
 
-Делиться
+
+
 
 [Фармакогенетическая связь генов-кандидатов гипертонии с уровнем глюкозы натощак в исследовании GenHAT.](https://pubmed.ncbi.nlm.nih.gov/20577119/)
 
@@ -1716,17 +1716,17 @@ Item in Clipboard
 
 GenHAT participants were randomized to receive treatment with a diuretic (chlorthalidone), calcium channel blocker (**amlodipine**), or a …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  88
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **амлодипина** и **лизиноприла** на микроальбуминурию у пациентов с эссенциальной гипертонией: проспективное исследование.](https://pubmed.ncbi.nlm.nih.gov/20535265/)
 
@@ -1736,17 +1736,17 @@ Item in Clipboard
 
 These 120 patients with microalbuminuria were randomly divided into two groups of 60 each, matched for age, sex, arterial pressure, creatini …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  89
 
-Цитировать
 
-Делиться
+
+
 
 [Псевдофеохромоцитома: редкая причина злокачественной гипертонии.](https://pubmed.ncbi.nlm.nih.gov/20436734/)
 
@@ -1756,17 +1756,17 @@ Item in Clipboard
 
 He had been treated for hypertension diagnosed eight months ago after a similar episode. He was taking atenolol 100 mg /day, **amlodipine** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  90
 
-Цитировать
 
-Делиться
+
+
 
 [Отсутствие эффекта краткосрочного лечения **амлодипином** и **лизиноприлом** на ауторегуляцию сетчатки у нормотензивных пациентов с сахарным диабетом 1 типа и легкой формой диабетической ретинопатии.](https://pubmed.ncbi.nlm.nih.gov/20346089/)
 
@@ -1776,17 +1776,17 @@ Item in Clipboard
 
 Using a Dynamic Vessel Analyzer (DVA), the diameter response of retinal arterioles during an acute increase in the blood pressure induced by …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  91
 
-Цитировать
 
-Делиться
+
+
 
 [Мерцательная аритмия на исходном уровне и во время последующего наблюдения в исследовании ALLHAT (исследование антигипертензивной и гиполипидемической терапии для предотвращения сердечного приступа).](https://pubmed.ncbi.nlm.nih.gov/19926008/)
 
@@ -1796,17 +1796,17 @@ Item in Clipboard
 
 OBJECTIVES: The ALLHAT (Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial) determined that treatment with **amlod** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  92
 
-Цитировать
 
-Делиться
+
+
 
 [Сердечная недостаточность в ALLHAT: повлияло ли назначение лекарств от артериальной гипертензии на начало исследования на результат?](https://pubmed.ncbi.nlm.nih.gov/19751458/)
 
@@ -1816,17 +1816,17 @@ Item in Clipboard
 
 (c)2009 Wiley Periodicals, Inc.Lower heart failure (HF) rates in individuals taking chlorthalidone vs **amlodipine**, **lisinopril**, …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  93
 
-Цитировать
 
-Делиться
+
+
 
 [Результаты ALLHAT пересмотрены в контексте последующих анализов, других испытаний и метаанализов.](https://pubmed.ncbi.nlm.nih.gov/19433694/)
 
@@ -1836,17 +1836,17 @@ Item in Clipboard
 
 Chlorthalidone was superior to (1) doxazosin mesylate in preventing combined CVD (CCVD) (risk ratio \[RR\], 1.20; 95% confidence interval \[CI\] …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  94
 
-Цитировать
 
-Делиться
+
+
 
 [Антигипертензивный фармакогенетический эффект варианта фибриногена бета -455G>A на сердечно-сосудистые заболевания, терминальную стадию почечной недостаточности и смертность: исследование GenHAT.](https://pubmed.ncbi.nlm.nih.gov/19352213/)
 
@@ -1856,17 +1856,17 @@ Item in Clipboard
 
 We included participants (n=30 076) randomized to one of three antihypertensive medications (**lisinopril**, **amlodipine**, chlorthal …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  95
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние семи различных методов антигипертензивной терапии на пульсовое давление у пациентов с впервые диагностированной гипертонией I стадии.](https://pubmed.ncbi.nlm.nih.gov/19207474/)
 
@@ -1878,17 +1878,17 @@ Item in Clipboard
 
 The reduction in PP was more significant in patients receiving **lisinopril**, **lisinopril** hydrochlorothiazide, valsartan, and vals …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  96
 
-Цитировать
 
-Делиться
+
+
 
 [Контроль артериального давления по группам препаратов в исследовании антигипертензивного и гиполипидемического лечения для профилактики сердечных приступов (ALLHAT).](https://pubmed.ncbi.nlm.nih.gov/19090876/)
 
@@ -1898,17 +1898,17 @@ Cushman WC, Ford CE, Einhorn PT, Wright JT Jr, Preston RA, Davis BR, Basile JN, 
 
 BP was reduced from 145/83 mm Hg (27% control) to 134/76 mm Hg (chlorthalidone, 68% control), 135/75 mm Hg (**amlodipine**, 66% control), …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  97
 
-Цитировать
 
-Делиться
+
+
 
 [Сердечная недостаточность с сохраненной и сниженной фракцией выброса левого желудочка при проведении антигипертензивной и гиполипидемической терапии с целью профилактики сердечного приступа.](https://pubmed.ncbi.nlm.nih.gov/19001024/)
 
@@ -1918,17 +1918,17 @@ Item in Clipboard
 
 In the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT), 42 418 high-risk hypertensive patients were ran …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  98
 
-Цитировать
 
-Делиться
+
+
 
 [Комбинированная терапия с блокатором кальциевых каналов и блокатором рецепторов ангиотензина II типа 1.](https://pubmed.ncbi.nlm.nih.gov/18174781/)
 
@@ -1938,17 +1938,17 @@ Item in Clipboard
 
 In clinical trials this combination has demonstrated better efficacy, defined by time to reach blood pressure targets as well as levels of b …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  99
 
-Цитировать
 
-Делиться
+
+
 
 [Экономическая эффективность хлорталидона, **амлодипина** и **лизиноприла** в качестве первой ступени лечения пациентов с гипертонией: анализ исследования антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа (ALLHAT).](https://pubmed.ncbi.nlm.nih.gov/18228109/)
 
@@ -1958,17 +1958,17 @@ Item in Clipboard
 
 At a threshold of $50,000 per LY gained, **amlodipine** was preferred in 50%, chlorthalidone in 40%, and **lisinopril** in 10% of boot …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  100
 
-Цитировать
 
-Делиться
+
+
 
 [Клинические результаты в зависимости от расы у пациентов с гипертонией с метаболическим синдромом и без него: исследование антигипертензивной и гиполипидемической терапии для профилактики сердечных приступов (ALLHAT).](https://pubmed.ncbi.nlm.nih.gov/18227370/)
 
@@ -1978,17 +1978,17 @@ Item in Clipboard
 
 We compared outcomes by race in hypertensive individuals with and without MetS treated with a thiazide-type diuretic (chlorthalidone), a cal …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  101
 
-Цитировать
 
-Делиться
+
+
 
 [Настойчивость, приверженность и риск отмены, связанные с часто назначаемыми антигипертензивными препаратами в виде монотерапии.](https://pubmed.ncbi.nlm.nih.gov/17204738/)
 
@@ -2000,17 +2000,17 @@ Item in Clipboard
 
 RESULTS: Records for 60,685 subjects were included: HCTZ (n = 18,713), **amlodipine** (n = 11,520), **lisinopril** (n = 21,138), or va …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  102
 
-Цитировать
 
-Делиться
+
+
 
 [Частота и предикторы ангионевротического отека у пожилых пациентов с гипертонией и высоким риском сердечно-сосудистых заболеваний: отчет об исследовании антигипертензивной и гиполипидемической терапии для профилактики сердечных приступов (ALLHAT).](https://pubmed.ncbi.nlm.nih.gov/16957427/)
 
@@ -2020,17 +2020,17 @@ Item in Clipboard
 
 The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT), the largest antihypertensive study conducted to da …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  103
 
-Цитировать
 
-Делиться
+
+
 
 [ALLHAT в перспективе: значение для клинической практики и клинических испытаний.](https://pubmed.ncbi.nlm.nih.gov/16114170/)
 
@@ -2040,17 +2040,17 @@ Item in Clipboard
 
 Its objective was to ompare the efficacy of newer (calcium channel blocker **amlodipine** and angiotensin-converting enzyme inhibitor ino …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  104
 
-Цитировать
 
-Делиться
+
+
 
 [Ингибирование ренин-ангиотензиновой системы предотвращает сахарный диабет 2 типа. Часть 1. Метаанализ рандомизированных клинических испытаний.](https://pubmed.ncbi.nlm.nih.gov/15671918/)
 
@@ -2060,33 +2060,33 @@ Item in Clipboard
 
 Ten RCTs with cardiovascular prognosis as primary endpoints analysed the incidence of T2DM as secondary endpoints or as post-hoc analysis af …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  105
 
-Цитировать
 
-Делиться
+
+
 
 [ALLHAT: чему это нас научило на данный момент?](https://pubmed.ncbi.nlm.nih.gov/15451829/)
 
 Леенен ФХ. Leenen FH. CMAJ. 2004, 28 сентября; 171 (7): 719-20. doi: 10.1503/cmaj.1031010. CMAJ. 2004. PMID: 15451829 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  106
 
-Цитировать
 
-Делиться
+
+
 
 [Характеристики и распределение липидов в большой популяции гипертоников с высоким риском: компонент снижения липидов в исследовании антигипертензивного и гиполипидемического лечения для профилактики сердечных приступов (ALLHAT).](https://pubmed.ncbi.nlm.nih.gov/14688492/)
 
@@ -2096,17 +2096,17 @@ Item in Clipboard
 
 The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) consisted of 42,418 participants randomized to one …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  107
 
-Цитировать
 
-Делиться
+
+
 
 [Соблюдение пациентом режима терапии **амлодипином** , **лизиноприлом** или валсартаном в условиях обычного ухода.](https://pubmed.ncbi.nlm.nih.gov/14613440/)
 
@@ -2116,17 +2116,17 @@ Item in Clipboard
 
 RESULTS: The mean age of the study cohort was 63.1 years; 53% were female. Just over one half (51%, n=73,148) received **amlodipine**, 28 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  108
 
-Цитировать
 
-Делиться
+
+
 
 [Испытание ALLHAT. Диуретики по-прежнему остаются предпочтительными начальными препаратами при высоком кровяном давлении.](https://pubmed.ncbi.nlm.nih.gov/12678218/)
 
@@ -2136,17 +2136,17 @@ Item in Clipboard
 
 The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) compared four antihypertensive agents in patients 5 …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  109
 
-Цитировать
 
-Делиться
+
+
 
 [\[Клиническое исследование месяца. Какой начальный антигипертензивный препарат? Результаты исследования ALLHAT\].](https://pubmed.ncbi.nlm.nih.gov/12647599/)
 
@@ -2156,49 +2156,49 @@ Item in Clipboard
 
 A total of 33,357 participants aged 55 years or older with mild to moderate hypertension and at least 1 other CHD risk factor were randomly …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  110
 
-Цитировать
 
-Делиться
+
+
 
 [Отчет ALLHAT: случай информации и дезинформации.](https://pubmed.ncbi.nlm.nih.gov/12556647/)
 
 Вебер МА. Weber MA. J Clin Hypertens (Гринвич). 2003 Январь-Фев;5(1):9-13. doi: 10.1111/j.1524-6175.2003.02287.x. J Clin Hypertens (Greenwich). 2003. PMID: 12556647 Бесплатная статья PMC. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  111
 
-Цитировать
 
-Делиться
+
+
 
 [Результаты исследования ALLHAT: завершены ли дебаты о начальной антигипертензивной лекарственной терапии?](https://pubmed.ncbi.nlm.nih.gov/12556646/)
 
 Мозер М. Moser M. J Clin Hypertens (Гринвич). 2003 Январь-Фев;5(1):5-8. doi: 10.1111/j.1524-6175.2003.02259.x. J Clin Hypertens (Greenwich). 2003. PMID: 12556646 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  112
 
-Цитировать
 
-Делиться
+
+
 
 [Успех и предикторы контроля артериального давления в различных условиях Северной Америки: исследование антигипертензивной и гиполипидемической терапии для предотвращения сердечных приступов (ALLHAT).](https://pubmed.ncbi.nlm.nih.gov/12461301/)
 
@@ -2208,17 +2208,17 @@ Cushman WC, Ford CE, Cutler JA, Margolis KL, Davis BR, Grimm RH, Black HR, Hamil
 
 INTERVENTIONS: Participants were randomly assigned to receive (double-blind) chlorthalidone, 12.5-25 mg/d (n=15,255), **amlodipine** 2.5- …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  113
 
-Цитировать
 
-Делиться
+
+
 
 [Валидация событий сердечной недостаточности в исследовании антигипертензивной и гиполипидемической терапии для профилактики сердечных приступов (ALLHAT) у участников, которым была назначена терапия доксазозином и хлорталидоном.](https://pubmed.ncbi.nlm.nih.gov/12459039/)
 
@@ -2228,17 +2228,17 @@ Item in Clipboard
 
 BACKGROUND: The Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) is a randomized, double-blind, active-c …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  114
 
-Цитировать
 
-Делиться
+
+
 
 [Сравнительные эффекты телмисартана при лечении гипертонии.](https://pubmed.ncbi.nlm.nih.gov/12147925/)
 
@@ -2248,17 +2248,17 @@ Item in Clipboard
 
 Three separate randomized, double-blind, parallel-group, 12-week trials compared telmisartan with enalapril, **lisinopril**, and **amlod** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  115
 
-Цитировать
 
-Делиться
+
+
 
 [Доксазозин и застойная сердечная недостаточность.](https://pubmed.ncbi.nlm.nih.gov/12045387/)
 
@@ -2268,17 +2268,17 @@ Item in Clipboard
 
 Its goals were to determine whether the incidence of the primary outcome--a composite of fatal coronary heart disease and nonfatal myocardia …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  116
 
-Цитировать
 
-Делиться
+
+
 
 [Преимущества и побочные эффекты лечения, направленного на снижение артериального давления: что не так с доксазозином в исследовании ALLHAT?](https://pubmed.ncbi.nlm.nih.gov/11806808/)
 
@@ -2288,17 +2288,17 @@ Item in Clipboard
 
 The Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial was designed to compare the cardioprotective properties of t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  117
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние различных антигипертензивных препаратов на функцию остеобластов.](https://pubmed.ncbi.nlm.nih.gov/11411549/)
 
@@ -2308,17 +2308,17 @@ Item in Clipboard
 
 Drugs examined include dihydropyridine-type calcium channel blockers (benidipine, **amlodipine**, and nifedipine), angiotensin-converting …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  118
 
-Цитировать
 
-Делиться
+
+
 
 [Альфа-блокаторы и застойная сердечная недостаточность: досрочное прекращение участия в исследовании ALLHAT.](https://pubmed.ncbi.nlm.nih.gov/10860225/)
 
@@ -2328,17 +2328,17 @@ Item in Clipboard
 
 The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) is a large, randomized double-blind study comparing …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  119
 
-Цитировать
 
-Делиться
+
+
 
 [Оценка **амлодипина** , **лизиноприла** и их комбинации при лечении эссенциальной гипертонии.](https://pubmed.ncbi.nlm.nih.gov/10824049/)
 
@@ -2348,17 +2348,17 @@ Item in Clipboard
 
 There was a significant additional blood pressure lowering effect with the combination when compared either with **amlodipine** or **lis** …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  120
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние **амлодипина** и **лизиноприла** на массу левого желудочка и диастолическую функцию у ранее не леченных пациентов с легкой и умеренной диастолической гипертензией.](https://pubmed.ncbi.nlm.nih.gov/9657538/)
 
@@ -2368,49 +2368,49 @@ Item in Clipboard
 
 After 4 weeks placebo run-in 71 patients were randomized to dosages of **amlodipine** 5-10 mg or **lisinopril** 10-20 mg, which were t …
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  121
 
-Цитировать
 
-Делиться
+
+
 
 [Прогностическое значение амбулаторного артериального давления вскоре после отмены антигипертензивных препаратов у пациентов первичной медико-санитарной помощи.](https://pubmed.ncbi.nlm.nih.gov/8761232/)
 
 Белтман Ф.В., Хисен В.Ф., Кок Р.Х., Смит Эй.Дж., Мэй Дж.Ф., де Графф П.А., Хавинга Т.К., Шуурман Ф.Х., ван дер Веур Э., Лие К.И., Мейбум-де Йонг Б. Beltman FW, et al. BMJ. 1996 17 августа;313(7054):404-6. doi: 10.1136/bmj.313.7054.404. BMJ. 1996. PMID: 8761232 Бесплатная статья PMC.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  122
 
-Цитировать
 
-Делиться
+
+
 
 [Нефротический синдром после норфлоксацина.](https://pubmed.ncbi.nlm.nih.gov/8893181/)
 
 Хэнсон Б., Д'Ондт А., Депьеро М., Ластман Ф. Hanson B, et al. Нефрон. 1996;74(2):446. doi: 10.1159/000189360. Nephron. 1996. PMID: 8893181 Бесплатная статья. Аннотация отсутствует.
 
-Cite
 
-Share
 
-Item in Clipboard
+
+
+
 
  123
 
-Цитировать
 
-Делиться
+
+
 
 [Влияние различных антигипертензивных препаратов на уровень фибриногена в плазме у больных гипертонией.](https://pubmed.ncbi.nlm.nih.gov/7669481/)
 
