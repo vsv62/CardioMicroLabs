@@ -1,4 +1,4 @@
-1
+
 
 
 
@@ -8,17 +8,17 @@
 
 Каннинг Дж.П., Абтахи С., Шниер С., Клунгель О.Х., Герлингс М.И., Руигрок Ю.М. Каннинг Дж.П. и др. Неврология. 2024, 25 июня;102(12):e209479. doi: 10.1212/WNL.0000000000209479. Epub, 5 июня 2024 г. Неврология. 2024. PMID: 38838229 Бесплатная статья PMC.
 
-РЕЗУЛЬТАТЫ: Мы исследовали воздействие 205 часто назначаемых препаратов между 4879 случаями aSAH (средний возраст 61,4, 61,2% женщин) и 43 911 подобранными контрольными группами. Мы обнаружили схожие тенденции для **лизиноприла** и **амлодипина** , с уменьшением риска aSAH для текущего использования ( **лизиноприл** …
+РЕЗУЛЬТАТЫ: Мы исследовали воздействие 205 часто назначаемых препаратов между 4879 случаями aSAH (средний возраст 61,4, 61,2% женщин) и 43 911 подобранными контрольными группами. Мы обнаружили схожие тенденции для **лизиноприла** и **амлодипина** , с уменьшением риска aSAH для текущего использования ( **лизиноприл** 
 
-RESULTS: We investigated exposure to 205 commonly prescribed drugs between 4,879 aSAH cases (mean age 61.4, 61.2% women) and 43,911 matched …
-
-
+RESULTS: We investigated exposure to 205 commonly prescribed drugs between 4,879 aSAH cases (mean age 61.4, 61.2% women) and 43,911 matched 
 
 
 
 
 
- 2
+
+
+ 
 
 
 
@@ -28,17 +28,17 @@ RESULTS: We investigated exposure to 205 commonly prescribed drugs between 4,879
 
 Хасиб-Уль-Расул М, Эльхавари А, Саха У, Сетхи А, Сваминатан Г, Абошеаиша Х. Haseeb-Ul-Rasool M, et al. J Med Case Rep. 2024 16 мая;18(1):248. doi: 10.1186/s13256-024-04558-4. J Med Case Rep. 2024. PMID: 38750592 Бесплатная статья PMC.
 
-ОПИСАНИЕ СЛУЧАЯ: 46-летний мужчина латиноамериканского происхождения с гипертонией, сахарным диабетом 2 типа (СД2) и гиперлипидемией, принимающий **амлодипин** 10 мг, **лизиноприл** 5 мг, эмпаглифлозин 25 мг и инсулин гларгин, обратился с жалобами на диабетическую язву стопы с вероятным остеомиелитом. ...
+ОПИСАНИЕ СЛУЧАЯ: 46-летний мужчина латиноамериканского происхождения с гипертонией, сахарным диабетом 2 типа (СД2) и гиперлипидемией, принимающий **амлодипин** 10 мг, **лизиноприл** 5 мг, эмпаглифлозин 25 мг и инсулин гларгин, обратился с жалобами на диабетическую язву стопы с вероятным остеомиелитом. 
 
-CASE PRESENTATION: A 46-year-old Hispanic man with hypertension, type 2 diabetes (T2D), and hyperlipidemia on **amlodipine** 10 mg, **li** …
-
-
+CASE PRESENTATION: A 46-year-old Hispanic man with hypertension, type 2 diabetes (T2D), and hyperlipidemia on **amlodipine** 10 mg, **li** 
 
 
 
 
 
- 3
+
+
+ 
 
 
 
@@ -48,17 +48,17 @@ CASE PRESENTATION: A 46-year-old Hispanic man with hypertension, type 2 diabetes
 
 Ли Ю, Чанг Ю, Ян Ю, Ма Х, Чжоу В, Чжан Х, Го Дж, Вэй Дж, Цзинь Т. Li Y, et al. Sci Rep. 2024 29 марта;14(1):7495. doi: 10.1038/s41598-024-58092-w. Sci Rep. 2024. PMID: 38553524 Бесплатная статья PMC.
 
-Кроме того, эти дифференциальные варианты могут быть связаны с фармакологической эффективностью и токсичностью каптоприла, **амлодипина** , **лизиноприла** , метоклопрамида и альфа-гидроксиметопролола в популяции чжуан. ...
+Кроме того, эти дифференциальные варианты могут быть связаны с фармакологической эффективностью и токсичностью каптоприла, **амлодипина** , **лизиноприла** , метоклопрамида и альфа-гидроксиметопролола в популяции чжуан. 
 
-Furthermore, these differential variants may be associated with the pharmacological efficacy and toxicity of Captopril, **Amlodipine**, …
-
-
+Furthermore, these differential variants may be associated with the pharmacological efficacy and toxicity of Captopril, **Amlodipine**, 
 
 
 
 
 
- 4
+
+
+ 
 
 
 
@@ -68,17 +68,17 @@ Furthermore, these differential variants may be associated with the pharmacologi
 
 Ду XL, Мартинес Дж., Ямал Дж.М., Симпсон Л.М., Дэвис Б.Р. Du XL, et al. Front Cardiovasc Med. 2023 17 ноября;10:1272385. doi: 10.3389/fcvm.2023.1272385. eCollection 2023. Front Cardiovasc Med. 2023. PMID: 38045916 Бесплатная статья PMC.
 
-Скорректированный 18-летний риск ангионевротического отека был выше у тех, кто принимал **лизиноприл,** чем у тех, кто принимал **амлодипин** (коэффициент риска: 1,63, 95% ДИ: 1,14–2,33) или у тех, кто принимал хлорталидон (1,33, 1,00–1,79), тогда как скорректированный 18-летний риск бессонницы был …
+Скорректированный 18-летний риск ангионевротического отека был выше у тех, кто принимал **лизиноприл,** чем у тех, кто принимал **амлодипин** (коэффициент риска: 1,63, 95% ДИ: 1,14–2,33) или у тех, кто принимал хлорталидон (1,33, 1,00–1,79), тогда как скорректированный 18-летний риск бессонницы был 
 
-The adjusted 18-year risk of angioedema was elevated in those receiving **lisinopril** than in those receiving **amlodipine** (hazard …
-
-
+The adjusted 18-year risk of angioedema was elevated in those receiving **lisinopril** than in those receiving **amlodipine** (hazard 
 
 
 
 
 
- 5
+
+
+ 
 
 
 
@@ -88,17 +88,17 @@ The adjusted 18-year risk of angioedema was elevated in those receiving **lisino
 
 Пирзада С., Раза Б., Манкани А.А., Навид Б. Pirzada S, et al. Cureus. 2023 26 окт.;15(10):e47739. doi: 10.7759/cureus.47739. eCollection 2023 окт. Cureus. 2023. PMID: 38022184 Бесплатная статья PMC.
 
-Из-за рецидивирующего характера этих эпизодов в течение последних трех лет, а также постоянных результатов визуализации отека тонкой кишки, было заподозрено развитие **лизиноприла** -индуцированного ангионевротического отека. В результате пациент был переведен с **лизиноприла** на **амлодипин** . В течение о …
+Из-за рецидивирующего характера этих эпизодов в течение последних трех лет, а также постоянных результатов визуализации отека тонкой кишки, было заподозрено развитие **лизиноприла** -индуцированного ангионевротического отека. В результате пациент был переведен с **лизиноприла** на **амлодипин** . В течение о 
 
-Due to the recurrent nature of these episodes over the last three years, along with consistent findings of small bowel edema on imaging, …
-
-
+Due to the recurrent nature of these episodes over the last three years, along with consistent findings of small bowel edema on imaging, 
 
 
 
 
 
- 6
+
+
+ 
 
 
 
@@ -114,7 +114,7 @@ Due to the recurrent nature of these episodes over the last three years, along w
 
 
 
- 7
+ 
 
 
 
@@ -124,17 +124,17 @@ Due to the recurrent nature of these episodes over the last three years, along w
 
 Рашид АХА, Велланки К., Ву Ф, Лихи DJ. Rasheed AHA, et al. Cureus. 2023 11 сентября;15(9):e45053. doi: 10.7759/cureus.45053. eCollection 2023 сентябрь. Cureus. 2023. PMID: 37829951 Бесплатная статья PMC.
 
-Женщина 75 лет поступила после попытки самоубийства путем приема **амлодипина** и **лизиноприла** . Несмотря на адекватное внутривенное введение жидкостей, у нее сохранялась гипотензия, что потребовало введения вазопрессоров. ...
+Женщина 75 лет поступила после попытки самоубийства путем приема **амлодипина** и **лизиноприла** . Несмотря на адекватное внутривенное введение жидкостей, у нее сохранялась гипотензия, что потребовало введения вазопрессоров. 
 
-A 75-year-old female presented after a suicidal attempt by ingestion of **amlodipine** and **lisinopril**. Despite adequate intravenou …
-
-
+A 75-year-old female presented after a suicidal attempt by ingestion of **amlodipine** and **lisinopril**. Despite adequate intravenou 
 
 
 
 
 
- 8
+
+
+ 
 
 
 
@@ -144,17 +144,17 @@ A 75-year-old female presented after a suicidal attempt by ingestion of **amlodi
 
 Селезнев С, Щулькин А, Мыльников П, Якушева Е, Никулина Н. Seleznev S, et al. J Pers Med. 2023 11 мая;13(5):815. doi: 10.3390/jpm13050815. J Pers Med. 2023. PMID: 37240985 Бесплатная статья PMC.
 
-У пациентов обеих групп утром до и через 2 ч после приема препаратов производился забор венозной крови для оценки концентрации **лизиноприла** , **амлодипина** , валсартана и индапамида. (3) Результаты. В первую группу вошло 27 пациентов, во вторую — 19 пациентов. …
+У пациентов обеих групп утром до и через 2 ч после приема препаратов производился забор венозной крови для оценки концентрации **лизиноприла** , **амлодипина** , валсартана и индапамида. (3) Результаты. В первую группу вошло 27 пациентов, во вторую — 19 пациентов. 
 
-Venous blood was taken in both groups of patients in the morning before and 2 h after taking drugs to assess the concentration of **lisinop** …
-
-
+Venous blood was taken in both groups of patients in the morning before and 2 h after taking drugs to assess the concentration of **lisinop** 
 
 
 
 
 
- 9
+
+
+ 
 
 
 
@@ -164,17 +164,17 @@ Venous blood was taken in both groups of patients in the morning before and 2 h 
 
 Аулия Д., Ардиани Д. Aulia D, et al. Int J Surg Case Rep. 2023 Май;106:108252. doi: 10.1016/j.ijscr.2023.108252. Epub 2023 Апрель 24. Int J Surg Case Rep. 2023. PMID: 37126923 Бесплатная статья PMC.
 
-У нее был анамнез тиреоидэктомии, гипертонии и дислипидемии. Кроме того, она регулярно принимала левотироксин, **амлодипин** и симвастатин. При физическом осмотре общее состояние было слабым, жизненные показатели показывали артериальное давление (АД) 170/100 мм рт. ст., сердце …
+У нее был анамнез тиреоидэктомии, гипертонии и дислипидемии. Кроме того, она регулярно принимала левотироксин, **амлодипин** и симвастатин. При физическом осмотре общее состояние было слабым, жизненные показатели показывали артериальное давление (АД) 170/100 мм рт. ст., сердце 
 
-She had a medical history of thyroidectomy, hypertension, and dyslipidemia. In addition, she took Levothyroxine, **amlodipine** and simva …
-
-
+She had a medical history of thyroidectomy, hypertension, and dyslipidemia. In addition, she took Levothyroxine, **amlodipine** and simva 
 
 
 
 
 
- 10
+
+
+ 
 
 
 
@@ -184,17 +184,17 @@ She had a medical history of thyroidectomy, hypertension, and dyslipidemia. In a
 
 Кумар А, Муттер С, Паренте ЭБ, Харьюцало В, Литовиус Р, Матаван С, Лехто М, Хилтунен ТП, Контула КК, Груп ПХ. Kumar A, et al. PLoS One. 13 апреля 2023 г.;18(4):e0284364. doi: 10.1371/journal.pone.0284364. eCollection 2023. PLoS One. 2023. PMID: 37053203 Бесплатная статья PMC.
 
-РЕЗУЛЬТАТЫ: В клеточных культурах средняя концентрация VEGF увеличивалась в зависимости от времени после лечения **амлодипином** (P < 0,01), но не после лозартана (P > 0,01) или **лизиноприла** (P > 0,01). **Амлодипин** , но ни один другой AHM, увеличивал концентрацию VEGF в сыворотке …
+РЕЗУЛЬТАТЫ: В клеточных культурах средняя концентрация VEGF увеличивалась в зависимости от времени после лечения **амлодипином** (P < 0,01), но не после лозартана (P > 0,01) или **лизиноприла** (P > 0,01). **Амлодипин** , но ни один другой AHM, увеличивал концентрацию VEGF в сыворотке 
 
-RESULTS: In the cell cultures, the medium VEGF concentration increased time-dependently after **amlodipine** (P<0.01) treatment, but n …
-
-
+RESULTS: In the cell cultures, the medium VEGF concentration increased time-dependently after **amlodipine** (P<0.01) treatment, but n 
 
 
 
 
 
- 11
+
+
+ 
 
 
 
@@ -206,11 +206,10 @@ RESULTS: In the cell cultures, the medium VEGF concentration increased time-depe
 
 Реакция артериального давления на различные методы лечения значительно различалась у разных людей (P < .001), особенно при выборе **лизиноприла** против гидрохлоротиазида, **лизиноприла** против **амлодипина** , кандесартана против гидрохлоротиазида и кандесартана **против**
 
-…
+
 
 The blood pressure response to different treatments varied considerably between individuals (P < .001), specifically for the choices of
 
-…
 
 
 
@@ -218,7 +217,8 @@ The blood pressure response to different treatments varied considerably between 
 
 
 
- 12
+
+ 
 
 
 
@@ -228,17 +228,17 @@ The blood pressure response to different treatments varied considerably between 
 
 Холлингворт С.А., Анкра Д., Узочукву Б.С., Океке К.С., Руис Ф., Тэчер Э. Hollingworth SA, et al. BMC Cardiovasc Disord. 2022 10 августа;22(1):368. doi: 10.1186/s12872-022-02799-z. BMC Cardiovasc Disord. 2022. PMID: 35948937 Бесплатная статья PMC.
 
-Пять наиболее используемых продуктов: 16 мг кандесартана, 30 мг нифедипина, 10 мг **лизиноприла** , 5 мг **амлодипина** и 50 мг лозартана. В Нигерии широко использовались ARB, CCB и диуретики; пятью наиболее используемыми продуктами были 50 мг лозартана, 10 мг **лизиноприла** , 30 мг нифедипина, 40 м …
+Пять наиболее используемых продуктов: 16 мг кандесартана, 30 мг нифедипина, 10 мг **лизиноприла** , 5 мг **амлодипина** и 50 мг лозартана. В Нигерии широко использовались ARB, CCB и диуретики; пятью наиболее используемыми продуктами были 50 мг лозартана, 10 мг **лизиноприла** , 30 мг нифедипина, 40 м 
 
-The five most used products were 16 mg candesartan, 30 mg nifedipine, 10 mg **lisinopril**, 5 mg **amlodipine** and 50 mg losartan. In …
-
-
+The five most used products were 16 mg candesartan, 30 mg nifedipine, 10 mg **lisinopril**, 5 mg **amlodipine** and 50 mg losartan. In 
 
 
 
 
 
- 13
+
+
+ 
 
 
 
@@ -248,17 +248,17 @@ The five most used products were 16 mg candesartan, 30 mg nifedipine, 10 mg **li
 
 Ван С.Ю., Ханна Дж.М., Гонгал П., Онума ОК, Нанна М.Г. Wang SY, et al. Am Heart J. 2022 Декабрь;254:30-34. doi: 10.1016/j.ahj.2022.07.006. Epub 2022 Август 4. Am Heart J. 2022. PMID: 35932912 Бесплатная статья PMC.
 
-Это исследование было вторичным анализом исследования «Антигипертензивное и гиполипидемическое лечение для профилактики сердечного приступа». Мы сравнили использование хлорталидона, **амлодипина** или **лизиноприла** по первичному результату комбинированной ишемической болезни сердца, инсульта или м…
+Это исследование было вторичным анализом исследования «Антигипертензивное и гиполипидемическое лечение для профилактики сердечного приступа». Мы сравнили использование хлорталидона, **амлодипина** или **лизиноприла** по первичному результату комбинированной ишемической болезни сердца, инсульта или м
 
-This study was a secondary analysis of the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial. We compared the use …
-
-
+This study was a secondary analysis of the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial. We compared the use 
 
 
 
 
 
- 14
+
+
+ 
 
 
 
@@ -268,17 +268,17 @@ This study was a secondary analysis of the Antihypertensive and Lipid-Lowering T
 
 Ли Т, Лю ЮП, Лю Цюй, Ши П, Цзян Х, Тао И, Гао ХМ, Ма ЮП, Цао И. Li T, et al. BMC Pharmacol Toxicol. 2022 7 июля;23(1):45. doi: 10.1186/s40360-022-00590-6. BMC Pharmacol Toxicol. 2022. PMID: 35794660 Бесплатная статья PMC. Клиническое испытание.
 
-ЦЕЛЬ: Комбинация **лизиноприла** и **амлодипина** оказывает выраженное дополнительное влияние на артериальное давление и вызывает меньше побочных эффектов, чем индивидуальная монотерапия. ...Жирная пища, по-видимому, снижает C(max) и AUC лизиноприла **.** Тяжелых побочных эффектов не наблюдалось...
+ЦЕЛЬ: Комбинация **лизиноприла** и **амлодипина** оказывает выраженное дополнительное влияние на артериальное давление и вызывает меньше побочных эффектов, чем индивидуальная монотерапия. Жирная пища, по-видимому, снижает C(max) и AUC лизиноприла **.** Тяжелых побочных эффектов не наблюдалось
 
-PURPOSE: The combination of **lisinopril** and **amlodipine** has a marked additional effect on blood pressure and fewer side effects …
-
-
+PURPOSE: The combination of **lisinopril** and **amlodipine** has a marked additional effect on blood pressure and fewer side effects 
 
 
 
 
 
- 15
+
+
+ 
 
 
 
@@ -288,17 +288,17 @@ PURPOSE: The combination of **lisinopril** and **amlodipine** has a marked addit
 
 Ду XL, Симпсон Л.М., Осани МС, Яма Дж.М., Дэвис БР. Du XL, et al. J Alzheimers Dis Parkinsonism. 2022;12(3):541. Электронная публикация 22 апреля 2022 г. J Alzheimers Dis Parkinsonism. 2022. PMID: 35571234 Бесплатная статья PMC.
 
-18-летняя кумулятивная заболеваемость БА была почти одинаковой для 3 групп препаратов (30,5% для хлорталидона, 31,1% для **амлодипина** и 31,4% для **лизиноприла** ). Коэффициенты риска БА, не-БА деменции и общей АДРД статистически значимо не различались среди …
+18-летняя кумулятивная заболеваемость БА была почти одинаковой для 3 групп препаратов (30,5% для хлорталидона, 31,1% для **амлодипина** и 31,4% для **лизиноприла** ). Коэффициенты риска БА, не-БА деменции и общей АДРД статистически значимо не различались среди 
 
-The 18-year cumulative incidence of AD was almost identical for the 3 drug groups (30.5% for chlorthalidone, 31.1% for **amlodipine**, an …
-
-
+The 18-year cumulative incidence of AD was almost identical for the 3 drug groups (30.5% for chlorthalidone, 31.1% for **amlodipine**, an 
 
 
 
 
 
- 16
+
+
+ 
 
 
 
@@ -308,17 +308,17 @@ The 18-year cumulative incidence of AD was almost identical for the 3 drug group
 
 Мазза О., Шехори О., Лев Н. Mazza O, et al. Front Neurol. 2022 14 февраля;12:743728. doi: 10.3389/fneur.2021.743728. eCollection 2021. Front Neurol. 2022. PMID: 35237221 Бесплатная статья PMC.
 
-Для пациентов, получающих тромболизис с ДАД <120 мм рт. ст., эффективными методами лечения являются лабеталол и **амлодипин** . При ДАД выше 120 мм рт. ст. наиболее эффективными методами лечения являются **амлодипин** , **лизиноприл и никардипин. ...**
+Для пациентов, получающих тромболизис с ДАД <120 мм рт. ст., эффективными методами лечения являются лабеталол и **амлодипин** . При ДАД выше 120 мм рт. ст. наиболее эффективными методами лечения являются **амлодипин** , **лизиноприл и никардипин. **
 
-For patients receiving thrombolysis with DBP <120 mmHg, Labetalol and **Amlodipine** are effective treatments. Above DBP of 120 mmHg, …
-
-
+For patients receiving thrombolysis with DBP <120 mmHg, Labetalol and **Amlodipine** are effective treatments. Above DBP of 120 mmHg, 
 
 
 
 
 
- 17
+
+
+ 
 
 
 
@@ -328,17 +328,17 @@ For patients receiving thrombolysis with DBP <120 mmHg, Labetalol and **Amlodipi
 
 Ду XL, Симпсон Л.М., Тэнди BC, Бетанкур Дж., Дэвис БР. Du XL, et al. Int J Hypertens. 2021 9 декабря;2021:2261144. doi: 10.1155/2021/2261144. eCollection 2021. Int J Hypertens. 2021. PMID: 34925915 Бесплатная статья PMC.
 
-МЕТОДЫ: Это пассивное послеоперационное наблюдение за участниками ALLHAT в 567 центрах США в 1994-1998 годах с последней датой активного внутриисследовательского наблюдения 31 марта 2002 года, путем связывания с их данными Medicare и Национального индекса смертности по 2017 год среди 8007 субъектов, получавших …
+МЕТОДЫ: Это пассивное послеоперационное наблюдение за участниками ALLHAT в 567 центрах США в 1994-1998 годах с последней датой активного внутриисследовательского наблюдения 31 марта 2002 года, путем связывания с их данными Medicare и Национального индекса смертности по 2017 год среди 8007 субъектов, получавших 
 
-METHODS: This is a posttrial passive follow-up study of ALLHAT participants in 567 US centers in 1994-1998 with the last date of active in-t …
-
-
+METHODS: This is a posttrial passive follow-up study of ALLHAT participants in 567 US centers in 1994-1998 with the last date of active in-t 
 
 
 
 
 
- 18
+
+
+ 
 
 
 
@@ -348,17 +348,17 @@ METHODS: This is a posttrial passive follow-up study of ALLHAT participants in 5
 
 Ду XL, Симпсон Л.М., Тэнди Б.С., Бетанкур Дж.Л., Дэвис Б.Р. Du XL, et al. PLoS One. 18 ноября 2021 г.;16(11):e0260107. doi: 10.1371/journal.pone.0260107. eCollection 2021. PLoS One. 2021. PMID: 34793552 Бесплатная статья PMC. Клиническое испытание.
 
-Данные участников ALLHAT в возрасте 65 лет были связаны с данными об их претензиях Medicare. УЧАСТНИКИ: Всего было доступно 16 676 пациентов (4 480 для **лизиноприла** , 4 537 для **амлодипина** и 7 659 для хлорталидона) с полными данными по претензиям Medicare …
+Данные участников ALLHAT в возрасте 65 лет были связаны с данными об их претензиях Medicare. УЧАСТНИКИ: Всего было доступно 16 676 пациентов (4 480 для **лизиноприла** , 4 537 для **амлодипина** и 7 659 для хлорталидона) с полными данными по претензиям Medicare 
 
-Data for ALLHAT participants who were aged at 65 have been linked with their Medicare claims data. PARTICIPANTS: A total of 16,676 patients …
-
-
+Data for ALLHAT participants who were aged at 65 have been linked with their Medicare claims data. PARTICIPANTS: A total of 16,676 patients 
 
 
 
 
 
- 19
+
+
+ 
 
 
 
@@ -368,17 +368,17 @@ Data for ALLHAT participants who were aged at 65 have been linked with their Med
 
 Итога Н.К., Тауфик Д.С., Монтес-Рат М.Е., Чанг Т.И. Itoga NK, et al. J Am Coll Cardiol. 2021 26 октября;78(17):1671-1678. doi: 10.1016/j.jacc.2021.08.035. J Am Coll Cardiol. 2021. PMID: 34674811 Бесплатная статья.
 
-МЕТОДЫ: В этом исследовании анализировались данные ALLHAT (Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial), в котором взрослые были рандомизированы на хлорталидон, **амлодипин** или **лизиноприл** . Авторы оценивали одновременную связь повторных САД и ДАД м …
+МЕТОДЫ: В этом исследовании анализировались данные ALLHAT (Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial), в котором взрослые были рандомизированы на хлорталидон, **амлодипин** или **лизиноприл** . Авторы оценивали одновременную связь повторных САД и ДАД м 
 
-METHODS: This study analyzed ALLHAT (Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial) data, which randomized adu …
-
-
+METHODS: This study analyzed ALLHAT (Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial) data, which randomized adu 
 
 
 
 
 
- 20
+
+
+ 
 
 
 
@@ -388,17 +388,17 @@ METHODS: This study analyzed ALLHAT (Antihypertensive and Lipid-Lowering Treatme
 
 Ли VWY, Ли JTS, Фонг FYH, Ян BPY. Lee VWY, et al. Hong Kong Med J. 2021 июнь;27(1):184-191. doi: 10.12809/hkmj208455. Epub 2021 июнь 11. Hong Kong Med J. 2021. PMID: 34127559 Бесплатная статья. Клиническое испытание.
 
-МЕТОДЫ: Был принят параллельный дизайн исследования. Пациенты, принимающие **лизиноприл** , **амлодипин** , симвастатин, метформин или периндоприл, которым необходимо было делить таблетки, были набраны из больницы Принца Уэльского. ...
+МЕТОДЫ: Был принят параллельный дизайн исследования. Пациенты, принимающие **лизиноприл** , **амлодипин** , симвастатин, метформин или периндоприл, которым необходимо было делить таблетки, были набраны из больницы Принца Уэльского. 
 
-METHODS: A parallel study design was adopted. Patients taking **lisinopril**, **amlodipine**, simvastatin, metformin, or perindopril w …
-
-
+METHODS: A parallel study design was adopted. Patients taking **lisinopril**, **amlodipine**, simvastatin, metformin, or perindopril w 
 
 
 
 
 
- 21
+
+
+ 
 
 
 
@@ -408,17 +408,17 @@ METHODS: A parallel study design was adopted. Patients taking **lisinopril**, **
 
 Алалаки А., Лоусон Дж., Обейд Ю., Танна С. Alalaqi A, et al. PLoS One. 14 мая 2021 г.;16(5):e0251115. doi: 10.1371/journal.pone.0251115. eCollection 2021. PLoS One. 2021. PMID: 33989336 Бесплатная статья PMC.
 
-Триста три иракских пациента (средний возраст 53 года, 50,5% женщин), которые принимали один или несколько из девяти обычно назначаемых сердечно-сосудистых препаратов ( **амлодипин** , атенолол, аторвастатин, бисопролол, дилтиазем, лизиноприл **,** лозартан, симвастатин и ва …
+Триста три иракских пациента (средний возраст 53 года, 50,5% женщин), которые принимали один или несколько из девяти обычно назначаемых сердечно-сосудистых препаратов ( **амлодипин** , атенолол, аторвастатин, бисопролол, дилтиазем, лизиноприл **,** лозартан, симвастатин и ва 
 
-Three hundred and three Iraqi patients (median age 53 years, 50.5% female) who had been taking one or more of the nine commonly prescribed c …
-
-
+Three hundred and three Iraqi patients (median age 53 years, 50.5% female) who had been taking one or more of the nine commonly prescribed c 
 
 
 
 
 
- 22
+
+
+ 
 
 
 
@@ -428,17 +428,17 @@ Three hundred and three Iraqi patients (median age 53 years, 50.5% female) who h
 
 Олорундаре О.Э., Аденейе А.А., Акинсола А.О., Аджайи А.М., Агеде О.А., Сойеми С.С., Мгбехома А.И., Окойе II, Альбрехт Р.М., Нтамби Дж.М., Крукс П.А. Olorundare OE, et al. Front Pharmacol. 2021 4 марта;11:610331. doi: 10.3389/fphar.2020.610331. eCollection 2020. Front Pharmacol. 2021. PMID: 33897413 Бесплатная статья PMC.
 
-**Группы крыс VI-VIII были предварительно обработаны равными дозами валсартана 5 мг/кг/день, амлодипина** 0,25 мг/кг/день и **лизиноприла** 0,035 мг/кг/день перед внутрибрюшинным введением TZM 2,25 мг/кг/день соответственно; группы крыс IX и X были предварительно обработаны перорально комби …
+**Группы крыс VI-VIII были предварительно обработаны равными дозами валсартана 5 мг/кг/день, амлодипина** 0,25 мг/кг/день и **лизиноприла** 0,035 мг/кг/день перед внутрибрюшинным введением TZM 2,25 мг/кг/день соответственно; группы крыс IX и X были предварительно обработаны перорально комби 
 
-Groups VI-VIII rats were equally pretreated with 5 mg/kg/day valsartan, 0.25 mg/kg/day **amlodipine**, and 0.035 mg/kg/day **lisinopril** …
-
-
+Groups VI-VIII rats were equally pretreated with 5 mg/kg/day valsartan, 0.25 mg/kg/day **amlodipine**, and 0.035 mg/kg/day **lisinopril** 
 
 
 
 
 
- 23
+
+
+ 
 
 
 
@@ -448,17 +448,17 @@ Groups VI-VIII rats were equally pretreated with 5 mg/kg/day valsartan, 0.25 mg/
 
 Хайят-Холги М, Опарил С, Дэвис Б.Р., Терещенко Л.Г. Khayyat-Kholghi M, et al. JACC Heart Fail. 2021 февр.;9(2):100-111. doi: 10.1016/j.jchf.2020.09.006. Epub 2020 нояб. 11. JACC Heart Fail. 2021. PMID: 33189627 Бесплатная статья PMC.
 
-ПРЕДЫСТОРИЯ: Авторы выдвинули гипотезу, что динамическое изменение функции почек является механизмом, лежащим в основе различий в частоте возникновения сердечной недостаточности у участников исследования ALLHAT (исследование антигипертензивной и гиполипидемической терапии для предотвращения сердечных приступов), рандомизированных в **группы лизиноприла** и…
+ПРЕДЫСТОРИЯ: Авторы выдвинули гипотезу, что динамическое изменение функции почек является механизмом, лежащим в основе различий в частоте возникновения сердечной недостаточности у участников исследования ALLHAT (исследование антигипертензивной и гиполипидемической терапии для предотвращения сердечных приступов), рандомизированных в **группы лизиноприла** и
 
-BACKGROUND: The authors hypothesized that the dynamic change in kidney function is the mechanism behind differences in the rate of incident …
-
-
+BACKGROUND: The authors hypothesized that the dynamic change in kidney function is the mechanism behind differences in the rate of incident 
 
 
 
 
 
- 24
+
+
+ 
 
 
 
@@ -474,7 +474,7 @@ BACKGROUND: The authors hypothesized that the dynamic change in kidney function 
 
 
 
- 25
+ 
 
 
 
@@ -484,17 +484,17 @@ BACKGROUND: The authors hypothesized that the dynamic change in kidney function 
 
 Йохансен М.Э., Нифоратос Дж.Д., Сассман Дж.Б. Johansen ME, et al. J Gen Стажер Мед. Март 2021 г.;36(3):699-704. дои: 10.1007/s11606-020-06214-1. Epub 2020, 23 сентября. J Gen Intern Med. 2021. PMID: 32968967 Бесплатная статья PMC.
 
-После перехода на дженерики наблюдалось явное увеличение использования лозартана в составе БРА, **лизиноприла** в составе ингибиторов АПФ и **амлодипина** в составе БКК. ...
+После перехода на дженерики наблюдалось явное увеличение использования лозартана в составе БРА, **лизиноприла** в составе ингибиторов АПФ и **амлодипина** в составе БКК. 
 
-There was a clear increase in the use of losartan within ARBs, **lisinopril** within ACE-Is, and **amlodipine** within CCBs following …
-
-
+There was a clear increase in the use of losartan within ARBs, **lisinopril** within ACE-Is, and **amlodipine** within CCBs following 
 
 
 
 
 
- 26
+
+
+ 
 
 
 
@@ -504,17 +504,17 @@ There was a clear increase in the use of losartan within ARBs, **lisinopril** wi
 
 Соболева МС, Лоскутова ЕЕ. Soboleva MS, et al. Clinicoecon Outcomes Res. 2020 27 мая;12:265-272. doi: 10.2147/CEOR.S251721. eCollection 2020. Clinicoecon Outcomes Res. 2020. PMID: 32547128 Бесплатная статья PMC.
 
-Наиболее приобретенными комбинациями были атенолол+хлорталидон, валсартан+ **амлодипин** , лозартан+гидрохлоротиазид, периндоприл/ **лизиноприл** /рамиприл+ **амлодипин** , периндоприл+индапамид. ...
+Наиболее приобретенными комбинациями были атенолол+хлорталидон, валсартан+ **амлодипин** , лозартан+гидрохлоротиазид, периндоприл/ **лизиноприл** /рамиприл+ **амлодипин** , периндоприл+индапамид. 
 
-The most acquired combinations were atenolol+chlorthalidone, valsartan+**amlodipine**, losartan+hydrochlorothiazide, perindopril/**lisin** …
-
-
+The most acquired combinations were atenolol+chlorthalidone, valsartan+**amlodipine**, losartan+hydrochlorothiazide, perindopril/**lisin** 
 
 
 
 
 
- 27
+
+
+ 
 
 
 
@@ -524,17 +524,17 @@ The most acquired combinations were atenolol+chlorthalidone, valsartan+**amlodip
 
 Нюшко Т.Ю., Тарасюк ОК, Сикало Ю.К. Niushko TY, et al. Виад Лек. 2020;73(1):46-51. Wiad Lek. 2020. PMID: 32124805 Бесплатная статья.
 
-Проведено суточное мониторирование артериального давления, эхокардиография и допплеровское исследование плечевых артерий. Первоначальное лечение включало бисопролол, **лизиноприл** , гидрохлоротиазид. При невозможности снижения АД до целевого уровня назначен **амлодипин** …
+Проведено суточное мониторирование артериального давления, эхокардиография и допплеровское исследование плечевых артерий. Первоначальное лечение включало бисопролол, **лизиноприл** , гидрохлоротиазид. При невозможности снижения АД до целевого уровня назначен **амлодипин** 
 
-The ambulatory blood pressure monitoring, echocardiography and Doppler examination of the shoulder arteries were performed. Initial treatmen …
-
-
+The ambulatory blood pressure monitoring, echocardiography and Doppler examination of the shoulder arteries were performed. Initial treatmen 
 
 
 
 
 
- 28
+
+
+ 
 
 
 
@@ -544,17 +544,17 @@ The ambulatory blood pressure monitoring, echocardiography and Doppler examinati
 
 Савин Д.А., Ма Л., Стеннетт А., Офстун Н., Химмеле Р., Коссманн Р.Дж., Мэддукс Ф.В. Sawin DA, et al. Clin Nephrol. 2020 апрель;93(4):163-171. doi: 10.5414/CN109853. Clin Nephrol. 2020. PMID: 32049627 Бесплатная статья PMC.
 
-Например, при средних суточных дозах вклад фосфата от пяти основных назначаемых препаратов составил 112 мг для **амлодипина** , 116,2 мг для **лизиноприла** , 6,7 мг для клонидина, 0 мг для ацетаминофена и 200 мг для омепразола. ...
+Например, при средних суточных дозах вклад фосфата от пяти основных назначаемых препаратов составил 112 мг для **амлодипина** , 116,2 мг для **лизиноприла** , 6,7 мг для клонидина, 0 мг для ацетаминофена и 200 мг для омепразола. 
 
-For instance, at median daily doses, phosphate contributions from the top five medications prescribed were 112 mg for **amlodipine**, 116 …
-
-
+For instance, at median daily doses, phosphate contributions from the top five medications prescribed were 112 mg for **amlodipine**, 116 
 
 
 
 
 
- 29
+
+
+ 
 
 
 
@@ -564,17 +564,17 @@ For instance, at median daily doses, phosphate contributions from the top five m
 
 Юрашек С.П., Симпсон Л.М., Дэвис Б.Р., Шмерлинг Р.Х., Бич Дж.Л., Ишак А., Мукамал К.Дж. Juraschek SP, et al. J Hypertens. 2020 май;38(5):954-960. doi: 10.1097/HJH.00000000000002359. J Hypertens. 2020. PMID: 31977576 Бесплатная статья PMC.
 
-За средний период наблюдения 4,9 года мы задокументировали 597 жалоб на подагру. **Амлодипин** снизил риск подагры на 37% (коэффициент риска 0,63; 95% ДИ 0,51–0,78) по сравнению с хлорталидоном и на 26% (коэффициент риска 0,74; 95% ДИ 0,58–0,94) по сравнению с **лизиноприлом** . ...Риск подагры …
+За средний период наблюдения 4,9 года мы задокументировали 597 жалоб на подагру. **Амлодипин** снизил риск подагры на 37% (коэффициент риска 0,63; 95% ДИ 0,51–0,78) по сравнению с хлорталидоном и на 26% (коэффициент риска 0,74; 95% ДИ 0,58–0,94) по сравнению с **лизиноприлом** . Риск подагры 
 
-Over a mean follow-up of 4.9 years, we documented 597 gout claims. **Amlodipine** reduced the risk of gout by 37% (hazard ratio 0.63; 95% …
-
-
+Over a mean follow-up of 4.9 years, we documented 597 gout claims. **Amlodipine** reduced the risk of gout by 37% (hazard ratio 0.63; 95% 
 
 
 
 
 
- 30
+
+
+ 
 
 
 
@@ -584,17 +584,17 @@ Over a mean follow-up of 4.9 years, we documented 597 gout claims. **Amlodipine*
 
 Йи Й., Ангкоджоджо С., Тан Ф.Х. Yee Y, et al. Отчет по делу BMJ, 16 сентября 2019 г.;12(9):e231434. doi: 10.1136/bcr-2019-231434. BMJ Case Rep. 2019. PMID: 31527221 Бесплатная статья PMC.
 
-Ей была назначена антикоагулянтная терапия варфарином, а гипертонию удалось контролировать с помощью **лизиноприла** и **амлодипина** , что привело к последующему улучшению протеинурии. ...
+Ей была назначена антикоагулянтная терапия варфарином, а гипертонию удалось контролировать с помощью **лизиноприла** и **амлодипина** , что привело к последующему улучшению протеинурии. 
 
-She was started on anticoagulation with warfarin, and her hypertension was controlled with **lisinopril** and **amlodipine** with subs …
-
-
+She was started on anticoagulation with warfarin, and her hypertension was controlled with **lisinopril** and **amlodipine** with subs 
 
 
 
 
 
- 31
+
+
+ 
 
 
 
@@ -610,7 +610,7 @@ She was started on anticoagulation with warfarin, and her hypertension was contr
 
 
 
- 32
+ 
 
 
 
@@ -620,17 +620,17 @@ She was started on anticoagulation with warfarin, and her hypertension was contr
 
 Юрашек С.П., Симпсон Л.М., Дэвис Б.Р., Бич Дж.Л., Ишак А., Мукамал К.Дж. Juraschek SP, et al. Гипертония. 2019 октябрь;74(4):1033-1040. doi: 10.1161/HYPERTENSIONAHA.119.13445. Epub 2019 сентябрь 3. Hypertension. 2019. PMID: 31476905 Бесплатная статья PMC.
 
-Не было выявлено существенных различий в кумулятивной частоте событий в рандомизированных группах назначения препаратов. Однако **амлодипин** увеличил риск падений в течение первого года наблюдения по сравнению с хлорталидоном (коэффициент риска \[95% ДИ\]: 2,24 \[1,06-4,74\]; P=0,03) или …
+Не было выявлено существенных различий в кумулятивной частоте событий в рандомизированных группах назначения препаратов. Однако **амлодипин** увеличил риск падений в течение первого года наблюдения по сравнению с хлорталидоном (коэффициент риска \[95% ДИ\]: 2,24 \[1,06-4,74\]; P=0,03) или 
 
-There were no significant differences in the cumulative incidences of events across randomized drug assignments. However, **amlodipine** …
-
-
+There were no significant differences in the cumulative incidences of events across randomized drug assignments. However, **amlodipine** 
 
 
 
 
 
- 33
+
+
+ 
 
 
 
@@ -640,17 +640,17 @@ There were no significant differences in the cumulative incidences of events acr
 
 Редферн Дж., Каур Х., Адедоин Р.А., Офори С., Анчала Р., Вамадеван А.С., Де Андраде Л., Селайя Дж., Балабанова Д., Сани М.У. Redfern J, et al. Glob Heart. 2019 сентябрь;14(3):327-333. doi: 10.1016/j.gheart.2019.07.006. Glob Heart. 2019. PMID: 31451241 Бесплатная статья.
 
-Всего было собрано и протестировано 361 образец из 22 аптек. В общей сложности 24,6% образцов **амлодипина** и 31,9% образцов **лизиноприла** были ненадлежащего качества, и значительно больше образцов было закуплено в сельской местности (59 из 161, 36,7%) по сравнению с городскими (32 из 200, 16%) или …
+Всего было собрано и протестировано 361 образец из 22 аптек. В общей сложности 24,6% образцов **амлодипина** и 31,9% образцов **лизиноприла** были ненадлежащего качества, и значительно больше образцов было закуплено в сельской местности (59 из 161, 36,7%) по сравнению с городскими (32 из 200, 16%) или 
 
-In total, 361 samples from 22 pharmacies were collected and tested. In total, 24.6% of **amlodipine** and 31.9% of **lisinopril** samp …
-
-
+In total, 361 samples from 22 pharmacies were collected and tested. In total, 24.6% of **amlodipine** and 31.9% of **lisinopril** samp 
 
 
 
 
 
- 34
+
+
+ 
 
 
 
@@ -660,17 +660,17 @@ In total, 361 samples from 22 pharmacies were collected and tested. In total, 24
 
 Ятич З, Скопляк А, Хебибович С, Сукало А, Рустемпасич Е, Валевац А. Jatic Z, et al. Мед Арх. Июнь 2019 г.;73(3):157-162. дои: 10.5455/medarh.2019.73.157-162. Med Arch. 2019. PMID: 31391706 Бесплатная статья PMC.
 
-Участники были разделены на шесть групп лечения в зависимости от используемой ими терапии гипертензивных препаратов: **лизиноприл** , лозартан или валсартан по отдельности или в сочетании с гидрохлоротиазидом (группы A, B и C соответственно) или комбинация **лизиноприла** , лозартана или валсартана…
+Участники были разделены на шесть групп лечения в зависимости от используемой ими терапии гипертензивных препаратов: **лизиноприл** , лозартан или валсартан по отдельности или в сочетании с гидрохлоротиазидом (группы A, B и C соответственно) или комбинация **лизиноприла** , лозартана или валсартана
 
-Participants were divided into six treatment groups based on the hypertensive drug therapy they were using; **lisinopril**, losartan or v …
-
-
+Participants were divided into six treatment groups based on the hypertensive drug therapy they were using; **lisinopril**, losartan or v 
 
 
 
 
 
- 35
+
+
+ 
 
 
 
@@ -680,17 +680,17 @@ Participants were divided into six treatment groups based on the hypertensive dr
 
 Джонсон К., Опарил С., Дэвис Б.Р., Терещенко Л.Г. Johnson K, et al. J Am Heart Assoc. 2019 16 апреля;8(8):e011961. doi: 10.1161/JAHA.119.011961. J Am Heart Assoc. 2019. PMID: 30943832 Бесплатная статья PMC. Клиническое испытание.
 
-Мы изучили, в какой степени изменение артериального давления (АД) и развивающаяся ГЛЖ способствуют эффекту **лизиноприла** , доксазозина и **амлодипина** на СН по сравнению с хлорталидоном. ...Все участники исследования ALLHAT с доступными серийными ЭКГ и измерениями АД были включены …
+Мы изучили, в какой степени изменение артериального давления (АД) и развивающаяся ГЛЖ способствуют эффекту **лизиноприла** , доксазозина и **амлодипина** на СН по сравнению с хлорталидоном. Все участники исследования ALLHAT с доступными серийными ЭКГ и измерениями АД были включены 
 
-We studied the extent to which blood pressure ( BP ) change and evolving LVH contribute to the effect that **lisinopril**, doxazosin, and …
-
-
+We studied the extent to which blood pressure ( BP ) change and evolving LVH contribute to the effect that **lisinopril**, doxazosin, and 
 
 
 
 
 
- 36
+
+
+ 
 
 
 
@@ -700,17 +700,17 @@ We studied the extent to which blood pressure ( BP ) change and evolving LVH con
 
 Сэмюэл Дж. П., Тайсон Дж. Э., Грин К., Белл К. С., Педроза К., Молони Д., Сэмюэлс Дж. Samuel JP, et al. Педиатрия. 2019 апрель;143(4):e20181818. doi: 10.1542/peds.2018-1818. Epub 2019 мар 6. Pediatrics. 2019. PMID: 30842257 Бесплатная статья PMC. Клиническое испытание.
 
-В консервативном байесовском анализе доля пациентов, которые предпочли **лизиноприл,** составила 49% (95% доверительный интервал \[CrI\]: от 32% до 69%), 24% (95% CrI: от 12% до 41%) предпочли **амлодипин** , а 12% (95% CrI: от 4% до 26%) предпочли гидрохлоротиазид. Предпочтительная терапия …
+В консервативном байесовском анализе доля пациентов, которые предпочли **лизиноприл,** составила 49% (95% доверительный интервал \[CrI\]: от 32% до 69%), 24% (95% CrI: от 12% до 41%) предпочли **амлодипин** , а 12% (95% CrI: от 4% до 26%) предпочли гидрохлоротиазид. Предпочтительная терапия 
 
-In conservative Bayesian analyses, the proportion of patients who preferred **lisinopril** was 49% (95% credible interval \[CrI\]: 32% to 6 …
-
-
+In conservative Bayesian analyses, the proportion of patients who preferred **lisinopril** was 49% (95% credible interval \[CrI\]: 32% to 6 
 
 
 
 
 
- 37
+
+
+ 
 
 
 
@@ -720,17 +720,17 @@ In conservative Bayesian analyses, the proportion of patients who preferred **li
 
 Барзилай Дж.И., Лай Д., Дэвис Б.Р., Прессел С., Превин Х.Е., Арнетт Д.К. Barzilay JI, et al. Я Дж. Гипертенс. 16 марта 2019 г.; 32 (4): 343–349. дои: 10.1093/ajh/hpy199. Am J Hypertens. 2019. PMID: 30590387 Бесплатная статья PMC. Клиническое испытание.
 
-Участники были рандомизированы для лечения тиазидоподобным диуретиком (хлорталидон), блокатором кальциевых каналов (БКК; **амлодипин** ) или ингибитором АПФ ( **лизиноприл** ). Результаты включали увеличение FG на 13 или 27 мг/дл, верхние 75% и 90% увеличения FG в родительской когорте из …
+Участники были рандомизированы для лечения тиазидоподобным диуретиком (хлорталидон), блокатором кальциевых каналов (БКК; **амлодипин** ) или ингибитором АПФ ( **лизиноприл** ). Результаты включали увеличение FG на 13 или 27 мг/дл, верхние 75% и 90% увеличения FG в родительской когорте из 
 
-Participants were randomized to treatment with a thiazide-like diuretic (chlorthalidone), a calcium channel blocker (CCB; **amlodipine**) …
-
-
+Participants were randomized to treatment with a thiazide-like diuretic (chlorthalidone), a calcium channel blocker (CCB; **amlodipine**) 
 
 
 
 
 
- 38
+
+
+ 
 
 
 
@@ -740,17 +740,17 @@ Participants were randomized to treatment with a thiazide-like diuretic (chlorth
 
 Сундстрем Дж, Линд Л, Норузи С, Лици П, Марттала К, Экман И, Охаген П, Эстлунд О. Sundström J, et al. Ups J Med Sci. 2019 Январь;124(1):51-58. doi: 10.1080/03009734.2018.1498958. Epub 2018 Сентябрь 28. Ups J Med Sci. 2019. PMID: 30265168 Бесплатная статья PMC.
 
-В двойном слепом рандомизированном повторном перекрестном исследовании 300 пациентов с легкой гипертонией будут получать лечение четырьмя препаратами для снижения артериального давления (кандесартаном, **лизиноприлом** , **амлодипином** и гидрохлоротиазидом) в виде монотерапии, причем два из препаратов будут приниматься повторно в течение …
+В двойном слепом рандомизированном повторном перекрестном исследовании 300 пациентов с легкой гипертонией будут получать лечение четырьмя препаратами для снижения артериального давления (кандесартаном, **лизиноприлом** , **амлодипином** и гидрохлоротиазидом) в виде монотерапии, причем два из препаратов будут приниматься повторно в течение 
 
-In a double-blind, randomized, repeated cross-over trial, 300 patients with mild hypertension will be treated with four blood pressure-lower …
-
-
+In a double-blind, randomized, repeated cross-over trial, 300 patients with mild hypertension will be treated with four blood pressure-lower 
 
 
 
 
 
- 39
+
+
+ 
 
 
 
@@ -760,17 +760,17 @@ In a double-blind, randomized, repeated cross-over trial, 300 patients with mild
 
 Черноносов А. Chernonosov A. Int J Anal Chem. 2018 1 августа;2018:3235072. doi: 10.1155/2018/3235072. eCollection 2018. Int J Anal Chem. 2018. PMID: 30154849 Бесплатная статья PMC. Обзор.
 
-В этом обзоре обсуждается использование сухих пятен крови (СПК) для количественной оценки с помощью масс-спектрометрии (МС), тандемной масс-спектрометрии (МС/МС) или, в некоторых случаях, методов флуоресцентной детекции следующих антигипертензивных препаратов: ингибиторы ангиотензинпревращающего фермента…
+В этом обзоре обсуждается использование сухих пятен крови (СПК) для количественной оценки с помощью масс-спектрометрии (МС), тандемной масс-спектрометрии (МС/МС) или, в некоторых случаях, методов флуоресцентной детекции следующих антигипертензивных препаратов: ингибиторы ангиотензинпревращающего фермента
 
-This review discusses the use of dried blood spots (DBSs) for the quantification by mass spectrometry (MS), tandem mass spectrometry (MS/MS) …
-
-
+This review discusses the use of dried blood spots (DBSs) for the quantification by mass spectrometry (MS), tandem mass spectrometry (MS/MS) 
 
 
 
 
 
- 40
+
+
+ 
 
 
 
@@ -780,17 +780,17 @@ This review discusses the use of dried blood spots (DBSs) for the quantification
 
 Хейвуд Л.Дж., Дэвис Б.Р., Пиллер Л.Б., Симпсон Л.М., Гош А., Эйнхорн П.Т., Форд К.Э., Пробстфилд Дж.Л., Солиман Э.З., Райт Дж.Т.-младший; Группа совместных исследований ALLHAT. Haywood LJ, et al. J Natl Med Assoc. Август 2018 г.; 110(4): 343–351. дои: 10.1016/j.jnma.2017.07.003. Epub, 24 июля 2017 г. J Natl Med Assoc. 2018. PMID: 30126559 Бесплатная статья PMC. Клиническое испытание.
 
-ПРЕДЫСТОРИЯ И ЦЕЛИ: ALLHAT — рандомизированное двойное слепое активно контролируемое многоцентровое клиническое исследование с участием пациентов с высоким риском гипертонии, в котором сравнивалось лечение ингибитором АПФ ( **лизиноприлом** ) или блокатором кальциевых каналов ( **амлодипином** ) с диуретиком (хлорталидо…
+ПРЕДЫСТОРИЯ И ЦЕЛИ: ALLHAT — рандомизированное двойное слепое активно контролируемое многоцентровое клиническое исследование с участием пациентов с высоким риском гипертонии, в котором сравнивалось лечение ингибитором АПФ ( **лизиноприлом** ) или блокатором кальциевых каналов ( **амлодипином** ) с диуретиком (хлорталидо
 
-BACKGROUND AND AIMS: ALLHAT, a randomized, double-blind, active-controlled, multicenter clinical trial of high risk hypertensive participant …
-
-
+BACKGROUND AND AIMS: ALLHAT, a randomized, double-blind, active-controlled, multicenter clinical trial of high risk hypertensive participant 
 
 
 
 
 
- 41
+
+
+ 
 
 
 
@@ -800,17 +800,17 @@ BACKGROUND AND AIMS: ALLHAT, a randomized, double-blind, active-controlled, mult
 
 Мухтар О., Чериан Дж., Кокрофт Дж. Р., Кольер Д., Коулсон Дж. М., Дасгупта И., Факонти Л., Гловер М., Хегерти АМ., Хонг ТК., Лип Г. И. Х., Мандер АП., Марчонг М. Н., Мартин У., Макдоннелл Б. Дж., Макэньери СМ., Падманабхан С., Саксена М., Север П. Дж., Шил Дж. И., Вич Дж., Човиенчик П. Дж., Уилкинсон И. Б. Mukhtar O, et al. Am Heart J. 2018 октябрь;204:102-108. doi: 10.1016/j.ahj.2018.05.006. Epub 20 мая 2018. Am Heart J. 2018. PMID: 30092411 Бесплатная статья PMC. Клиническое испытание.
 
-Пациенты, получающие монотерапию (n = 660), будут включены в 3-периодный курс лечения ( **амлодипин** 10 мг один раз в день; **лизиноприл** 20 мг один раз в день; хлорталидон 25 мг один раз в день), 3-периодный перекрестный курс, продолжительностью 24 недели, тогда как пациенты, получающие двойную терапию (n = 660), будут включены в 4-периодный курс лечения ( **амлодипин** 5 мг …
+Пациенты, получающие монотерапию (n = 660), будут включены в 3-периодный курс лечения ( **амлодипин** 10 мг один раз в день; **лизиноприл** 20 мг один раз в день; хлорталидон 25 мг один раз в день), 3-периодный перекрестный курс, продолжительностью 24 недели, тогда как пациенты, получающие двойную терапию (n = 660), будут включены в 4-периодный курс лечения ( **амлодипин** 5 мг 
 
-Those receiving monotherapy (n = 660) will enter a 3-treatment (**amlodipine** 10 mg od; **lisinopril** 20 mg od; chlorthalidone 25 mg …
-
-
+Those receiving monotherapy (n = 660) will enter a 3-treatment (**amlodipine** 10 mg od; **lisinopril** 20 mg od; chlorthalidone 25 mg 
 
 
 
 
 
- 42
+
+
+ 
 
 
 
@@ -820,17 +820,17 @@ Those receiving monotherapy (n = 660) will enter a 3-treatment (**amlodipine** 1
 
 Итога Н.К., Тауфик Д.С., Ли К.К., Маруяма С., Липер Н.Дж., Чанг ТИ. Itoga NK, et al. Тираж. 23 октября 2018 г.;138(17):1805-1814. doi: 10.1161/CIRCULATIONAHA.118.033348. Circulation. 2018. PMID: 29930023 Бесплатная статья PMC.
 
-МЕТОДЫ: ALLHAT исследовал влияние различных классов антигипертензивных препаратов (хлорталидон, **амлодипин** , **лизиноприл** или доксазозин) на сердечно-сосудистые события. При использовании этих данных первичным результатом в нашем анализе было время до первой нижней конечности …
+МЕТОДЫ: ALLHAT исследовал влияние различных классов антигипертензивных препаратов (хлорталидон, **амлодипин** , **лизиноприл** или доксазозин) на сердечно-сосудистые события. При использовании этих данных первичным результатом в нашем анализе было время до первой нижней конечности 
 
-METHODS: ALLHAT investigated the effect of different antihypertensive medication classes (chlorthalidone, **amlodipine**, **lisinopril** …
-
-
+METHODS: ALLHAT investigated the effect of different antihypertensive medication classes (chlorthalidone, **amlodipine**, **lisinopril** 
 
 
 
 
 
- 43
+
+
+ 
 
 
 
@@ -840,17 +840,17 @@ METHODS: ALLHAT investigated the effect of different antihypertensive medication
 
 Адибе М.О., Эвелум ПК, Аморха К.С. Adibe MO, et al. Pan Afr Med J. 3 ноября 2017 г.; 28:199. дои: 10.11604/pamj.2017.28.199.13622. Электронная коллекция 2017. Pan Afr Med J. 2017. PMID: 29610637 Бесплатная статья PMC.
 
-Большинство из них были старше 50 лет и находились на 4 или 5 стадии ХБП. Фуросемид, **лизиноприл** и **амлодипин** были наиболее часто назначаемыми препаратами и имели наибольшую вероятность нефротоксичности. ...Около 70% комбинаций препаратов требовали мониторинга, поскольку они попадали в …
+Большинство из них были старше 50 лет и находились на 4 или 5 стадии ХБП. Фуросемид, **лизиноприл** и **амлодипин** были наиболее часто назначаемыми препаратами и имели наибольшую вероятность нефротоксичности. Около 70% комбинаций препаратов требовали мониторинга, поскольку они попадали в 
 
-Majority were above 50 years old and in stage 4 or 5 CKD. Furosemide, **lisinopril** and **amlodipine** were the most frequently presc …
-
-
+Majority were above 50 years old and in stage 4 or 5 CKD. Furosemide, **lisinopril** and **amlodipine** were the most frequently presc 
 
 
 
 
 
- 44
+
+
+ 
 
 
 
@@ -860,17 +860,17 @@ Majority were above 50 years old and in stage 4 or 5 CKD. Furosemide, **lisinopr
 
 Барзилай ДЖИ, Дэвис БР, Прессел SL, Гош А, Рахман М, Эйнхорн ПТ, Кушман ВК, Уэлтон ПК, Райт ДЖТ младший. Barzilay JI, et al. Am J Hypertens. 2018 13 апреля;31(5):609-614. doi: 10.1093/ajh/hpx223. Am J Hypertens. 2018. PMID: 29360915 Бесплатная статья PMC. Клиническое испытание.
 
-Результаты оценивались по лечению первичной гипертонии (ГТН) (хлорталидон, **лизиноприл** и **амлодипин** ) и корректировались по базовым уровням СКФ. РЕЗУЛЬТАТЫ: В краткосрочной перспективе снижение СКФ ниже медианы когорты (-1,28 мл/мин/1,73 м2/2 года) по сравнению с выше медианы …
+Результаты оценивались по лечению первичной гипертонии (ГТН) (хлорталидон, **лизиноприл** и **амлодипин** ) и корректировались по базовым уровням СКФ. РЕЗУЛЬТАТЫ: В краткосрочной перспективе снижение СКФ ниже медианы когорты (-1,28 мл/мин/1,73 м2/2 года) по сравнению с выше медианы 
 
-Results were assessed by primary hypertension (HTN) treatment (chlorthalidone, **lisinopril**, and **amlodipine**) and adjusted for ba …
-
-
+Results were assessed by primary hypertension (HTN) treatment (chlorthalidone, **lisinopril**, and **amlodipine**) and adjusted for ba 
 
 
 
 
 
- 45
+
+
+ 
 
 
 
@@ -880,17 +880,17 @@ Results were assessed by primary hypertension (HTN) treatment (chlorthalidone, *
 
 Дьюланд Т.А., Солиман Э.З., Ямал Дж.М., Дэвис Б.Р., Алонсо А., Альберт К.М., Симпсон Л.М., Хейвуд Л.Дж., Маркус Г.М. Dewland TA, et al. Циркулярная электрофизиология аритмии. 2017 Декабрь;10(12):e005463. doi: 10.1161/CIRCEP.117.005463. Circ Arrhythm Electrophysiol. 2017. PMID: 29212812 Бесплатная статья PMC. Клиническое испытание.
 
-Среди 14 837 участников без распространенной AF или AFL, у 2514 развилась AF/AFL в течение среднего периода наблюдения 7,5-3,2 лет. По сравнению с хлорталидоном рандомизация на **лизиноприл** (коэффициент риска 1,04; 95% доверительный интервал 0,94-1,15; P=0,46) или **амлодипин** (haz …
+Среди 14 837 участников без распространенной AF или AFL, у 2514 развилась AF/AFL в течение среднего периода наблюдения 7,5-3,2 лет. По сравнению с хлорталидоном рандомизация на **лизиноприл** (коэффициент риска 1,04; 95% доверительный интервал 0,94-1,15; P=0,46) или **амлодипин** (haz 
 
-Among 14 837 participants without prevalent AF or AFL, 2514 developed AF/AFL during a mean 7.53.2 years of follow-up. Compared with chlortha …
-
-
+Among 14 837 participants without prevalent AF or AFL, 2514 developed AF/AFL during a mean 7.53.2 years of follow-up. Compared with chlortha 
 
 
 
 
 
- 46
+
+
+ 
 
 
 
@@ -900,17 +900,17 @@ Among 14 837 participants without prevalent AF or AFL, 2514 developed AF/AFL dur
 
 Хейвуд Л.Дж., Дэвис Б.Р., Пиллер Л.Б., Кушман В.К., Катлер Дж.А., Форд К.Э., Симпсон Л.М., Гош А., Солиман Э.З., Райт Дж.Т.-младший; Совместная исследовательская группа ALLHAT. Haywood LJ, et al. J Natl Med Assoc. 2017 Осень;109(3):172-181. doi: 10.1016/j.jnma.2017.02.005. Epub 2017 Мар 18. J Natl Med Assoc. 2017. PMID: 28987246 Бесплатная статья PMC. Клиническое испытание.
 
-Из 31 473 доступных субъектов AF/AFL произошли у 854; 383/14 371 хлорталидон (2,7%), 247/8565 **амлодипин** (2,9%) и 224/8537 **лизиноприл** (2,6%). В ретроспективном анализе использовались административные базы данных для пост-испытательных данных. ...Десятилетние показатели смертности от всех причин для tho …
+Из 31 473 доступных субъектов AF/AFL произошли у 854; 383/14 371 хлорталидон (2,7%), 247/8565 **амлодипин** (2,9%) и 224/8537 **лизиноприл** (2,6%). В ретроспективном анализе использовались административные базы данных для пост-испытательных данных. Десятилетние показатели смертности от всех причин для tho 
 
-Of 31,473 available subjects, AF/AFL occurred in 854; 383/14,371 chlorthalidone (2.7%), 247/8565 **amlodipine** (2.9%), and 224/8537 **l** …
-
-
+Of 31,473 available subjects, AF/AFL occurred in 854; 383/14,371 chlorthalidone (2.7%), 247/8565 **amlodipine** (2.9%), and 224/8537 **l** 
 
 
 
 
 
- 47
+
+
+ 
 
 
 
@@ -920,17 +920,17 @@ Of 31,473 available subjects, AF/AFL occurred in 854; 383/14,371 chlorthalidone 
 
 Банг КН, Солиман ЭЗ, Симпсон ЛМ, Дэвис БР, Деверо РБ, Окин ПМ; Группа совместных исследований ALLHAT. Bang CN, et al. Am J Hypertens. 1 сентября 2017 г.;30(9):914-922. doi: 10.1093/ajh/hpx067. Am J Hypertens. 2017. PMID: 28430947 Бесплатная статья PMC. Клиническое испытание.
 
-МЕТОДЫ: Всего 33 357 пациентов (в возрасте 55 лет) с гипертонией и по крайней мере 1 другим фактором риска ишемической болезни сердца (ИБС) были рандомизированы в группы хлорталидона, **амлодипина** или **лизиноприла** . Результатом настоящего исследования была смертность от всех причин; и вторичная …
+МЕТОДЫ: Всего 33 357 пациентов (в возрасте 55 лет) с гипертонией и по крайней мере 1 другим фактором риска ишемической болезни сердца (ИБС) были рандомизированы в группы хлорталидона, **амлодипина** или **лизиноприла** . Результатом настоящего исследования была смертность от всех причин; и вторичная 
 
-METHODS: A total of 33,357 patients (aged 55 years) with hypertension and at least 1 other coronary heart disease (CHD) risk factor were ran …
-
-
+METHODS: A total of 33,357 patients (aged 55 years) with hypertension and at least 1 other coronary heart disease (CHD) risk factor were ran 
 
 
 
 
 
- 48
+
+
+ 
 
 
 
@@ -940,17 +940,17 @@ METHODS: A total of 33,357 patients (aged 55 years) with hypertension and at lea
 
 Бангалор С., Дэвис Б.Р., Кушман В.К., Прессел С.Л., Мунтнер П.М., Калхун Д.А., Костис Дж.Б., Уэлтон П.К., Пробстфилд Д.Л., Рахман М., Блэк Х.Р.; Совместная исследовательская группа ALLHAT. Bangalore S, et al. Am J Med. 2017 апрель;130(4):439-448.e9. doi: 10.1016/j.amjmed.2016.10.002. Epub 2016 27 октября. Am J Med. 2017. PMID: 27984005 Бесплатная статья PMC. Клиническое испытание.
 
-МЕТОДЫ: Участники исследования антигипертензивного и гиполипидемического лечения для профилактики сердечных приступов (ALLHAT) были случайным образом распределены на терапию первого шага с хлорталидоном, **амлодипином** или **лизиноприлом** . На 2-м году последующего визита те, у кого средний уровень артериального давления …
+МЕТОДЫ: Участники исследования антигипертензивного и гиполипидемического лечения для профилактики сердечных приступов (ALLHAT) были случайным образом распределены на терапию первого шага с хлорталидоном, **амлодипином** или **лизиноприлом** . На 2-м году последующего визита те, у кого средний уровень артериального давления 
 
-METHODS: Participants in the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) were randomly assigned to …
-
-
+METHODS: Participants in the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) were randomly assigned to 
 
 
 
 
 
- 49
+
+
+ 
 
 
 
@@ -960,17 +960,17 @@ METHODS: Participants in the Antihypertensive and Lipid-Lowering Treatment to Pr
 
 Эрнст ME, Дэвис BR, Солиман EZ, Принеас RJ, Окин PM, Гош A, Кушман WC, Эйнхорн PT, Опарил S, Гримм RH Jr; Совместная исследовательская группа ALLHAT. Ernst ME, et al. J Am Soc Hypertens. 2016 Декабрь;10(12):930-938.e9. doi: 10.1016/j.jash.2016.10.010. Epub 2016 Ноябрь 9. J Am Soc Hypertens. 2016. PMID: 27938852 Бесплатная статья PMC. Клиническое испытание.
 
-Мы проанализировали исходные/последующие электрокардиограммы у 26 376 участников исследования антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа, рандомизированных на **амлодипин** (A), **лизиноприл** (L) или хлорталидон (C). Распространенная/случайная ГЛЖ была исследована с помощью конт …
+Мы проанализировали исходные/последующие электрокардиограммы у 26 376 участников исследования антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа, рандомизированных на **амлодипин** (A), **лизиноприл** (L) или хлорталидон (C). Распространенная/случайная ГЛЖ была исследована с помощью конт 
 
-We analyzed baseline/follow-up electrocardiographies in 26,376 Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial p …
-
-
+We analyzed baseline/follow-up electrocardiographies in 26,376 Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial p 
 
 
 
 
 
- 50
+
+
+ 
 
 
 
@@ -980,17 +980,17 @@ We analyzed baseline/follow-up electrocardiographies in 26,376 Antihypertensive 
 
 Мохаммед Н.Е., Мессиха Б.А., Або-Саиф А.А. Mohammed NE, et al. Saudi Pharm J. 2016 Ноябрь;24(6):635-644. doi: 10.1016/j.jsps.2015.04.004. Epub 2015 Май 19. Saudi Pharm J. 2016. PMID: 27829805 Бесплатная статья PMC.
 
-ЦЕЛЬ: В этом исследовании оцениваются возможные защитные эффекты блокатора кальциевых каналов **амлодипина** , ингибитора ангиотензинпревращающего фермента **лизиноприла** и ингибитора ксантиноксидазы аллопуринола против экспериментальной гепатотоксичности, вызванной ацетаминофеном…
+ЦЕЛЬ: В этом исследовании оцениваются возможные защитные эффекты блокатора кальциевых каналов **амлодипина** , ингибитора ангиотензинпревращающего фермента **лизиноприла** и ингибитора ксантиноксидазы аллопуринола против экспериментальной гепатотоксичности, вызванной ацетаминофеном
 
-OBJECTIVE: This study evaluates the possible protective effects of the calcium channel blocker **amlodipine**, the angiotensin converting …
-
-
+OBJECTIVE: This study evaluates the possible protective effects of the calcium channel blocker **amlodipine**, the angiotensin converting 
 
 
 
 
 
- 51
+
+
+ 
 
 
 
@@ -1000,17 +1000,17 @@ OBJECTIVE: This study evaluates the possible protective effects of the calcium c
 
 Уиттл Дж., Ямал Дж. М., Уильямсон Дж. Д., Форд CE, Пробстфилд Дж. Л., Бирд BL, Марджиниан Х., Гамильтон BP, Сухан PS, Дэвис BR; Группа совместных исследований ALLHAT. Whittle J, et al. BMC Health Serv Res. 2016 8 июля;16:236. doi: 10.1186/s12913-016-1471-x. BMC Health Serv Res. 2016. PMID: 27391223 Бесплатная статья PMC. Клиническое испытание.
 
-Виргинские острова для случайного распределения на антигипертензивное лечение **амлодипином** , хлорталидоном или **лизиноприлом** . Исследователи на месте сообщили клинические характеристики на момент подачи заявки на участие в исследовании, а координаторы исследования использовали стандартизированные мет …
+Виргинские острова для случайного распределения на антигипертензивное лечение **амлодипином** , хлорталидоном или **лизиноприлом** . Исследователи на месте сообщили клинические характеристики на момент подачи заявки на участие в исследовании, а координаторы исследования использовали стандартизированные мет 
 
-Virgin Islands for random assignment to antihypertensive treatment with **amlodipine**, chlorthalidone, or **lisinopril**. Site invest …
-
-
+Virgin Islands for random assignment to antihypertensive treatment with **amlodipine**, chlorthalidone, or **lisinopril**. Site invest 
 
 
 
 
 
- 52
+
+
+ 
 
 
 
@@ -1020,17 +1020,16 @@ Virgin Islands for random assignment to antihypertensive treatment with **amlodi
 
 Коньи А, Сарсеги З, Хильд Г, Гаснер Б. Kónyi A, et al. J Comp Eff Res. 2016 июль;5(4):355-64. doi: 10.2217/cer-2016-0003. Epub 2016 июнь 13. J Comp Eff Res. 2016. PMID: 27295112 Бесплатная статья.
 
-Это 6-месячное перспективное неинтервенционное исследование оценивало безопасность и эффективность фиксированной комбинации **лизиноприла** - **амлодипина** плюс розувастатина. ПАЦИЕНТЫ И МЕТОДЫ: Пациенты с легкой/умеренной гипертонией и гиперхолестеринемией, с высоким/очень высоким риском сердечно-сосудистых заболеваний …
+Это 6-месячное перспективное неинтервенционное исследование оценивало безопасность и эффективность фиксированной комбинации **лизиноприла** - **амлодипина** плюс розувастатина. ПАЦИЕНТЫ И МЕТОДЫ: Пациенты с легкой/умеренной гипертонией и гиперхолестеринемией, с высоким/очень высоким риском сердечно-сосудистых заболеваний 
 
-This 6-month prospective noninterventional trial assessed the safety and effectiveness of fixed-combination **lisinopril**\-**amlodipine** …
-
-
+This 6-month prospective noninterventional trial assessed the safety and effectiveness of fixed-combination **lisinopril**\-**amlodipine** 
 
 
 
 
 
- 53
+
+
 
 
 
@@ -1040,17 +1039,17 @@ This 6-month prospective noninterventional trial assessed the safety and effecti
 
 Уиттл Дж., Линч А.И., Таннер Р.М., Симпсон Л.М., Дэвис Б.Р., Рахман М., Уэлтон П.К., Опарил С., Мунтнер П. Whittle J, et al. Клин Дж Ам Сок Нефрол. 7 марта 2016 г.; 11(3): 471-80. doi: 10.2215/CJN.04660415. Epub 2016, 18 февраля. Clin J Am Soc Nephrol. 2016. PMID: 26912544 Бесплатная статья PMC.
 
-ДИЗАЙН, УСТАНОВКА, УЧАСТНИКИ И ИЗМЕРЕНИЯ: Мы измерили среднее АД и вариабельность АД от визита к визиту, определяемую как SD, в течение пяти-семи визитов, произошедших через 6-28 месяцев после того, как участники были рандомизированы на хлорталидон, **амлодипин** или **лизиноприл** . Состав …
+ДИЗАЙН, УСТАНОВКА, УЧАСТНИКИ И ИЗМЕРЕНИЯ: Мы измерили среднее АД и вариабельность АД от визита к визиту, определяемую как SD, в течение пяти-семи визитов, произошедших через 6-28 месяцев после того, как участники были рандомизированы на хлорталидон, **амлодипин** или **лизиноприл** . Состав 
 
-DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: We measured mean BP and visit-to-visit variability of BP, defined as SD, across five to s …
-
-
+DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: We measured mean BP and visit-to-visit variability of BP, defined as SD, across five to s 
 
 
 
 
 
- 54
+
+
+ 
 
 
 
@@ -1066,7 +1065,7 @@ DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: We measured mean BP and visit-to-
 
 
 
- 55
+ 
 
 
 
@@ -1076,17 +1075,17 @@ DESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: We measured mean BP and visit-to-
 
 До А.Н., Линч А.И., Клаас С.А., Бурвинкль Э., Дэвис Б.Р., Форд CE, Экфельдт Дж.Х., Тивари Х.К., Арнетт Д.К., Ирвин М.Р. Do AN, et al. J Hum Hypertens. 2016 сен;30(9):549-54. doi: 10.1038/jhh.2015.121. Epub 21 янв. 2016. J Hum Hypertens. 2016. PMID: 26791477 Бесплатная статья PMC. Клиническое испытание.
 
-Используя 1131 афроамериканца, ранее не получавшего лечения, из исследования «Генетика лечения, связанного с гипертонией», мы изучили, могут ли варианты в 35 генах-кандидатах модулировать реакцию АД на четыре различных антигипертензивных препарата, включая ангиотензинпревращающий…
+Используя 1131 афроамериканца, ранее не получавшего лечения, из исследования «Генетика лечения, связанного с гипертонией», мы изучили, могут ли варианты в 35 генах-кандидатах модулировать реакцию АД на четыре различных антигипертензивных препарата, включая ангиотензинпревращающий
 
-Using 1131 African-American treatment-naive participants from the Genetics of Hypertension Associated Treatment Study, we examined whether v …
-
-
+Using 1131 African-American treatment-naive participants from the Genetics of Hypertension Associated Treatment Study, we examined whether v 
 
 
 
 
 
- 56
+
+
+ 
 
 
 
@@ -1096,17 +1095,17 @@ Using 1131 African-American treatment-naive participants from the Genetics of Hy
 
 Кеннеди-Диксон TG, Госселл-Уильямс M, Холл J, Энглин-Браун B. Kennedy-Dixon TG, et al. Pharm Pract (Гранада). 2015 октябрь-декабрь;13(4):601. doi: 10.18549/PharmPract.2015.04.601. Epub 2015 дек. 15. Pharm Pract (Granada). 2015. PMID: 26759615 Бесплатная статья PMC.
 
-Тремя наиболее часто встречающимися основными потенциальными лекарственными взаимодействиями были **амлодипин** и симвастатин (n=46), амилорид и лозартан (n=27) и амилорид и **лизиноприл** (n=16). ...
+Тремя наиболее часто встречающимися основными потенциальными лекарственными взаимодействиями были **амлодипин** и симвастатин (n=46), амилорид и лозартан (n=27) и амилорид и **лизиноприл** (n=16). 
 
-The three most frequently occurring major potential DDIs were **amlodipine** and simvastatin (n=46), amiloride and losartan (n=27) and am …
-
-
+The three most frequently occurring major potential DDIs were **amlodipine** and simvastatin (n=46), amiloride and losartan (n=27) and am 
 
 
 
 
 
- 57
+
+
+ 
 
 
 
@@ -1116,17 +1115,17 @@ The three most frequently occurring major potential DDIs were **amlodipine** and
 
 Alderman MH, Davis BR, Piller LB, Ford CE, Baraniuk MS, Pressel SL, Assadi MA, Einhorn PT, Haywood LJ, Ilamathi E, Oparil S, Retta TM; Группа совместных исследований ALLHAT. Alderman MH, et al. Am J Cardiol. 2016 1 января;117(1):105-15. doi: 10.1016/j.amjcard.2015.10.012. Epub 2015 19 октября. Am J Cardiol. 2016. PMID: 26589819 Бесплатная статья PMC. Клиническое испытание.
 
-В этом постфактум-анализе сравниваются долгосрочные основные клинические результаты у тех, кому был назначен **амлодипин** (n = 9048) или **лизиноприл** (n = 9054), с теми, кому был назначен хлорталидон (n = 15255), стратифицированные по статусу ИБС. ...Результаты общего увеличения смертности от инсульта у …
+В этом постфактум-анализе сравниваются долгосрочные основные клинические результаты у тех, кому был назначен **амлодипин** (n = 9048) или **лизиноприл** (n = 9054), с теми, кому был назначен хлорталидон (n = 15255), стратифицированные по статусу ИБС. Результаты общего увеличения смертности от инсульта у 
 
-This post hoc analysis compares long-term major clinical outcomes in those assigned **amlodipine** (n = 9048) or **lisinopril** (n = 9 …
-
-
+This post hoc analysis compares long-term major clinical outcomes in those assigned **amlodipine** (n = 9048) or **lisinopril** (n = 9 
 
 
 
 
 
- 58
+
+
+ 
 
 
 
@@ -1136,17 +1135,17 @@ This post hoc analysis compares long-term major clinical outcomes in those assig
 
 де ла Сьерра А, Горостиди М, Банегас-младший, Сегура Х, Виньолес Э, де ла Крус Х.Дж., Руилопе Л.М. de la Sierra A, et al. Дж. Клин Гипертенс (Гринвич). 2015 ноября;17(11):857-65. дои: 10.1111/jch.12623. Epub, 24 июля 2015 г. J Clin Hypertens (Greenwich). 2015. PMID: 26205479 Бесплатная статья PMC.
 
-Внутри каждого класса не наблюдалось существенных различий среди тиазидов или блокаторов рецепторов ангиотензина. Атенолол и бисопролол среди бета-блокаторов, **амлодипин** среди блокаторов кальциевых каналов, а **лизиноприл** и эналаприл среди ингибиторов ангиотензинпревращающего фермента …
+Внутри каждого класса не наблюдалось существенных различий среди тиазидов или блокаторов рецепторов ангиотензина. Атенолол и бисопролол среди бета-блокаторов, **амлодипин** среди блокаторов кальциевых каналов, а **лизиноприл** и эналаприл среди ингибиторов ангиотензинпревращающего фермента 
 
-Inside each class, no significant differences were observed among thiazides or angiotensin receptor blockers. Atenolol and bisoprolol among …
-
-
+Inside each class, no significant differences were observed among thiazides or angiotensin receptor blockers. Atenolol and bisoprolol among 
 
 
 
 
 
- 59
+
+
+ 
 
 
 
@@ -1156,17 +1155,17 @@ Inside each class, no significant differences were observed among thiazides or a
 
 Федорова О.В., Емельянов И.В., Багров К.А., Григорова Ю.Н., Вэй В., Юхас О., Фролова Е.В., Маршалл К.А., Лакатта Э.Г., Конради А.О., Багров А.Ю. Fedorova OV, et al. Дж. Гипертенс. 2015 август;33(8):1602-10. doi: 10.1097/HJH.0000000000000591. J Hypertens. 2015. PMID: 26136067 Бесплатная статья PMC.
 
-Эксперимент 2: У 16 пациентов (56 + 2 года) с резистентной гипертонией, получавших комбинированную терапию ( **лизиноприл** / **амлодипин** / гидрохлоротиазид), определяли артериальное давление, скорость пульсовой волны, уровень МБГ в плазме и Na/K-АТФазу эритроцитов до и через 6 месяцев после добавления …
+Эксперимент 2: У 16 пациентов (56 + 2 года) с резистентной гипертонией, получавших комбинированную терапию ( **лизиноприл** / **амлодипин** / гидрохлоротиазид), определяли артериальное давление, скорость пульсовой волны, уровень МБГ в плазме и Na/K-АТФазу эритроцитов до и через 6 месяцев после добавления 
 
-Experiment 2: In 16 patients (56 2 years) with resistant hypertension on a combined (**lisinopril**/**amlodipine**/hydrochlorothiazide …
-
-
+Experiment 2: In 16 patients (56 2 years) with resistant hypertension on a combined (**lisinopril**/**amlodipine**/hydrochlorothiazide 
 
 
 
 
 
- 60
+
+
+ 
 
 
 
@@ -1176,17 +1175,17 @@ Experiment 2: In 16 patients (56 2 years) with resistant hypertension on a combi
 
 Юсефпур А., Модарресс Х., Гохарпей Ф., Амджад-Иранах С. Yousefpour A, et al. Biochim Biophys Acta. 2015 авг.;1848(8):1687-98. doi: 10.1016/j.bbamem.2015.04.016. Epub 2015 8 мая. Biochim Biophys Acta. 2015. PMID: 25960186 Бесплатная статья.
 
-Взаимодействие ПЭГилированных антигипертензивных препаратов, **амлодипина** , атенолола и **лизиноприла,** с липидным бислойным мембранным димиристоилфосфатидилхолином (ДМФХ) изучалось в девяти различных имитационных системах, состоящих из 128 липидных молекул и соответствующего числа …
+Взаимодействие ПЭГилированных антигипертензивных препаратов, **амлодипина** , атенолола и **лизиноприла,** с липидным бислойным мембранным димиристоилфосфатидилхолином (ДМФХ) изучалось в девяти различных имитационных системах, состоящих из 128 липидных молекул и соответствующего числа 
 
-The interaction of PEGylated anti-hypertensive drugs, **amlodipine**, atenolol and **lisinopril** with lipid bilayer membrane dimyrist …
-
-
+The interaction of PEGylated anti-hypertensive drugs, **amlodipine**, atenolol and **lisinopril** with lipid bilayer membrane dimyrist 
 
 
 
 
 
- 61
+
+
+ 
 
 
 
@@ -1196,17 +1195,16 @@ The interaction of PEGylated anti-hypertensive drugs, **amlodipine**, atenolol a
 
 Шерман РА, Равелла С, Капоян Т. Sherman RA, et al. Почки Int. Июнь 2015 г.;87(6):1097-9. дои: 10.1038/ki.2015.67. Epub 2015, 11 марта. Kidney Int. 2015. PMID: 25760324 Бесплатная статья.
 
-Выборка различных доз и производителей (дженерики и брендовые) этих препаратов была проанализирована на содержание фосфора и обнаружила уровни вплоть до 111,5 мг/доза (40 мг пароксетина). Примечательно содержание фосфора в дженерике **лизиноприла** 10 мг (32,6 мг) и дженерике …
+Выборка различных доз и производителей (дженерики и брендовые) этих препаратов была проанализирована на содержание фосфора и обнаружила уровни вплоть до 111,5 мг/доза (40 мг пароксетина). Примечательно содержание фосфора в дженерике **лизиноприла** 10 мг (32,6 мг) и дженерике 
 
-A sampling of different doses and manufacturers (generic and branded) of these drugs was analyzed for phosphorus content and found levels as …
-
-
+A sampling of different doses and manufacturers (generic and branded) of these drugs was analyzed for phosphorus content and found levels as 
 
 
 
 
 
- 62
+
+
 
 
 
@@ -1216,17 +1214,17 @@ A sampling of different doses and manufacturers (generic and branded) of these d
 
 Ямал Дж. М., Опарил С., Дэвис БР, Олдерман М. Х., Калхун ДА, Кушман В. К., Фендли Х. Ф., Франклин С. С., Хабиб ГБ, Прессел С. Л., Пробстфилд Дж. Л., Састрасинх С.; Группа совместных исследований ALLHAT. Yamal JM, et al. J Am Soc Hypertens. 2014 ноябрь;8(11):808-19. doi: 10.1016/j.jash.2014.08.003. Epub 2014 авг. 19. J Am Soc Hypertens. 2014. PMID: 25455006 Бесплатная статья PMC. Клиническое испытание.
 
-Мы сообщаем об исходах инсульта у 1517 участников в ходе испытаний и у 1596 дополнительных участников в ходе пассивного наблюдения после испытаний, в течение всего периода наблюдения 8-13 лет. Частота инсультов была выше при приеме **лизиноприла** (6-летняя частота/100 = 6,4), чем при приеме хлорталидона (5,8) или **амлода** …
+Мы сообщаем об исходах инсульта у 1517 участников в ходе испытаний и у 1596 дополнительных участников в ходе пассивного наблюдения после испытаний, в течение всего периода наблюдения 8-13 лет. Частота инсультов была выше при приеме **лизиноприла** (6-летняя частота/100 = 6,4), чем при приеме хлорталидона (5,8) или **амлода** 
 
-We report stroke outcomes in 1517 participants in-trial and 1596 additional participants during post-trial passive surveillance, for a total …
-
-
+We report stroke outcomes in 1517 participants in-trial and 1596 additional participants during post-trial passive surveillance, for a total 
 
 
 
 
 
- 63
+
+
+ 
 
 
 
@@ -1236,17 +1234,17 @@ We report stroke outcomes in 1517 participants in-trial and 1596 additional part
 
 До А.Н., Ирвин М.Р., Линч А.И., Клаас С.А., Бурвинкль Э., Дэвис Б.Р., Форд CE, Экфельдт Дж.Х., Тивари Х.К., Лимди Н.А., Арнетт Д.К. Do AN, et al. Front Pharmacol. 2014 16 сентября;5:210. doi: 10.3389/fphar.2014.00210. eCollection 2014. Front Pharmacol. 2014. PMID: 25278896 Бесплатная статья PMC.
 
-Используя дизайн, учитывающий только случай, с 3448 лицами с высоким риском гипертонии из исследования «Генетика лечения, связанного с гипертонией» (GenHAT), мы изучили, взаимодействуют ли семь однонуклеотидных полиморфизмов (SNP) в гене ангиотензиногена (AGT) с тремя классами антигипертензивных препаратов…
+Используя дизайн, учитывающий только случай, с 3448 лицами с высоким риском гипертонии из исследования «Генетика лечения, связанного с гипертонией» (GenHAT), мы изучили, взаимодействуют ли семь однонуклеотидных полиморфизмов (SNP) в гене ангиотензиногена (AGT) с тремя классами антигипертензивных препаратов
 
-Using a case-only design with 3448 high-risk hypertensive individuals from the Genetics of Hypertension Associated Treatment (GenHAT) study, …
-
-
+Using a case-only design with 3448 high-risk hypertensive individuals from the Genetics of Hypertension Associated Treatment (GenHAT) study, 
 
 
 
 
 
- 64
+
+
+ 
 
 
 
@@ -1256,17 +1254,17 @@ Using a case-only design with 3448 high-risk hypertensive individuals from the G
 
 Соренсен И.Ф., Васкес А.И., Ирвин М.Р., Соренсен П., Дэвис Б.Р., Форд К.Э., Бурвинкль Э., Экфельдт Дж.Х., Арнетт Д.К. Sørensen IF, et al. Фармакогенетическая геномика. 2014 ноябрь;24(11):556-63. doi: 10.1097/FPC.00000000000000088. Pharmacogenet Genomics. 2014. PMID: 25171760 Бесплатная статья PMC.
 
-ЦЕЛЬ: Целью данного исследования было изучение того, существует ли взаимодействие генотипа и лечения у пациентов, перенесших инсульт и лечившихся одним из трех антигипертензивных препаратов, а именно хлорталидоном, **амлодипином** или **лизиноприлом** . УЧАСТНИКИ И МЕТОДЫ …
+ЦЕЛЬ: Целью данного исследования было изучение того, существует ли взаимодействие генотипа и лечения у пациентов, перенесших инсульт и лечившихся одним из трех антигипертензивных препаратов, а именно хлорталидоном, **амлодипином** или **лизиноприлом** . УЧАСТНИКИ И МЕТОДЫ 
 
-OBJECTIVE: The aim of this study was to investigate whether there is a genotype-by-treatment interaction in patients experiencing stroke and …
-
-
+OBJECTIVE: The aim of this study was to investigate whether there is a genotype-by-treatment interaction in patients experiencing stroke and 
 
 
 
 
 
- 65
+
+
+ 
 
 
 
@@ -1276,17 +1274,17 @@ OBJECTIVE: The aim of this study was to investigate whether there is a genotype-
 
 Эльшафи О, Аль Бадааи И, Альвахаиби К, Куреши А, Хусейн С, Аль Аззри Ф, Альмамари А, Вудхаус Н. Elshafie O, et al. Отчет о случаях эндокринного диабета и метаболических расстройств 2014 г.;2014:140051. doi: 10.1530/EDM-14-0051. Электронная публикация 1 июля 2014 г. Endocrinol Diabetes Metab Case Rep. 2014. PMID: 25136449 Бесплатная статья PMC.
 
-Обследование выявило сосудистую опухоль размером 5,6 см в области бифуркации сонной артерии. Ее артериальное давление (АД) составляло 170/110, она принимала **лизиноприл** 20 мг 1 раз в день и **амлодипин** 10 мг 1 раз в день, а также 100 ЕД инсулина в день. ...
+Обследование выявило сосудистую опухоль размером 5,6 см в области бифуркации сонной артерии. Ее артериальное давление (АД) составляло 170/110, она принимала **лизиноприл** 20 мг 1 раз в день и **амлодипин** 10 мг 1 раз в день, а также 100 ЕД инсулина в день. 
 
-Investigations revealed a 5.6 cm vascular tumor at the carotid bifurcation. Her blood pressure (BP) was 170/110, on **lisinopril** 20 mg …
-
-
+Investigations revealed a 5.6 cm vascular tumor at the carotid bifurcation. Her blood pressure (BP) was 170/110, on **lisinopril** 20 mg 
 
 
 
 
 
- 66
+
+
+ 
 
 
 
@@ -1296,17 +1294,17 @@ Investigations revealed a 5.6 cm vascular tumor at the carotid bifurcation. Her 
 
 Пиллер Л.Б., Симпсон Л.М., Баранюк С., Хабиб ГБ., Рахман М., Базиль Дж.Н., Дарт РА., Эллсворт А.Дж., Фендли Х., Пробстфилд Дж.Л., Уэлтон П.К., Дэвис БР.; Группа совместных исследований ALLHAT. Piller LB, et al. J Gen Стажер Мед. 2014 ноября;29(11):1475-83. дои: 10.1007/s11606-014-2947-1. J Gen Intern Med. 2014. PMID: 25002161 Бесплатная статья PMC. Клиническое испытание.
 
-ОСНОВНЫЕ РЕЗУЛЬТАТЫ: После корректировки исходных характеристик ни у одного из участников, которым был назначен антагонист кальциевых каналов **амлодипин** , ни у одного из участников, которым был назначен ингибитор АПФ **лизиноприл,** не наблюдалось разницы в риске клинически выраженной ЗПА по сравнению с участниками, которым был назначен хлортал…
+ОСНОВНЫЕ РЕЗУЛЬТАТЫ: После корректировки исходных характеристик ни у одного из участников, которым был назначен антагонист кальциевых каналов **амлодипин** , ни у одного из участников, которым был назначен ингибитор АПФ **лизиноприл,** не наблюдалось разницы в риске клинически выраженной ЗПА по сравнению с участниками, которым был назначен хлортал
 
-KEY RESULTS: Following adjustment for baseline characteristics, neither participants assigned to the calcium-channel antagonist **amlodipin** …
-
-
+KEY RESULTS: Following adjustment for baseline characteristics, neither participants assigned to the calcium-channel antagonist **amlodipin** 
 
 
 
 
 
- 67
+
+
+ 
 
 
 
@@ -1316,17 +1314,17 @@ KEY RESULTS: Following adjustment for baseline characteristics, neither particip
 
 Рейзин Э., Грейвс Дж.В., Ямал Дж.М., Барзилай Дж.И., Прессел С.Л., Эйнхорн П.Т., Дарт Р.А., Ретта Т.М., Саклайен М.Г., Дэвис Б.Р.; Совместная исследовательская группа ALLHAT. Reisin E, et al. Дж. Гипертенс. Июль 2014 г.;32(7):1503-13; обсуждение 1513. doi: 10.1097/HJH.0000000000000204. J Hypertens. 2014. PMID: 24842697 Бесплатная статья PMC. Клиническое испытание.
 
-Мы проспективно изучили влияние рандомизации на первый этап применения хлорталидона, тиазидного диуретика; **амлодипина** , блокатора кальциевых каналов; и **лизиноприла** , ингибитора ангиотензинпревращающего фермента, на контроль АД и сердечно-сосудистые исходы в когорте пациентов с гипертонией…
+Мы проспективно изучили влияние рандомизации на первый этап применения хлорталидона, тиазидного диуретика; **амлодипина** , блокатора кальциевых каналов; и **лизиноприла** , ингибитора ангиотензинпревращающего фермента, на контроль АД и сердечно-сосудистые исходы в когорте пациентов с гипертонией
 
-We prospectively examined randomization to first-step chlorthalidone, a thiazide-type diuretic; **amlodipine**, a calcium-channel blocker …
-
-
+We prospectively examined randomization to first-step chlorthalidone, a thiazide-type diuretic; **amlodipine**, a calcium-channel blocker 
 
 
 
 
 
- 68
+
+
+ 
 
 
 
@@ -1336,17 +1334,17 @@ We prospectively examined randomization to first-step chlorthalidone, a thiazide
 
 Мунтнер П., Левитан Э.Б., Линч А.И., Симпсон Л.М., Уиттл Дж., Дэвис Б.Р., Костис Дж.Б., Уэлтон П.К., Опарил С. Muntner P, et al. J Clin Hypertens (Гринвич). 2014 май;16(5):323-30. doi: 10.1111/jch.12290. Epub 2014 апр. 16. J Clin Hypertens (Greenwich). 2014. PMID: 24739073 Бесплатная статья PMC. Клиническое испытание.
 
-Авторы сравнили ВВВ САД среди 24 004 участников, рандомизированных для приема хлорталидона, **амлодипина** или **лизиноприла** в исследовании антигипертензивного и гиполипидемического лечения для предотвращения сердечных приступов (ALLHAT). ...Результаты были сопоставимы с использованием других показателей ВВВ САД. …
+Авторы сравнили ВВВ САД среди 24 004 участников, рандомизированных для приема хлорталидона, **амлодипина** или **лизиноприла** в исследовании антигипертензивного и гиполипидемического лечения для предотвращения сердечных приступов (ALLHAT). Результаты были сопоставимы с использованием других показателей ВВВ САД. 
 
-The authors compared VVV of SBP among 24,004 participants randomized to chlorthalidone, **amlodipine**, or **lisinopril** in the Antih …
-
-
+The authors compared VVV of SBP among 24,004 participants randomized to chlorthalidone, **amlodipine**, or **lisinopril** in the Antih 
 
 
 
 
 
- 69
+
+
+ 
 
 
 
@@ -1356,17 +1354,17 @@ The authors compared VVV of SBP among 24,004 participants randomized to chlortha
 
 Хэндлер Дж. Handler J. J Clin Hypertens (Гринвич). 2013 Декабрь;15(12):874-7. doi: 10.1111/jch.12182. Epub 2013 Август 7. J Clin Hypertens (Greenwich). 2013. PMID: 24299690 Бесплатная статья PMC.
 
-Простой алгоритм лечения гипертонии способствовал достижению показателей контроля более 85% для более чем 1 миллиона взрослых с гипертонией в Соединенных Штатах. Он основан на комбинированном препарате с фиксированной дозировкой **лизиноприл** /гидрохлоротиазид, который …
+Простой алгоритм лечения гипертонии способствовал достижению показателей контроля более 85% для более чем 1 миллиона взрослых с гипертонией в Соединенных Штатах. Он основан на комбинированном препарате с фиксированной дозировкой **лизиноприл** /гидрохлоротиазид, который 
 
-A simple hypertension treatment algorithm has contributed to the achievement of control rates greater than 85% for more than 1 million adult …
-
-
+A simple hypertension treatment algorithm has contributed to the achievement of control rates greater than 85% for more than 1 million adult 
 
 
 
 
 
- 70
+
+
+ 
 
 
 
@@ -1376,17 +1374,17 @@ A simple hypertension treatment algorithm has contributed to the achievement of 
 
 Филлипс В., Пиллер Л.Б., Уильямсон Дж.Д., Уиттл Дж., Джафри С.З., Форд К.Э., Эйнхорн П.Т., Опарил С., Фурберг К.Д., Гримм Р.Х.-младший, Олдерман М.Х., Дэвис Б.Р., Пробстфилд Дж.Л.; Совместная исследовательская группа ALLHAT. Phillips W, et al. J Clin Hypertens (Гринвич). 2013 ноябрь;15(11):825-32. doi: 10.1111/jch.12180. Epub 2013 авг. 7. J Clin Hypertens (Greenwich). 2013. PMID: 24283598 Бесплатная статья PMC. Клиническое испытание.
 
-В последующем сравнении участники, которым была назначена терапия **лизиноприлом** , имели более высокий риск госпитализации желудочно-кишечного кровотечения (HR, 1,27; 95% ДИ, 1,06-1,51) по сравнению с теми, кому был назначен **амлодипин** . Использование атенолола в исследовании до первого желудочно-кишечного кровотечения было связано с более низкой частотой …
+В последующем сравнении участники, которым была назначена терапия **лизиноприлом** , имели более высокий риск госпитализации желудочно-кишечного кровотечения (HR, 1,27; 95% ДИ, 1,06-1,51) по сравнению с теми, кому был назначен **амлодипин** . Использование атенолола в исследовании до первого желудочно-кишечного кровотечения было связано с более низкой частотой 
 
-In a post-hoc comparison, participants assigned to **lisinopril** therapy had a higher risk of hospitalized GI hemorrhage (HR, 1.27; 95% …
-
-
+In a post-hoc comparison, participants assigned to **lisinopril** therapy had a higher risk of hospitalized GI hemorrhage (HR, 1.27; 95% 
 
 
 
 
 
- 71
+
+
+ 
 
 
 
@@ -1396,17 +1394,17 @@ In a post-hoc comparison, participants assigned to **lisinopril** therapy had a 
 
 Сулейман И.А., Амогу Э.О., Ганию К.А. Suleiman IA, et al. Pharm Pract (Гранада). 2013 Январь;11(1):24-9. doi: 10.4321/s1886-36552013000100005. Epub 28 марта 2013 г. Pharm Pract (Granada). 2013. PMID: 24155846 Бесплатная статья PMC.
 
-Большинство пациентов, принимающих лекарства (21,8%) (12/55), принимали метидопу в качестве монотерапии или в сочетании с амилоридом и гидрохлоротиазидом. Другие препараты, принимаемые пациентами, включают **лизиноприл** , пропранолол, **амлодипин** , атенолол, нифедипин и низкие дозы …
+Большинство пациентов, принимающих лекарства (21,8%) (12/55), принимали метидопу в качестве монотерапии или в сочетании с амилоридом и гидрохлоротиазидом. Другие препараты, принимаемые пациентами, включают **лизиноприл** , пропранолол, **амлодипин** , атенолол, нифедипин и низкие дозы 
 
-Majority of the patients on drugs (21.8%) (12/55) were either taking methydopa as monotherapy or in combination with amiloride and hydrochlo …
-
-
+Majority of the patients on drugs (21.8%) (12/55) were either taking methydopa as monotherapy or in combination with amiloride and hydrochlo 
 
 
 
 
 
- 72
+
+
+ 
 
 
 
@@ -1416,17 +1414,17 @@ Majority of the patients on drugs (21.8%) (12/55) were either taking methydopa a
 
 Вайнберг Р.Л., Бушар Н.К., Абрамс Д.К., Баккетта М., Дзиерба АЛ, Буркарт К.М., Броди Д. Weinberg RL, et al. Перфузия. 2014 Январь;29(1):53-6. doi: 10.1177/0267659113498807. Электронная публикация 2013 Июль 17. Perfusion. 2014. PMID: 23863493 Бесплатная статья PMC.
 
-50-летний мужчина был госпитализирован в отделение интенсивной терапии с дыхательной недостаточностью и шоком после массивной передозировки **амлодипина** , **лизиноприла** и гидрохлоротиазида. Несмотря на искусственную вентиляцию легких, вазопрессоры, глюконат кальция, гиперинсулинемию-эугли…
+50-летний мужчина был госпитализирован в отделение интенсивной терапии с дыхательной недостаточностью и шоком после массивной передозировки **амлодипина** , **лизиноприла** и гидрохлоротиазида. Несмотря на искусственную вентиляцию легких, вазопрессоры, глюконат кальция, гиперинсулинемию-эугли
 
-A 50-year-old man was admitted to the intensive care unit with respiratory failure and shock after suffering a massive overdose of **amlodi** …
-
-
+A 50-year-old man was admitted to the intensive care unit with respiratory failure and shock after suffering a massive overdose of **amlodi** 
 
 
 
 
 
- 73
+
+
+ 
 
 
 
@@ -1436,17 +1434,17 @@ A 50-year-old man was admitted to the intensive care unit with respiratory failu
 
 Шарма К.К., Матур М., Гупта Р., Гупта С., Рой С., Кхедар Р.С., Гупта Н., Гупта Р. Sharma KK, et al. Indian Heart J. 2013 май-июнь;65(3):250-5. doi: 10.1016/j.ihj.2013.04.019. Epub 2013 апр. 9. Indian Heart J. 2013. PMID: 23809376 Бесплатная статья PMC.
 
-Тремя основными молекулами среди бета-блокаторов были атенолол (37,8%), метопролол (26,4%) и карведилол (11,9%); ингибиторы АПФ рамиприл (42,1%), **лизиноприл** (20,3%) и периндоприл (10,9%); БРА лозартан (47,7%), валсартан (22,3%) и телмисартан (14,9%); БКК **амлодипин** (46 …
+Тремя основными молекулами среди бета-блокаторов были атенолол (37,8%), метопролол (26,4%) и карведилол (11,9%); ингибиторы АПФ рамиприл (42,1%), **лизиноприл** (20,3%) и периндоприл (10,9%); БРА лозартан (47,7%), валсартан (22,3%) и телмисартан (14,9%); БКК **амлодипин** (46 
 
-Top three molecules in beta-blockers were atenolol (37.8%), metoprolol (26.4%) and carvedilol (11.9%); ACE inhibitors ramipril (42.1%), **l** …
-
-
+Top three molecules in beta-blockers were atenolol (37.8%), metoprolol (26.4%) and carvedilol (11.9%); ACE inhibitors ramipril (42.1%), **l** 
 
 
 
 
 
- 74
+
+
+ 
 
 
 
@@ -1456,17 +1454,17 @@ Top three molecules in beta-blockers were atenolol (37.8%), metoprolol (26.4%) a
 
 Опарил С., Дэвис Б.Р., Кушман В.К., Форд К.Э., Фурберг К.Д., Хабиб ГБ., Хейвуд Л.Дж., Марголис К., Пробстфилд Дж.Л., Уэлтон П.К., Райт Дж.Т.-младший; Группа совместных исследований ALLHAT. Oparil S, et al. Гипертония. 2013 май;61(5):977-86. doi: 10.1161/HYPERTENSIONAHA.111.00213. Epub 2013 мар. 25. Hypertension. 2013. PMID: 23529173 Бесплатная статья PMC. Клиническое испытание.
 
-В ходе испытаний показатели СН, инсульта и комбинированных сердечно-сосудистых заболеваний были значительно выше для **лизиноприла** по сравнению с хлорталидоном, а показатели СН были значительно выше для **амлодипина** по сравнению с хлорталидоном как у мужчин, так и у женщин. ...Ни один **лизин** …
+В ходе испытаний показатели СН, инсульта и комбинированных сердечно-сосудистых заболеваний были значительно выше для **лизиноприла** по сравнению с хлорталидоном, а показатели СН были значительно выше для **амлодипина** по сравнению с хлорталидоном как у мужчин, так и у женщин. Ни один **лизин** 
 
-In-trial rates of HF, stroke, and combined cardiovascular disease were significantly higher for **lisinopril** compared with chlorthalido …
-
-
+In-trial rates of HF, stroke, and combined cardiovascular disease were significantly higher for **lisinopril** compared with chlorthalido 
 
 
 
 
 
- 75
+
+
+ 
 
 
 
@@ -1482,7 +1480,7 @@ In-trial rates of HF, stroke, and combined cardiovascular disease were significa
 
 
 
- 76
+ 
 
 
 
@@ -1492,17 +1490,17 @@ In-trial rates of HF, stroke, and combined cardiovascular disease were significa
 
 Рахман М., Форд CE, Катлер JA, Дэвис BR, Пиллер LB, Уэлтон PK, Райт JT Jr, Барзилай JI, Браун CD, Колон PJ Sr, Файн LJ, Гримм RH Jr, Гупта AK, Беймбридж C, Хейвуд LJ, Энрикес MA, Иламайти E, Опарил S, Престон R; Совместная исследовательская группа ALLHAT. Rahman M, et al. Клин Дж Ам Сок Нефрол. Июнь 2012 г.;7(6):989-1002. doi: 10.2215/CJN.07800811. Электронная публикация, 5 апреля 2012 г. Clin J Am Soc Nephrol. 2012. PMID: 22490878 Бесплатная статья PMC. Клиническое испытание.
 
-В данной статье оцениваются долгосрочные результаты лечения заболеваний почек и сердечно-сосудистой системы у пожилых пациентов с высоким риском гипертонии, стратифицированные по исходной расчетной СКФ (рСКФ), а также долгосрочная эффективность 5-летнего лечения первого этапа амлодипином **или** лизиноприлом **в** сравнении с …
+В данной статье оцениваются долгосрочные результаты лечения заболеваний почек и сердечно-сосудистой системы у пожилых пациентов с высоким риском гипертонии, стратифицированные по исходной расчетной СКФ (рСКФ), а также долгосрочная эффективность 5-летнего лечения первого этапа амлодипином **или** лизиноприлом **в** сравнении с 
 
-This article assesses long-term renal and cardiovascular outcomes in older high-risk hypertensive patients, stratified by baseline estimated …
-
-
+This article assesses long-term renal and cardiovascular outcomes in older high-risk hypertensive patients, stratified by baseline estimated 
 
 
 
 
 
- 77
+
+
+ 
 
 
 
@@ -1512,17 +1510,17 @@ This article assesses long-term renal and cardiovascular outcomes in older high-
 
 Чжан X, Линч AI, Дэвис BR, Форд CE, Бурвинкль E, Экфельдт JH, Лейендекер-Фостер C, Арнетт DK. Zhang X, et al. PLoS One. 2012;7(3):e34217. doi: 10.1371/journal.pone.0034217. Epub 28 марта 2012 г. PLoS One. 2012. PMID: 22470539 Бесплатная статья PMC. Клиническое испытание.
 
-Для -690 C>T более низкий HR наблюдался для инсульта у носителей минорного аллеля при лечении **амлодипином** по сравнению с **лизиноприлом** (CC = 0,85 (CI = 0,73-0,99), CT+TT = 0,49 (CI = 0,31-0,80), P = 0,04). Для glu298asp G>T (rs1799983) более низкий HR наблюдался для всех причин …
+Для -690 C>T более низкий HR наблюдался для инсульта у носителей минорного аллеля при лечении **амлодипином** по сравнению с **лизиноприлом** (CC = 0,85 (CI = 0,73-0,99), CT+TT = 0,49 (CI = 0,31-0,80), P = 0,04). Для glu298asp G>T (rs1799983) более низкий HR наблюдался для всех причин 
 
-For -690 C>T, a lower HR was observed for stroke in minor allele carriers when treated with **amlodipine** versus **lisinopril** (C …
-
-
+For -690 C>T, a lower HR was observed for stroke in minor allele carriers when treated with **amlodipine** versus **lisinopril** (C 
 
 
 
 
 
- 78
+
+
+ 
 
 
 
@@ -1532,17 +1530,17 @@ For -690 C>T, a lower HR was observed for stroke in minor allele carriers when t
 
 Alderman MH, Piller LB, Ford CE, Probstfield JL, Oparil S, Cushman WC, Einhorn PT, Franklin SS, Papademetriou V, Ong ST, Eckfeldt JH, Furberg CD, Calhoun DA, Davis BR; Совместная исследовательская группа по исследованию антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа. Alderman MH, et al. Гипертония. 2012 Май;59(5):926-33. doi: 10.1161/HYPERTENSIONAHA.111.180554. Epub 2012 Март 19. Hypertension. 2012. PMID: 22431578 Бесплатная статья PMC. Клиническое испытание.
 
-Участники с нормокалиемией, рандомизированные в группы хлорталидона (C) и **амлодипина** или **лизиноприла** в качестве препарата первой ступени, были стратифицированы по уровню калия в течение 1 года. ...Частота гипокалиемии в течение 1 года составила 6,8%; частота в группе C (12,9%) отличалась от частоты в **группе амлодипина** (2,1%; P < 0,001) …
+Участники с нормокалиемией, рандомизированные в группы хлорталидона (C) и **амлодипина** или **лизиноприла** в качестве препарата первой ступени, были стратифицированы по уровню калия в течение 1 года. Частота гипокалиемии в течение 1 года составила 6,8%; частота в группе C (12,9%) отличалась от частоты в **группе амлодипина** (2,1%; P < 0,001) 
 
-Normokalemic participants randomized to chlorthalidone (C) versus **amlodipine** or **lisinopril** as a first-step drug were stratifie …
-
-
+Normokalemic participants randomized to chlorthalidone (C) versus **amlodipine** or **lisinopril** as a first-step drug were stratifie 
 
 
 
 
 
- 79
+
+
+ 
 
 
 
@@ -1552,17 +1550,17 @@ Normokalemic participants randomized to chlorthalidone (C) versus **amlodipine**
 
 Barzilay JI, Davis BR, Pressel SL, Cutler JA, Einhorn PT, Black HR, Cushman WC, Ford CE, Margolis KL, Moloo J, Oparil S, Piller LB, Simmons DL, Sweeney ME, Whelton PK, Wong ND, Wright JT Jr; Совместная исследовательская группа ALLHAT. Barzilay JI, et al. Circ Cardiovasc Qual Outcomes. 2012 Mar 1;5(2):153-62. doi: 10.1161/CIRCOUTCOMES.111.962522. Epub 2012 Mar 6. Circ Cardiovasc Qual Outcomes. 2012. PMID: 22396585 Бесплатная статья PMC. Клиническое испытание.
 
-МЕТОДЫ И РЕЗУЛЬТАТЫ: В общей сложности 22 418 участников ALLHAT (исследование антигипертензивного и гиполипидемического лечения для профилактики сердечных приступов) с исходным диабетом, впервые выявленным диабетом (7,5% с хлорталидоном, 5,6% с **амлодипином** и 4,3% с **лизиноприлом** ) или…
+МЕТОДЫ И РЕЗУЛЬТАТЫ: В общей сложности 22 418 участников ALLHAT (исследование антигипертензивного и гиполипидемического лечения для профилактики сердечных приступов) с исходным диабетом, впервые выявленным диабетом (7,5% с хлорталидоном, 5,6% с **амлодипином** и 4,3% с **лизиноприлом** ) или
 
-METHODS AND RESULTS: A total of 22 418 participants from the ALLHAT (Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack T …
-
-
+METHODS AND RESULTS: A total of 22 418 participants from the ALLHAT (Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack T 
 
 
 
 
 
- 80
+
+
+ 
 
 
 
@@ -1572,17 +1570,17 @@ METHODS AND RESULTS: A total of 22 418 participants from the ALLHAT (Antihyperte
 
 Линч AI, Экфельдт JH, Дэвис BR, Форд CE, Бурвинкль E, Лейендекер-Фостер C, Арнетт DK. Lynch AI, et al. Фармакогенетическая геномика. 2012 май;22(5):355-66. doi: 10.1097/FPC.0b013e3283516ff8. Pharmacogenet Genomics. 2012. PMID: 22388798 Бесплатная статья PMC. Клиническое испытание.
 
-Антигипертензивное и гиполипидемическое лечение для профилактики сердечного приступа Испытание рандомизировало участников с гипертонией (55 лет) на один из четырех видов лечения ( **амлодипин** , хлорталидон, доксазозин, **лизиноприл** ). Первичным результатом была фатальная ИБС или нефатальный инфаркт миокарда…
+Антигипертензивное и гиполипидемическое лечение для профилактики сердечного приступа Испытание рандомизировало участников с гипертонией (55 лет) на один из четырех видов лечения ( **амлодипин** , хлорталидон, доксазозин, **лизиноприл** ). Первичным результатом была фатальная ИБС или нефатальный инфаркт миокарда
 
-Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial randomized hypertensive participants (55 years) to one of four t …
-
-
+Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial randomized hypertensive participants (55 years) to one of four t 
 
 
 
 
 
- 81
+
+
+ 
 
 
 
@@ -1592,17 +1590,17 @@ Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial rand
 
 Институт качества и эффективности здравоохранения. Institute for Quality and Efficiency in Health Care. Кельн, Германия: Институт качества и эффективности здравоохранения (IQWiG); 10 февраля 2012 г. Выдержка из оценки досье № A11-29. Cologne, Germany: Institute for Quality and Efficiency in Health Care (IQWiG); 2012 Feb 10. Extract of Dossier Assessment No. A11-29. PMID: 27905731 Бесплатные книги и документы. Обзор.
 
-Оценка преимуществ фиксированной комбинации алискирен/ **амлодипин** проводилась по терапевтическому показанию «лечение эссенциальной гипертонии у взрослых, артериальное давление которых не контролируется адекватно с помощью алискирена или **амлодипина** , применяемых по отдельности». Федеральное …
+Оценка преимуществ фиксированной комбинации алискирен/ **амлодипин** проводилась по терапевтическому показанию «лечение эссенциальной гипертонии у взрослых, артериальное давление которых не контролируется адекватно с помощью алискирена или **амлодипина** , применяемых по отдельности». Федеральное 
 
-The benefit assessment of the fixed combination aliskiren / **amlodipine** was carried out for the therapeutic indication "treatment of e …
-
-
+The benefit assessment of the fixed combination aliskiren / **amlodipine** was carried out for the therapeutic indication "treatment of e 
 
 
 
 
 
- 82
+
+
+ 
 
 
 
@@ -1612,17 +1610,17 @@ The benefit assessment of the fixed combination aliskiren / **amlodipine** was c
 
 Cushman WC, Davis BR, Pressel SL, Cutler JA, Einhorn PT, Ford CE, Oparil S, Probstfield JL, Whelton PK, Wright JT Jr, Alderman MH, Basile JN, Black HR, Grimm RH Jr, Hamilton BP, Haywood LJ, Ong ST, Piller LB, Simpson LM, Stanford C, Weiss RJ; Совместная исследовательская группа ALLHAT. Cushman WC, et al. J Clin Hypertens (Гринвич). 2012 Январь;14(1):20-31. doi: 10.1111/j.1751-7176.2011.00568.x. Epub 2011 Декабрь 9. J Clin Hypertens (Greenwich). 2012. PMID: 22235820 Бесплатная статья PMC. Клиническое испытание.
 
-Не было выявлено значимых различий (P < 0,05) в сердечно-сосудистой смертности для **амлодипина** (коэффициент риска \[HR\], 1,00; 95% доверительный интервал \[CI\], 0,93-1,06) или **лизиноприла** (HR, 0,97; CI, 0,90-1,03), каждого из них по сравнению с хлорталидоном. Единственные значимые различия …
+Не было выявлено значимых различий (P < 0,05) в сердечно-сосудистой смертности для **амлодипина** (коэффициент риска \[HR\], 1,00; 95% доверительный интервал \[CI\], 0,93-1,06) или **лизиноприла** (HR, 0,97; CI, 0,90-1,03), каждого из них по сравнению с хлорталидоном. Единственные значимые различия 
 
-No significant differences (P<.05) appeared in cardiovascular mortality for **amlodipine** (hazard ratio \[HR\], 1.00; 95% confidence in …
-
-
+No significant differences (P<.05) appeared in cardiovascular mortality for **amlodipine** (hazard ratio \[HR\], 1.00; 95% confidence in 
 
 
 
 
 
- 83
+
+
+ 
 
 
 
@@ -1632,17 +1630,17 @@ No significant differences (P<.05) appeared in cardiovascular mortality for **am
 
 Пиллер Л.Б., Баранюк С., Симпсон Л.М., Кушман В.К., Мэсси Б.М., Эйнхорн ПТ., Опарил С., Форд К.Э., Граумлих Дж.Ф., Дарт РА., Пэриш Д.К., Ретта Т.М., Кьюджет АБ., Джафри С.З., Фурберг К.Д., Саклайен М.Г., Тадани У., Пробстфилд Дж.Л., Дэвис БР.; Группа совместных исследований ALLHAT. Piller LB, et al. Circulation. 25 октября 2011 г.;124(17):1811-8. doi: 10.1161/CIRCULATIONAHA.110.012575. Epub 3 октября 2011 г. Circulation. 2011. PMID: 21969009 Бесплатная статья PMC. Клиническое испытание.
 
-ПРЕДЫСТОРИЯ: В исследовании антигипертензивной и гиполипидемической терапии для профилактики сердечных приступов (ALLHAT), рандомизированном, двойном слепом, основанном на практике, сравнительном исследовании эффективности с активным контролем у пациентов с высоким риском гипертонии, риск впервые возникшей сердечной недостаточности (СН) был высок…
+ПРЕДЫСТОРИЯ: В исследовании антигипертензивной и гиполипидемической терапии для профилактики сердечных приступов (ALLHAT), рандомизированном, двойном слепом, основанном на практике, сравнительном исследовании эффективности с активным контролем у пациентов с высоким риском гипертонии, риск впервые возникшей сердечной недостаточности (СН) был высок
 
-BACKGROUND: In the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT), a randomized, double-blind, practic …
-
-
+BACKGROUND: In the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT), a randomized, double-blind, practic 
 
 
 
 
 
- 84
+
+
+ 
 
 
 
@@ -1652,17 +1650,17 @@ BACKGROUND: In the Antihypertensive and Lipid-Lowering Treatment to Prevent Hear
 
 Сика ДА, Картер Б., Кушман В., Хамм Л. Sica DA, et al. J Clin Hypertens (Гринвич). 2011 Сентябрь;13(9):639-43. doi: 10.1111/j.1751-7176.2011.00512.x. Epub 2011 Июль 27. J Clin Hypertens (Greenwich). 2011. PMID: 21896142 Бесплатная статья PMC. Обзор.
 
-Хлорталидон в дозе 25 мг сравнительно более эффективен, чем 50 мг гидрохлоротиазида, особенно в отношении снижения артериального давления в течение ночи. В ALLHAT не было никакой разницы между хлорталидоном, **амлодипином** , **лизиноприлом** и доксазозином для …
+Хлорталидон в дозе 25 мг сравнительно более эффективен, чем 50 мг гидрохлоротиазида, особенно в отношении снижения артериального давления в течение ночи. В ALLHAT не было никакой разницы между хлорталидоном, **амлодипином** , **лизиноприлом** и доксазозином для 
 
-Chlorthalidone, at a dose of 25 mg, is comparatively more potent than 50 mg of hydrochlorothiazide, particularly as related to overnight blo …
-
-
+Chlorthalidone, at a dose of 25 mg, is comparatively more potent than 50 mg of hydrochlorothiazide, particularly as related to overnight blo 
 
 
 
 
 
- 85
+
+
+ 
 
 
 
@@ -1672,17 +1670,17 @@ Chlorthalidone, at a dose of 25 mg, is comparatively more potent than 50 mg of h
 
 Таннер Р.М., Линч А.И., Брофи В.Х., Экфельдт Дж.Х., Дэвис Б.Р., Форд К.Э., Бурвинкль Э., Арнетт Д.К. Tanner RM, et al. PLoS One. 2011;6(8):e23609. doi: 10.1371/journal.pone.0023609. Epub 24 августа 2011 г. PLoS One. 2011. PMID: 21887284 Бесплатная статья PMC.
 
-МЕТОДЫ: Гипертоники (n = 42 418) из двойного слепого рандомизированного клинического исследования были рандомизированы для лечения хлорталидоном, **амлодипином** , **лизиноприлом** или доксазозином (средняя продолжительность наблюдения 4,9 года). ...Для MMP12 N122S (rs652438) наблюдались более низкие HR для ИБС у субъектов …
+МЕТОДЫ: Гипертоники (n = 42 418) из двойного слепого рандомизированного клинического исследования были рандомизированы для лечения хлорталидоном, **амлодипином** , **лизиноприлом** или доксазозином (средняя продолжительность наблюдения 4,9 года). Для MMP12 N122S (rs652438) наблюдались более низкие HR для ИБС у субъектов 
 
-METHODS: Hypertensives (n = 42,418) from a double-blind, randomized, clinical trial were randomized to chlorthalidone, **amlodipine**, …
-
-
+METHODS: Hypertensives (n = 42,418) from a double-blind, randomized, clinical trial were randomized to chlorthalidone, **amlodipine**, 
 
 
 
 
 
- 86
+
+
+ 
 
 
 
@@ -1692,17 +1690,17 @@ METHODS: Hypertensives (n = 42,418) from a double-blind, randomized, clinical tr
 
 Шерва Р., Форд К.Э., Экфельдт Дж.Х., Дэвис Б.Р., Бурвинкль Э., Арнетт Д.К. Sherva R, et al. Stroke. 2011 февр.;42(2):330-5. doi: 10.1161/STROKEAHA.110.593798. Epub 2010 дек. 23. Stroke. 2011. PMID: 21183746 Бесплатная статья PMC. Клиническое испытание.
 
-РЕЗУЛЬТАТЫ: По сравнению с участниками, получавшими лечение хлорталидоном с генотипом 6A/6A, у лиц с генотипом 6A/6A, рандомизированных в группу **лизиноприла,** наблюдались более высокие показатели инсульта (коэффициент риска = 1,32; 95% ДИ, 1,08–1,61; P = 0,007), а у лиц с генотипом 5A/6A, принимавших **лизиноприл,** — более высокие…
+РЕЗУЛЬТАТЫ: По сравнению с участниками, получавшими лечение хлорталидоном с генотипом 6A/6A, у лиц с генотипом 6A/6A, рандомизированных в группу **лизиноприла,** наблюдались более высокие показатели инсульта (коэффициент риска = 1,32; 95% ДИ, 1,08–1,61; P = 0,007), а у лиц с генотипом 5A/6A, принимавших **лизиноприл,** — более высокие
 
-RESULTS: Compared with participants treated with chlorthalidone with the 6A/6A genotype, individuals with the 6A/6A genotype randomized to …
-
-
+RESULTS: Compared with participants treated with chlorthalidone with the 6A/6A genotype, individuals with the 6A/6A genotype randomized to 
 
 
 
 
 
- 87
+
+
+ 
 
 
 
@@ -1712,17 +1710,17 @@ RESULTS: Compared with participants treated with chlorthalidone with the 6A/6A g
 
 Ирвин М.Р., Линч А.И., Кабагамбе Э.К., Тивари Х.К., Барзилай Дж.И., Экфельдт Дж.Х., Бурвинкль Э., Дэвис Б.Р., Форд CE, Арнетт Д.К. Irvin MR, et al. J Hypertens. 2010 октябрь;28(10):2076-83. doi: 10.1097/HJH.0b013e32833c7a4d. J Hypertens. 2010. PMID: 20577119 Бесплатная статья PMC. Клиническое испытание.
 
-Участники GenHAT были рандомизированы для получения лечения диуретиком (хлорталидоном), блокатором кальциевых каналов ( **амлодипином** ) или ингибитором ангиотензинпревращающего фермента (АПФ) ( **лизиноприлом** ). ...РЕЗУЛЬТАТЫ: Уровень глюкозы натощак на 2-м году увеличился в среднем на 6,8, 4,8 и 3. …
+Участники GenHAT были рандомизированы для получения лечения диуретиком (хлорталидоном), блокатором кальциевых каналов ( **амлодипином** ) или ингибитором ангиотензинпревращающего фермента (АПФ) ( **лизиноприлом** ). РЕЗУЛЬТАТЫ: Уровень глюкозы натощак на 2-м году увеличился в среднем на 6,8, 4,8 и 3. 
 
-GenHAT participants were randomized to receive treatment with a diuretic (chlorthalidone), calcium channel blocker (**amlodipine**), or a …
-
-
+GenHAT participants were randomized to receive treatment with a diuretic (chlorthalidone), calcium channel blocker (**amlodipine**), or a 
 
 
 
 
 
- 88
+
+
+ 
 
 
 
@@ -1732,17 +1730,17 @@ GenHAT participants were randomized to receive treatment with a diuretic (chlort
 
 Джалал С., Софи Ф.А., Абасс С.М., Алай М.С., Бхат М.А., Ратер Х.А., Лоне Н.А., Сиддики М.А. Jalal S, et al. Indian J Nephrol. 2010 Январь;20(1):15-20. doi: 10.4103/0971-4065.62090. Indian J Nephrol. 2010. PMID: 20535265 Бесплатная статья PMC.
 
-Эти 120 пациентов с микроальбуминурией были случайным образом разделены на две группы по 60 человек в каждой, сопоставимые по возрасту, полу, артериальному давлению, клиренсу креатинина и экскреции альбумина с мочой, чтобы получать **амлодипин** или **лизиноприл** . Мы проспективно измерили их мочевые …
+Эти 120 пациентов с микроальбуминурией были случайным образом разделены на две группы по 60 человек в каждой, сопоставимые по возрасту, полу, артериальному давлению, клиренсу креатинина и экскреции альбумина с мочой, чтобы получать **амлодипин** или **лизиноприл** . Мы проспективно измерили их мочевые 
 
-These 120 patients with microalbuminuria were randomly divided into two groups of 60 each, matched for age, sex, arterial pressure, creatini …
-
-
+These 120 patients with microalbuminuria were randomly divided into two groups of 60 each, matched for age, sex, arterial pressure, creatini 
 
 
 
 
 
- 89
+
+
+ 
 
 
 
@@ -1752,17 +1750,17 @@ These 120 patients with microalbuminuria were randomly divided into two groups o
 
 Сек С.М., Ка Э.Ф., Нианг А., Диуф Б. Seck SM, et al. Indian J Nephrol. 2009 июль;19(3):122-4. doi: 10.4103/0971-4065.57111. Indian J Nephrol. 2009. PMID: 20436734 Бесплатная статья PMC.
 
-Его лечили от гипертонии, диагностированной восемь месяцев назад после похожего эпизода. Он принимал атенолол 100 мг/день, **амлодипин** 10 мг/день и комбинацию **лизиноприла** 20 мг/гидрохлоротиазида 12,5 мг в день, но испытал несколько пиков гипертонии и …
+Его лечили от гипертонии, диагностированной восемь месяцев назад после похожего эпизода. Он принимал атенолол 100 мг/день, **амлодипин** 10 мг/день и комбинацию **лизиноприла** 20 мг/гидрохлоротиазида 12,5 мг в день, но испытал несколько пиков гипертонии и 
 
-He had been treated for hypertension diagnosed eight months ago after a similar episode. He was taking atenolol 100 mg /day, **amlodipine** …
-
-
+He had been treated for hypertension diagnosed eight months ago after a similar episode. He was taking atenolol 100 mg /day, **amlodipine** 
 
 
 
 
 
- 90
+
+
+ 
 
 
 
@@ -1772,17 +1770,17 @@ He had been treated for hypertension diagnosed eight months ago after a similar 
 
 Мельсен Дж., Йеппесен П., Эрландсен М., Поульсен П.Л., Бек Т. Mehlsen J, et al. Acta Ophthalmol. 2011 Декабрь;89(8):764-8. doi: 10.1111/j.1755-3768.2009.01847.x. Epub 2010 Март 19. Acta Ophthalmol. 2011. PMID: 20346089 Бесплатная статья. Клиническое испытание.
 
-Используя динамический сосудистый анализатор (DVA), была изучена реакция диаметра ретинальных артериол во время острого повышения артериального давления, вызванного изометрической нагрузкой, во время стимуляции мерцанием и во время обоих условий стимуляции одновременно до и во время двух тре…
+Используя динамический сосудистый анализатор (DVA), была изучена реакция диаметра ретинальных артериол во время острого повышения артериального давления, вызванного изометрической нагрузкой, во время стимуляции мерцанием и во время обоих условий стимуляции одновременно до и во время двух тре
 
-Using a Dynamic Vessel Analyzer (DVA), the diameter response of retinal arterioles during an acute increase in the blood pressure induced by …
-
-
+Using a Dynamic Vessel Analyzer (DVA), the diameter response of retinal arterioles during an acute increase in the blood pressure induced by 
 
 
 
 
 
- 91
+
+
+ 
 
 
 
@@ -1792,17 +1790,17 @@ Using a Dynamic Vessel Analyzer (DVA), the diameter response of retinal arteriol
 
 Хейвуд Л.Дж., Форд К.Э., Кроу Р.С., Дэвис Б.Р., Мэсси Б.М., Эйнхорн П.Т., Вильярд А.; Совместная исследовательская группа ALLHAT. Haywood LJ, et al. J Am Coll Cardiol. 2009 24 ноября;54(22):2023-31. doi: 10.1016/j.jacc.2009.08.020. J Am Coll Cardiol. 2009. PMID: 19926008 Бесплатная статья. Клиническое испытание.
 
-ЦЕЛИ: Исследование ALLHAT (исследование антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа) показало, что лечение **амлодипином** , **лизиноприлом** или доксазозином не превосходит тиазидоподобный диуретик (хлорталидон) в профилактике ишемической болезни сердца…
+ЦЕЛИ: Исследование ALLHAT (исследование антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа) показало, что лечение **амлодипином** , **лизиноприлом** или доксазозином не превосходит тиазидоподобный диуретик (хлорталидон) в профилактике ишемической болезни сердца
 
-OBJECTIVES: The ALLHAT (Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial) determined that treatment with **amlod** …
-
-
+OBJECTIVES: The ALLHAT (Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial) determined that treatment with **amlod** 
 
 
 
 
 
- 92
+
+
+ 
 
 
 
@@ -1812,17 +1810,17 @@ OBJECTIVES: The ALLHAT (Antihypertensive and Lipid-Lowering Treatment to Prevent
 
 Гримм Р.Х., Дэвис Б.Р., Пиллер Л.Б., Катлер Дж.А., Марголис К.Л., Барзилай Дж., Дарт Р.А., Граумлих Дж.Ф., Мерден Р.А., Рэндалл О.С.; Совместная исследовательская группа ALLHAT. Grimm RH, et al. J Clin Hypertens (Гринвич). 2009 сентябрь;11(9):466-74. doi: 10.1111/j.1751-7176.2009.00149.x. J Clin Hypertens (Greenwich). 2009. PMID: 19751458 Бесплатная статья PMC. Клиническое испытание.
 
-(c)2009 Wiley Periodicals, Inc. Более низкие показатели сердечной недостаточности (СН) у лиц, принимавших хлорталидон, по сравнению с **амлодипином** , **лизиноприлом** или доксазозином, были неожиданными в исследовании антигипертензивного и гиполипидемического лечения для предотвращения сердечных приступов (ALLHAT). ...Среди случаев, …
+(c)2009 Wiley Periodicals, Inc. Более низкие показатели сердечной недостаточности (СН) у лиц, принимавших хлорталидон, по сравнению с **амлодипином** , **лизиноприлом** или доксазозином, были неожиданными в исследовании антигипертензивного и гиполипидемического лечения для предотвращения сердечных приступов (ALLHAT). Среди случаев, 
 
-(c)2009 Wiley Periodicals, Inc.Lower heart failure (HF) rates in individuals taking chlorthalidone vs **amlodipine**, **lisinopril**, …
-
-
+(c)2009 Wiley Periodicals, Inc.Lower heart failure (HF) rates in individuals taking chlorthalidone vs **amlodipine**, **lisinopril**, 
 
 
 
 
 
- 93
+
+
+ 
 
 
 
@@ -1832,17 +1830,17 @@ OBJECTIVES: The ALLHAT (Antihypertensive and Lipid-Lowering Treatment to Prevent
 
 Райт Дж. Т. Мл., Пробстфилд Дж. Л., Кушман В. К., Прессел С. Л., Катлер Дж. А., Дэвис Б. Р., Эйнхорн ПТ, Рахман М., Уэлтон П. К., Форд CE, Хейвуд Л. Дж., Марголис К. Л., Опарил С., Блэк Х. Р., Олдерман М. Х.; Совместная исследовательская группа ALLHAT. Wright JT Jr, et al. Arch Intern Med. 2009 11 мая;169(9):832-42. doi: 10.1001/archinternmed.2009.60. Arch Intern Med. 2009. PMID: 19433694 Бесплатная статья PMC. Клиническое испытание.
 
-Хлорталидон превосходил (1) доксазозина мезилат в профилактике комбинированных сердечно-сосудистых заболеваний (CCVD) (коэффициент риска \[RR\], 1,20; 95% доверительный интервал \[CI\], 1,13–1,27), особенно СН (RR, 1,80; 95% CI, 1,40–2,22) и инсульта (RR, 1,26; 95% CI, 1,10–1,46); (2) **лизиноприл** в профилактике CCVD …
+Хлорталидон превосходил (1) доксазозина мезилат в профилактике комбинированных сердечно-сосудистых заболеваний (CCVD) (коэффициент риска \[RR\], 1,20; 95% доверительный интервал \[CI\], 1,13–1,27), особенно СН (RR, 1,80; 95% CI, 1,40–2,22) и инсульта (RR, 1,26; 95% CI, 1,10–1,46); (2) **лизиноприл** в профилактике CCVD 
 
-Chlorthalidone was superior to (1) doxazosin mesylate in preventing combined CVD (CCVD) (risk ratio \[RR\], 1.20; 95% confidence interval \[CI\] …
-
-
+Chlorthalidone was superior to (1) doxazosin mesylate in preventing combined CVD (CCVD) (risk ratio \[RR\], 1.20; 95% confidence interval \[CI\] 
 
 
 
 
 
- 94
+
+
+ 
 
 
 
@@ -1852,17 +1850,17 @@ Chlorthalidone was superior to (1) doxazosin mesylate in preventing combined CVD
 
 Линч AI, Бурвинкль E, Дэвис BR, Форд CE, Экфельдт JH, Лейендекер-Фостер C, Арнетт DK. Lynch AI, et al. Фармакогенетическая геномика. 2009 июнь;19(6):415-21. doi: 10.1097/FPC.0b013e32832a8e81. Pharmacogenet Genomics. 2009. PMID: 19352213 Бесплатная статья PMC. Клиническое испытание.
 
-Мы включили участников (n=30 076), рандомизированных в группы с одним из трех антигипертензивных препаратов ( **лизиноприл** , **амлодипин** , хлорталидон), с двумя сравнениями лечения: **лизиноприл** против хлорталидона и **лизиноприл** против **амлодипина** . ...Смертность …
+Мы включили участников (n=30 076), рандомизированных в группы с одним из трех антигипертензивных препаратов ( **лизиноприл** , **амлодипин** , хлорталидон), с двумя сравнениями лечения: **лизиноприл** против хлорталидона и **лизиноприл** против **амлодипина** . Смертность 
 
-We included participants (n=30 076) randomized to one of three antihypertensive medications (**lisinopril**, **amlodipine**, chlorthal …
-
-
+We included participants (n=30 076) randomized to one of three antihypertensive medications (**lisinopril**, **amlodipine**, chlorthal 
 
 
 
 
 
- 95
+
+
+ 
 
 
 
@@ -1874,17 +1872,17 @@ We included participants (n=30 076) randomized to one of three antihypertensive 
 
 Снижение ПП было более выраженным у пациентов, получавших **лизиноприл** , **лизиноприла** гидрохлоротиазид, валсартан и валсартан гидрохлоротиазид, по сравнению с пациентами, получавшими индапамид, атенолол и **амлодипин** (P < 0,05 для каждой группы).
 
-…
-
-The reduction in PP was more significant in patients receiving **lisinopril**, **lisinopril** hydrochlorothiazide, valsartan, and vals …
 
 
+The reduction in PP was more significant in patients receiving **lisinopril**, **lisinopril** hydrochlorothiazide, valsartan, and vals 
 
 
 
 
 
- 96
+
+
+ 
 
 
 
@@ -1894,17 +1892,17 @@ The reduction in PP was more significant in patients receiving **lisinopril**, *
 
 Cushman WC, Ford CE, Einhorn PT, Wright JT Jr, Preston RA, Davis BR, Basile JN, Whelton PK, Weiss RJ, Bastien A, Courtney DL, Hamilton BP, Kirchner K, Louis GT, Retta TM, Vidt DG; Совместная исследовательская группа ALLHAT. Cushman WC, et al. J Clin Hypertens (Гринвич). 2008 октябрь;10(10):751-60. doi: 10.1111/j.1751-7176.2008.00015.x. J Clin Hypertens (Greenwich). 2008. PMID: 19090876 Бесплатная статья PMC. Клиническое испытание.
 
-АД снизилось с 145/83 мм рт. ст. (27% контроль) до 134/76 мм рт. ст. (хлорталидон, 68% контроль), 135/75 мм рт. ст. ( **амлодипин** , 66% контроль) и 136/76 мм рт. ст. ( **лизиноприл** , 61% контроль) за 5 лет; среднее количество назначенных препаратов составило 1,9, 2,0 и 2,1 соответственно. Всего …
+АД снизилось с 145/83 мм рт. ст. (27% контроль) до 134/76 мм рт. ст. (хлорталидон, 68% контроль), 135/75 мм рт. ст. ( **амлодипин** , 66% контроль) и 136/76 мм рт. ст. ( **лизиноприл** , 61% контроль) за 5 лет; среднее количество назначенных препаратов составило 1,9, 2,0 и 2,1 соответственно. Всего 
 
-BP was reduced from 145/83 mm Hg (27% control) to 134/76 mm Hg (chlorthalidone, 68% control), 135/75 mm Hg (**amlodipine**, 66% control), …
-
-
+BP was reduced from 145/83 mm Hg (27% control) to 134/76 mm Hg (chlorthalidone, 68% control), 135/75 mm Hg (**amlodipine**, 66% control), 
 
 
 
 
 
- 97
+
+
+ 
 
 
 
@@ -1914,17 +1912,17 @@ BP was reduced from 145/83 mm Hg (27% control) to 134/76 mm Hg (chlorthalidone, 
 
 Дэвис BR, Костис JB, Симпсон LM, Блэк HR, Кушман WC, Эйнхорн PT, Фарбер MA, Форд CE, Леви D, Мэсси BM, Наваз S; Группа совместных исследований ALLHAT. Davis BR, et al. Circulation. 25 ноября 2008 г.;118(22):2259-67. doi: 10.1161/CIRCULATIONAHA.107.762229. Epub 10 ноября 2008 г. Circulation. 2008. PMID: 19001024 Бесплатная статья PMC. Клиническое испытание.
 
-В исследовании антигипертензивного и гиполипидемического лечения для профилактики сердечных приступов (ALLHAT) 42 418 пациентов с высоким риском гипертонии были рандомизированы в группы, получающие хлорталидон, **амлодипин** , **лизиноприл** или доксазозин, что дало возможность сравнить эти методы лечения с обычными…
+В исследовании антигипертензивного и гиполипидемического лечения для профилактики сердечных приступов (ALLHAT) 42 418 пациентов с высоким риском гипертонии были рандомизированы в группы, получающие хлорталидон, **амлодипин** , **лизиноприл** или доксазозин, что дало возможность сравнить эти методы лечения с обычными
 
-In the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT), 42 418 high-risk hypertensive patients were ran …
-
-
+In the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT), 42 418 high-risk hypertensive patients were ran 
 
 
 
 
 
- 98
+
+
+ 
 
 
 
@@ -1934,17 +1932,17 @@ In the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Tri
 
 Бакрис ГЛ. Bakris GL. J Clin Hypertens (Гринвич). 2008 Январь;10(1 Suppl 1):27-32. doi: 10.1111/j.1524-6175.2007.08029.x. J Clin Hypertens (Greenwich). 2008. PMID: 18174781 Бесплатная статья PMC. Обзор.
 
-В клинических испытаниях эта комбинация продемонстрировала лучшую эффективность, определяемую временем достижения целевых показателей артериального давления, а также достигнутыми уровнями артериального давления по сравнению с отдельными препаратами. В сравнительном испытании комбинация амлодипина **и** валсартана (препарат …
+В клинических испытаниях эта комбинация продемонстрировала лучшую эффективность, определяемую временем достижения целевых показателей артериального давления, а также достигнутыми уровнями артериального давления по сравнению с отдельными препаратами. В сравнительном испытании комбинация амлодипина **и** валсартана (препарат 
 
-In clinical trials this combination has demonstrated better efficacy, defined by time to reach blood pressure targets as well as levels of b …
-
-
+In clinical trials this combination has demonstrated better efficacy, defined by time to reach blood pressure targets as well as levels of b 
 
 
 
 
 
- 99
+
+
+ 
 
 
 
@@ -1954,17 +1952,17 @@ In clinical trials this combination has demonstrated better efficacy, defined by
 
 Хайденрайх П.А., Дэвис Б.Р., Катлер Дж.А., Фурберг К.Д., Лэрсон Д.Р., Шлипак МГ., Прессель С.Л., Нвачуку К., Голдман Л. Heidenreich PA, et al. J Gen Intern Med. 2008 май;23(5):509-16. doi: 10.1007/s11606-008-0515-2. Epub 29 января 2008 г. J Gen Intern Med. 2008. PMID: 18228109 Бесплатная статья PMC. Клиническое испытание.
 
-При пороговом значении в 50 000 долларов США за каждый добавленный LY **амлодипин** был предпочтительнее в 50% выборок, хлорталидон — в 40%, а **лизиноприл —** в 10% выборок с бутстрепом, но эти результаты были крайне чувствительны к стоимости **амлодипина** и выбранному пороговому значению экономической эффективности. ...CON …
+При пороговом значении в 50 000 долларов США за каждый добавленный LY **амлодипин** был предпочтительнее в 50% выборок, хлорталидон — в 40%, а **лизиноприл —** в 10% выборок с бутстрепом, но эти результаты были крайне чувствительны к стоимости **амлодипина** и выбранному пороговому значению экономической эффективности. CON 
 
-At a threshold of $50,000 per LY gained, **amlodipine** was preferred in 50%, chlorthalidone in 40%, and **lisinopril** in 10% of boot …
-
-
+At a threshold of $50,000 per LY gained, **amlodipine** was preferred in 50%, chlorthalidone in 40%, and **lisinopril** in 10% of boot 
 
 
 
 
 
- 100
+
+
+ 
 
 
 
@@ -1974,17 +1972,17 @@ At a threshold of $50,000 per LY gained, **amlodipine** was preferred in 50%, ch
 
 Райт Дж. Т. Мл., Харрис-Хейвуд С., Прессель С., Барзилай Дж., Бэймбридж К., Барейс К. Дж., Базиль Дж. Н., Блэк HR, Дарт Р., Гупта АК., Гамильтон BP, Эйнхорн PT, Хейвуд Л. Дж., Джафри С. З., Луис Г. Т., Уэлтон PK, Скотт CL, Симмонс DL, Стэнфорд К., Дэвис BR. Wright JT Jr, et al. Arch Intern Med. 28 января 2008 г.;168(2):207-17. doi: 10.1001/archinternmed.2007.66. Arch Intern Med. 2008. PMID: 18227370 Бесплатная статья PMC. Клиническое испытание.
 
-Мы сравнили результаты в зависимости от расы у лиц с гипертонией с МС и без него, получавших терапию диуретиками тиазидного ряда (хлорталидоном), блокаторами кальциевых каналов ( **амлодипина** бесилатом), альфа-блокаторами (доксазозина мезилатом) или ингибиторами ангиотензинпревращающего фермента (…
+Мы сравнили результаты в зависимости от расы у лиц с гипертонией с МС и без него, получавших терапию диуретиками тиазидного ряда (хлорталидоном), блокаторами кальциевых каналов ( **амлодипина** бесилатом), альфа-блокаторами (доксазозина мезилатом) или ингибиторами ангиотензинпревращающего фермента (
 
-We compared outcomes by race in hypertensive individuals with and without MetS treated with a thiazide-type diuretic (chlorthalidone), a cal …
-
-
+We compared outcomes by race in hypertensive individuals with and without MetS treated with a thiazide-type diuretic (chlorthalidone), a cal 
 
 
 
 
 
- 101
+
+
+ 
 
 
 
@@ -1994,19 +1992,19 @@ We compared outcomes by race in hypertensive individuals with and without MetS t
 
 Эллиотт В.Дж., Плаушинат К.А., Скрепнек Г.Х., Гаузе Д. Elliott WJ, et al. J Am Board Fam Med. 2007 Январь-Фев;20(1):72-80. doi: 10.3122/jabfm.2007.01.060094. J Am Board Fam Med. 2007. PMID: 17204738 Бесплатная статья.
 
-РЕЗУЛЬТАТЫ: В исследование были включены записи по 60 685 субъектам: ГХТЗ (n = 18 713), **амлодипин** (n = 11 520), **лизиноприл** (n = 21 138) или валсартан (n = 9314). ...Валсартан был связан со значительно (P < .001) более благоприятными показателями постоянства, продолжительности терапии,
-
-…
-
-RESULTS: Records for 60,685 subjects were included: HCTZ (n = 18,713), **amlodipine** (n = 11,520), **lisinopril** (n = 21,138), or va …
+РЕЗУЛЬТАТЫ: В исследование были включены записи по 60 685 субъектам: ГХТЗ (n = 18 713), **амлодипин** (n = 11 520), **лизиноприл** (n = 21 138) или валсартан (n = 9314). Валсартан был связан со значительно (P < .001) более благоприятными показателями постоянства, продолжительности терапии,
 
 
+
+RESULTS: Records for 60,685 subjects were included: HCTZ (n = 18,713), **amlodipine** (n = 11,520), **lisinopril** (n = 21,138), or va 
 
 
 
 
 
- 102
+
+
+ 
 
 
 
@@ -2016,17 +2014,17 @@ RESULTS: Records for 60,685 subjects were included: HCTZ (n = 18,713), **amlodip
 
 Пиллер Л.Б., Форд CE, Дэвис BR, Нвачуку C, Блэк HR, Опарил С., Ретта TM, Пробстфилд JL; Совместная исследовательская группа ALLHAT. Piller LB, et al. J Clin Hypertens (Гринвич). 2006 сентябрь;8(9):649-56; тест 657-8. doi: 10.1111/j.1524-6175.2006.05689.x. J Clin Hypertens (Greenwich). 2006. PMID: 16957427 Бесплатная статья PMC. Клиническое испытание.
 
-Исследование антигипертензивного и гиполипидемического лечения для профилактики сердечных приступов (ALLHAT), крупнейшее на сегодняшний день исследование антигипертензивного лечения, рандомизировало 42 418 участников в группы, которым назначали диуретик (хлорталидон), блокатор кальциевых каналов ( **амлодипин** ), ангиотензинпревращающий…
+Исследование антигипертензивного и гиполипидемического лечения для профилактики сердечных приступов (ALLHAT), крупнейшее на сегодняшний день исследование антигипертензивного лечения, рандомизировало 42 418 участников в группы, которым назначали диуретик (хлорталидон), блокатор кальциевых каналов ( **амлодипин** ), ангиотензинпревращающий
 
-The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT), the largest antihypertensive study conducted to da …
-
-
+The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT), the largest antihypertensive study conducted to da 
 
 
 
 
 
- 103
+
+
+ 
 
 
 
@@ -2036,17 +2034,17 @@ The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial 
 
 Юсофф К. Yusoff K. Мед Джей Малайзия. Июнь 2005 г.;60(2):239-45. Med J Malaysia. 2005. PMID: 16114170 Бесплатная статья. Обзор.
 
-Целью исследования было сравнение эффективности новых (блокатор кальциевых каналов **амлодипин** и ингибитор ангиотензинпревращающего фермента иноприл) со старыми (диуретик хлорталидон) антигипертензивными средствами при лечении пациентов с гипертонией. ...Однако ВСЕ обнаружили…
+Целью исследования было сравнение эффективности новых (блокатор кальциевых каналов **амлодипин** и ингибитор ангиотензинпревращающего фермента иноприл) со старыми (диуретик хлорталидон) антигипертензивными средствами при лечении пациентов с гипертонией. Однако ВСЕ обнаружили
 
-Its objective was to ompare the efficacy of newer (calcium channel blocker **amlodipine** and angiotensin-converting enzyme inhibitor ino …
-
-
+Its objective was to ompare the efficacy of newer (calcium channel blocker **amlodipine** and angiotensin-converting enzyme inhibitor ino 
 
 
 
 
 
- 104
+
+
+ 
 
 
 
@@ -2056,17 +2054,17 @@ Its objective was to ompare the efficacy of newer (calcium channel blocker **aml
 
 Шин А.Дж. Scheen AJ. Diabetes Metab. 2004 Декабрь;30(6):487-96. doi: 10.1016/s1262-3636(07)70146-5. Diabetes Metab. 2004. PMID: 15671918 Бесплатная статья. Обзор.
 
-Десять РКИ с сердечно-сосудистым прогнозом в качестве первичной конечной точки анализировали заболеваемость СД2 в качестве вторичной конечной точки или в качестве ретроспективного анализа после среднего периода наблюдения от 1 до 6 лет: пять с ИАПФ и пять с БРА по сравнению с плацебо (n=4) или референтным препаратом (бета-блокатор …
+Десять РКИ с сердечно-сосудистым прогнозом в качестве первичной конечной точки анализировали заболеваемость СД2 в качестве вторичной конечной точки или в качестве ретроспективного анализа после среднего периода наблюдения от 1 до 6 лет: пять с ИАПФ и пять с БРА по сравнению с плацебо (n=4) или референтным препаратом (бета-блокатор 
 
-Ten RCTs with cardiovascular prognosis as primary endpoints analysed the incidence of T2DM as secondary endpoints or as post-hoc analysis af …
-
-
+Ten RCTs with cardiovascular prognosis as primary endpoints analysed the incidence of T2DM as secondary endpoints or as post-hoc analysis af 
 
 
 
 
 
- 105
+
+
+ 
 
 
 
@@ -2082,7 +2080,7 @@ Ten RCTs with cardiovascular prognosis as primary endpoints analysed the inciden
 
 
 
- 106
+ 
 
 
 
@@ -2092,17 +2090,17 @@ Ten RCTs with cardiovascular prognosis as primary endpoints analysed the inciden
 
 Пападеметриу В., Пиллер Л.Б., Форд CE, Гордон Д., Хартни Т.Дж., Джерачи ТС, Рейсин Э., Самнер Б.М., Вонг Н.Д., Нвачуку К., Нараян П., Хейвуд Дж., Хабиб Г.; Совместная исследовательская группа ALLHAT. Papademetriou V, et al. J Clin Hypertens (Гринвич). 2003 ноябрь-декабрь;5(6):377-84. doi: 10.1111/j.1524-6175.2003.03163.x. J Clin Hypertens (Greenwich). 2003. PMID: 14688492 Бесплатная статья PMC. Клиническое испытание.
 
-Испытание антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа (ALLHAT) включало 42 418 участников, рандомизированных в одну из четырех групп антигипертензивного лечения: хлорталидон, **амлодипин** , **лизиноприл** или доксазозин. Подгруппа этих участников …
+Испытание антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа (ALLHAT) включало 42 418 участников, рандомизированных в одну из четырех групп антигипертензивного лечения: хлорталидон, **амлодипин** , **лизиноприл** или доксазозин. Подгруппа этих участников 
 
-The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) consisted of 42,418 participants randomized to one …
-
-
+The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) consisted of 42,418 participants randomized to one 
 
 
 
 
 
- 107
+
+
+ 
 
 
 
@@ -2112,17 +2110,17 @@ The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial 
 
 Воген Дж., Крейлик КА, Ливорнес РК, Йокояма К., Фреч Ф. Wogen J, et al. J Manag Care Pharm. 2003 сентябрь-октябрь;9(5):424-9. doi: 10.18553/jmcp.2003.9.5.424. J Manag Care Pharm. 2003. PMID: 14613440 Бесплатная статья PMC.
 
-РЕЗУЛЬТАТЫ: Средний возраст исследуемой когорты составил 63,1 года; 53% были женщинами. Чуть больше половины (51%, n=73 148) получали **амлодипин** , 28% (n=40 238) получали **лизиноприл** , а 21% (n=29 669) получали валсартан. Значительно больше пациентов, принимавших валсартан (63%), оставались настойчивыми …
+РЕЗУЛЬТАТЫ: Средний возраст исследуемой когорты составил 63,1 года; 53% были женщинами. Чуть больше половины (51%, n=73 148) получали **амлодипин** , 28% (n=40 238) получали **лизиноприл** , а 21% (n=29 669) получали валсартан. Значительно больше пациентов, принимавших валсартан (63%), оставались настойчивыми 
 
-RESULTS: The mean age of the study cohort was 63.1 years; 53% were female. Just over one half (51%, n=73,148) received **amlodipine**, 28 …
-
-
+RESULTS: The mean age of the study cohort was 63.1 years; 53% were female. Just over one half (51%, n=73,148) received **amlodipine**, 28 
 
 
 
 
 
- 108
+
+
+ 
 
 
 
@@ -2132,17 +2130,17 @@ RESULTS: The mean age of the study cohort was 63.1 years; 53% were female. Just 
 
 Видт ДГ. Vidt DG. Cleve Clin J Med. 2003 март;70(3):263-9. doi: 10.3949/ccjm.70.3.263. Cleve Clin J Med. 2003. PMID: 12678218 Бесплатная статья. Клиническое испытание.
 
-Испытание антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа (ALLHAT) сравнило четыре антигипертензивных препарата у пациентов в возрасте 55 лет и старше: хлорталидон, доксазозин, **амлодипин** и **лизиноприл** . Группа доксазозина была прекращена досрочно из-за …
+Испытание антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа (ALLHAT) сравнило четыре антигипертензивных препарата у пациентов в возрасте 55 лет и старше: хлорталидон, доксазозин, **амлодипин** и **лизиноприл** . Группа доксазозина была прекращена досрочно из-за 
 
-The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) compared four antihypertensive agents in patients 5 …
-
-
+The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) compared four antihypertensive agents in patients 5 
 
 
 
 
 
- 109
+
+
+ 
 
 
 
@@ -2154,7 +2152,7 @@ The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial 
 
 В общей сложности 33 357 участников в возрасте 55 лет и старше с легкой или умеренной гипертонией и по крайней мере 1 другим фактором риска ИБС были случайным образом распределены для приема хлорталидона (от 12,5 до 25 мг/день; n = 15 255), **амлодипина** (от 2,5 до 10 мг/день; n = 9 048) или **лизиноприла** (от 10 до 10 мг/день; n = 9 048).
 
-A total of 33,357 participants aged 55 years or older with mild to moderate hypertension and at least 1 other CHD risk factor were randomly …
+A total of 33,357 participants aged 55 years or older with mild to moderate hypertension and at least 1 other CHD risk factor were randomly 
 
 
 
@@ -2162,7 +2160,7 @@ A total of 33,357 participants aged 55 years or older with mild to moderate hype
 
 
 
- 110
+ 
 
 
 
@@ -2178,7 +2176,7 @@ A total of 33,357 participants aged 55 years or older with mild to moderate hype
 
 
 
- 111
+ 
 
 
 
@@ -2194,7 +2192,7 @@ A total of 33,357 participants aged 55 years or older with mild to moderate hype
 
 
 
- 112
+ 
 
 
 
@@ -2204,17 +2202,17 @@ A total of 33,357 participants aged 55 years or older with mild to moderate hype
 
 Cushman WC, Ford CE, Cutler JA, Margolis KL, Davis BR, Grimm RH, Black HR, Hamilton BP, Holland J, Nwachuku C, Papademetriou V, Probstfield J, Wright JT Jr, Alderman MH, Weiss RJ, Piller L, Bettencourt J, Walsh SM; Совместная исследовательская группа ALLHAT. Cushman WC, et al. J Clin Hypertens (Гринвич). 2002 ноябрь-декабрь;4(6):393-404. doi: 10.1111/j.1524-6175.2002.02045.x. J Clin Hypertens (Greenwich). 2002. PMID: 12461301 Бесплатная статья. Клиническое испытание.
 
-ВМЕШАТЕЛЬСТВА: Участникам случайным образом назначали (двойным слепым методом) хлорталидон в дозе 12,5–25 мг/день (n=15 255), **амлодипин в** дозе 2,5–10 мг/день (n=9048) или **лизиноприл в** дозе 10–40 мг/день (n=9054) после отмены других лекарств. ...
+ВМЕШАТЕЛЬСТВА: Участникам случайным образом назначали (двойным слепым методом) хлорталидон в дозе 12,5–25 мг/день (n=15 255), **амлодипин в** дозе 2,5–10 мг/день (n=9048) или **лизиноприл в** дозе 10–40 мг/день (n=9054) после отмены других лекарств. 
 
-INTERVENTIONS: Participants were randomly assigned to receive (double-blind) chlorthalidone, 12.5-25 mg/d (n=15,255), **amlodipine** 2.5- …
-
-
+INTERVENTIONS: Participants were randomly assigned to receive (double-blind) chlorthalidone, 12.5-25 mg/d (n=15,255), **amlodipine** 2.5- 
 
 
 
 
 
- 113
+
+
+ 
 
 
 
@@ -2224,17 +2222,17 @@ INTERVENTIONS: Participants were randomly assigned to receive (double-blind) chl
 
 Пиллер Л.Б., Дэвис Б.Р., Катлер Дж.А., Кушман В.К., Райт Дж.Т.-младший, Уильямсон Дж.Д., Линен Ф.Х., Эйнхорн ПТ, Рэндалл О.С., Голден Дж.С., Хейвуд Л.Дж.; Совместная исследовательская группа ALLHAT. Piller LB, et al. Curr Control Trials Cardiovasc Med. 2002 14 ноября;3(1):10. doi: 10.1186/1468-6708-3-10. Curr Control Trials Cardiovasc Med. 2002. PMID: 12459039 Бесплатная статья PMC.
 
-ПРЕДЫСТОРИЯ: Испытание антигипертензивной и гиполипидемической терапии для профилактики сердечных приступов (ALLHAT) — это рандомизированное двойное слепое активно контролируемое исследование, разработанное для сравнения частоты возникновения ишемической болезни сердца у участников с высоким риском гипертонии, изначально рандомизированных на…
+ПРЕДЫСТОРИЯ: Испытание антигипертензивной и гиполипидемической терапии для профилактики сердечных приступов (ALLHAT) — это рандомизированное двойное слепое активно контролируемое исследование, разработанное для сравнения частоты возникновения ишемической болезни сердца у участников с высоким риском гипертонии, изначально рандомизированных на
 
-BACKGROUND: The Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) is a randomized, double-blind, active-c …
-
-
+BACKGROUND: The Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) is a randomized, double-blind, active-c 
 
 
 
 
 
- 114
+
+
+ 
 
 
 
@@ -2244,17 +2242,17 @@ BACKGROUND: The Antihypertensive and Lipid Lowering Treatment to Prevent Heart A
 
 Белый ВБ. White WB. J Clin Hypertens (Гринвич). 2002 июль-август;4(4 Suppl 1):20-5. doi: 10.1111/j.1524-6175.2002.01585.x. J Clin Hypertens (Greenwich). 2002. PMID: 12147925 Бесплатная статья PMC. Обзор.
 
-В трех отдельных рандомизированных двойных слепых параллельных группах в течение 12 недель сравнивали телмисартан с эналаприлом, **лизиноприлом** и **амлодипином** для лечения легкой и умеренной гипертонии. ...Телмисартан был связан с более низкой частотой кашля, связанного с лечением, чем …
+В трех отдельных рандомизированных двойных слепых параллельных группах в течение 12 недель сравнивали телмисартан с эналаприлом, **лизиноприлом** и **амлодипином** для лечения легкой и умеренной гипертонии. Телмисартан был связан с более низкой частотой кашля, связанного с лечением, чем 
 
-Three separate randomized, double-blind, parallel-group, 12-week trials compared telmisartan with enalapril, **lisinopril**, and **amlod** …
-
-
+Three separate randomized, double-blind, parallel-group, 12-week trials compared telmisartan with enalapril, **lisinopril**, and **amlod** 
 
 
 
 
 
- 115
+
+
+ 
 
 
 
@@ -2264,17 +2262,17 @@ Three separate randomized, double-blind, parallel-group, 12-week trials compared
 
 Сика ДА. Sica DA. Сердечная недостаточность. 2002 май-июнь;8(3):178-84. doi: 10.1111/j.1527-5299.2002.00939.x. Congest Heart Fail. 2002. PMID: 12045387 Бесплатная статья. Обзор.
 
-Целью исследования было определить, различается ли частота первичного исхода — сочетания фатальной ишемической болезни сердца и нефатального инфаркта миокарда — при лечении диуретиком (хлорталидоном) (12,5–25,0 мг/день) и лечении каждым из трех других типов…
+Целью исследования было определить, различается ли частота первичного исхода — сочетания фатальной ишемической болезни сердца и нефатального инфаркта миокарда — при лечении диуретиком (хлорталидоном) (12,5–25,0 мг/день) и лечении каждым из трех других типов
 
-Its goals were to determine whether the incidence of the primary outcome--a composite of fatal coronary heart disease and nonfatal myocardia …
-
-
+Its goals were to determine whether the incidence of the primary outcome--a composite of fatal coronary heart disease and nonfatal myocardia 
 
 
 
 
 
- 116
+
+
+ 
 
 
 
@@ -2284,17 +2282,17 @@ Its goals were to determine whether the incidence of the primary outcome--a comp
 
 Гаврас I, Гаврас H. Gavras I, et al. Curr Control Trials Cardiovasc Med. 2001;2(6):257-259. doi: 10.1186/cvm-2-6-257. Curr Control Trials Cardiovasc Med. 2001. PMID: 11806808 Бесплатная статья PMC.
 
-Испытание антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа было разработано для сравнения кардиопротекторных свойств трех антигипертензивных препаратов разных классов ( **лизиноприла** , **амлодипина** и доксазозина) с хлорталидоном. Несмотря на эффективный бл …
+Испытание антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа было разработано для сравнения кардиопротекторных свойств трех антигипертензивных препаратов разных классов ( **лизиноприла** , **амлодипина** и доксазозина) с хлорталидоном. Несмотря на эффективный бл 
 
-The Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial was designed to compare the cardioprotective properties of t …
-
-
+The Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial was designed to compare the cardioprotective properties of t 
 
 
 
 
 
- 117
+
+
+ 
 
 
 
@@ -2304,17 +2302,17 @@ The Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial 
 
 Нишия Й., Сугимото С. Nishiya Y, et al. Биол Фарм Булл. 2001 июня;24(6):628-33. дои: 10.1248/bpb.24.628. Biol Pharm Bull. 2001. PMID: 11411549 Бесплатная статья.
 
-В число исследованных препаратов входят блокаторы кальциевых каналов дигидропиридинового типа (бенидипин, **амлодипин** и нифедипин), ингибиторы ангиотензинпревращающего фермента (АПФ) (каптоприл, **лизиноприл** и эналаприл) и антагонисты рецепторов ангиотензина II типа 1 (AT1) (TCV-116 и KW-…
+В число исследованных препаратов входят блокаторы кальциевых каналов дигидропиридинового типа (бенидипин, **амлодипин** и нифедипин), ингибиторы ангиотензинпревращающего фермента (АПФ) (каптоприл, **лизиноприл** и эналаприл) и антагонисты рецепторов ангиотензина II типа 1 (AT1) (TCV-116 и KW-
 
-Drugs examined include dihydropyridine-type calcium channel blockers (benidipine, **amlodipine**, and nifedipine), angiotensin-converting …
-
-
+Drugs examined include dihydropyridine-type calcium channel blockers (benidipine, **amlodipine**, and nifedipine), angiotensin-converting 
 
 
 
 
 
- 118
+
+
+ 
 
 
 
@@ -2324,17 +2322,17 @@ Drugs examined include dihydropyridine-type calcium channel blockers (benidipine
 
 Видт ДГ. Vidt DG. Cleve Clin J Med. 2000 июнь;67(6):429-33. doi: 10.3949/ccjm.67.6.429. Cleve Clin J Med. 2000. PMID: 10860225 Бесплатная статья.
 
-Исследование антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа (ALLHAT) — это крупное рандомизированное двойное слепое исследование, сравнивающее четыре антигипертензивных препарата (хлорталидон, доксазозин, **амлодипин** и **лизиноприл** ) у пациентов с гипертонией старше 55 лет…
+Исследование антигипертензивного и гиполипидемического лечения для профилактики сердечного приступа (ALLHAT) — это крупное рандомизированное двойное слепое исследование, сравнивающее четыре антигипертензивных препарата (хлорталидон, доксазозин, **амлодипин** и **лизиноприл** ) у пациентов с гипертонией старше 55 лет
 
-The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) is a large, randomized double-blind study comparing …
-
-
+The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) is a large, randomized double-blind study comparing 
 
 
 
 
 
- 119
+
+
+ 
 
 
 
@@ -2344,17 +2342,17 @@ The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial 
 
 Найду М.У., Уша П.Р., Рао Т.Р., Шобха Дж.К. Naidu MU, et al. Postgrad Med J. 2000, июнь;76(896):350-3. дои: 10.1136/pmj.76.896.350. Postgrad Med J. 2000. PMID: 10824049 Бесплатная статья PMC. Клиническое испытание.
 
-При использовании комбинации наблюдался значительный дополнительный эффект снижения артериального давления по сравнению с **амлодипином** или **лизиноприлом по отдельности. Монотерапия** **амлодипином** в дозе 5 мг и **лизиноприлом в** дозе 10 мг достигла целевого артериального давления у 71% и 72% пациентов …
+При использовании комбинации наблюдался значительный дополнительный эффект снижения артериального давления по сравнению с **амлодипином** или **лизиноприлом по отдельности. Монотерапия** **амлодипином** в дозе 5 мг и **лизиноприлом в** дозе 10 мг достигла целевого артериального давления у 71% и 72% пациентов 
 
-There was a significant additional blood pressure lowering effect with the combination when compared either with **amlodipine** or **lis** …
-
-
+There was a significant additional blood pressure lowering effect with the combination when compared either with **amlodipine** or **lis** 
 
 
 
 
 
- 120
+
+
+ 
 
 
 
@@ -2364,17 +2362,17 @@ There was a significant additional blood pressure lowering effect with the combi
 
 Белтман Ф.В., Хисен В.Ф., Смит А.Дж., Мэй Дж.Ф., де Граефф П.А., Хавинга Т.К., Шуурман Ф.Х., ван дер Вёр Э., Лие К.И., Мейбум-де Йонг Б. Beltman FW, et al. Кровяное давление. 1998 май;7(2):109-117. Blood Press. 1998. PMID: 9657538 Бесплатная статья. Клиническое испытание.
 
-После 4 недель вводного периода приема плацебо 71 пациент был рандомизирован в группы, которым назначали **амлодипин** в дозах 5–10 мг или **лизиноприл в** дозах 10–20 мг, которые титровали на основе влияния на артериальное давление. ...Скорость наполнения предсердий от раннего до пикового значения существенно не изменилась в ходе лечения. …
+После 4 недель вводного периода приема плацебо 71 пациент был рандомизирован в группы, которым назначали **амлодипин** в дозах 5–10 мг или **лизиноприл в** дозах 10–20 мг, которые титровали на основе влияния на артериальное давление. Скорость наполнения предсердий от раннего до пикового значения существенно не изменилась в ходе лечения. 
 
-After 4 weeks placebo run-in 71 patients were randomized to dosages of **amlodipine** 5-10 mg or **lisinopril** 10-20 mg, which were t …
-
-
+After 4 weeks placebo run-in 71 patients were randomized to dosages of **amlodipine** 5-10 mg or **lisinopril** 10-20 mg, which were t 
 
 
 
 
 
- 121
+
+
+ 
 
 
 
@@ -2390,7 +2388,7 @@ After 4 weeks placebo run-in 71 patients were randomized to dosages of **amlodip
 
 
 
- 122
+ 
 
 
 
@@ -2406,7 +2404,7 @@ After 4 weeks placebo run-in 71 patients were randomized to dosages of **amlodip
 
 
 
- 123
+ 
 
 
 
@@ -2416,4 +2414,4 @@ After 4 weeks placebo run-in 71 patients were randomized to dosages of **amlodip
 
 Фогари Р., Зоппи А., Маламани Г.Д., Мараси Дж., Ванасия А., Вилла Дж. Fogari R, et al. Br J Clin Pharmacol. 1995 май;39(5):471-6. doi: 10.1111/j.1365-2125.1995.tb04482.x. Br J Clin Pharmacol. 1995. PMID: 7669481 Бесплатная статья PMC. Клиническое испытание.
 
-Все четыре препарата значительно снизили показатели АД, хотя эффект снижения АД у **лизиноприла** , **амлодипина** и атенолола был значительно выше по сравнению с гидрохлоротиазидом. 4. Уровень фибриногена в плазме не был затронут атенололом, гидрохлоротиазидом…
+Все четыре препарата значительно снизили показатели АД, хотя эффект снижения АД у **лизиноприла** , **амлодипина** и атенолола был значительно выше по сравнению с гидрохлоротиазидом. 4. Уровень фибриногена в плазме не был затронут атенололом, гидрохлоротиазидом
